@@ -1,0 +1,21 @@
+:root {
+  /* Oxblood Red Palette - AAA Compliant (7:1+ contrast) */
+  --ifm-color-primary: #800000;
+  --ifm-color-primary-dark: #6a0000;
+  --ifm-color-primary-darker: #540000;
+  --ifm-background-color: #ffffff;
+  --ifm-font-size-base: 18px;
+  --ifm-line-height-base: 1.65;
+}
+
+/* Big Hit Areas: 48px height for accessibility */
+.navbar__item, .menu__link {
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+}
+
+*:focus-visible {
+  outline: 4px solid #005fcc !important;
+  outline-offset: 2px;
+}
