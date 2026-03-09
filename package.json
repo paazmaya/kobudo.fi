@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "docusaurus start",
+    "start": "docusaurus start --port 9900",
     "build": "docusaurus build",
-    "serve": "docusaurus serve",
+    "serve": "docusaurus serve --port 9901",
     "clear": "docusaurus clear",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",

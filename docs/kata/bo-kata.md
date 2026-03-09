@@ -1,0 +1,46 @@
+---
+sidebar_position: 2
+title: Bō Kata Families
+description: Cross-style comparison of the major bō (staff) kata families — Shūshi, Sakugawa, Soeishi, Chatan Yara, Tsuken, Shirataru, Chōun, Tokumine and Urasoe.
+---
+
+# Bō Kata Families
+
+<img
+  src="https://placehold.co/960x400/4a0000/ffd0d0?text=B%C5%8D+Kata+Families"
+  alt="Comparison chart of bo kata across multiple Okinawan kobudo lineages"
+  width={960}
+  height={400}
+  loading="lazy"
+  style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+/>
+
+The bō kata corpus is the largest in Ryukyu kobudo and the most widely distributed across different organizations. The key lineages compared below are the **Taira line** (Ryūkyū Kobudō), **Matayoshi Kobudō**, **Yamane-ryū**, and **karate-based weapon syllabi** (including Shōrin-ryū, Isshin-ryū and multi-organization lists like the WUKF/Jundokan catalog).
+
+## How to Read This Table
+
+Each row represents one underlying kata *family*, identified by its kanji name. The columns show what name each organization uses and any notable differences. Same-family ≠ identical choreography. Different-family ≠ no common history.
+
+## Major Bō Kata Families
+
+<div className="table-wrapper">
+
+| Kata family (kanji) | Typical romaji | Taira line | Matayoshi | Karate weapon syllabi | Notes |
+|---------------------|---------------|------------|-----------|----------------------|-------|
+| 周氏の棍 | Shūshi / Shushi no Kon | Shūshi no Kon (Shō/Dai/Koshiki) | Shushi no Kon | Shushi no Kon Sho/Dai in Shotokan, Shōrin-ryū etc. | Core Shuri-region bō; widely shared "fundamental" kata across kobudo and karate bō curricula |
+| 佐久川の棍 | Sakugawa no Kon | Sakugawa no Kon (Shō/Chū/Dai) | Sakugawa no Kon (variants) | Common in Shōrin-ryū, Chitō-ryū as "Sakugawa no Kon" | Probably the single most cross-style bō kata; most groups trace it to Sakugawa Kanga of the Shuri tradition |
+| 添石の棍 | Soeishi / Sueyoshi / Shiishi no Kon | Soeishi no Kon (Shō/Dai) | Shiishi no kon (Sueyoshi no kon) | Jundokan list shows Sueyoshi (Shishi) and Soeishi (Shishi) as separate entries | Same family, kanji/reading variations generate multiple spellings |
+| 北谷屋良の棍 | Chatan Yara no Kon | Chatan Yara no Kon | Yara no Kon (屋良之棍) | "Chatanyara no Kon" in Jundokan list and karate weapon curricula | Shared Chatan Yara bō tradition, parallel to the well-known empty-hand kata |
+| 津堅棒 / 津堅砂掛けの棍 | Tsuken Bō / Tsuken Sunakake no Kon | Tsuken Bō (bō kata); Tsuken Sunakake no Kon (eku kata) | Tsuken no Kon; multiple Tsuken bō/eku forms | Chikinsunakake (Tsukensunakake) no Kon in Jundokan list | All trace back to Tsuken island and boat-oar fighting; sand-throwing tactics in eku versions |
+| 白樽の棍 | Shirataru / Shirotaru no Kon | Shirataru no Kon (Shō/Dai) | Appears in multi-style catalogs | Shirotaru no Kon (Sho/Dai) in Shōrin-ryū and Jundokan list | Likely taken from Taira-line material into karate kobudo programs |
+| 趙雲の棍 | Chōun / Choun no Kon | Chōun no Kon | Choun no Kon | "Choún no Kon" in Jundokan cross-style list | Name references Chinese general Zhao Yun; "Chinese" flavor in stepping and rhythm |
+| 徳嶺の棍 | Tokumine no Kon | Not central in core Taira Wikipedia list; practiced in later branches | Tokumine no kun (major Matayoshi bō kata) | Tokumine no Kun in Isshin-ryū weapon syllabus | Traced to Tokumine Pechin; choreography differs by line |
+| 浦添の棍 | Urashi / Urasoe no Kon | Urasoe no Kon (one of 18 bō kata in Ryukyu kobudō) | Urasoe/Urashi-named bō (浦添の棒 or Urashi no Kun) | Isshin-ryū uses Urashi no Kun | Regional Urasoe origin; same regional root across organizations |
+
+</div>
+
+## Name Cluster Summary
+
+These "name clusters" — 周氏, 佐久川, 北谷屋良, 津堅, 添石, 白樽, 趙雲, 徳嶺, 浦添 — recur across Taira-line Ryukyu kobudo, Matayoshi kobudo, and karate weapon add-ons. Their recurrence implies shared origin with divergent evolution over generations of separate transmission.
+
+When researching a specific organization's bō curriculum, looking for which families are present and which are absent often reveals which historical teachers they trace back to — even without explicit lineage documentation.

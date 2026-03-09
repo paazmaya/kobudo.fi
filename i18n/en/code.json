@@ -1,0 +1,74 @@
+{
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Back to main menu",
+    "description": "The label of the back button to return to main menu, on mobile"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Switch between dark and light mode (currently {mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "dark mode",
+    "description": "The name for dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "light mode",
+    "description": "The name for light color mode"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Docs pages",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Previous",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Next",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.notFound.title": {
+    "message": "Page Not Found",
+    "description": "The title of the 404 page"
+  },
+  "theme.notFound.p1": {
+    "message": "We could not find what you were looking for.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.notFound.p2": {
+    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
+    "description": "The second paragraph of the 404 page"
+  },
+  "theme.admonition.note": {
+    "message": "Note",
+    "description": "The default label used for the Note admonition"
+  },
+  "theme.admonition.tip": {
+    "message": "Tip",
+    "description": "The default label used for the Tip admonition"
+  },
+  "theme.admonition.danger": {
+    "message": "Danger",
+    "description": "The default label used for the Danger admonition"
+  },
+  "theme.admonition.info": {
+    "message": "Info",
+    "description": "The default label used for the Info admonition"
+  },
+  "theme.admonition.caution": {
+    "message": "Caution",
+    "description": "The default label used for the Caution admonition"
+  }
+}

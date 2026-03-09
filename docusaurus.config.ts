@@ -3,21 +3,20 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Ryukyu Kobudo',
-  tagline: 'Research of Okinawan Weapon Arts',
+  tagline: 'Okinawan Weapon Arts — History, Styles & Kata',
   url: 'https://kobudo.fi',
   baseUrl: '/',
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: true,
   },
   favicon: 'img/favicon.ico',
   onBrokenLinks: 'throw',
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'fi'],
+    defaultLocale: 'fi',
+    locales: ['fi', 'en'],
     localeConfigs: {
-      en: { label: 'English' },
-      fi: { label: 'Suomi' },
+      fi: { label: 'Suomi', htmlLang: 'fi' },
+      en: { label: 'English', htmlLang: 'en' },
     },
   },
   presets: [
@@ -26,8 +25,9 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          routeBasePath: '/', // Serves docs from the root
+          routeBasePath: '/',
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -35,12 +35,11 @@ const config: Config = {
     ],
   ],
   plugins: [
-    async function tailwindPlugin(context, options) {
+    async function tailwindPlugin(_context: unknown, _options: unknown) {
       return {
-        name: "docusaurus-tailwindcss",
-        configurePostCss(postcssOptions) {
-          postcssOptions.plugins.push(require("@tailwindcss/postcss"));
-          postcssOptions.plugins.push(require("autoprefixer"));
+        name: 'docusaurus-tailwindcss',
+        configurePostCss(postcssOptions: {plugins: unknown[]}) {
+          postcssOptions.plugins.push(require('@tailwindcss/postcss'));
           return postcssOptions;
         },
       };
@@ -48,15 +47,18 @@ const config: Config = {
   ],
   themeConfig: {
     colorMode: {
-      defaultMode: 'light',
+      defaultMode: 'dark',
       respectPrefersColorScheme: true,
+      disableSwitch: false,
     },
     navbar: {
       title: 'Ryukyu Kobudo',
+      hideOnScroll: false,
       items: [
-        {type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'History'},
-        {to: '/styles', label: 'Styles', position: 'left'},
-        {to: '/weapons', label: 'Weapons', position: 'left'},
+        {to: '/history/', label: 'History', position: 'left'},
+        {to: '/styles/', label: 'Styles', position: 'left'},
+        {to: '/weapons/', label: 'Weapons', position: 'left'},
+        {to: '/kata/', label: 'Kata', position: 'left'},
         {to: '/research', label: 'Research', position: 'left'},
         {to: '/about', label: 'About', position: 'right'},
         {type: 'localeDropdown', position: 'right'},
@@ -64,7 +66,25 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Ryukyu Kobudo Research.`,
+      links: [
+        {
+          title: 'Content',
+          items: [
+            {label: 'History', to: '/history/'},
+            {label: 'Styles', to: '/styles/'},
+            {label: 'Weapons', to: '/weapons/'},
+            {label: 'Kata', to: '/kata/'},
+          ],
+        },
+        {
+          title: 'Site',
+          items: [
+            {label: 'Research', to: '/research'},
+            {label: 'About', to: '/about'},
+          ],
+        },
+      ],
+      copyright: `© ${new Date().getFullYear()} Ryukyu Kobudo Research`,
     },
   } satisfies Preset.ThemeConfig,
   scripts: [{src: '/js/redirect.js', async: false}],
