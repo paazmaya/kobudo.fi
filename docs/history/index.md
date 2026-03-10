@@ -7,7 +7,7 @@ description: Overview of the history of Ryukyuan weapon-based martial arts, from
 # History of Ryukyu Kobudo
 
 <img
-  src="/img/banner-okinawa-coast.jpg"
+  src="/img/banner-okinawa-coast.png"
   alt="Illustration of Ryukyu Kingdom castle and warriors"
   width={960}
   height={384}

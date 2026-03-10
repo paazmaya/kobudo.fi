@@ -7,7 +7,7 @@ description: The eight core weapons of the Taira Shinken curriculum — bō, sai
 # Traditional Weapons
 
 <img
-  src="/img/banner-eight-weapons.jpg"
+  src="/img/banner-eight-weapons.png"
   alt="Eight traditional Okinawan kobudo weapons displayed"
   width={960}
   height={384}

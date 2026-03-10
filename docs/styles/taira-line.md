@@ -7,7 +7,7 @@ description: The Ryūkyū Kobujutsu Hozon Shinkōkai lineage descending from Tai
 # Taira Line — Ryūkyū Kobujutsu
 
 <img
-  src="/img/taira-line-scroll.jpg"
+  src="/img/taira-line-scroll.png"
   alt="Teacher-student lineage chart for the Taira line"
   width={960}
   height={384}

@@ -7,7 +7,7 @@ description: About this site — its purpose, scope, authorship, and how to cont
 # About This Site
 
 <img
-  src="/img/banner-about-desk.jpg"
+  src="/img/banner-about-desk.png"
   alt="Abstract research and documentation concept"
   width={960}
   height={384}

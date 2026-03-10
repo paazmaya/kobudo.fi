@@ -19,7 +19,7 @@ const cards: SectionCard[] = [
       'From the Ryukyu Kingdom through the Pechin warrior class to the modern preservation work of Taira Shinken. Trace how these weapon arts survived centuries of political change.',
     href: '/history/',
     imgAlt: 'Illustrated map of the Ryukyu Islands with old calligraphy',
-    imgSrc: '/img/card-ryukyu-map.jpg',
+    imgSrc: '/img/card-ryukyu-map.png',
   },
   {
     title: 'Styles & Lineages',
@@ -27,7 +27,7 @@ const cards: SectionCard[] = [
       'Ryukyu Kobujutsu, Matayoshi Kobudo, Yamane-ryū and others — each lineage carries distinct technical approaches and a unique transmission from named masters.',
     href: '/styles/',
     imgAlt: 'Lineage chart of Okinawan kobudo styles',
-    imgSrc: '/img/card-lineage-scroll.jpg',
+    imgSrc: '/img/card-lineage-scroll.png',
   },
   {
     title: 'Traditional Weapons',
@@ -35,7 +35,7 @@ const cards: SectionCard[] = [
       'Eight core weapons form the Taira curriculum: Bō, Sai, Tonfa, Nunchaku, Kama, Tekko, Tinbe-Rochin and Surujin. Each has its own history, technique and kata.',
     href: '/weapons/',
     imgAlt: 'Eight traditional Okinawan weapons displayed on a wall',
-    imgSrc: '/img/card-weapons-display.jpg',
+    imgSrc: '/img/card-weapons-display.png',
   },
   {
     title: 'Kata',
@@ -43,7 +43,7 @@ const cards: SectionCard[] = [
       'How kata names cross style boundaries — the same family such as Sakugawa no Kon or Hamahiga no Sai recurs across Taira, Matayoshi and karate-based weapon curricula.',
     href: '/kata/',
     imgAlt: 'Calligraphic rendition of kata name characters',
-    imgSrc: '/img/card-kata-scroll.jpg',
+    imgSrc: '/img/card-kata-scroll.png',
   },
   {
     title: 'Research',
@@ -51,7 +51,7 @@ const cards: SectionCard[] = [
       'Core Japanese-language books and reference works for researching Ryukyu weapon arts — from pre-war anthologies to modern encyclopedias of Okinawan karate and kobudo.',
     href: '/research',
     imgAlt: 'Stack of Japanese martial arts reference books',
-    imgSrc: '/img/card-research-books.jpg',
+    imgSrc: '/img/card-research-books.png',
   },
   {
     title: 'About',
@@ -59,7 +59,7 @@ const cards: SectionCard[] = [
       'About this site — its purpose, scope and how to contribute corrections or additional sources to this ongoing research project.',
     href: '/about',
     imgAlt: 'Abstract representation of research and documentation',
-    imgSrc: '/img/card-about-journal.jpg',
+    imgSrc: '/img/card-about-journal.png',
   },
 ];
 
@@ -67,7 +67,7 @@ function HeroSection(): React.ReactElement {
   return (
     <section className="kb-hero">
       <img
-        src="/img/hero-dojo-wall.jpg"
+        src="/img/hero-dojo-wall.png"
         alt="Traditional Okinawan kobudo weapons against a dojo background"
         width={1184}
         height={448}

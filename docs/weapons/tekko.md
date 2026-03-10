@@ -7,7 +7,7 @@ description: The tekko — metal knuckle guards derived from a horseshoe, used f
 # Tekko — 鉄甲 (Knuckle Guards)
 
 <img
-  src="/img/tekko-iron-knuckle.jpg"
+  src="/img/tekko-iron-knuckle.png"
   alt="Pair of tekko metal knuckle guards"
   width={960}
   height={384}

@@ -7,7 +7,7 @@ description: The political and social context of the Ryukyu Kingdom that shaped 
 # Ryukyu Kingdom Era
 
 <img
-  src="/img/ryukyu-procession.jpg"
+  src="/img/ryukyu-procession.png"
   alt="Map and illustration of the Ryukyu Kingdom"
   width={960}
   height={384}

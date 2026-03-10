@@ -7,7 +7,7 @@ description: Tinbē-Rochin — the shield-and-short-spear combination, one of th
 # Tinbē-Rochin — ティンベー・ロチン
 
 <img
-  src="/img/tinbe-rochin-pair.jpg"
+  src="/img/tinbe-rochin-pair.png"
   alt="Tinbē (vine shield) and rochin (short spear)"
   width={960}
   height={384}

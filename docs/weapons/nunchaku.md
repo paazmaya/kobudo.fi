@@ -7,7 +7,7 @@ description: The nunchaku — two hardwood sticks connected by rope or chain, as
 # Nunchaku — ヌンチャク
 
 <img
-  src="/img/nunchaku-coiled.jpg"
+  src="/img/nunchaku-coiled.png"
   alt="Traditional Okinawan nunchaku weapon"
   width={960}
   height={384}

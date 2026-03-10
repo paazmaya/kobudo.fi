@@ -7,7 +7,7 @@ description: Core Japanese-language books and reference works for researching Ry
 # Research & Bibliography
 
 <img
-  src="/img/banner-research-library.jpg"
+  src="/img/banner-research-library.png"
   alt="Stack of Japanese martial arts reference books"
   width={960}
   height={384}

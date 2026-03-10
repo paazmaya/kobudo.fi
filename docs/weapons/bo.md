@@ -7,7 +7,7 @@ description: The bō — a six-foot hardwood staff and the most widely practiced
 # Bō — 棒 (Staff)
 
 <img
-  src="/img/bo-staff-close.jpg"
+  src="/img/bo-staff-close.png"
   alt="Traditional Okinawan bo staff"
   width={960}
   height={384}

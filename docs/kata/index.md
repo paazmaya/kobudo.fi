@@ -7,7 +7,7 @@ description: How to read Ryukyu kobudo kata name mappings — the same teacher n
 # Kata — Name Families and Lineages
 
 <img
-  src="/img/banner-kata-scroll.jpg"
+  src="/img/banner-kata-scroll.png"
   alt="Calligraphic kata names in Japanese"
   width={960}
   height={384}

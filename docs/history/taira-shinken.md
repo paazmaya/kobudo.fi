@@ -7,7 +7,7 @@ description: The life and systematization work of Taira Shinken (1897–1970), t
 # Taira Shinken (平信賢, 1897–1970)
 
 <img
-  src="/img/taira-shinken-portrait.jpg"
+  src="/img/taira-shinken-portrait.png"
   alt="Portrait placeholder for Taira Shinken"
   width={960}
   height={384}
