@@ -7,10 +7,10 @@ description: Additional Ryukyu weapon art traditions — Motobu Udundi, Tokushin
 # Other Styles
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Other+Styles"
+  src="/img/other-weapons-panel.jpg"
   alt="Various kobudo practitioners demonstrating different styles"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

@@ -7,10 +7,10 @@ description: Overview of the major styles and lineages of Ryukyu kobudo — Tair
 # Styles & Lineages
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Kobudo+Lineages"
+  src="/img/banner-lineage-scroll.jpg"
   alt="Lineage chart of Okinawan kobudo styles"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

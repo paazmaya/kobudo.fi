@@ -7,10 +7,10 @@ description: Core Japanese-language books and reference works for researching Ry
 # Research & Bibliography
 
 <img
-  src="https://placehold.co/960x400/1a1a1a/a0a0a0?text=Research+%26+Bibliography"
+  src="/img/banner-research-library.jpg"
   alt="Stack of Japanese martial arts reference books"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

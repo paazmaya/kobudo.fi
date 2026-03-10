@@ -7,10 +7,10 @@ description: Overview of the history of Ryukyuan weapon-based martial arts, from
 # History of Ryukyu Kobudo
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Ryukyu+Kingdom+Era"
+  src="/img/banner-okinawa-coast.jpg"
   alt="Illustration of Ryukyu Kingdom castle and warriors"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

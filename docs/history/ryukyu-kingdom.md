@@ -7,10 +7,10 @@ description: The political and social context of the Ryukyu Kingdom that shaped 
 # Ryukyu Kingdom Era
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Ryukyu+Kingdom+1429%E2%80%931879"
+  src="/img/ryukyu-procession.jpg"
   alt="Map and illustration of the Ryukyu Kingdom"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

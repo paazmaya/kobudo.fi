@@ -7,10 +7,10 @@ description: The Matayoshi Kobudo lineage — Kingai-ryū karate and Okinawan ko
 # Matayoshi Kobudo — 金硬流唐手沖縄古武術
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Matayoshi+Kobudo"
+  src="/img/matayoshi-weapons.jpg"
   alt="Demonstration of Matayoshi kobudo weapon techniques"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

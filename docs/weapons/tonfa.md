@@ -7,10 +7,10 @@ description: The tonfa — a side-handled baton believed to derive from the hand
 # Tonfa — トンファー
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Tonfa"
+  src="/img/tonfa-pair-cross.jpg"
   alt="Pair of traditional tonfa weapons"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

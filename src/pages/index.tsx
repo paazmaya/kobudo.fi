@@ -19,7 +19,7 @@ const cards: SectionCard[] = [
       'From the Ryukyu Kingdom through the Pechin warrior class to the modern preservation work of Taira Shinken. Trace how these weapon arts survived centuries of political change.',
     href: '/history/',
     imgAlt: 'Illustrated map of the Ryukyu Islands with old calligraphy',
-    imgSrc: 'https://placehold.co/400x250/4a0000/ffd0d0?text=History',
+    imgSrc: '/img/card-ryukyu-map.jpg',
   },
   {
     title: 'Styles & Lineages',
@@ -27,7 +27,7 @@ const cards: SectionCard[] = [
       'Ryukyu Kobujutsu, Matayoshi Kobudo, Yamane-ryū and others — each lineage carries distinct technical approaches and a unique transmission from named masters.',
     href: '/styles/',
     imgAlt: 'Lineage chart of Okinawan kobudo styles',
-    imgSrc: 'https://placehold.co/400x250/4a0000/ffd0d0?text=Styles',
+    imgSrc: '/img/card-lineage-scroll.jpg',
   },
   {
     title: 'Traditional Weapons',
@@ -35,7 +35,7 @@ const cards: SectionCard[] = [
       'Eight core weapons form the Taira curriculum: Bō, Sai, Tonfa, Nunchaku, Kama, Tekko, Tinbe-Rochin and Surujin. Each has its own history, technique and kata.',
     href: '/weapons/',
     imgAlt: 'Eight traditional Okinawan weapons displayed on a wall',
-    imgSrc: 'https://placehold.co/400x250/4a0000/ffd0d0?text=Weapons',
+    imgSrc: '/img/card-weapons-display.jpg',
   },
   {
     title: 'Kata',
@@ -43,7 +43,7 @@ const cards: SectionCard[] = [
       'How kata names cross style boundaries — the same family such as Sakugawa no Kon or Hamahiga no Sai recurs across Taira, Matayoshi and karate-based weapon curricula.',
     href: '/kata/',
     imgAlt: 'Calligraphic rendition of kata name characters',
-    imgSrc: 'https://placehold.co/400x250/4a0000/ffd0d0?text=Kata',
+    imgSrc: '/img/card-kata-scroll.jpg',
   },
   {
     title: 'Research',
@@ -51,7 +51,7 @@ const cards: SectionCard[] = [
       'Core Japanese-language books and reference works for researching Ryukyu weapon arts — from pre-war anthologies to modern encyclopedias of Okinawan karate and kobudo.',
     href: '/research',
     imgAlt: 'Stack of Japanese martial arts reference books',
-    imgSrc: 'https://placehold.co/400x250/1a1a1a/a0a0a0?text=Research',
+    imgSrc: '/img/card-research-books.jpg',
   },
   {
     title: 'About',
@@ -59,7 +59,7 @@ const cards: SectionCard[] = [
       'About this site — its purpose, scope and how to contribute corrections or additional sources to this ongoing research project.',
     href: '/about',
     imgAlt: 'Abstract representation of research and documentation',
-    imgSrc: 'https://placehold.co/400x250/1a1a1a/a0a0a0?text=About',
+    imgSrc: '/img/card-about-journal.jpg',
   },
 ];
 
@@ -67,10 +67,10 @@ function HeroSection(): React.ReactElement {
   return (
     <section className="kb-hero">
       <img
-        src="https://placehold.co/1200x440/6a0000/ffd0d0?text=Ryukyu+Kobudo+%E7%90%89%E7%90%83%E5%8F%A4%E6%AD%A6%E9%81%93"
+        src="/img/hero-dojo-wall.jpg"
         alt="Traditional Okinawan kobudo weapons against a dojo background"
-        width={1200}
-        height={440}
+        width={1184}
+        height={448}
         loading="eager"
         className="kb-hero__image"
       />
@@ -102,8 +102,8 @@ function CardGrid(): React.ReactElement {
               <img
                 src={card.imgSrc}
                 alt={card.imgAlt}
-                width={400}
-                height={250}
+                width={384}
+                height={256}
                 loading="lazy"
                 className="kb-card__img"
               />

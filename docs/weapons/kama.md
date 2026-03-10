@@ -7,10 +7,10 @@ description: The kama — a traditional agricultural sickle used in pairs, combi
 # Kama — 鎌 (Sickle)
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Kama+%E9%8E%8C+Sickle"
+  src="/img/kama-pair-crossed.jpg"
   alt="Pair of traditional kama sickles"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

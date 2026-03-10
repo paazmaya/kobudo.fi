@@ -7,10 +7,10 @@ description: Cross-style comparison of the major bō (staff) kata families — S
 # Bō Kata Families
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=B%C5%8D+Kata+Families"
+  src="/img/bo-kata-strike.jpg"
   alt="Comparison chart of bo kata across multiple Okinawan kobudo lineages"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

@@ -7,10 +7,10 @@ description: How Ryukyu kobudo kata were preserved across generations, the role 
 # Kata Transmission
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Kata+Transmission"
+  src="/img/kata-transmission-lesson.jpg"
   alt="Illustration of teacher demonstrating kata to students"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

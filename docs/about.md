@@ -7,10 +7,10 @@ description: About this site — its purpose, scope, authorship, and how to cont
 # About This Site
 
 <img
-  src="https://placehold.co/960x400/1a1a1a/a0a0a0?text=About+Kobudo.fi"
+  src="/img/banner-about-desk.jpg"
   alt="Abstract research and documentation concept"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

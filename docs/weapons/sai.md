@@ -7,10 +7,10 @@ description: The sai — a metal trident used in pairs or tripplet, the second m
 # Sai — 釵 (Metal Trident)
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Sai+%E9%87%B5+Metal+Trident"
+  src="/img/sai-pair-overhead.jpg"
   alt="Pair of traditional sai (metal tridents)"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

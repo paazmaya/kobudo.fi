@@ -7,10 +7,10 @@ description: The surujin — a weighted rope or chain swung to entangle, strike 
 # Surujin — スルジン (Weighted Chain)
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Surujin+%E3%82%B9%E3%83%AB%E3%82%B8%E3%83%B3"
+  src="/img/surujin-rope-spiral.jpg"
   alt="Surujin weighted chain weapon"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

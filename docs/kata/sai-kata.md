@@ -7,10 +7,10 @@ description: Technical analysis of the Taira-line sai kata — the three family 
 # Sai Kata Families
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Sai+Kata+Families"
+  src="/img/sai-kata-guard.jpg"
   alt="Structural analysis diagram of the eight Taira-line sai kata"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />

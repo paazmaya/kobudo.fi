@@ -7,10 +7,10 @@ description: Yamane-ryū Bojutsu — the fluid, long-range staff tradition assoc
 # Yamane-ryū — 山根流棒術
 
 <img
-  src="https://placehold.co/960x400/4a0000/ffd0d0?text=Yamane-ry%C5%AB+B%C5%8Djutsu"
+  src="/img/yamane-bojutsu.jpg"
   alt="Practitioner demonstrating Yamane-ryū long staff technique"
   width={960}
-  height={400}
+  height={384}
   loading="lazy"
   style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />
