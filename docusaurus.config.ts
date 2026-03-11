@@ -1,5 +1,6 @@
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import {FI_TO_EN, EN_TO_FI} from './src/utils/localePaths';
 
 const config: Config = {
   title: 'Ryukyu Kobudo',
@@ -124,6 +125,24 @@ const config: Config = {
         indexPages: true,
       },
     ],
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        createRedirects(existingPath: string) {
+          // The redirect plugin strips the locale baseUrl before calling this
+          // function, so existingPath is always relative (e.g. /history/ for
+          // the English locale build, /historia/ for Finnish).
+          //
+          // English locale pages get a redirect FROM their Finnish-slug equivalent;
+          // Finnish locale pages get a redirect FROM their English-slug equivalent.
+          const fiFrom = EN_TO_FI[existingPath];
+          if (fiFrom && fiFrom !== existingPath) return [fiFrom];
+          const enFrom = FI_TO_EN[existingPath];
+          if (enFrom && enFrom !== existingPath) return [enFrom];
+          return undefined;
+        },
+      },
+    ],
   ],
   themeConfig: {
     colorMode: {
@@ -139,27 +158,12 @@ const config: Config = {
       },
       hideOnScroll: true,
       items: [
-        {to: '/historia/', label: 'Historia', position: 'left'},
-        {to: '/tyylit/', label: 'Tyylit', position: 'left'},
-        {
-          label: 'Aseet',
-          position: 'left',
-          type: 'dropdown',
-          items: [
-            {label: 'Kaikki aseet', to: '/aseet/'},
-            {label: 'Bō — Sauva', to: '/aseet/bo'},
-            {label: 'Sai', to: '/aseet/sai'},
-            {label: 'Tonfa', to: '/aseet/tonfa'},
-            {label: 'Nunchaku', to: '/aseet/nunchaku'},
-            {label: 'Kama — Sirppi', to: '/aseet/kama'},
-            {label: 'Tekko', to: '/aseet/tekko'},
-            {label: 'Tinbē-Rochin', to: '/aseet/tinbe-rochin'},
-            {label: 'Surujin', to: '/aseet/surujin'},
-          ],
-        },
-        {to: '/kata/', label: 'Kata', position: 'left'},
-        {to: '/tutkimus', label: 'Tutkimus', position: 'left'},
-        {to: '/tietoja', label: 'Tietoja', position: 'right'},
+        {type: 'doc', docId: 'history/index', label: 'Historia', position: 'left'},
+        {type: 'doc', docId: 'styles/index', label: 'Tyylit', position: 'left'},
+        {type: 'doc', docId: 'weapons/index', label: 'Aseet', position: 'left'},
+        {type: 'doc', docId: 'kata/index', label: 'Kata', position: 'left'},
+        {type: 'doc', docId: 'research', label: 'Tutkimus', position: 'left'},
+        {type: 'doc', docId: 'about', label: 'Tietoja', position: 'right'},
         {type: 'localeDropdown', position: 'right'},
       ],
     },

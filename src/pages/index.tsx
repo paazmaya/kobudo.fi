@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Head from '@docusaurus/Head';
+import {FI_TO_EN} from '../utils/localePaths';
 
 interface SectionCard {
   title: string;
@@ -64,6 +65,8 @@ const cards: SectionCard[] = [
 ];
 
 function HeroSection(): React.ReactElement {
+  const {i18n: {currentLocale}} = useDocusaurusContext();
+  const isEn = currentLocale === 'en';
   return (
     <section className="kb-hero">
       <img
@@ -80,10 +83,10 @@ function HeroSection(): React.ReactElement {
         A research resource tracing traditions from the Ryukyu Kingdom to the present day.
       </p>
       <div className="kb-hero__actions">
-        <Link to="/historia/" className="kb-hero__cta kb-hero__cta--primary">
+        <Link to={isEn ? FI_TO_EN['/historia/'] : '/historia/'} className="kb-hero__cta kb-hero__cta--primary">
           Tutustu historiaan
         </Link>
-        <Link to="/aseet/" className="kb-hero__cta kb-hero__cta--secondary">
+        <Link to={isEn ? FI_TO_EN['/aseet/'] : '/aseet/'} className="kb-hero__cta kb-hero__cta--secondary">
           Katso aseet
         </Link>
       </div>
@@ -92,13 +95,15 @@ function HeroSection(): React.ReactElement {
 }
 
 function CardGrid(): React.ReactElement {
+  const {i18n: {currentLocale}} = useDocusaurusContext();
+  const isEn = currentLocale === 'en';
   return (
     <section className="kb-cards">
       <p className="kb-cards__heading">Tutustu sivustoon</p>
       <div className="kb-grid">
         {cards.map((card) => (
           <article key={card.href} className="kb-card">
-            <Link to={card.href} className="kb-card__link" aria-label={`Go to ${card.title} section`}>
+            <Link to={isEn ? (FI_TO_EN[card.href] ?? card.href) : card.href} className="kb-card__link" aria-label={`Go to ${card.title} section`}>
               <img
                 src={card.imgSrc}
                 alt={card.imgAlt}

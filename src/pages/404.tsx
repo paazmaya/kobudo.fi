@@ -2,17 +2,21 @@ import React from 'react';
 import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import Head from '@docusaurus/Head';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import {FI_TO_EN} from '../utils/localePaths';
 
 const sections = [
-  {label: 'Historia', to: '/historia/'},
-  {label: 'Tyylit', to: '/tyylit/'},
-  {label: 'Aseet', to: '/aseet/'},
-  {label: 'Kata', to: '/kata/'},
-  {label: 'Tutkimus', to: '/tutkimus'},
-  {label: 'Tietoja', to: '/tietoja'},
+  {label: 'Historia', fi: '/historia/'},
+  {label: 'Tyylit', fi: '/tyylit/'},
+  {label: 'Aseet', fi: '/aseet/'},
+  {label: 'Kata', fi: '/kata/'},
+  {label: 'Tutkimus', fi: '/tutkimus'},
+  {label: 'Tietoja', fi: '/tietoja'},
 ];
 
 export default function NotFound(): React.ReactElement {
+  const {i18n: {currentLocale}} = useDocusaurusContext();
+  const isEn = currentLocale === 'en';
   return (
     <Layout title="Sivua ei löydy">
       <Head>
@@ -26,8 +30,8 @@ export default function NotFound(): React.ReactElement {
         <nav aria-label="Sivuston osiot" style={{display: 'flex', flexWrap: 'wrap', gap: '0.75rem', justifyContent: 'center', marginBottom: '2rem'}}>
           {sections.map((s) => (
             <Link
-              key={s.to}
-              to={s.to}
+              key={s.fi}
+              to={isEn ? (FI_TO_EN[s.fi] ?? s.fi) : s.fi}
               className="kb-hero__cta kb-hero__cta--secondary"
               style={{minWidth: '140px'}}
             >
