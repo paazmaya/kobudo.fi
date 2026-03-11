@@ -1,1 +1,233 @@
-{}
+{
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "\u2190 Takaisin p\u00e4\u00e4valikkoon",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Vaihda tummaan tai vaaleaan tilaan (nykyinen: {mode})",
+    "description": "The ARIA label for the color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "tumma tila",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "vaalea tila",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Pienenn\u00e4 sivupalkki",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Pienenn\u00e4 sivupalkki",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Dokumenttien sivupalkki",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Dokumenttisivujen navigaatio",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Edellinen",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Seuraava",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.notFound.title": {
+    "message": "Sivua ei l\u00f6ydy",
+    "description": "The title of the 404 page"
+  },
+  "theme.notFound.p1": {
+    "message": "Etsim\u00e4\u00e4si sivua ei l\u00f6ydy.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.notFound.p2": {
+    "message": "Ota yhteytt\u00e4 sivun omistajaan, joka linkitti sinut t\u00e4h\u00e4n osoitteeseen.",
+    "description": "The second paragraph of the 404 page"
+  },
+  "theme.admonition.note": {
+    "message": "Huomio",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "Vinkki",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "Vaara",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "Tietoa",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "Varoitus",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.warning": {
+    "message": "Varoitus",
+    "description": "The default label used for the Warning admonition (:::warning)"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Sulje",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "Laajenna sivupalkin kategoria '{label}'",
+    "description": "The ARIA label to expand the sidebar category"
+  },
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "Pienenn\u00e4 sivupalkin kategoria '{label}'",
+    "description": "The ARIA label to collapse the sidebar category"
+  },
+  "theme.IconExternalLink.ariaLabel": {
+    "message": "(avautuu uudessa v\u00e4lilehdess\u00e4)",
+    "description": "The ARIA label for the external link icon"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "P\u00e4\u00e4valikko",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Kielet",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Versiot",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+    "message": "Laajenna pudotusvalikko",
+    "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+    "message": "Pienenn\u00e4 pudotusvalikko",
+    "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+  },
+  "theme.NotFound.title": {
+    "message": "Sivua ei l\u00f6ydy",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "Etsim\u00e4\u00e4si sivua ei l\u00f6ydy.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Ota yhteytt\u00e4 sivun omistajaan, joka linkitti sinut t\u00e4h\u00e4n osoitteeseen.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "T\u00e4ll\u00e4 sivulla",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Etusivu",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Sulje navigointipalkki",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Avaa/sulje navigointipalkki",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Laajenna sivupalkki",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Laajenna sivupalkki",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Kopioi",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Kopioitu",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Kopioi koodi leikep\u00f6yd\u00e4lle",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Vaihda rivikaarinnan asetus",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Siirry p\u00e4\u00e4sis\u00e4lt\u00f6\u00f6n",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Tagit",
+    "description": "The title of the tag list page"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Tagit:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.SearchBar.label": {
+    "message": "Haku",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.SearchBar.noResultsText": {
+    "message": "Ei tuloksia"
+  },
+  "theme.SearchBar.seeAllOutsideContext": {
+    "message": "N\u00e4yt\u00e4 kaikki tulokset \"{context}\":n ulkopuolelta"
+  },
+  "theme.SearchBar.searchInContext": {
+    "message": "N\u00e4yt\u00e4 kaikki tulokset \"{context}\":ssa"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "N\u00e4yt\u00e4 kaikki tulokset"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "Hakutulokset haulle \"{query}\"",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "Hae dokumentaatiosta",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.searchContext.everywhere": {
+    "message": "Kaikkialta"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "1 dokumentti l\u00f6ydetty|{count} dokumenttia l\u00f6ydetty",
+    "description": "Pluralized label for \"{count} documents found\"."
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "Dokumentteja ei l\u00f6ydetty",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Yrit\u00e4 uudelleen",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.contentVisibility.unlistedBanner.title": {
+    "message": "Listaamaton sivu",
+    "description": "The unlisted content banner title"
+  },
+  "theme.contentVisibility.unlistedBanner.message": {
+    "message": "T\u00e4m\u00e4 sivu on listaamaton. Hakukoneet eiv\u00e4t indeksoi sit\u00e4.",
+    "description": "The unlisted content banner message"
+  },
+  "theme.contentVisibility.draftBanner.title": {
+    "message": "Luonnossivu",
+    "description": "The draft content banner title"
+  },
+  "theme.contentVisibility.draftBanner.message": {
+    "message": "T\u00e4m\u00e4 sivu on luonnos. Se n\u00e4kyy vain kehitysymp\u00e4rist\u00f6ss\u00e4.",
+    "description": "The draft content banner message"
+  }
+}

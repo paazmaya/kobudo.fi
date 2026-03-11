@@ -469,3 +469,15 @@ p { margin-bottom: 1.25rem; }
   color: #b0b0b0;
   font-size: 0.875rem;
 }
+
+/* ============================================================
+   REDUCED MOTION — WCAG 2.3.3 / prefers-reduced-motion
+   ============================================================ */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+}

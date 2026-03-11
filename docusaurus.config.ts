@@ -9,7 +9,7 @@ const config: Config = {
   future: {
     v4: true,
   },
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon.ico',
   onBrokenLinks: 'throw',
   i18n: {
     defaultLocale: 'fi',
@@ -19,6 +19,52 @@ const config: Config = {
       en: { label: 'English', htmlLang: 'en' },
     },
   },
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/img/favicon-32x32.png' },
+    },
+    {
+      tagName: 'link',
+      attributes: { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/img/favicon-16x16.png' },
+    },
+    {
+      tagName: 'link',
+      attributes: { rel: 'apple-touch-icon', sizes: '180x180', href: '/img/apple-touch-icon.png' },
+    },
+    {
+      tagName: 'link',
+      attributes: { rel: 'manifest', href: '/site.webmanifest' },
+    },
+    {
+      tagName: 'meta',
+      attributes: { name: 'msapplication-TileColor', content: '#5a0000' },
+    },
+    {
+      tagName: 'meta',
+      attributes: { name: 'msapplication-TileImage', content: '/img/mstile-150x150.png' },
+    },
+    {
+      tagName: 'meta',
+      attributes: { name: 'theme-color', content: '#5a0000' },
+    },
+    {
+      tagName: 'meta',
+      attributes: { property: 'og:image', content: 'https://kobudo.fi/img/hero-dojo-wall.png' },
+    },
+    {
+      tagName: 'meta',
+      attributes: { property: 'og:image:width', content: '1184' },
+    },
+    {
+      tagName: 'meta',
+      attributes: { property: 'og:image:height', content: '448' },
+    },
+    {
+      tagName: 'meta',
+      attributes: { name: 'twitter:image', content: 'https://kobudo.fi/img/hero-dojo-wall.png' },
+    },
+  ],
   presets: [
     [
       'classic',
@@ -30,6 +76,32 @@ const config: Config = {
         blog: false,
         theme: {
           customCss: './src/css/custom.css',
+        },
+        sitemap: {
+          changefreq: 'monthly',
+          priority: 0.6,
+          createSitemapItems: async (params) => {
+            const { defaultCreateSitemapItems, ...rest } = params;
+            const items = await defaultCreateSitemapItems(rest);
+            return items.map((item) => {
+              const url = item.url;
+              // Homepage
+              if (url === 'https://kobudo.fi/' || url === 'https://kobudo.fi/en/') {
+                return { ...item, priority: 1.0 };
+              }
+              // Section index pages (end with / and have one path segment after host)
+              const path = url.replace('https://kobudo.fi/', '').replace('https://kobudo.fi/en/', '');
+              const segments = path.replace(/\/$/, '').split('/');
+              if (segments.length === 1 && path.endsWith('/')) {
+                return { ...item, priority: 0.8 };
+              }
+              // Standalone top-level pages (no trailing slash, no sub-path)
+              if (segments.length === 1 && !path.endsWith('/')) {
+                return { ...item, priority: 0.8 };
+              }
+              return item;
+            });
+          },
         },
       } satisfies Preset.Options,
     ],
@@ -44,6 +116,14 @@ const config: Config = {
         },
       };
     },
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        language: ['fi', 'en'],
+        indexPages: true,
+      },
+    ],
   ],
   themeConfig: {
     colorMode: {
@@ -53,14 +133,33 @@ const config: Config = {
     },
     navbar: {
       title: 'Ryukyu Kobudo',
-      hideOnScroll: false,
+      logo: {
+        alt: 'Ryukyu Kobudo',
+        src: 'img/navbar-logo.png',
+      },
+      hideOnScroll: true,
       items: [
-        {to: '/history/', label: 'History', position: 'left'},
-        {to: '/styles/', label: 'Styles', position: 'left'},
-        {to: '/weapons/', label: 'Weapons', position: 'left'},
+        {to: '/historia/', label: 'Historia', position: 'left'},
+        {to: '/tyylit/', label: 'Tyylit', position: 'left'},
+        {
+          label: 'Aseet',
+          position: 'left',
+          type: 'dropdown',
+          items: [
+            {label: 'Kaikki aseet', to: '/aseet/'},
+            {label: 'Bō — Sauva', to: '/aseet/bo'},
+            {label: 'Sai', to: '/aseet/sai'},
+            {label: 'Tonfa', to: '/aseet/tonfa'},
+            {label: 'Nunchaku', to: '/aseet/nunchaku'},
+            {label: 'Kama — Sirppi', to: '/aseet/kama'},
+            {label: 'Tekko', to: '/aseet/tekko'},
+            {label: 'Tinbē-Rochin', to: '/aseet/tinbe-rochin'},
+            {label: 'Surujin', to: '/aseet/surujin'},
+          ],
+        },
         {to: '/kata/', label: 'Kata', position: 'left'},
-        {to: '/research', label: 'Research', position: 'left'},
-        {to: '/about', label: 'About', position: 'right'},
+        {to: '/tutkimus', label: 'Tutkimus', position: 'left'},
+        {to: '/tietoja', label: 'Tietoja', position: 'right'},
         {type: 'localeDropdown', position: 'right'},
       ],
     },
@@ -68,19 +167,26 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Content',
+          title: 'Sisältö',
           items: [
-            {label: 'History', to: '/history/'},
-            {label: 'Styles', to: '/styles/'},
-            {label: 'Weapons', to: '/weapons/'},
+            {label: 'Historia', to: '/historia/'},
+            {label: 'Tyylit', to: '/tyylit/'},
+            {label: 'Aseet', to: '/aseet/'},
             {label: 'Kata', to: '/kata/'},
           ],
         },
         {
-          title: 'Site',
+          title: 'Sivusto',
           items: [
-            {label: 'Research', to: '/research'},
-            {label: 'About', to: '/about'},
+            {label: 'Tutkimus', to: '/tutkimus'},
+            {label: 'Tietoja', to: '/tietoja'},
+          ],
+        },
+        {
+          title: 'Yhteisö',
+          items: [
+            {label: 'GitHub', href: 'https://github.com/paazmaya/kobudo.fi'},
+            {label: 'Lisenssi: CC BY 4.0', href: 'https://creativecommons.org/licenses/by/4.0/'},
           ],
         },
       ],

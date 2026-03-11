@@ -1,0 +1,50 @@
+{
+  "link.title.Sisältö": {
+    "message": "Content",
+    "description": "The title of the footer links column with title=Sisältö in the footer"
+  },
+  "link.title.Sivusto": {
+    "message": "Site",
+    "description": "The title of the footer links column with title=Sivusto in the footer"
+  },
+  "link.title.Yhteisö": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Yhteisö in the footer"
+  },
+  "link.item.label.Historia": {
+    "message": "History",
+    "description": "The label of footer link with label=Historia linking to /historia/"
+  },
+  "link.item.label.Tyylit": {
+    "message": "Styles",
+    "description": "The label of footer link with label=Tyylit linking to /tyylit/"
+  },
+  "link.item.label.Aseet": {
+    "message": "Weapons",
+    "description": "The label of footer link with label=Aseet linking to /aseet/"
+  },
+  "link.item.label.Kata": {
+    "message": "Kata",
+    "description": "The label of footer link with label=Kata linking to /kata/"
+  },
+  "link.item.label.Tutkimus": {
+    "message": "Research",
+    "description": "The label of footer link with label=Tutkimus linking to /tutkimus"
+  },
+  "link.item.label.Tietoja": {
+    "message": "About",
+    "description": "The label of footer link with label=Tietoja linking to /tietoja"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/paazmaya/kobudo.fi"
+  },
+  "link.item.label.Lisenssi: CC BY 4.0": {
+    "message": "License: CC BY 4.0",
+    "description": "The label of footer link with label=Lisenssi: CC BY 4.0 linking to https://creativecommons.org/licenses/by/4.0/"
+  },
+  "copyright": {
+    "message": "© 2026 Ryukyu Kobudo Research",
+    "description": "The footer copyright"
+  }
+}

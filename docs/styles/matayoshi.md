@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Matayoshi Kobudo
+slug: /tyylit/matayoshi
 description: The Matayoshi Kobudo lineage — Kingai-ryū karate and Okinawan kobujutsu, with Chinese-influenced technique and wide weapon range.
 ---
 

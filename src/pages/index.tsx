@@ -14,26 +14,26 @@ interface SectionCard {
 
 const cards: SectionCard[] = [
   {
-    title: 'History',
+    title: 'Historia',
     description:
       'From the Ryukyu Kingdom through the Pechin warrior class to the modern preservation work of Taira Shinken. Trace how these weapon arts survived centuries of political change.',
-    href: '/history/',
+    href: '/historia/',
     imgAlt: 'Illustrated map of the Ryukyu Islands with old calligraphy',
     imgSrc: '/img/card-ryukyu-map.png',
   },
   {
-    title: 'Styles & Lineages',
+    title: 'Tyylit ja Koulukunnat',
     description:
       'Ryukyu Kobujutsu, Matayoshi Kobudo, Yamane-ryū and others — each lineage carries distinct technical approaches and a unique transmission from named masters.',
-    href: '/styles/',
+    href: '/tyylit/',
     imgAlt: 'Lineage chart of Okinawan kobudo styles',
     imgSrc: '/img/card-lineage-scroll.png',
   },
   {
-    title: 'Traditional Weapons',
+    title: 'Perinteiset Aseet',
     description:
       'Eight core weapons form the Taira curriculum: Bō, Sai, Tonfa, Nunchaku, Kama, Tekko, Tinbe-Rochin and Surujin. Each has its own history, technique and kata.',
-    href: '/weapons/',
+    href: '/aseet/',
     imgAlt: 'Eight traditional Okinawan weapons displayed on a wall',
     imgSrc: '/img/card-weapons-display.png',
   },
@@ -46,18 +46,18 @@ const cards: SectionCard[] = [
     imgSrc: '/img/card-kata-scroll.png',
   },
   {
-    title: 'Research',
+    title: 'Tutkimus',
     description:
       'Core Japanese-language books and reference works for researching Ryukyu weapon arts — from pre-war anthologies to modern encyclopedias of Okinawan karate and kobudo.',
-    href: '/research',
+    href: '/tutkimus',
     imgAlt: 'Stack of Japanese martial arts reference books',
     imgSrc: '/img/card-research-books.png',
   },
   {
-    title: 'About',
+    title: 'Tietoja',
     description:
       'About this site — its purpose, scope and how to contribute corrections or additional sources to this ongoing research project.',
-    href: '/about',
+    href: '/tietoja',
     imgAlt: 'Abstract representation of research and documentation',
     imgSrc: '/img/card-about-journal.png',
   },
@@ -80,11 +80,11 @@ function HeroSection(): React.ReactElement {
         A research resource tracing traditions from the Ryukyu Kingdom to the present day.
       </p>
       <div className="kb-hero__actions">
-        <Link to="/history/" className="kb-hero__cta kb-hero__cta--primary">
-          Explore History
+        <Link to="/historia/" className="kb-hero__cta kb-hero__cta--primary">
+          Tutustu historiaan
         </Link>
-        <Link to="/weapons/" className="kb-hero__cta kb-hero__cta--secondary">
-          View Weapons
+        <Link to="/aseet/" className="kb-hero__cta kb-hero__cta--secondary">
+          Katso aseet
         </Link>
       </div>
     </section>
@@ -94,7 +94,7 @@ function HeroSection(): React.ReactElement {
 function CardGrid(): React.ReactElement {
   return (
     <section className="kb-cards">
-      <p className="kb-cards__heading">Explore the site</p>
+      <p className="kb-cards__heading">Tutustu sivustoon</p>
       <div className="kb-grid">
         {cards.map((card) => (
           <article key={card.href} className="kb-card">
@@ -133,6 +133,20 @@ export default function Home(): React.ReactElement {
           property="og:description"
           content="History, lineages, weapons and kata of the Ryukyu Islands' weapon-based martial arts traditions."
         />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://kobudo.fi/img/hero-dojo-wall.png" />
+        <meta property="og:image:width" content="1184" />
+        <meta property="og:image:height" content="448" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:image" content="https://kobudo.fi/img/hero-dojo-wall.png" />
+        <script type="application/ld+json">{JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "Ryukyu Kobudo",
+          "url": "https://kobudo.fi",
+          "description": "Okinawan Weapon Arts — History, Styles & Kata",
+          "inLanguage": ["fi", "en"],
+        })}</script>
       </Head>
       <main>
         <HeroSection />

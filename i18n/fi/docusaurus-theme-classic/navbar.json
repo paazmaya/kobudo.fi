@@ -1,0 +1,70 @@
+{
+  "title": {
+    "message": "Ryukyu Kobudo",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Ryukyu Kobudo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Historia": {
+    "message": "Historia",
+    "description": "Navbar item with label Historia"
+  },
+  "item.label.Tyylit": {
+    "message": "Tyylit",
+    "description": "Navbar item with label Tyylit"
+  },
+  "item.label.Aseet": {
+    "message": "Aseet",
+    "description": "Navbar item with label Aseet"
+  },
+  "item.label.Kata": {
+    "message": "Kata",
+    "description": "Navbar item with label Kata"
+  },
+  "item.label.Tutkimus": {
+    "message": "Tutkimus",
+    "description": "Navbar item with label Tutkimus"
+  },
+  "item.label.Tietoja": {
+    "message": "Tietoja",
+    "description": "Navbar item with label Tietoja"
+  },
+  "item.label.Kaikki aseet": {
+    "message": "Kaikki aseet",
+    "description": "Navbar item with label Kaikki aseet"
+  },
+  "item.label.Bō — Sauva": {
+    "message": "Bō — Sauva",
+    "description": "Navbar item with label Bō — Sauva"
+  },
+  "item.label.Sai": {
+    "message": "Sai",
+    "description": "Navbar item with label Sai"
+  },
+  "item.label.Tonfa": {
+    "message": "Tonfa",
+    "description": "Navbar item with label Tonfa"
+  },
+  "item.label.Nunchaku": {
+    "message": "Nunchaku",
+    "description": "Navbar item with label Nunchaku"
+  },
+  "item.label.Kama — Sirppi": {
+    "message": "Kama — Sirppi",
+    "description": "Navbar item with label Kama — Sirppi"
+  },
+  "item.label.Tekko": {
+    "message": "Tekko",
+    "description": "Navbar item with label Tekko"
+  },
+  "item.label.Tinbē-Rochin": {
+    "message": "Tinbē-Rochin",
+    "description": "Navbar item with label Tinbē-Rochin"
+  },
+  "item.label.Surujin": {
+    "message": "Surujin",
+    "description": "Navbar item with label Surujin"
+  }
+}

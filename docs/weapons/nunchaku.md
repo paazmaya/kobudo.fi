@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: Nunchaku
+slug: /aseet/nunchaku
 description: The nunchaku — two hardwood sticks connected by rope or chain, associated with agricultural threshing tool origins.
 ---
 

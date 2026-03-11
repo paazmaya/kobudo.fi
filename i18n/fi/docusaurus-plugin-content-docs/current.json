@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.History": {
+    "message": "History",
+    "description": "The label for category 'History' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Styles & Lineages": {
+    "message": "Styles & Lineages",
+    "description": "The label for category 'Styles & Lineages' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Traditional Weapons": {
+    "message": "Traditional Weapons",
+    "description": "The label for category 'Traditional Weapons' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Kata": {
+    "message": "Kata",
+    "description": "The label for category 'Kata' in sidebar 'docsSidebar'"
+  }
+}

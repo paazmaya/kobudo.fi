@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
-title: History of Ryukyu Kobudo
+title: Ryūkyū Kobudon Historia
+slug: /historia/
 description: Overview of the history of Ryukyuan weapon-based martial arts, from the Ryukyu Kingdom through Taira Shinken's systematization.
 ---
 
@@ -21,9 +22,9 @@ These arts were not recorded in formal scrolls or licensing documents to the sam
 
 ## Key themes in History
 
-- [Ryukyu Kingdom Era](./ryukyu-kingdom) — The political and social context that shaped weapon use
+- [Ryukyu Kingdom Era](./ryukyu-kuningaskunta) — The political and social context that shaped weapon use
 - [Taira Shinken](./taira-shinken) — The central figure of 20th-century systematization
-- [Kata Transmission](./kata-transmission) — How forms were preserved across generations
+- [Kata Transmission](./kata-siirto) — How forms were preserved across generations
 
 ## The core challenge
 

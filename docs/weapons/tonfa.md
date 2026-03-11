@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Tonfa
+slug: /aseet/tonfa
 description: The tonfa — a side-handled baton believed to derive from the handle of a millstone, used in pairs for close-range striking.
 ---
 

@@ -9,9 +9,11 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 ## Domain, web, and email hosting
 
 Domain
+
 - Traficom
 
 DNS
+
 - desec.io
 - Source code available https://github.com/desec-io/desec-stack/
 - Nameservers:
@@ -20,8 +22,10 @@ DNS
 - DNSSEC
 
 Static site
+
 - statichost.eu
 
 Email
+
 - migadu.com
 - Micro plan 19 USD/year

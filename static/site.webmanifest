@@ -1,0 +1,21 @@
+{
+  "name": "Ryukyu Kobudo",
+  "short_name": "Kobudo",
+  "description": "Okinawan Weapon Arts — History, Styles & Kata",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#5a0000",
+  "background_color": "#0d0d0d",
+  "icons": [
+    {
+      "src": "/img/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

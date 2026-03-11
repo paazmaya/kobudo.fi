@@ -1,18 +1,19 @@
 ---
 sidebar_position: 5
-title: Research & Bibliography
+title: Tutkimuslähteet
+slug: /tutkimus
 description: Core Japanese-language books and reference works for researching Ryukyu weapon-based martial arts and Taira Shinken's lineage.
 ---
 
 # Research & Bibliography
 
 <img
-  src="/img/banner-research-library.png"
-  alt="Stack of Japanese martial arts reference books"
-  width={960}
-  height={384}
-  loading="lazy"
-  style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+src="/img/banner-research-library.png"
+alt="Stack of Japanese martial arts reference books"
+width={960}
+height={384}
+loading="lazy"
+style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />
 
 This page lists core Japanese-language books and reference works for researching Ryukyu weapon-based martial arts, with emphasis on Taira Shinken and lineages from the Ryukyu Kingdom era to modern styles. All items are catalogued in major Japanese library databases (NDL Search, CiNii Books) or widely held in university and prefectural libraries.
@@ -20,40 +21,47 @@ This page lists core Japanese-language books and reference works for researching
 ## Core Works by Taira Shinken and Direct Lineage
 
 ### 新編・増補 琉球古武道大鑑
+
 平信賢 著、井上貴勝 監修（榕樹書林, 1997）
 
-Taira Shinken's main technical compendium — over forty kata across eight weapons, based on his earlier privately printed volume and material contributed to Nakasone Genwa's *空手道大観*. Published by 榕樹書林 in Okinawa, 800-copy limited edition. Recommended by the Okinawa Prefectural Library as a principal reference on Ryukyu kobudo.
+Taira Shinken's main technical compendium — over forty kata across eight weapons, based on his earlier privately printed volume and material contributed to Nakasone Genwa's _空手道大観_. Published by 榕樹書林 in Okinawa, 800-copy limited edition. Recommended by the Okinawa Prefectural Library as a principal reference on Ryukyu kobudo.
 
 ### 琉球古武道基本技シリーズ
+
 井上元勝 著（績文堂出版／青濤社, 1970年代）
 
-Slim manuals for individual weapons (bō, sai, tonfa, nunchaku, kama) providing basics and kata in self-study format. NDL Search lists these individually. Because Inoue Motokatsu was Taira Shinken's senior disciple and received *menkyo kaiden*, these represent direct codification of Taira's curriculum.
+Slim manuals for individual weapons (bō, sai, tonfa, nunchaku, kama) providing basics and kata in self-study format. NDL Search lists these individually. Because Inoue Motokatsu was Taira Shinken's senior disciple and received _menkyo kaiden_, these represent direct codification of Taira's curriculum.
 
 ## Encyclopedic and Survey References
 
 ### 沖縄空手古武道事典
+
 高宮城繁・新里勝彦・仲本政博 編著（柏書房, 2008）
 
 Large reference volume (~745 pages) covering history, lineages, technical terminology and kata of Okinawan karate and traditional kobudo. Chapters explicitly include: Okinawan traditional kobudo history, kobudo genealogy, dissemination of Ryukyu kobudo, representative weapons, and kobudo kata. CiNii Books shows holdings at 70+ Japanese university libraries.
 
 ### 空手道大観
+
 仲宗根源和 編著（東京図書, 1938）
 
-Classic prewar anthology including sections by leading karate and kobudo experts. Digitized in the National Diet Library Digital Collections. Taira Shinken's bōjutsu material first appeared here before being re-edited in *琉球古武道大鑑*.
+Classic prewar anthology including sections by leading karate and kobudo experts. Digitized in the National Diet Library Digital Collections. Taira Shinken's bōjutsu material first appeared here before being re-edited in _琉球古武道大鑑_.
 
 ## Historical and Lineage-Oriented Works
 
 ### 沖縄伝統古武道 初級 その型と応用
+
 仲本政博 著（文武館, 1989）
 
 Kata and applications for Okinawan traditional kobudo with extensive photographs. Authored by Nakamoto Masahiro, a holder of Okinawan intangible cultural heritage. Useful for linking technical kata performance to teacher biographies and organizational histories.
 
 ### 沖縄伝統古武道 : その歴史と魂
+
 仲本政博 著（文武館, 1993）
 
 Focuses on historical development and "spirit" of Okinawan traditional kobudo. Suitable for contextual research on how kobudo survived through the Ryukyu Kingdom, Satsuma control, and modern Japan.
 
 ### 空手道・古武道基本調査報告書 2
+
 沖縄県教育委員会文化課 編（守礼堂, 1997）
 
 Official Okinawa Prefectural cultural property survey documenting karate and kobudo as cultural heritage, listing schools, key teachers and basic data. Useful for corroborating dates, recognized lineages, and weapon systems in different regions.
@@ -61,6 +69,7 @@ Official Okinawa Prefectural cultural property survey documenting karate and kob
 ## Pre-Modern Historical Context
 
 ### 琉日戦争一六〇九 島津氏の琉球侵攻
+
 上里隆史 著（ボーダーインク）
 
 Reconstructs the 1609 Satsuma invasion of the Ryukyu Kingdom, discussing Ryukyu's military organization and armament. Important for the debate around the "weaponless Ryukyu" myth.
@@ -78,7 +87,7 @@ For kata names: combine personal names (平信賢, 又吉真豊, 山根) with `�
 ## Sources
 
 1. [新編・増補琉球古武道大鑑 — 日本の古本屋](https://www.kosho.or.jp/products/detail.php?product_id=510456309)
-2. [空手を知るための10冊 (PDF) — 沖縄県立図書館](https://www.library.pref.okinawa.jp/about-okinawa/docs/(700)booklist-karate.pdf)
+2. [空手を知るための10冊 (PDF) — 沖縄県立図書館](<https://www.library.pref.okinawa.jp/about-okinawa/docs/(700)booklist-karate.pdf>)
 3. [空手道・古武道基本調査報告書 2 — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000001-I12121000001077362)
 4. [琉球古武術とは — 琉球古武術清水道場](https://ryukyukobujutsu-shimizu.com/what-is-ryukyukobujutsu/)
 5. [琉球古武道基本技シリーズ 1 (棒術 no.1) — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000001348055)

@@ -1,18 +1,19 @@
 ---
 sidebar_position: 6
-title: About
+title: Tietoja Sivustosta
+slug: /tietoja
 description: About this site — its purpose, scope, authorship, and how to contribute corrections or additional sources.
 ---
 
 # About This Site
 
 <img
-  src="/img/banner-about-desk.png"
-  alt="Abstract research and documentation concept"
-  width={960}
-  height={384}
-  loading="lazy"
-  style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+src="/img/banner-about-desk.png"
+alt="Abstract research and documentation concept"
+width={960}
+height={384}
+loading="lazy"
+style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />
 
 **kobudo.fi** is a research resource documenting the weapon-based martial arts of the Ryukyu Islands — their history, lineages, tools and kata — with an emphasis on verifiable sources and cross-style comparison.

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 title: Yamane-ryū
+slug: /tyylit/yamane-ryu
 description: Yamane-ryū Bojutsu — the fluid, long-range staff tradition associated with the Yamane and Chinen families of Okinawa.
 ---
 

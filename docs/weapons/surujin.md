@@ -1,6 +1,7 @@
 ---
 sidebar_position: 9
-title: Surujin (Weighted Chain)
+title: Surujin
+slug: /aseet/surujin
 description: The surujin — a weighted rope or chain swung to entangle, strike or throw at range, one of the most specialized Ryukyu weapons.
 ---
 

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
-title: Styles & Lineages
+title: Tyylit ja Koulukunnat
+slug: /tyylit/
 description: Overview of the major styles and lineages of Ryukyu kobudo — Taira line, Matayoshi, Yamane-ryū and others.
 ---
 
@@ -21,10 +22,10 @@ Ryukyu weapon arts are not a single unified system. Several distinct lineages de
 
 | Lineage | Japanese name | Primary weapon emphasis | Key organization |
 |---------|--------------|------------------------|-----------------|
-| [Taira Line](./taira-line) | 琉球古武術保存振興会系 | 8 weapons, 40+ kata | Ryūkyū Kobujutsu Hozon Shinkōkai |
+| [Taira Line](./taira-linja) | 琉球古武術保存振興会系 | 8 weapons, 40+ kata | Ryūkyū Kobujutsu Hozon Shinkōkai |
 | [Matayoshi Kobudo](./matayoshi) | 金硬流唐手沖縄古武術 | Wide range incl. unusual weapons | IMKA / Matayoshi Kodokan |
 | [Yamane-ryū](./yamane-ryu) | 山根流棒術 | Bō (long staff), fluid style | Various |
-| [Other Styles](./other-styles) | Various | Mixed | Multiple organizations |
+| [Other Styles](./muut-tyylit) | Various | Mixed | Multiple organizations |
 
 ## Shared Heritage
 
@@ -41,4 +42,4 @@ Four Ryukyu-related weapon arts are registered with the **Nihon Kobudō Kyōkai*
 - 琉球王家秘伝本部御殿手 (Motobu Chōsei)
 - 沖縄剛柔流武術 (Higashionna Morio)
 
-See the [Taira Line](./taira-line) and [Other Styles](./other-styles) pages for details.
+See the [Taira Line](./taira-linja) and [Other Styles](./muut-tyylit) pages for details.

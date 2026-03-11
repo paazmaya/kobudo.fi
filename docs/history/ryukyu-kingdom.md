@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
-title: Ryukyu Kingdom Era
+title: Ryūkyū Kuningaskunta
+slug: /historia/ryukyu-kuningaskunta
 description: The political and social context of the Ryukyu Kingdom that shaped the development of weapon-based martial arts.
 ---
 
@@ -34,5 +35,5 @@ The popular narrative of a "weapon-confiscation edict" is significantly more com
 When the Japanese Meiji government formally abolished the Ryukyu Kingdom in 1879 — an event called the *Ryūkyū shobun* — the social structures that had supported formal martial transmission were dissolved. The subsequent generation of practitioners preserved what they had received, often informally, until the early 20th century saw renewed interest in systematization.
 
 :::note Placeholder
-This section will be expanded with additional sources from Okinawan historical records and the research bibliography. See the [Research](../research) page for key reference works.
+This section will be expanded with additional sources from Okinawan historical records and the research bibliography. See the [Research](../tutkimus) page for key reference works.
 :::

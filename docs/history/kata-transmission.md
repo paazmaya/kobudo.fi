@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
-title: Kata Transmission
+title: Kata-siirto
+slug: /historia/kata-siirto
 description: How Ryukyu kobudo kata were preserved across generations, the role of named masters, and how multiple versions of the same kata coexist today.
 ---
 

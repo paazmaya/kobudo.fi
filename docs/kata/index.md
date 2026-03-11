@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
-title: Kata — Name Families and Lineages
+title: Kata
+slug: /kata/
 description: How to read Ryukyu kobudo kata name mappings — the same teacher name or place name recurs across multiple styles, indicating a shared root.
 ---
 

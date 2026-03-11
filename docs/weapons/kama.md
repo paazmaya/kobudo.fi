@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
-title: Kama (Sickle)
+title: Kama — Sirppi
+slug: /aseet/kama
 description: The kama — a traditional agricultural sickle used in pairs, combining close-range cutting and hooking with farming-tool origins.
 ---
 

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: Taira Shinken
+slug: /historia/taira-shinken
 description: The life and systematization work of Taira Shinken (1897–1970), the central figure in modern Ryukyu kobudo.
 ---
 
@@ -44,7 +45,7 @@ Taira's senior student **Inoue Motokatsu** received *menkyo kaiden* (full transm
 
 ## Sources
 
-The key bibliographic sources for Taira Shinken are listed in the [Research](../research) page, particularly:
+The key bibliographic sources for Taira Shinken are listed in the [Research](../tutkimus) page, particularly:
 - *新編・増補 琉球古武道大鑑* (1997)
 - *琉球古武道基本技シリーズ* by Inoue Motokatsu
 - *沖縄空手古武道事典* (柏書房, 2008)
