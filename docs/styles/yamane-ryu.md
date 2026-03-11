@@ -8,12 +8,12 @@ description: Yamane-ryū Bojutsu — the fluid, long-range staff tradition assoc
 # Yamane-ryū — 山根流棒術
 
 <img
-  src="/img/yamane-bojutsu.png"
-  alt="Practitioner demonstrating Yamane-ryū long staff technique"
-  width={960}
-  height={384}
-  loading="lazy"
-  style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+src="/img/yamane-bojutsu.png"
+alt="Practitioner demonstrating Yamane-ryū long staff technique"
+width={960}
+height={384}
+loading="lazy"
+style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />
 
 Yamane-ryū is a bō-specialized lineage distinguished by its fluid, long-range technique and association with the Yamane and Chinen families of central Okinawa. Where the Taira line systematizes multiple weapon categories, Yamane-ryū's identity is built entirely around the long staff.
@@ -32,17 +32,38 @@ These characteristics make Yamane-ryū bō kata immediately recognizable even wh
 
 Yamane-ryū preserves several kata that overlap in name with Taira-line bō:
 
-| Kata name | Notes |
-|-----------|-------|
-| Sakugawa no Kon | Different choreography from Taira version; shared family origin |
-| Shūshi no Kon | Same name, distinct Yamane-ryū interpretation |
-| Tsuken Bō | Tsuken-area origin; Yamane-ryū version emphasizes oar-derived techniques |
-| Chinen Shikiyanaka no Kon | Closely associated with the Chinen family heritage |
+| Kata name                 | Notes                                                                    |
+| ------------------------- | ------------------------------------------------------------------------ |
+| Sakugawa no Kon           | Different choreography from Taira version; shared family origin          |
+| Shūshi no Kon             | Same name, distinct Yamane-ryū interpretation                            |
+| Tsuken Bō                 | Tsuken-area origin; Yamane-ryū version emphasizes oar-derived techniques |
+| Chinen Shikiyanaka no Kon | Closely associated with the Chinen family heritage                       |
 
 ## Organizations
 
 Yamane-ryū is transmitted through several organizations including the **Ryūkyū Bōjutsu Kenkyūkai (RBKD)** and affiliated dojo internationally. There is no single international apex organization equivalent to the Taira line's Hozon Shinkōkai.
 
-:::note Placeholder
-This section will be expanded with detailed technical comparisons between Yamane-ryū and Taira-line versions of shared kata names.
-:::
+The **RBKD** (琉球棒術研究会) was founded in 1985 by Oshiro and Nishime. Its current head is **Chogi Kishaba**. The RBKD preserves the following kata:
+
+| Kata                         | Notes                                                         |
+| ---------------------------- | ------------------------------------------------------------- |
+| Donyukon I & II              | Foundational forms                                            |
+| Choun no Kun Shō / Dai       | Two-level form                                                |
+| Shuji no Kun Shō / Dai       | Two-level form                                                |
+| Ryubi no Kon                 | Advanced form                                                 |
+| Sakugawa no Kun              | Shared name with Taira-line; distinct Yamane-ryū choreography |
+| Shirataru no Kun             | Also rendered Shirotaru                                       |
+| Tomari Shirataru             | Extended variant                                              |
+| Yunigawa / Yonegawa no Kun   |                                                               |
+| Shinakachi / Sunakake no Kun |                                                               |
+| Chikin Bō / Tsuken Bō        | Tsuken island origin                                          |
+
+## Founding Figure
+
+The style is traced to **Sanda Chinen** (知念砂谷, 1842–1925), whose characteristic "bouncing" or springing motion became the hallmark of Yamane-ryū technique. His grandson **Masami Chinen** gave the lineage its formal name. **Higa Seitoku** began training in 1956 and is recognized as the only person to have received an official bōjutsu teaching license from Chinen Masami.
+
+## Sources
+
+1. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu) — Style history, Sanda Chinen (1842–1925), RBKD founding (1985), Higa Seitoku lineage, full kata list
+2. [Bō — Wikipedia](https://en.wikipedia.org/wiki/B%C5%8D) — Notes that Yamanni-ryū strikes resemble yari (spear) and naginata (glaive) techniques
+3. [Research page](../tutkimus) — Key bibliographic sources for Yamane-ryū lineage

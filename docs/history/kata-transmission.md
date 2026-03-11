@@ -8,15 +8,15 @@ description: How Ryukyu kobudo kata were preserved across generations, the role 
 # Kata Transmission
 
 <img
-  src="/img/kata-transmission-lesson.png"
-  alt="Illustration of teacher demonstrating kata to students"
-  width={960}
-  height={384}
-  loading="lazy"
-  style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+src="/img/kata-transmission-lesson.png"
+alt="Illustration of teacher demonstrating kata to students"
+width={960}
+height={384}
+loading="lazy"
+style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />
 
-Unlike Japanese koryū weapon schools, which typically maintain formal licensing systems (*menkyo*) and written curricula (*densho*), Ryukyu kobudo was transmitted primarily through direct physical instruction without extensive written documentation. This has profound consequences for how we understand the relationship between different versions of "the same" kata.
+Unlike Japanese koryū weapon schools, which typically maintain formal licensing systems (_menkyo_) and written curricula (_densho_), Ryukyu kobudo was transmitted primarily through direct physical instruction without extensive written documentation. This has profound consequences for how we understand the relationship between different versions of "the same" kata.
 
 ## Oral and Physical Transmission
 
@@ -39,6 +39,22 @@ When the same place-name kata appears across multiple organizations, it strongly
 
 The disruption of World War II (the Battle of Okinawa, 1945) severely interrupted transmission across all Okinawan martial arts. Many practitioners were killed or displaced. Post-war reconstruction of curricula involved some degree of reconstruction from memory and from parallel lineages. This is one reason why "sho/dai/ni" variants of the same kata appear across post-war schools — a single older form was extended into multiple training-density versions.
 
-:::note Placeholder
-This section will expand with specific examples of kata divergence traced through documented lineages. Contributions of documented variant analyses welcome.
-:::
+## Documented Divergence: Sakugawa no Kon
+
+The **Sakugawa no Kon** family offers the clearest documented example of transmission divergence. The kata bears the name of **Sakugawa Kanga** (佐久川 寛賀, c. 1762–1843), a Shuri practitioner who reportedly studied in China. Today, versions of Sakugawa no Kon exist in:
+
+- The **Taira line** (three variants: Shō, Chū, Dai)
+- **Matayoshi Kobudo** (one version)
+- **Yamane-ryū** (distinct choreography emphasizing the style's fluid dynamic)
+- Multiple **karate-integrated weapon curricula** (Shōrin-ryū, Shotokan derivatives)
+
+All claim descent from the same historical practitioner. The choreographic variations across these modern versions represent at minimum three to four generations of separate transmission since the Meiji era. None can be called the "original" without access to documentation that does not exist.
+
+This pattern — shared name, shared historical root, diverging modern choreography — is the rule in Okinawan kobudo, not the exception.
+
+## Sources
+
+1. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Overview of transmission lineages and systematization by Taira Shinken
+2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken) — Documents his collection work from multiple teachers across Okinawa
+3. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu) — Documents Yamane-ryū versions of shared kata names (Sakugawa, Choun, Shuji)
+4. [Research page](../tutkimus) — Key source texts on transmission history

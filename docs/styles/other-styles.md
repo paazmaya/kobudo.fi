@@ -8,12 +8,12 @@ description: Additional Ryukyu weapon art traditions — Motobu Udundi, Tokushin
 # Other Styles
 
 <img
-  src="/img/other-weapons-panel.png"
-  alt="Various kobudo practitioners demonstrating different styles"
-  width={960}
-  height={384}
-  loading="lazy"
-  style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+src="/img/other-weapons-panel.png"
+alt="Various kobudo practitioners demonstrating different styles"
+width={960}
+height={384}
+loading="lazy"
+style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />
 
 Beyond the three major lineages, several further traditions preserve Ryukyuan weapon techniques — some focused on single weapons, others integrated into karate systems.
@@ -22,7 +22,7 @@ Beyond the three major lineages, several further traditions preserve Ryukyuan we
 
 The palace art of the Motobu royal family. Registered with the Nihon Kobudō Kyōkai as **琉球王家秘伝本部御殿手** (representative: 本部 朝正 Motobu Chōsei).
 
-This art is described as a palace-guard style including both empty-hand methods and weapon use — particularly swords and dual-sword methods (*nito*). The royal family context means this tradition was not taught publicly during the kingdom era; modern transmission reflects 20th-century formalization.
+This art is described as a palace-guard style including both empty-hand methods and weapon use — particularly swords and dual-sword methods (_nito_). The royal family context means this tradition was not taught publicly during the kingdom era; modern transmission reflects 20th-century formalization.
 
 - Nihon Kobudō Kyōkai: https://www.nihonkobudokyoukai.org/martialarts/065/
 
@@ -44,6 +44,14 @@ In practice, some branches of Gōjū-ryū include ancillary weapon work (particu
 
 Several mainland and Okinawan karate organizations added weapon kata to their curricula in the post-war period, typically sourced from Taira-line instruction. Groups such as Shōrin-ryū, Isshin-ryū, and various Shotokan affiliates adopted bō kata like Shūshi no Kon and Sakugawa no Kon. These are listed in the [Kata section](../kata/bo-kata) under "Karate weapon syllabi."
 
-:::note Placeholder
-Individual profiles for Tokushinryū and karate-based weapon curricula will be added as further research is compiled.
-:::
+Tokushinryū draws from multiple Okinawan lineages to build a broad bō kata list including Sakugawa, Shūshi, Chatan Yara and Tsuken families alongside others. It is listed among Nihon Kobudō Kyōkai's recognised weapon arts.
+
+- Nihon Kobudō Kyōkai: https://www.nihonkobudokyoukai.org/martialarts/064/
+
+## Sources
+
+1. [Nihon Kobudō Kyōkai — Ryukyu Kobujutsu](https://www.nihonkobudokyoukai.org/martialarts/062/) — Inoue Takakatsu / Taira line listing
+2. [Nihon Kobudō Kyōkai — Matayoshi](https://www.nihonkobudokyoukai.org/martialarts/066/) — Matayoshi Yasushi listing
+3. [Nihon Kobudō Kyōkai — Motobu Udun-di](https://www.nihonkobudokyoukai.org/martialarts/065/) — Motobu Chōsei, palace art listing
+4. [Nihon Kobudō Kyōkai — Okinawa Gōjū-ryū Bujutsu](https://www.nihonkobudokyoukai.org/martialarts/067/) — Higashionna Morio listing
+5. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Overview of the major lineages and their relationships

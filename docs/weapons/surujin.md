@@ -8,28 +8,29 @@ description: The surujin — a weighted rope or chain swung to entangle, strike 
 # Surujin — スルジン (Weighted Chain)
 
 <img
-  src="/img/surujin-rope-spiral.png"
-  alt="Surujin weighted chain weapon"
-  width={960}
-  height={384}
-  loading="lazy"
-  style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+src="/img/surujin-rope-spiral.png"
+alt="Surujin weighted chain weapon"
+width={960}
+height={384}
+loading="lazy"
+style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />
 
 The **surujin** (スルジン, also written 石投 or 鎖) is a flexible weapon consisting of a rope, cord or chain with weighted ends. It is the only weapon in the Taira curriculum that extends the practitioner's effective range beyond arm's reach through projectile-like throwing and entangling techniques.
 
 ## Physical Characteristics
 
-| Property | Detail |
-|----------|--------|
-| Length | ~180–210 cm total |
-| Weights | Stones, metal weights, or shaped metal ends |
-| Material | Rope (traditional) or chain (modern) |
-| Variants | *Tan surujin* (short, ~60 cm) and *naga surujin* (long, ~210 cm) |
+| Property | Detail                                          |
+| -------- | ----------------------------------------------- |
+| Length   | 2–3 m (200–300 cm) total                        |
+| Weights  | Stones, metal weights, or shaped metal ends     |
+| Material | Rope (traditional) or chain (modern)            |
+| Variants | _Tan surujin_ (short) and _naga surujin_ (long) |
 
 ## Technique
 
 The surujin is used in several ways:
+
 - **Swinging and throwing** — the weighted end is swung to build momentum and cast at a target's limbs or weapon
 - **Entangling** — wrapping around an opponent's arm, leg, or neck
 - **Striking** — using the swinging weight as a flail-type impact weapon
@@ -39,13 +40,15 @@ The weapon demands significant practice to control because the dynamics of a spi
 
 ## Kata in the Taira Curriculum
 
-- **Surujin no Ichi** (スルジンの一)
-- **Surujin no Ni** (スルジンの二)
+- **Surujin no Ichi** (スルジンの一) — The first surujin kata. Introduces the fundamental throwing, entangling and striking patterns.
+- **Surujin no Ni** (スルジンの二) — The second kata with more complex application sequences.
 
 ## Historical Context
 
-The surujin is likely related to the throwing-stone traditions documented in Okinawan and Chinese military records. The Tsuken sand-throwing techniques preserved in *Tsuken Sunakake no Kon* (usually classified as an eku kata) show the same conceptual logic: range extension and distraction through thrown or swung objects.
+The surujin is likely related to the throwing-stone traditions documented in Okinawan and Chinese military records. The Tsuken sand-throwing techniques preserved in _Tsuken Sunakake no Kon_ (usually classified as an eku kata) show the same conceptual logic: range extension and distraction through thrown or swung objects.
 
-:::note Placeholder
-Detailed kata analysis and historical source connections will be added here.
-:::
+## Sources
+
+1. [Surujin — Wikipedia](https://en.wikipedia.org/wiki/Surujin) — Physical dimensions (2–3 m rope with weighted ends), usage techniques (throwing, entangling with hojōjutsu-style wrapping, spike for coup de grâce), classified as chain weapon
+2. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Confirms two surujin kata in the Taira curriculum
+3. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo) — Matayoshi suruchin kata listed as Suruchin no Kata

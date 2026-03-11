@@ -46,3 +46,9 @@ Please raise an issue or pull request in the project repository, or contact the 
 ## Technical
 
 The site is built with [Docusaurus](https://docusaurus.io/) and deployed as a static site. Content is written in Markdown. The design uses Tailwind CSS and targets WCAG 2.2 Level AAA accessibility compliance throughout.
+
+## Sources
+
+1. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — General overview used as a reference standard for factual claims across this site
+2. [Ryukyu Kingdom — Wikipedia](https://en.wikipedia.org/wiki/Ryukyu_Kingdom) — Historical context for the Ryukyu Kingdom era
+3. [Research page](/tutkimus) — Full bibliography of primary and secondary sources used across all sections
