@@ -1,6 +1,6 @@
 ---
 sidebar_position: 7
-title: Tekko: Knuckle Guards
+title: "Tekko: Knuckle Guards"
 slug: /weapons/tekko
 description: The tekko, metal knuckle guards derived from a horseshoe, used for close-range striking and blocking.
 ---

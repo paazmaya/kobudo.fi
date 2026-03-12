@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Tyylit ja Koulukunnat
 slug: /tyylit/
-description: Overview of the major styles and lineages of Ryukyu kobudo: Taira line, Matayoshi, Yamane-ryū and others.
+description: "Overview of the major styles and lineages of Ryukyu kobudo: Taira line, Matayoshi, Yamane-ryū and others."
 ---
 
 # Styles & Lineages

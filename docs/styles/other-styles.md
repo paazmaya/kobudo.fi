@@ -2,7 +2,7 @@
 sidebar_position: 5
 title: Muut Tyylit
 slug: /tyylit/muut-tyylit
-description: Additional Ryukyu weapon art traditions: Motobu Udundi, Tokushinryū, and karate systems with integrated weapon curricula.
+description: "Additional Ryukyu weapon art traditions: Motobu Udundi, Tokushinryū, and karate systems with integrated weapon curricula."
 ---
 
 # Other Styles

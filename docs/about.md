@@ -2,7 +2,7 @@
 sidebar_position: 6
 title: Tietoja Sivustosta
 slug: /tietoja
-description: About this site: its purpose, scope, authorship, and how to contribute corrections or additional sources.
+description: "About this site: its purpose, scope, authorship, and how to contribute corrections or additional sources."
 ---
 
 # About This Site

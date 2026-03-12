@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Perinteiset Aseet
 slug: /aseet/
-description: The eight core weapons of the Taira Shinken curriculum: bō, sai, tonfa, nunchaku, kama, tekko, tinbē-rochin and surujin.
+description: "The eight core weapons of the Taira Shinken curriculum: bō, sai, tonfa, nunchaku, kama, tekko, tinbē-rochin and surujin."
 ---
 
 # Traditional Weapons
