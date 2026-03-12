@@ -31,11 +31,11 @@ The Matayoshi curriculum includes an unusually wide selection of weapons:
 
 | Category      | Weapons                                                           |
 | ------------- | ----------------------------------------------------------------- |
-| Staff weapons | Bō, Jō                                                            |
-| Bladed        | Kama (sickle), Nuntei (trident spear)                             |
-| Flexible      | Nunchaku, Surujin, Sansetsukon (3-section staff)                  |
+| Staff weapons | [Bō](/en/weapons/bo), Jō                                                            |
+| Bladed        | [Kama](/en/weapons/kama) (sickle), Nuntei (trident spear)                             |
+| Flexible      | [Nunchaku](/en/weapons/nunchaku), [Surujin](/en/weapons/surujin), Sansetsukon (3-section staff)                  |
 | Polearms      | Eku (boat oar), Kuwa (hoe/mattock), Yonsetsukun (4-section staff) |
-| Thrust/Guard  | Sai, Tekko                                                        |
+| Thrust/Guard  | [Sai](/en/weapons/sai), [Tekko](/en/weapons/tekko)                                                        |
 | Shield        | Tinbē (shield)                                                    |
 | Iron          | Tetsubō (iron truncheon)                                          |
 
@@ -43,7 +43,7 @@ This breadth reflects the Matayoshi family's emphasis on preserving farming, fis
 
 ## Shared Kata Names with the Taira Line
 
-Despite being organizationally distinct, Matayoshi kobudo and the Taira line share many kata names — Shushi no Kon, Sakugawa no Kon, Chatan Yara no Kon, Tsuken no Kon, Chōun no Kon — because both lineages draw from the same historical pool of Ryukyuan weapon kata. The choreographic versions differ; the family relationships are shared.
+Despite being organizationally distinct, Matayoshi kobudo and the Taira line share many kata names — [Shushi no Kon, Sakugawa no Kon, Chatan Yara no Kon, Tsuken no Kon, Chōun no Kon](/en/kata/bo-kata) — because both lineages draw from the same historical pool of Ryukyuan weapon kata. The choreographic versions differ; the family relationships are shared.
 
 ## Lineage
 

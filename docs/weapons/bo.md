@@ -33,7 +33,7 @@ The bō was carried as a walking staff, a carrying pole, and a practical travel 
 
 ## Kata Families
 
-The bō kata are organized by family — see [Bō Kata](../kata/bo-kata) for the full cross-style comparison. The most important families in the Taira-line curriculum:
+The bō kata are organized by family — see [Bō Kata](/kata/bo-kata) for the full cross-style comparison. The most important families in the Taira-line curriculum:
 
 | Kata family  | Typical name                    | Notes                                        |
 | ------------ | ------------------------------- | -------------------------------------------- |

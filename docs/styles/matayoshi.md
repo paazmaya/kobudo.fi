@@ -29,21 +29,21 @@ Registered under the name **金硬流唐手沖縄古武術** (Kingai-ryū Karate
 
 The Matayoshi curriculum includes an unusually wide selection of weapons:
 
-| Category      | Weapons                                                           |
-| ------------- | ----------------------------------------------------------------- |
-| Staff weapons | Bō, Jō                                                            |
-| Bladed        | Kama (sickle), Nuntei (trident spear)                             |
-| Flexible      | Nunchaku, Surujin, Sansetsukon (3-section staff)                  |
-| Polearms      | Eku (boat oar), Kuwa (hoe/mattock), Yonsetsukun (4-section staff) |
-| Thrust/Guard  | Sai, Tekko                                                        |
-| Shield        | Tinbē (shield)                                                    |
-| Iron          | Tetsubō (iron truncheon)                                          |
+| Category      | Weapons                                                                               |
+| ------------- | ------------------------------------------------------------------------------------- |
+| Staff weapons | [Bō](/aseet/bo), Jō                                                                   |
+| Bladed        | [Kama](/aseet/kama) (sickle), Nuntei (trident spear)                                  |
+| Flexible      | [Nunchaku](/aseet/nunchaku), [Surujin](/aseet/surujin), Sansetsukon (3-section staff) |
+| Polearms      | Eku (boat oar), Kuwa (hoe/mattock), Yonsetsukun (4-section staff)                     |
+| Thrust/Guard  | [Sai](/aseet/sai), [Tekko](/aseet/tekko)                                              |
+| Shield        | Tinbē (shield)                                                                        |
+| Iron          | Tetsubō (iron truncheon)                                                              |
 
 This breadth reflects the Matayoshi family's emphasis on preserving farming, fishing and everyday-object origins of Okinawan weapons.
 
 ## Shared Kata Names with the Taira Line
 
-Despite being organizationally distinct, Matayoshi kobudo and the Taira line share many kata names — Shushi no Kon, Sakugawa no Kon, Chatan Yara no Kon, Tsuken no Kon, Chōun no Kon — because both lineages draw from the same historical pool of Ryukyuan weapon kata. The choreographic versions differ; the family relationships are shared.
+Despite being organizationally distinct, Matayoshi kobudo and the Taira line share many kata names — [Shushi no Kon, Sakugawa no Kon, Chatan Yara no Kon, Tsuken no Kon, Chōun no Kon](/kata/bo-kata) — because both lineages draw from the same historical pool of Ryukyuan weapon kata. The choreographic versions differ; the family relationships are shared.
 
 ## Lineage
 

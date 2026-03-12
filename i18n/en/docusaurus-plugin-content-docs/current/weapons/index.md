@@ -33,7 +33,7 @@ The Taira Shinken curriculum organizes Ryukyu kobudo around **eight core weapon 
 
 ## Weapons Beyond the Eight
 
-While the Taira / Hozon Shinkōkai curriculum centers on eight weapons, the broader Ryukyu kobudo tradition includes additional tools. The Matayoshi curriculum, for example, adds:
+While the Taira / Hozon Shinkōkai curriculum centers on eight weapons, the broader Ryukyu kobudo tradition includes additional tools. The [Matayoshi curriculum](/en/styles/matayoshi), for example, adds:
 
 - **Eku** (エーク / 櫂) — boat oar, particularly associated with the Tsuken island tradition
 - **Sansetsukon** — three-section staff

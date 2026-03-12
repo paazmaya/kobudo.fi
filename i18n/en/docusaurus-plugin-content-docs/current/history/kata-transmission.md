@@ -41,11 +41,11 @@ The disruption of World War II (the Battle of Okinawa, 1945) severely interrupte
 
 ## Documented Divergence: Sakugawa no Kon
 
-The **Sakugawa no Kon** family offers the clearest documented example of transmission divergence. The kata bears the name of **Sakugawa Kanga** (佐久川 寛賀, c. 1762–1843), a Shuri practitioner who reportedly studied in China. Today, versions of Sakugawa no Kon exist in:
+The **[Sakugawa no Kon](/en/kata/bo-kata)** family offers the clearest documented example of transmission divergence. The kata bears the name of **Sakugawa Kanga** (佐久川 寛賀, c. 1762–1843), a Shuri practitioner who reportedly studied in China. Today, versions of Sakugawa no Kon exist in:
 
-- The **Taira line** (three variants: Shō, Chū, Dai)
-- **Matayoshi Kobudo** (one version)
-- **Yamane-ryū** (distinct choreography emphasizing the style's fluid dynamic)
+- The **[Taira line](/en/styles/taira-line)** (three variants: Shō, Chū, Dai)
+- **[Matayoshi Kobudo](/en/styles/matayoshi)** (one version)
+- **[Yamane-ryū](/en/styles/yamane-ryu)** (distinct choreography emphasizing the style’s fluid dynamic)
 - Multiple **karate-integrated weapon curricula** (Shōrin-ryū, Shotokan derivatives)
 
 All claim descent from the same historical practitioner. The choreographic variations across these modern versions represent at minimum three to four generations of separate transmission since the Meiji era. None can be called the "original" without access to documentation that does not exist.
@@ -57,4 +57,4 @@ This pattern — shared name, shared historical root, diverging modern choreogra
 1. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Overview of transmission lineages and systematization by Taira Shinken
 2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken) — Documents his collection work from multiple teachers across Okinawa
 3. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu) — Documents Yamane-ryū versions of shared kata names (Sakugawa, Choun, Shuji)
-4. [Research page](../research) — Key source texts on transmission history
+4. [Research page](/en/research) — Key source texts on transmission history

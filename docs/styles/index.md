@@ -29,7 +29,7 @@ Ryukyu weapon arts are not a single unified system. Several distinct lineages de
 
 ## Shared Heritage
 
-A key insight when studying these lineages: the same kata name appearing in multiple organizations almost always indicates a **shared historical root**, not copying. Sakugawa no Kon, for example, appears in virtually every Okinawan kobudo organization — Taira, Matayoshi, Yamane-ryū, and karate-based weapon curricula — because it represents one of the oldest and most widely distributed bō-kata families, traced back to Sakugawa Kanga of the Shuri tradition.
+A key insight when studying these lineages: the same kata name appearing in multiple organizations almost always indicates a **shared historical root**, not copying. [Sakugawa no Kon](/kata/bo-kata), for example, appears in virtually every Okinawan kobudo organization — Taira, Matayoshi, Yamane-ryū, and karate-based weapon curricula — because it represents one of the oldest and most widely distributed bō-kata families, traced back to Sakugawa Kanga of the Shuri tradition.
 
 The technical choreography of each organization's version will differ. What is shared is the family lineage — a cluster of techniques, a rhythm, a set of core sequences that identify the kata as belonging to this tradition rather than that one.
 

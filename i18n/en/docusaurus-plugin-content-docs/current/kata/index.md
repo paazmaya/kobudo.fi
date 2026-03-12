@@ -42,8 +42,8 @@ Many post-war schools created _Shō_ (small/first) and _Dai_ (large/second) vari
 
 ## Sections
 
-- [Bō Kata](./bo-kata) — Major bō kata families across Taira, Matayoshi, Yamane-ryū, and karate weapon curricula
-- [Sai Kata](./sai-kata) — Sai kata families with technical cluster analysis of the Taira line's eight sai forms
+- [Bō Kata](./bo-kata) — Major bō kata families across [Taira](/en/styles/taira-line), [Matayoshi](/en/styles/matayoshi), [Yamane-ryū](/en/styles/yamane-ryu), and karate weapon curricula
+- [Sai Kata](./sai-kata) — Sai kata families with technical cluster analysis of the [Taira line's](/en/styles/taira-line) eight sai forms
 
 ## Why Cross-Style Comparison Matters
 
@@ -53,4 +53,4 @@ The same practitioner often studies from more than one teacher, or different tea
 
 1. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Overview of how kata families are distributed across lineages
 2. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu) — Yamane-ryū/RBKD kata list showing how Yamane-ryū versions differ from Taira-line
-3. [Research page](../research) — Key Japanese-language source texts for kata documentation
+3. [Research page](/en/research) — Key Japanese-language source texts for kata documentation

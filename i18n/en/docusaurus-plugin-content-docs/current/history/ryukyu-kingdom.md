@@ -22,7 +22,7 @@ The Ryukyu Kingdom unified the Okinawan islands under King Shō Hashi in 1429, b
 
 The **Pechin** (佩冠親雲上) were the scholar-warrior administrators of the Ryukyu Kingdom — holders of patents of nobility who staffed the royal court, managed regional governance and served as military officials. Unlike Japanese samurai, the Pechin were not a hereditary warrior aristocracy defined primarily by combat; they were educated officials who also maintained martial skills.
 
-Weapon arts were preserved and transmitted within Pechin families and through master-student relationships in specific villages and towns. The place-names embedded in kata titles — Chatan (北谷), Tsuken (津堅), Urasoe (浦添), Hamahiga (浜比嘉) — reflect the geographic distribution of these lineages across the islands.
+Weapon arts were preserved and transmitted within Pechin families and through master-student relationships in specific villages and towns. The [place-names embedded in kata titles](/en/history/kata-transmission) — Chatan (北谷), Tsuken (津堅), Urasoe (浦添), Hamahiga (浜比嘉) — reflect the geographic distribution of these lineages across the islands.
 
 ## The 1609 Satsuma Invasion
 
@@ -38,4 +38,4 @@ When the Japanese Meiji government formally abolished the Ryukyu Kingdom on 27 M
 
 1. [Ryukyu Kingdom — Wikipedia](https://en.wikipedia.org/wiki/Ryukyu_Kingdom) — Kingdom history, 1429 unification, 1609 Satsuma invasion, 1509 sword hunt inscription, 1879 abolition
 2. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Pechin class practiced weapon arts; farming-tool origin theory critiqued
-3. [Research page](../research) — Primary and secondary bibliographic sources for Ryukyu history and kobudo
+3. [Research page](/en/research) — Primary and secondary bibliographic sources for Ryukyu history and kobudo

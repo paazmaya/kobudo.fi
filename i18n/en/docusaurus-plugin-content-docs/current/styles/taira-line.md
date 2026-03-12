@@ -29,11 +29,11 @@ The organization is formally registered with the Nihon Kobudō Kyōkai under the
 
 The Taira / Hozon Shinkōkai curriculum covers **eight types of weapons** and preserves **more than forty kata**, as documented in _新編・増補 琉球古武道大鑑_ (1997):
 
-**Bō kata (18):** Shūshi no Kon (Shō/Dai/Koshiki), Sakugawa no Kon (Shō/Chū/Dai), Soeishi no Kon (Shō/Dai), Chatan Yara no Kon, Tsuken Bō, Shirataru no Kon (Shō/Dai), Chōun no Kon, Urasoe no Kon, and others
+**[Bō](/en/weapons/bo) kata (18):** [Shūshi no Kon (Shō/Dai/Koshiki), Sakugawa no Kon (Shō/Chū/Dai), Soeishi no Kon (Shō/Dai), Chatan Yara no Kon, Tsuken Bō, Shirataru no Kon (Shō/Dai), Chōun no Kon, Urasoe no Kon, and others](/en/kata/bo-kata)
 
-**Sai kata (8):** Hamahiga no Sai, Hamagotenyaka no Sai, Hantagwa no Sai, Tsuken Shitahaku no Sai, Chatan Yara no Sai, Tawada no Sai, Kochijo no Sai, Jigen no Sai
+**[Sai](/en/weapons/sai) kata (8):** [Hamahiga no Sai, Hamagotenyaka no Sai, Hantagwa no Sai, Tsuken Shitahaku no Sai, Chatan Yara no Sai, Tawada no Sai, Kochijo no Sai, Jigen no Sai](/en/kata/sai-kata)
 
-**Tonfa, Nunchaku, Kama, Tekko, Tinbē-Rochin, Surujin:** 1–2 kata each
+**[Tonfa](/en/weapons/tonfa), [Nunchaku](/en/weapons/nunchaku), [Kama](/en/weapons/kama), [Tekko](/en/weapons/tekko), [Tinbē-Rochin](/en/weapons/tinbe-rochin), [Surujin](/en/weapons/surujin):** 1–2 kata each
 
 ## Technical Character
 
@@ -97,4 +97,4 @@ Soeishi / Chinen Shikiyanaka
 4. [Budokai Kokoro — Kobudo](https://www.budokaikokoro.nl/kobudo.php) — Inoue Motokatsu's background and systematization work
 5. [Koryu Uchinadi — Yamane-ryu](https://www.koryu-uchinadi.com/yamane-ryu/) — Akamine Eisuke's Yamane-line training before Taira
 6. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Context for the Taira curriculum within the broader kobudo tradition
-7. [Research page](../research) — Primary bibliographic sources including _新編・増補 琉球古武道大鑑_ (1997)
+7. [Research page](/en/research) — Primary bibliographic sources including _新編・増補 琉球古武道大鑑_ (1997)

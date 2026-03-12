@@ -30,7 +30,7 @@ This art is described as a palace-guard style including both empty-hand methods 
 
 Tokushinryū is a post-war organization that assembled a curriculum drawing from multiple Okinawan lineages. Its bō kata list includes several families (Sakugawa, Shūshi, Chatan Yara, Tsuken) alongside others not central to the Taira or Matayoshi lists.
 
-The Tokushinryū kata comparison table in the [Kata section](../kata/bo-kata) shows how the same family name can appear with distinct choreographies across four different organizations.
+The Tokushinryū kata comparison table in the [Kata section](/en/kata/bo-kata) shows how the same family name can appear with distinct choreographies across four different organizations.
 
 ## Okinawa Gōjū-ryū Bujutsu (沖縄剛柔流武術)
 
@@ -42,7 +42,7 @@ In practice, some branches of Gōjū-ryū include ancillary weapon work (particu
 
 ## Karate-Based Weapon Curricula
 
-Several mainland and Okinawan karate organizations added weapon kata to their curricula in the post-war period, typically sourced from Taira-line instruction. Groups such as Shōrin-ryū, Isshin-ryū, and various Shotokan affiliates adopted bō kata like Shūshi no Kon and Sakugawa no Kon. These are listed in the [Kata section](../kata/bo-kata) under "Karate weapon syllabi."
+Several mainland and Okinawan karate organizations added weapon kata to their curricula in the post-war period, typically sourced from Taira-line instruction. Groups such as Shōrin-ryū, Isshin-ryū, and various Shotokan affiliates adopted bō kata like Shūshi no Kon and Sakugawa no Kon. These are listed in the [Kata section](/en/kata/bo-kata) under "Karate weapon syllabi."
 
 Tokushinryū draws from multiple Okinawan lineages to build a broad bō kata list including Sakugawa, Shūshi, Chatan Yara and Tsuken families alongside others. It is listed among Nihon Kobudō Kyōkai's recognised weapon arts.
 

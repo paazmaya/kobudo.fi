@@ -16,7 +16,7 @@ loading="lazy"
 style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />
 
-The bō kata corpus is the largest in Ryukyu kobudo and the most widely distributed across different organizations. The key lineages compared below are the **Taira line** (Ryūkyū Kobudō), **Matayoshi Kobudō**, **Yamane-ryū**, and **karate-based weapon syllabi** (including Shōrin-ryū, Isshin-ryū and multi-organization lists like the WUKF/Jundokan catalog).
+The bō kata corpus is the largest in Ryukyu kobudo and the most widely distributed across different organizations. The key lineages compared below are the **[Taira line](/tyylit/taira-linja)** (Ryūkyū Kobudō), **[Matayoshi Kobudō](/tyylit/matayoshi)**, **[Yamane-ryū](/tyylit/yamane-ryu)**, and **karate-based weapon syllabi** (including Shōrin-ryū, Isshin-ryū and multi-organization lists like the WUKF/Jundokan catalog).
 
 ## How to Read This Table
 
@@ -51,4 +51,4 @@ When researching a specific organization's bō curriculum, looking for which fam
 1. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu) — Full RBKD kata list (Donyukon, Choun no Kun, Shuji no Kun, Ryubi no Kon, Sakugawa no Kun, Shirataru no Kun, Yonegawa no Kun, Sunakake no Kun, Chikin Bō)
 2. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo) — Matayoshi bō kata list (Shushi no Kun, Choun no Kun, Sakugawa no Kun, Tsuken no Kun, Shishi no Kun)
 3. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — General distribution of bō kata across lineages
-4. [Research page](../tutkimus) — Primary source references for kata documentation
+4. [Research page](/tutkimus) — Primary source references for kata documentation
