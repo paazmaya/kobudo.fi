@@ -2,10 +2,10 @@
 sidebar_position: 3
 title: Sai
 slug: /aseet/sai
-description: The sai — a metal trident used in pairs or tripplet, the second most kata-rich weapon in Ryukyu kobudo.
+description: The sai, a metal trident used in pairs or tripplet, the second most kata-rich weapon in Ryukyu kobudo.
 ---
 
-# Sai — 釵 (Metal Trident)
+# Sai: 釵 (Metal Trident)
 
 <img
 src="/img/sai-pair-overhead.png"
@@ -35,7 +35,7 @@ The three-sai practice reflects a traditional use where one is thrown to distrac
 
 ## Kata Families
 
-The Taira line preserves eight sai kata organized in three family clusters — see [Sai Kata](/kata/sai-kata) for the full structural analysis:
+The Taira line preserves eight sai kata organized in three family clusters. See [Sai Kata](/kata/sai-kata) for the full structural analysis:
 
 **Hamahiga family:** Hamahiga no Sai → Hamagotenyaka no Sai, Hantagwa no Sai
 
@@ -45,10 +45,10 @@ The Taira line preserves eight sai kata organized in three family clusters — s
 
 ## The Manji-Sai
 
-The _Jigen no Sai_ kata is performed with the **manji-sai** (卍釵) — a variant where the side tines curve in opposite directions (one up, one down). This variant was Taira Shinken's own creation for the Jigen kata. The asymmetric tines create distinct trapping and blocking options compared to standard sai.
+The _Jigen no Sai_ kata is performed with the **manji-sai** (卍釵), a variant where the side tines curve in opposite directions (one up, one down). This variant was Taira Shinken's own creation for the Jigen kata. The asymmetric tines create distinct trapping and blocking options compared to standard sai.
 
 ## Sources
 
-1. [Sai (weapon) — Wikipedia](<https://en.wikipedia.org/wiki/Sai_(weapon)>) — History (approved for Okinawan kobudō use 1668 by Moto Chohei), parts (monouchi, yoku, tsume, moto, tsuka, tsukagashira), use by domestic police (ufuchiku)
-2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken) — Confirms the manji-sai is Taira's own creation
-3. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Confirms 8 sai kata in the Taira curriculum
+1. [Sai (weapon) — Wikipedia](<https://en.wikipedia.org/wiki/Sai_(weapon)>): History (approved for Okinawan kobudō use 1668 by Moto Chohei), parts (monouchi, yoku, tsume, moto, tsuka, tsukagashira), use by domestic police (ufuchiku)
+2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken): Confirms the manji-sai is Taira's own creation
+3. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Confirms 8 sai kata in the Taira curriculum

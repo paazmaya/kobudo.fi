@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
-title: Taira Line — Ryūkyū Kobujutsu
+title: Taira Line: Ryūkyū Kobujutsu
 slug: /styles/taira-line
 description: The Ryūkyū Kobujutsu Hozon Shinkōkai lineage descending from Taira Shinken through Inoue Motokatsu to Inoue Kisho.
 ---
 
-# Taira Line — Ryūkyū Kobujutsu
+# Taira Line: Ryūkyū Kobujutsu
 
 <img
 src="/img/taira-line-scroll.png"
@@ -39,27 +39,27 @@ The Taira / Hozon Shinkōkai curriculum covers **eight types of weapons** and pr
 
 The Taira / Hozon Shinkōkai style is characterized by:
 
-- **Preservation focus** — forms are maintained as closely as possible to what Taira Shinken transmitted
-- **Systematic organization** — the eight-weapon / forty-kata structure provides clear curriculum progression
-- **Formal licensing** — Inoue Motokatsu introduced a formal _menkyo_ (licensing) system modeled on mainland classical arts
+- **Preservation focus:** forms are maintained as closely as possible to what Taira Shinken transmitted
+- **Systematic organization:** the eight-weapon / forty-kata structure provides clear curriculum progression
+- **Formal licensing:** Inoue Motokatsu introduced a formal _menkyo_ (licensing) system modeled on mainland classical arts
 
 ## Key Students and Successors
 
-### Inoue Motokatsu (井上元勝) — Systematizer and mainland heir
+### Inoue Motokatsu (井上元勝): Systematizer and Mainland Heir
 
-Originally a student of Fujita Seiko and Konishi Yasuhiro (Shindō Jinen-ryū), Inoue was directed by his own teachers to study Ryukyu kobudo from Taira. He received **all 42 traditional weapons kata** directly from Taira and, on Taira's instruction, developed a complete technical training framework — *tsukaikata* (usage techniques), *kihon*, basic kumite, and *bunkai kumite* — for each of the eight weapons. He subsequently published three hardcover volumes documenting the 42 kata and a series of weapon-specific training paperbacks (*琉球古武道基本技シリーズ*, 1970s), turning Taira's repertoire into a fully systematized curriculum. His bujutsu background gave the system its characteristic emphasis on paired practice and applied bunkai.
+Originally a student of Fujita Seiko and Konishi Yasuhiro (Shindō Jinen-ryū), Inoue was directed by his own teachers to study Ryukyu kobudo from Taira. He received **all 42 traditional weapons kata** directly from Taira and, on Taira's instruction, developed a complete technical training framework, including *tsukaikata* (usage techniques), *kihon*, basic kumite, and *bunkai kumite*, for each of the eight weapons. He subsequently published three hardcover volumes documenting the 42 kata and a series of weapon-specific training paperbacks (*琉球古武道基本技シリーズ*, 1970s), turning Taira's repertoire into a fully systematized curriculum. His bujutsu background gave the system its characteristic emphasis on paired practice and applied bunkai.
 
-### Inoue Kisho (井上貴勝) — Current head
+### Inoue Kisho (井上貴勝): Current Head
 
 The eldest son of Motokatsu Inoue. He serves as President of both the Ryūkyū Kobujutsu Hozon Shinkōkai and the Yuishinkai (a karate organization his father also founded), maintaining the Taira–Inoue syllabus intact while emphasizing the integration of karate and kobudo practice.
 
-### Akamine Eisuke (赤嶺栄亮) — Yamane and Taira bridge
+### Akamine Eisuke (赤嶺栄亮): Yamane and Taira Bridge
 
 Akamine Eisuke uniquely combined two streams: before studying with Taira, he had already trained Yamane-line bō directly from students of Chinen "Yamani no usume" (Chinen Sandā), acquiring Sakugawa no Kun, Shūshi no Kun, Yonekawa no Kun, Shirotaru no Kun, and others from that separate tradition. His subsequent study under Taira made him a bridge between the Yamane-Chinen bō lineage and Taira's standardized kobudo. Where kata names coincide (Sakugawa, Shūshi, Shirotaru), his versions preserve Yamane flavor within the Taira naming framework. He succeeded Taira in Okinawa following Taira's death in 1970.
 
-### Shimabuku Tatsuo — Isshin-ryū adoption
+### Shimabuku Tatsuo: Isshin-ryū Adoption
 
-Shimabuku Tatsuo, founder of Isshin-ryū karate, trained with Taira in kobudo. Isshin-ryū's standard bō and sai kata (Tokumine no Kun, Urashi no Kun, Chatanyara no Sai, and others) reflects Taira's repertoire as filtered through Shimabuku's own karate body method, stance preferences, and power generation — a clear example of how a karate style reshapes inherited kobudo while retaining the same names and broad *embusen* (form pattern).
+Shimabuku Tatsuo, founder of Isshin-ryū karate, trained with Taira in kobudo. Isshin-ryū's standard bō and sai kata (Tokumine no Kun, Urashi no Kun, Chatanyara no Sai, and others) reflects Taira's repertoire as filtered through Shimabuku's own karate body method, stance preferences, and power generation. This is a clear example of how a karate style reshapes inherited kobudo while retaining the same names and broad *embusen* (form pattern).
 
 ## How Karate Styles Shaped the Transmission
 
@@ -72,7 +72,7 @@ Because most of Taira's close students were already senior karateka in different
 | Shimabuku / Isshin-ryū | Isshin-ryū | Distinct stances, upper body posture, power generation |
 | Shitō-ryū and Shōrin-ryū schools | Various | Style-specific hip work, stance depth, tempo |
 
-All branches share the same kata names and broad structure; the differences lie in stance depth, hip usage, tempo, and application emphasis — each reflecting the karate tradition of the transmitting teacher.
+All branches share the same kata names and broad structure; the differences lie in stance depth, hip usage, tempo, and application emphasis, each reflecting the karate tradition of the transmitting teacher.
 
 ## Lineage Chart
 
@@ -91,10 +91,10 @@ Soeishi / Chinen Shikiyanaka
 
 ## Sources
 
-1. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken) — Biographical details; studied under Yabiku Moden 1929; founded Ryūkyū Kobudō Hozon Shinkokai 1955; cataloged over 40 kata
-2. [Nihon Kobudō Kyōkai — Ryukyu Kobujutsu](https://www.nihonkobudokyoukai.org/martialarts/062/) — Formal listing with Inoue Kisho as current representative
-3. [Ryūkyū Kobujutsu Hozon Shinkōkai — genealogy](https://www.ryukyukobujutsuhozonshinkokai.org/012_en_keifu.html) — Detailed lineage; Inoue's role as recipient of all 42 kata and creator of the kihon/kumite framework
-4. [Budokai Kokoro — Kobudo](https://www.budokaikokoro.nl/kobudo.php) — Inoue Motokatsu's background and systematization work
-5. [Koryu Uchinadi — Yamane-ryu](https://www.koryu-uchinadi.com/yamane-ryu/) — Akamine Eisuke's Yamane-line training before Taira
-6. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Context for the Taira curriculum within the broader kobudo tradition
-7. [Research page](/en/research) — Primary bibliographic sources including _新編・増補 琉球古武道大鑑_ (1997)
+1. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken): Biographical details; studied under Yabiku Moden 1929; founded Ryūkyū Kobudō Hozon Shinkokai 1955; cataloged over 40 kata
+2. [Nihon Kobudō Kyōkai — Ryukyu Kobujutsu](https://www.nihonkobudokyoukai.org/martialarts/062/): Formal listing with Inoue Kisho as current representative
+3. [Ryūkyū Kobujutsu Hozon Shinkōkai — genealogy](https://www.ryukyukobujutsuhozonshinkokai.org/012_en_keifu.html): Detailed lineage; Inoue's role as recipient of all 42 kata and creator of the kihon/kumite framework
+4. [Budokai Kokoro — Kobudo](https://www.budokaikokoro.nl/kobudo.php): Inoue Motokatsu's background and systematization work
+5. [Koryu Uchinadi — Yamane-ryu](https://www.koryu-uchinadi.com/yamane-ryu/): Akamine Eisuke's Yamane-line training before Taira
+6. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Context for the Taira curriculum within the broader kobudo tradition
+7. [Research page](/en/research): Primary bibliographic sources including _新編・増補 琉球古武道大鑑_ (1997)

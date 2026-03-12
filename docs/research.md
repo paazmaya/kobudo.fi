@@ -24,7 +24,7 @@ This page lists core Japanese-language books and reference works for researching
 
 平信賢 著、井上貴勝 監修（榕樹書林, 1997）
 
-Taira Shinken's main technical compendium — over forty kata across eight weapons, based on his earlier privately printed volume and material contributed to Nakasone Genwa's _空手道大観_. Published by 榕樹書林 in Okinawa, 800-copy limited edition. Recommended by the Okinawa Prefectural Library as a principal reference on Ryukyu kobudo.
+Taira Shinken's main technical compendium covers over forty kata across eight weapons, based on his earlier privately printed volume and material contributed to Nakasone Genwa's _空手道大観_. Published by 榕樹書林 in Okinawa, 800-copy limited edition. Recommended by the Okinawa Prefectural Library as a principal reference on Ryukyu kobudo.
 
 ### 琉球古武道基本技シリーズ
 
@@ -76,11 +76,11 @@ Reconstructs the 1609 Satsuma invasion of the Ryukyu Kingdom, discussing Ryukyu'
 
 ## Library Search Strategies
 
-**NDL Search** (国立国会図書館サーチ) — use keywords: `琉球古武道`, `沖縄 伝統 古武道`, `空手道 大観`, `空手道 概説`
+**NDL Search** (国立国会図書館サーチ): use keywords: `琉球古武道`, `沖縄 伝統 古武道`, `空手道 大 観`, `空手道 概説`
 
-**CiNii Books** — especially useful for academic holdings; search by NCID for interlibrary loan.
+**CiNii Books**: especially useful for academic holdings; search by NCID for interlibrary loan.
 
-**Okinawa Prefectural Library** — curated collections; their "空手を知るための10冊" pamphlet is an authoritative local reading list.
+**Okinawa Prefectural Library**: curated collections; their "空手を知るための10冊" pamphlet is an authoritative local reading list.
 
 For kata names: combine personal names (平信賢, 又吉真豊, 山根) with `古武道` or specific weapon terms (棒術, 釵術, トンファー, ヌンチャク, 鎌術, 鉄甲, ティンベー, スルジン).
 

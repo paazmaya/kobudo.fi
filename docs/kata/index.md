@@ -2,10 +2,10 @@
 sidebar_position: 1
 title: Kata
 slug: /kata/
-description: How to read Ryukyu kobudo kata name mappings — the same teacher name or place name recurs across multiple styles, indicating a shared root.
+description: How to read Ryukyu kobudo kata name mappings. The same teacher name or place name recurs across multiple styles, indicating a shared root.
 ---
 
-# Kata — Name Families and Lineages
+# Kata: Name Families and Lineages
 
 <img
 src="/img/banner-kata-scroll.png"
@@ -16,7 +16,7 @@ loading="lazy"
 style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />
 
-Kata name analysis is one of the most useful tools for tracing the history of Ryukyu kobudo. Because kata were transmitted personally without extensive documentation, the names themselves — carrying teacher names, place names, and family lineages — are the primary historical fingerprints.
+Kata name analysis is one of the most useful tools for tracing the history of Ryukyu kobudo. Because kata were transmitted personally without extensive documentation, the names themselves, carrying teacher names, place names, and family lineages, are the primary historical fingerprints.
 
 ## How to Read the Name Mappings
 
@@ -24,7 +24,7 @@ Three principles help navigate the kata name landscape:
 
 ### 1. Teacher names indicate shared roots
 
-When the same teacher name appears in a kata across multiple styles — **周氏** (Shūshi), **佐久川** (Sakugawa), **北谷屋良** (Chatan Yara), **津堅** (Tsuken), **添石** (Soeishi) — this almost always indicates a shared historical root, even when the choreography has diverged significantly.
+When the same teacher name appears in a kata across multiple styles, such as **周氏** (Shūshi), **佐久川** (Sakugawa), **北谷屋良** (Chatan Yara), **津堅** (Tsuken), or **添石** (Soeishi), this almost always indicates a shared historical root, even when the choreography has diverged significantly.
 
 ### 2. Romanization varies widely
 
@@ -42,15 +42,15 @@ Many post-war schools created _Shō_ (small/first) and _Dai_ (large/second) vari
 
 ## Sections
 
-- [Bō Kata](./bo-kata) — Major bō kata families across [Taira](/tyylit/taira-linja), [Matayoshi](/tyylit/matayoshi), [Yamane-ryū](/tyylit/yamane-ryu), and karate weapon curricula
-- [Sai Kata](./sai-kata) — Sai kata families with technical cluster analysis of the [Taira line's](/tyylit/taira-linja) eight sai forms
+- [Bō Kata](./bo-kata): Major bō kata families across [Taira](/tyylit/taira-linja), [Matayoshi](/tyylit/matayoshi), [Yamane-ryū](/tyylit/yamane-ryu), and karate weapon curricula
+- [Sai Kata](./sai-kata): Sai kata families with technical cluster analysis of the [Taira line's](/tyylit/taira-linja) eight sai forms
 
 ## Why Cross-Style Comparison Matters
 
-The same practitioner often studies from more than one teacher, or different teachers in the same village share a common ancestor. Mapping which kata appear in which organizations — and noting which are _absent_ — reveals the historical network that no single organization's curriculum shows alone.
+The same practitioner often studies from more than one teacher, or different teachers in the same village share a common ancestor. Mapping which kata appear in which organizations, including which are _absent_, reveals the historical network that no single organization's curriculum shows alone.
 
 ## Sources
 
-1. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Overview of how kata families are distributed across lineages
-2. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu) — Yamane-ryū/RBKD kata list showing how Yamane-ryū versions differ from Taira-line
-3. [Research page](/tutkimus) — Key Japanese-language source texts for kata documentation
+1. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Overview of how kata families are distributed across lineages
+2. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu): Yamane-ryū/RBKD kata list showing how Yamane-ryū versions differ from Taira-line
+3. [Research page](/tutkimus): Key Japanese-language source texts for kata documentation

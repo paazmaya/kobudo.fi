@@ -2,7 +2,7 @@
 sidebar_position: 2
 title: Bō-kata
 slug: /kata/bo-kata
-description: Cross-style comparison of the major bō (staff) kata families — Shūshi, Sakugawa, Soeishi, Chatan Yara, Tsuken, Shirataru, Chōun, Tokumine and Urasoe.
+description: Cross-style comparison of the major bō (staff) kata families: Shūshi, Sakugawa, Soeishi, Chatan Yara, Tsuken, Shirataru, Chōun, Tokumine and Urasoe.
 ---
 
 # Bō Kata Families
@@ -42,13 +42,13 @@ Each row represents one underlying kata _family_, identified by its kanji name. 
 
 ## Name Cluster Summary
 
-These "name clusters" — 周氏, 佐久川, 北谷屋良, 津堅, 添石, 白樽, 趙雲, 徳嶺, 浦添 — recur across Taira-line Ryukyu kobudo, Matayoshi kobudo, Yamane-ryū, and karate weapon add-ons. Their recurrence implies shared origin with divergent evolution over generations of separate transmission.
+These "name clusters" (周氏, 佐久川, 北谷屋良, 津堅, 添石, 白樽, 趙雲, 徳嶺, 浦添) recur across Taira-line Ryukyu kobudo, Matayoshi kobudo, Yamane-ryū, and karate weapon add-ons. Their recurrence implies shared origin with divergent evolution over generations of separate transmission.
 
-When researching a specific organization's bō curriculum, looking for which families are present and which are absent often reveals which historical teachers they trace back to — even without explicit lineage documentation.
+When researching a specific organization's bō curriculum, looking for which families are present and which are absent often reveals which historical teachers they trace back to, even without explicit lineage documentation.
 
 ## Sources
 
-1. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu) — Full RBKD kata list (Donyukon, Choun no Kun, Shuji no Kun, Ryubi no Kon, Sakugawa no Kun, Shirataru no Kun, Yonegawa no Kun, Sunakake no Kun, Chikin Bō)
-2. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo) — Matayoshi bō kata list (Shushi no Kun, Choun no Kun, Sakugawa no Kun, Tsuken no Kun, Shishi no Kun)
-3. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — General distribution of bō kata across lineages
-4. [Research page](/en/research) — Primary source references for kata documentation
+1. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu): Full RBKD kata list (Donyukon, Choun no Kun, Shuji no Kun, Ryubi no Kon, Sakugawa no Kun, Shirataru no Kun, Yonegawa no Kun, Sunakake no Kun, Chikin Bō)
+2. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo): Matayoshi bō kata list (Shushi no Kun, Choun no Kun, Sakugawa no Kun, Tsuken no Kun, Shishi no Kun)
+3. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): General distribution of bō kata across lineages
+4. [Research page](/en/research): Primary source references for kata documentation

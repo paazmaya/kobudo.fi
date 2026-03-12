@@ -20,22 +20,22 @@ The Ryukyu Kingdom unified the Okinawan islands under King Shō Hashi in 1429, b
 
 ## The Pechin Class
 
-The **Pechin** (佩冠親雲上) were the scholar-warrior administrators of the Ryukyu Kingdom — holders of patents of nobility who staffed the royal court, managed regional governance and served as military officials. Unlike Japanese samurai, the Pechin were not a hereditary warrior aristocracy defined primarily by combat; they were educated officials who also maintained martial skills.
+The **Pechin** (佩冠親雲上) were the scholar-warrior administrators of the Ryukyu Kingdom. They held patents of nobility, staffed the royal court, managed regional governance, and served as military officials. Unlike Japanese samurai, the Pechin were not a hereditary warrior aristocracy defined primarily by combat; they were educated officials who also maintained martial skills.
 
-Weapon arts were preserved and transmitted within Pechin families and through master-student relationships in specific villages and towns. The [place-names embedded in kata titles](/en/history/kata-transmission) — Chatan (北谷), Tsuken (津堅), Urasoe (浦添), Hamahiga (浜比嘉) — reflect the geographic distribution of these lineages across the islands.
+Weapon arts were preserved and transmitted within Pechin families and through master-student relationships in specific villages and towns. The [place-names embedded in kata titles](/en/history/kata-transmission), such as Chatan (北谷), Tsuken (津堅), Urasoe (浦添), and Hamahiga (浜比嘉), reflect the geographic distribution of these lineages across the islands.
 
 ## The 1609 Satsuma Invasion
 
 In 1609 the Satsuma domain of southern Japan invaded and subjugated the Ryukyu Kingdom, creating a dual-submission relationship where the kingdom continued to exist but paid tribute to both Satsuma and China. The impact of this event on weapon practice is debated.
 
-The popular narrative of a "weapon-confiscation edict" is significantly more complex than it is often presented. The 1509 inscription **"百浦添欄干之銘"** (Momourasoe-no-Kanmei) records that King Shō Shin carried out a _sword hunt_ (刀狩り), with weapons confiscated from court nobles and stored under control in the royal armory at Shuri Castle. How this is interpreted matters: the inscription shows the kingdom centralizing weapons under royal authority rather than eliminating them entirely. The 1609 Satsuma invasion on 5 April 1609 brought a further weapons restriction — after conquest, the Shimazu clan placed their own ban on commoner access to swords. These events together shaped a context where weapon practice survived primarily within the Pechin class rather than being broadly distributed.
+The popular narrative of a "weapon-confiscation edict" is significantly more complex than it is often presented. The 1509 inscription **"百浦添欄干之銘"** (Momourasoe-no-Kanmei) records that King Shō Shin carried out a _sword hunt_ (刀狩り), with weapons confiscated from court nobles and stored under control in the royal armory at Shuri Castle. How this is interpreted matters: the inscription shows the kingdom centralizing weapons under royal authority rather than eliminating them entirely. The 1609 Satsuma invasion on 5 April 1609 brought further weapons restrictions. After the conquest, the Shimazu clan placed their own ban on commoner access to swords. These events together shaped a context where weapon practice survived primarily within the Pechin class rather than being broadly distributed.
 
 ## Into the Modern Era
 
-When the Japanese Meiji government formally abolished the Ryukyu Kingdom on 27 March 1879 — an event called the _Ryūkyū shobun_ — the social structures that had supported formal martial transmission were dissolved. Okinawa was incorporated as a Japanese prefecture. The subsequent generation of practitioners preserved what they had received, often informally, until the early 20th century saw renewed interest in systematization under figures such as Yabiku Moden and later Taira Shinken.
+When the Japanese Meiji government formally abolished the Ryukyu Kingdom on 27 March 1879, in an event called the _Ryūkyū shobun_, the social structures that had supported formal martial transmission were dissolved. Okinawa was incorporated as a Japanese prefecture. The subsequent generation of practitioners preserved what they had received, often informally, until the early 20th century saw renewed interest in systematization under figures such as Yabiku Moden and later Taira Shinken.
 
 ## Sources
 
-1. [Ryukyu Kingdom — Wikipedia](https://en.wikipedia.org/wiki/Ryukyu_Kingdom) — Kingdom history, 1429 unification, 1609 Satsuma invasion, 1509 sword hunt inscription, 1879 abolition
-2. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Pechin class practiced weapon arts; farming-tool origin theory critiqued
-3. [Research page](/en/research) — Primary and secondary bibliographic sources for Ryukyu history and kobudo
+1. [Ryukyu Kingdom — Wikipedia](https://en.wikipedia.org/wiki/Ryukyu_Kingdom): Kingdom history, 1429 unification, 1609 Satsuma invasion, 1509 sword hunt inscription, 1879 abolition
+2. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Pechin class practiced weapon arts; farming-tool origin theory critiqued
+3. [Research page](/en/research): Primary and secondary bibliographic sources for Ryukyu history and kobudo

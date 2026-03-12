@@ -2,10 +2,10 @@
 sidebar_position: 4
 title: Yamane-ryū
 slug: /tyylit/yamane-ryu
-description: Yamane-ryū Bojutsu — the fluid, long-range staff tradition associated with the Yamane and Chinen families of Okinawa.
+description: Yamane-ryū Bojutsu: the fluid, long-range staff tradition associated with the Yamane and Chinen families of Okinawa.
 ---
 
-# Yamane-ryū — 山根流棒術
+# Yamane-ryū: 山根流棒術
 
 <img
 src="/img/yamane-bojutsu.png"
@@ -22,11 +22,11 @@ Yamane-ryū is a bō-specialized lineage distinguished by its fluid, long-range 
 
 The Yamane-ryū approach to bō is often described as:
 
-- **Long-range and sweeping** — techniques favor extended reach and circular movements
-- **Fluid transitions** — sequences flow continuously without heavy staccato stops
-- **Naha-area roots** — associated with the Tomari and Naha districts rather than the Shuri-centred traditions
+- **Long-range and sweeping**: techniques favor extended reach and circular movements
+- **Fluid transitions**: sequences flow continuously without heavy staccato stops
+- **Naha-area roots**: associated with the Tomari and Naha districts rather than the Shuri-centred traditions
 
-These characteristics make Yamane-ryū bō kata immediately recognizable even when they carry the same name as a Taira-line version — the rhythmic quality and body dynamics are distinctly different.
+These characteristics make Yamane-ryū bō kata immediately recognizable even when they carry the same name as a Taira-line version. The rhythmic quality and body dynamics are distinctly different.
 
 ## Key Kata
 
@@ -64,6 +64,6 @@ The style is traced to **Sanda Chinen** (知念砂谷, 1842–1925), whose chara
 
 ## Sources
 
-1. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu) — Style history, Sanda Chinen (1842–1925), RBKD founding (1985), Higa Seitoku lineage, full kata list
-2. [Bō — Wikipedia](https://en.wikipedia.org/wiki/B%C5%8D) — Notes that Yamanni-ryū strikes resemble yari (spear) and naginata (glaive) techniques
-3. [Research page](/tutkimus) — Key bibliographic sources for Yamane-ryū lineage
+1. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu): Style history, Sanda Chinen (1842–1925), RBKD founding (1985), Higa Seitoku lineage, full kata list
+2. [Bō — Wikipedia](https://en.wikipedia.org/wiki/B%C5%8D): Notes that Yamanni-ryū strikes resemble yari (spear) and naginata (glaive) techniques
+3. [Research page](/tutkimus): Key bibliographic sources for Yamane-ryū lineage

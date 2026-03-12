@@ -2,10 +2,10 @@
 sidebar_position: 3
 title: Matayoshi Kobudo
 slug: /styles/matayoshi
-description: The Matayoshi Kobudo lineage — Kingai-ryū karate and Okinawan kobujutsu, with Chinese-influenced technique and wide weapon range.
+description: The Matayoshi Kobudo lineage, combining Kingai-ryū karate and Okinawan kobujutsu, with Chinese-influenced technique and wide weapon range.
 ---
 
-# Matayoshi Kobudo — 金硬流唐手沖縄古武術
+# Matayoshi Kobudo: 金硬流唐手沖縄古武術
 
 <img
 src="/img/matayoshi-weapons.png"
@@ -43,7 +43,7 @@ This breadth reflects the Matayoshi family's emphasis on preserving farming, fis
 
 ## Shared Kata Names with the Taira Line
 
-Despite being organizationally distinct, Matayoshi kobudo and the Taira line share many kata names — [Shushi no Kon, Sakugawa no Kon, Chatan Yara no Kon, Tsuken no Kon, Chōun no Kon](/en/kata/bo-kata) — because both lineages draw from the same historical pool of Ryukyuan weapon kata. The choreographic versions differ; the family relationships are shared.
+Despite being organizationally distinct, Matayoshi kobudo and the Taira line share many kata names, such as [Shushi no Kon, Sakugawa no Kon, Chatan Yara no Kon, Tsuken no Kon, Chōun no Kon](/en/kata/bo-kata), because both lineages draw from the same historical pool of Ryukyuan weapon kata. The choreographic versions differ; the family relationships are shared.
 
 ## Lineage
 
@@ -64,7 +64,7 @@ In the early 20th century **Matayoshi Shinko** (又吉真光, 1888–1947) demon
 
 ## Sources
 
-1. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo) — Full lineage history, Shinko/Shinpo biography, Zen Okinawan Kobudo Renmei founding (1972), ~2,000 dojos worldwide
-2. [Nihon Kobudō Kyōkai — Matayoshi](https://www.nihonkobudokyoukai.org/martialarts/066/) — Formal recognition listing with Matayoshi Yasushi as current representative
-3. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Context for the Matayoshi school within the Okinawan kobudo tradition
-4. [International Matayoshi Kobudo Association](https://www.matayoshikobudo.org) — Current international organization
+1. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo): Full lineage history, Shinko/Shinpo biography, Zen Okinawan Kobudo Renmei founding (1972), ~2,000 dojos worldwide
+2. [Nihon Kobudō Kyōkai — Matayoshi](https://www.nihonkobudokyoukai.org/martialarts/066/): Formal recognition listing with Matayoshi Yasushi as current representative
+3. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Context for the Matayoshi school within the Okinawan kobudo tradition
+4. [International Matayoshi Kobudo Association](https://www.matayoshikobudo.org): Current international organization

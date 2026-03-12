@@ -2,10 +2,10 @@
 sidebar_position: 5
 title: Nunchaku
 slug: /aseet/nunchaku
-description: The nunchaku — two hardwood sticks connected by rope or chain, associated with agricultural threshing tool origins.
+description: The nunchaku, two hardwood sticks connected by rope or chain, associated with agricultural threshing tool origins.
 ---
 
-# Nunchaku — ヌンチャク
+# Nunchaku (ヌンチャク)
 
 <img
 src="/img/nunchaku-coiled.png"
@@ -32,17 +32,17 @@ The standard origin theory connects the nunchaku to an agricultural flail used f
 
 ## Technique
 
-Nunchaku technique centers on **swinging momentum and sudden direction change** — the weapon builds kinetic energy in circular swings, then the path of the free stick is redirected or arrested by the grip hand. Basic techniques include overhead swing-and-catch, side figure-eight patterns, and close-range grip-work.
+Nunchaku technique centers on **swinging momentum and sudden direction change**: the weapon builds kinetic energy in circular swings, then the path of the free stick is redirected or arrested by the grip hand. Basic techniques include overhead swing-and-catch, side figure-eight patterns, and close-range grip-work.
 
 The weapon requires careful coordination because a poorly controlled swing strikes the practitioner. Learning nunchaku therefore develops the same body coordination and spatial awareness that benefits all weapon practice.
 
 ## Kata in the Taira Curriculum
 
-- **Nunchaku no Hyōshi** (ヌンチャクの拍子 / First kata) — The foundational form. Develops basic swing-and-catch patterns, overhead arcs, side figure-eights, and close-range grip work.
-- **Maezato no Nunchaku** (前里のヌンチャク) — Composed by Taira Shinken himself; the name Maezato derives from his birth name before adoption. This is the primary transmitted nunchaku kata in the Ryukyu kobudō curriculum. Matayoshi Kobudo preserves a separate form: Nunchaku no Kata.
+- **Nunchaku no Hyōshi** (ヌンチャクの拍子 / First kata): The foundational form. Develops basic swing-and-catch patterns, overhead arcs, side figure-eights, and close-range grip work.
+- **Maezato no Nunchaku** (前里のヌンチャク): Composed by Taira Shinken himself; the name Maezato derives from his birth name before adoption. This is the primary transmitted nunchaku kata in the Ryukyu kobudy curriculum. Matayoshi Kobudo preserves a separate form: Nunchaku no Kata.
 
 ## Sources
 
-1. [Nunchaku — Wikipedia](https://en.wikipedia.org/wiki/Nunchaku) — Construction (~30 cm sticks, rope or chain connection), origin theories (flail, horse bit, hyoshiki clappers), notes peasant-origin theory is "romantic exaggeration"; martial arts in Okinawa practiced by aristocracy and Pechin, not commoners
-2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken) — Confirms Taira created the Maezato no Nunchaku kata
-3. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo) — Matayoshi nunchaku kata (Nunchaku no Kata / threshing short staff)
+1. [Nunchaku — Wikipedia](https://en.wikipedia.org/wiki/Nunchaku): Construction (~30 cm sticks, rope or chain connection), origin theories (flail, horse bit, hyoshiki clappers), notes peasant-origin theory is "romantic exaggeration"; martial arts in Okinawa practiced by aristocracy and Pechin, not commoners
+2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken): Confirms Taira created the Maezato no Nunchaku kata
+3. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo): Matayoshi nunchaku kata (Nunchaku no Kata / threshing short staff)

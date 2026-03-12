@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Tyylit ja Koulukunnat
 slug: /tyylit/
-description: Overview of the major styles and lineages of Ryukyu kobudo — Taira line, Matayoshi, Yamane-ryū and others.
+description: Overview of the major styles and lineages of Ryukyu kobudo: Taira line, Matayoshi, Yamane-ryū and others.
 ---
 
 # Styles & Lineages
@@ -16,7 +16,7 @@ loading="lazy"
 style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
 />
 
-Ryukyu weapon arts are not a single unified system. Several distinct lineages developed in parallel, each tracing a teacher-student chain back to named practitioners of the Ryukyu Kingdom era. They share a common pool of kata names and, in many cases, underlying technical patterns — but differ in curriculum emphasis, weapon selection, and stylistic interpretation.
+Ryukyu weapon arts are not a single unified system. Several distinct lineages developed in parallel, each tracing a teacher-student chain back to named practitioners of the Ryukyu Kingdom era. They share a common pool of kata names and, in many cases, underlying technical patterns, but differ in curriculum emphasis, weapon selection, and stylistic interpretation.
 
 ## The Major Lineages
 
@@ -29,9 +29,9 @@ Ryukyu weapon arts are not a single unified system. Several distinct lineages de
 
 ## Shared Heritage
 
-A key insight when studying these lineages: the same kata name appearing in multiple organizations almost always indicates a **shared historical root**, not copying. [Sakugawa no Kon](/kata/bo-kata), for example, appears in virtually every Okinawan kobudo organization — Taira, Matayoshi, Yamane-ryū, and karate-based weapon curricula — because it represents one of the oldest and most widely distributed bō-kata families, traced back to Sakugawa Kanga of the Shuri tradition.
+A key insight when studying these lineages: the same kata name appearing in multiple organizations almost always indicates a **shared historical root**, not copying. [Sakugawa no Kon](/kata/bo-kata), for example, appears in virtually every Okinawan kobudo organization, including Taira, Matayoshi, Yamane-ryū, and karate-based weapon curricula, because it represents one of the oldest and most widely distributed bō-kata families, traced back to Sakugawa Kanga of the Shuri tradition.
 
-The technical choreography of each organization's version will differ. What is shared is the family lineage — a cluster of techniques, a rhythm, a set of core sequences that identify the kata as belonging to this tradition rather than that one.
+The technical choreography of each organization's version will differ. What is shared is the family lineage: a cluster of techniques, a rhythm, a set of core sequences that identify the kata as belonging to this tradition rather than that one.
 
 ## Nihon Kobudō Kyōkai Recognition
 
@@ -46,7 +46,7 @@ See the [Taira Line](./taira-linja) and [Other Styles](./muut-tyylit) pages for 
 
 ## Sources
 
-1. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D) — Overview of major lineages and their historical relationships
-2. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu) — Yamane-ryū / RBKD lineage details
-3. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo) — Matayoshi lineage, Zen Okinawan Kobudo Renmei founded 1972
-4. [Nihon Kobudō Kyōkai recognized arts](https://www.nihonkobudokyoukai.org/martialarts/062/) — Formal recognition of the Taira lineage
+1. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Overview of major lineages and their historical relationships
+2. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu): Yamane-ryū / RBKD lineage details
+3. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo): Matayoshi lineage, Zen Okinawan Kobudo Renmei founded 1972
+4. [Nihon Kobudō Kyōkai recognized arts](https://www.nihonkobudokyoukai.org/martialarts/062/): Formal recognition of the Taira lineage

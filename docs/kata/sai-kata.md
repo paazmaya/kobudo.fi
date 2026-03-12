@@ -2,7 +2,7 @@
 sidebar_position: 3
 title: Sai-kata
 slug: /kata/sai-kata
-description: Technical analysis of the Taira-line sai kata — the three family clusters (Hamahiga, Tsuken–Chatan–Tawada, Kochijo–Jigen) and their structural relationships.
+description: Technical analysis of the Taira-line sai kata, covering the three family clusters (Hamahiga, Tsuken–Chatan–Tawada, Kochijo–Jigen) and their structural relationships.
 ---
 
 # Sai Kata Families
@@ -20,17 +20,17 @@ The Taira line preserves eight sai kata. An analysis by the Bushukan research gr
 
 ## The Three Cluster Analysis
 
-The Bushukan analysis starts from the observation that Taira attributed seven of his eight sai kata to historical tradition, while one — **Jigen no Sai** — is explicitly identified as his own composition. This leaves seven "old forms" to compare.
+The Bushukan analysis starts from the observation that Taira attributed seven of his eight sai kata to historical tradition, while **Jigen no Sai** is explicitly identified as his own composition. This leaves seven "old forms" to compare.
 
 ### Cluster 1: The Hamahiga Family
 
 **浜比嘉の釵 (Hamahiga no Sai)** is argued to be the structural "source" form. Its sequences recur across two closely related kata:
 
-| Kata                 | Japanese         | Relationship                                          |
-| -------------------- | ---------------- | ----------------------------------------------------- |
-| Hamahiga no Sai      | 浜比嘉の釵       | Source form — structural elements recur in both below |
-| Hamagotenyaka no Sai | 浜御殿屋可阿の釵 | Shares many phrases with Hamahiga; closely related    |
-| Hantagwa no Sai      | 端多小の釵       | Structurally close; similar embusen and techniques    |
+| Kata                 | Japanese         | Relationship                                         |
+| -------------------- | ---------------- | ---------------------------------------------------- |
+| Hamahiga no Sai      | 浜比尌の釵       | Source form: structural elements recur in both below |
+| Hamagotenyaka no Sai | 浜御殿屋可阿の釵 | Shares many phrases with Hamahiga; closely related   |
+| Hantagwa no Sai      | 端多小の釵       | Structurally close; similar embusen and techniques   |
 
 These three form one sub-family: elaborations or reorganizations of the Hamahiga structural template.
 
@@ -53,7 +53,7 @@ The Bushukan analysis suggests these three share a common underlying pattern tha
 | Kochijo no Sai | 湖城の釵 | Listed among Taira's eight traditional sai kata                    |
 | Jigen no Sai   | 慈元の釵 | Taira's own creative work; explicitly "almost the same as Kochijo" |
 
-**Jigen no Sai** is performed with the **manji-sai** (卍釵) — a variant where the tines curve in opposite directions. Taira adapted Kochijo's structure to exploit the unique geometry of this weapon, adding more frequent _hon-te_ (orthodox grip) thrusts. The result is functionally a creative variation of Kochijo rather than an independent kata.
+**Jigen no Sai** is performed with the **manji-sai** (卍釵), a variant where the tines curve in opposite directions. Taira adapted Kochijo's structure to exploit the unique geometry of this weapon, adding more frequent _hon-te_ (orthodox grip) thrusts. The result is functionally a creative variation of Kochijo rather than an independent kata.
 
 ## Internal Map Summary
 
@@ -71,10 +71,10 @@ Kochijo–Jigen pair:
 
 ## Cross-Style Presence
 
-All five cluster-root names — Hamahiga, Chatan Yara, Tsuken, Tawada, Kochijo — also appear in multi-organization kobudo kata lists, confirming that other schools have incorporated versions of these families. The choreographic versions differ; the family roots are shared.
+All five cluster-root names (Hamahiga, Chatan Yara, Tsuken, Tawada, and Kochijo) also appear in multi-organization kobudo kata lists, confirming that other schools have incorporated versions of these families. The choreographic versions differ; the family roots are shared.
 
 ## Sources
 
-1. [Sai (weapon) — Wikipedia](<https://en.wikipedia.org/wiki/Sai_(weapon)>) — Confirms sai was historically used by Okinawan domestic police (ufuchiku) for crowd control and arrest
-2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken) — Notes the manji-sai variant is Taira's own creation for Jigen no Sai
-3. [Research page](/tutkimus) — _新編・増補 琉球古武道大鑑_ (1997) as the primary published source for Taira's eight sai kata
+1. [Sai (weapon) — Wikipedia](<https://en.wikipedia.org/wiki/Sai_(weapon)>): Confirms sai was historically used by Okinawan domestic police (ufuchiku) for crowd control and arrest
+2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken): Notes the manji-sai variant is Taira's own creation for Jigen no Sai
+3. [Research page](/tutkimus): _新編・増補 琉球古武道大鑑_ (1997) as the primary published source for Taira's eight sai kata
