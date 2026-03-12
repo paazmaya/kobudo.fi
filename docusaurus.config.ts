@@ -123,6 +123,7 @@ const config: Config = {
         hashed: true,
         language: ['fi', 'en'],
         indexPages: true,
+        indexBlog: false,
       },
     ],
     [

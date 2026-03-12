@@ -12,7 +12,7 @@ Taira Shinken’s main technical compendium collects over forty kata across eigh
 
 ### 『琉球古武術』および関連公刊物（琉球古武術保存振興会系）
 
-Web materials from the Ryūkyū Kobujutsu Hozon Shinkōkai and related dōjō summarize the lineage from Yabiku Moden through Taira Shinken to Inoue Motokatsu and Inoue Takakatsu, and list the eight weapons and major kata groups preserved in this line. These sources are useful for mapping which kata in 『琉球古武道大鑑』 correspond to historical figures such as Soeishi, Chinen, and Chatan Yara, and how the weapons curriculum was systematized in the 20th century.[^11][^12][^13][^4]
+Web materials from the Ryūkyū Kobujutsu Hozon Shinkōkai and related dōjō summarize the lineage from Yabiku Moden through Taira Shinken to Inoue Motokatsu and Inoue Kisho, and list the eight weapons and major kata groups preserved in this line. These sources are useful for mapping which kata in 『琉球古武道大鑑』 correspond to historical figures such as Soeishi, Chinen, and Chatan Yara, and how the weapons curriculum was systematized in the 20th century.[^11][^12][^13][^4]
 
 ## Encyclopedic and survey references on Okinawan karate and kobudō
 

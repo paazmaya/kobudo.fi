@@ -115,6 +115,9 @@ export default function LocaleDropdownNavbarItem({
       locale === currentLocale
         ? mobile ? 'menu__link--active' : 'dropdown__link--active'
         : '',
+    onClick: () => {
+      try { localStorage.setItem('kobudo-locale', locale); } catch (e) {}
+    },
   }));
 
   const items = [...dropdownItemsBefore, ...localeItems, ...dropdownItemsAfter];

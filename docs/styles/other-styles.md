@@ -50,7 +50,7 @@ Tokushinryū draws from multiple Okinawan lineages to build a broad bō kata lis
 
 ## Sources
 
-1. [Nihon Kobudō Kyōkai — Ryukyu Kobujutsu](https://www.nihonkobudokyoukai.org/martialarts/062/) — Inoue Takakatsu / Taira line listing
+1. [Nihon Kobudō Kyōkai — Ryukyu Kobujutsu](https://www.nihonkobudokyoukai.org/martialarts/062/) — Inoue Kisho / Taira line listing
 2. [Nihon Kobudō Kyōkai — Matayoshi](https://www.nihonkobudokyoukai.org/martialarts/066/) — Matayoshi Yasushi listing
 3. [Nihon Kobudō Kyōkai — Motobu Udun-di](https://www.nihonkobudokyoukai.org/martialarts/065/) — Motobu Chōsei, palace art listing
 4. [Nihon Kobudō Kyōkai — Okinawa Gōjū-ryū Bujutsu](https://www.nihonkobudokyoukai.org/martialarts/067/) — Higashionna Morio listing

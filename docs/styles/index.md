@@ -37,7 +37,7 @@ The technical choreography of each organization's version will differ. What is s
 
 Four Ryukyu-related weapon arts are registered with the **Nihon Kobudō Kyōkai** (日本古武道協会), giving them formal recognition within Japan's national framework for classical martial arts:
 
-- 琉球古武術 (Inoue Takakatsu / Taira line)
+- 琉球古武術 (Inoue Kisho / Taira line)
 - 金硬流唐手沖縄古武術 (Matayoshi Yasushi)
 - 琉球王家秘伝本部御殿手 (Motobu Chōsei)
 - 沖縄剛柔流武術 (Higashionna Morio)
