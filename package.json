@@ -6,6 +6,8 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start --port 9900",
     "build": "docusaurus build",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,css,scss,yml,yaml}\"",
+    "format:check": "prettier --check \"**/*.{ts,tsx,js,jsx,json,css,scss,yml,yaml}\"",
     "serve": "docusaurus serve --port 9901",
     "clear": "docusaurus clear",
     "swizzle": "docusaurus swizzle",
@@ -30,6 +32,7 @@
     "@docusaurus/module-type-aliases": "3.9.2",
     "@docusaurus/tsconfig": "3.9.2",
     "@docusaurus/types": "3.9.2",
+    "prettier": "3.6.2",
     "typescript": "5.6.2"
   },
   "browserslist": {

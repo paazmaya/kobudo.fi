@@ -1,0 +1,7 @@
+# Generated output and dependencies
+build/
+node_modules/
+
+# Keep Docusaurus frontmatter quotes untouched in docs
+**/*.md
+**/*.mdx
