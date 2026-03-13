@@ -12,13 +12,13 @@
  *
  * Result: exactly one item is "active" at any URL.
  */
-import React from 'react';
-import {useLocation} from '@docusaurus/router';
+import React from "react";
+import { useLocation } from "@docusaurus/router";
 import {
   useActiveDocContext,
   useLayoutDoc,
-} from '@docusaurus/plugin-content-docs/client';
-import DefaultNavbarItem from '@theme/NavbarItem/DefaultNavbarItem';
+} from "@docusaurus/plugin-content-docs/client";
+import DefaultNavbarItem from "@theme/NavbarItem/DefaultNavbarItem";
 
 type Props = {
   docId: string;
@@ -33,9 +33,9 @@ export default function DocNavbarItem({
   docsPluginId,
   ...props
 }: Props): React.ReactElement | null {
-  const {activeDoc} = useActiveDocContext(docsPluginId);
+  const { activeDoc } = useActiveDocContext(docsPluginId);
   const doc = useLayoutDoc(docId, docsPluginId);
-  const {pathname} = useLocation();
+  const { pathname } = useLocation();
 
   if (doc === null) {
     return null;
@@ -47,7 +47,7 @@ export default function DocNavbarItem({
   // any path nested beneath it.
   //  /historia/       matches /historia/taira-shinken  ✓
   //  /tutkimus        matches /tutkimus only            ✓ (won't match /tutkimus-xyz)
-  const basePath = doc.path.endsWith('/') ? doc.path : doc.path + '/';
+  const basePath = doc.path.endsWith("/") ? doc.path : doc.path + "/";
   const prefixActive = pathname === doc.path || pathname.startsWith(basePath);
 
   if (doc.unlisted && !pageActive) {

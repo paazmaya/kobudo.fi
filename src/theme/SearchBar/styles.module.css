@@ -72,7 +72,11 @@
 
 .closeButton:hover,
 .closeButton:focus-visible {
-  background-color: color-mix(in srgb, var(--ifm-color-primary) 24%, transparent);
+  background-color: color-mix(
+    in srgb,
+    var(--ifm-color-primary) 24%,
+    transparent
+  );
 }
 
 .searchContainer {

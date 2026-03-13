@@ -1,17 +1,20 @@
-import React, {useCallback, useEffect, useRef, useState} from 'react';
-import clsx from 'clsx';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import useIsBrowser from '@docusaurus/useIsBrowser';
-import {useHistory, useLocation} from '@docusaurus/router';
-import {translate} from '@docusaurus/Translate';
+import React, { useCallback, useEffect, useRef, useState } from "react";
+import clsx from "clsx";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import useIsBrowser from "@docusaurus/useIsBrowser";
+import { useHistory, useLocation } from "@docusaurus/router";
+import { translate } from "@docusaurus/Translate";
 import {
   useActivePlugin,
   useActiveVersion,
-} from '@docusaurus/plugin-content-docs/client';
-import {fetchIndexesByWorker, searchByWorker} from '@easyops-cn/docusaurus-search-local/dist/client/client/theme/searchByWorker';
-import {SuggestionTemplate} from '@easyops-cn/docusaurus-search-local/dist/client/client/theme/SearchBar/SuggestionTemplate';
-import {EmptyTemplate} from '@easyops-cn/docusaurus-search-local/dist/client/client/theme/SearchBar/EmptyTemplate';
-import {SearchDocumentType} from '@easyops-cn/docusaurus-search-local/dist/client/shared/interfaces';
+} from "@docusaurus/plugin-content-docs/client";
+import {
+  fetchIndexesByWorker,
+  searchByWorker,
+} from "@easyops-cn/docusaurus-search-local/dist/client/client/theme/searchByWorker";
+import { SuggestionTemplate } from "@easyops-cn/docusaurus-search-local/dist/client/client/theme/SearchBar/SuggestionTemplate";
+import { EmptyTemplate } from "@easyops-cn/docusaurus-search-local/dist/client/client/theme/SearchBar/EmptyTemplate";
+import { SearchDocumentType } from "@easyops-cn/docusaurus-search-local/dist/client/shared/interfaces";
 import {
   Mark,
   searchBarShortcut,
@@ -23,16 +26,20 @@ import {
   hideSearchBarWithNoSearchContext,
   useAllContextsWithNoSearchContext,
   askAi,
-} from '@easyops-cn/docusaurus-search-local/dist/client/client/utils/proxiedGenerated';
-import LoadingRing from '@easyops-cn/docusaurus-search-local/dist/client/client/theme/LoadingRing/LoadingRing';
-import {normalizeContextByPath} from '@easyops-cn/docusaurus-search-local/dist/client/client/utils/normalizeContextByPath';
-import {searchResultLimits} from '@easyops-cn/docusaurus-search-local/dist/client/client/utils/proxiedGeneratedConstants';
-import {parseKeymap, matchesKeymap, getKeymapHints} from '@easyops-cn/docusaurus-search-local/dist/client/client/utils/keymap';
-import {isMacPlatform} from '@easyops-cn/docusaurus-search-local/dist/client/client/utils/platform';
-import styles from './ForkedSearchBar.module.css';
+} from "@easyops-cn/docusaurus-search-local/dist/client/client/utils/proxiedGenerated";
+import LoadingRing from "@easyops-cn/docusaurus-search-local/dist/client/client/theme/LoadingRing/LoadingRing";
+import { normalizeContextByPath } from "@easyops-cn/docusaurus-search-local/dist/client/client/utils/normalizeContextByPath";
+import { searchResultLimits } from "@easyops-cn/docusaurus-search-local/dist/client/client/utils/proxiedGeneratedConstants";
+import {
+  parseKeymap,
+  matchesKeymap,
+  getKeymapHints,
+} from "@easyops-cn/docusaurus-search-local/dist/client/client/utils/keymap";
+import { isMacPlatform } from "@easyops-cn/docusaurus-search-local/dist/client/client/utils/platform";
+import styles from "./ForkedSearchBar.module.css";
 
 async function fetchAutoCompleteJS() {
-  const autoCompleteModule = await import('@easyops-cn/autocomplete.js');
+  const autoCompleteModule = await import("@easyops-cn/autocomplete.js");
   const autoComplete = autoCompleteModule.default;
   if (autoComplete.noConflict) {
     autoComplete.noConflict();
@@ -44,8 +51,8 @@ async function fetchAutoCompleteJS() {
 
 async function fetchOpenAskAI() {
   try {
-    const openAskAIModule = await import('open-ask-ai');
-    await import('open-ask-ai/styles.css');
+    const openAskAIModule = await import("open-ask-ai");
+    await import("open-ask-ai/styles.css");
     return {
       AskAIWidget: openAskAIModule.AskAIWidget,
     };
@@ -54,13 +61,13 @@ async function fetchOpenAskAI() {
   }
 }
 
-const SEARCH_PARAM_HIGHLIGHT = '_highlight';
+const SEARCH_PARAM_HIGHLIGHT = "_highlight";
 
-export default function ForkedSearchBar({handleSearchBarToggle}) {
+export default function ForkedSearchBar({ handleSearchBarToggle }) {
   const isBrowser = useIsBrowser();
   const {
-    siteConfig: {baseUrl},
-    i18n: {currentLocale},
+    siteConfig: { baseUrl },
+    i18n: { currentLocale },
   } = useDocusaurusContext();
 
   const activePlugin = useActivePlugin();
@@ -81,30 +88,30 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
 
   const [loading, setLoading] = useState(false);
   const [inputChanged, setInputChanged] = useState(false);
-  const [inputValue, setInputValue] = useState('');
+  const [inputValue, setInputValue] = useState("");
   const search = useRef(null);
   const askAIWidgetRef = useRef(null);
   const [AskAIWidgetComponent, setAskAIWidgetComponent] = useState(null);
 
-  const prevSearchContext = useRef('');
-  const [searchContext, setSearchContext] = useState('');
+  const prevSearchContext = useRef("");
+  const [searchContext, setSearchContext] = useState("");
   const prevVersionUrl = useRef(baseUrl);
 
   useEffect(() => {
     if (!Array.isArray(searchContextByPaths)) {
       if (prevVersionUrl.current !== versionUrl) {
-        indexStateMap.current.delete('');
+        indexStateMap.current.delete("");
         prevVersionUrl.current = versionUrl;
       }
       return;
     }
 
-    let nextSearchContext = '';
+    let nextSearchContext = "";
     if (location.pathname.startsWith(versionUrl)) {
       const uri = location.pathname.substring(versionUrl.length);
       let matchedPath;
       for (const _path of searchContextByPaths) {
-        const path = typeof _path === 'string' ? _path : _path.path;
+        const path = typeof _path === "string" ? _path : _path.path;
         if (uri === path || uri.startsWith(`${path}/`)) {
           matchedPath = path;
           break;
@@ -125,14 +132,14 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
   const hidden =
     !!hideSearchBarWithNoSearchContext &&
     Array.isArray(searchContextByPaths) &&
-    searchContext === '';
+    searchContext === "";
 
   const loadIndex = useCallback(async () => {
     if (hidden || indexStateMap.current.get(searchContext)) {
       return;
     }
 
-    indexStateMap.current.set(searchContext, 'loading');
+    indexStateMap.current.set(searchContext, "loading");
     search.current?.autocomplete.destroy();
     setLoading(true);
 
@@ -146,17 +153,17 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
       setAskAIWidgetComponent(() => openAskAIModule.AskAIWidget);
     }
 
-    const searchFooterLinkElement = ({query, isEmpty}) => {
-      const a = document.createElement('a');
+    const searchFooterLinkElement = ({ query, isEmpty }) => {
+      const a = document.createElement("a");
       const params = new URLSearchParams();
-      params.set('q', query);
+      params.set("q", query);
       let linkText;
 
       if (searchContext) {
         const detailedSearchContext =
           searchContext && Array.isArray(searchContextByPaths)
             ? searchContextByPaths.find((item) =>
-                typeof item === 'string'
+                typeof item === "string"
                   ? item === searchContext
                   : item.path === searchContext,
               )
@@ -168,24 +175,24 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
         if (useAllContextsWithNoSearchContext && isEmpty) {
           linkText = translate(
             {
-              id: 'theme.SearchBar.seeAllOutsideContext',
+              id: "theme.SearchBar.seeAllOutsideContext",
               message: 'See all results outside "{context}"',
             },
-            {context: translatedSearchContext},
+            { context: translatedSearchContext },
           );
         } else {
           linkText = translate(
             {
-              id: 'theme.SearchBar.searchInContext',
+              id: "theme.SearchBar.searchInContext",
               message: 'See all results within "{context}"',
             },
-            {context: translatedSearchContext},
+            { context: translatedSearchContext },
           );
         }
       } else {
         linkText = translate({
-          id: 'theme.SearchBar.seeAll',
-          message: 'See all results',
+          id: "theme.SearchBar.seeAll",
+          message: "See all results",
         });
       }
 
@@ -194,7 +201,7 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
         Array.isArray(searchContextByPaths) &&
         (!useAllContextsWithNoSearchContext || !isEmpty)
       ) {
-        params.set('ctx', searchContext);
+        params.set("ctx", searchContext);
       }
 
       if (versionUrl !== baseUrl) {
@@ -203,13 +210,13 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
             `Version url '${versionUrl}' does not start with base url '${baseUrl}'.`,
           );
         }
-        params.set('version', versionUrl.substring(baseUrl.length));
+        params.set("version", versionUrl.substring(baseUrl.length));
       }
 
       const url = `${baseUrl}search/?${params.toString()}`;
       a.href = url;
       a.textContent = linkText;
-      a.addEventListener('click', (e) => {
+      a.addEventListener("click", (e) => {
         if (!e.ctrlKey && !e.metaKey) {
           e.preventDefault();
           search.current?.autocomplete.close();
@@ -228,7 +235,7 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
         autoWidth: false,
         cssClasses: {
           root: clsx(styles.searchBar, {
-            [styles.searchBarLeft]: searchBarPosition === 'left',
+            [styles.searchBarLeft]: searchBarPosition === "left",
           }),
           noPrefix: true,
           dropdownMenu: styles.dropdownMenu,
@@ -255,8 +262,8 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
                 {
                   document: {
                     i: -1,
-                    t: '',
-                    u: '',
+                    t: "",
+                    u: "",
                   },
                   type: SearchDocumentType.AskAI,
                   page: undefined,
@@ -272,12 +279,15 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
           templates: {
             suggestion: SuggestionTemplate,
             empty: EmptyTemplate,
-            footer: ({query, isEmpty}) => {
-              if (isEmpty && (!searchContext || !useAllContextsWithNoSearchContext)) {
+            footer: ({ query, isEmpty }) => {
+              if (
+                isEmpty &&
+                (!searchContext || !useAllContextsWithNoSearchContext)
+              ) {
                 return;
               }
-              const a = searchFooterLinkElement({query, isEmpty});
-              const div = document.createElement('div');
+              const a = searchFooterLinkElement({ query, isEmpty });
+              const div = document.createElement("div");
               div.className = styles.hitFooter;
               div.appendChild(a);
               return div;
@@ -286,31 +296,34 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
         },
       ],
     )
-      .on('autocomplete:selected', function (_event, {document: {u, h}, type, tokens}) {
-        searchBarRef.current?.blur();
-        if (type === SearchDocumentType.AskAI && askAi) {
-          askAIWidgetRef.current?.openWithNewSession(tokens.join(''));
-          return;
-        }
-
-        let url = u;
-        if (Mark && tokens.length > 0) {
-          const params = new URLSearchParams();
-          for (const token of tokens) {
-            params.append(SEARCH_PARAM_HIGHLIGHT, token);
+      .on(
+        "autocomplete:selected",
+        function (_event, { document: { u, h }, type, tokens }) {
+          searchBarRef.current?.blur();
+          if (type === SearchDocumentType.AskAI && askAi) {
+            askAIWidgetRef.current?.openWithNewSession(tokens.join(""));
+            return;
           }
-          url += `?${params.toString()}`;
-        }
-        if (h) {
-          url += h;
-        }
-        history.push(url);
-      })
-      .on('autocomplete:closed', () => {
+
+          let url = u;
+          if (Mark && tokens.length > 0) {
+            const params = new URLSearchParams();
+            for (const token of tokens) {
+              params.append(SEARCH_PARAM_HIGHLIGHT, token);
+            }
+            url += `?${params.toString()}`;
+          }
+          if (h) {
+            url += h;
+          }
+          history.push(url);
+        },
+      )
+      .on("autocomplete:closed", () => {
         searchBarRef.current?.blur();
       });
 
-    indexStateMap.current.set(searchContext, 'done');
+    indexStateMap.current.set(searchContext, "done");
     setLoading(false);
 
     if (focusAfterIndexLoaded.current) {
@@ -319,18 +332,11 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
         search.current?.autocomplete.open();
       }
       input.focus();
-      if (window.matchMedia('(max-width: 576px)').matches) {
+      if (window.matchMedia("(max-width: 576px)").matches) {
         input.setSelectionRange(input.value.length, input.value.length);
       }
     }
-  }, [
-    hidden,
-    searchContext,
-    versionUrl,
-    baseUrl,
-    history,
-    currentLocale,
-  ]);
+  }, [hidden, searchContext, versionUrl, baseUrl, history, currentLocale]);
 
   useEffect(() => {
     if (!Mark) {
@@ -342,7 +348,7 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
       : [];
 
     setTimeout(() => {
-      const root = document.querySelector('article');
+      const root = document.querySelector("article");
       if (!root) {
         return;
       }
@@ -350,11 +356,11 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
       mark.unmark();
       if (keywords.length !== 0) {
         mark.mark(keywords, {
-          exclude: ['.theme-doc-toc-mobile > button'],
+          exclude: [".theme-doc-toc-mobile > button"],
         });
       }
-      setInputValue(keywords.join(' '));
-      search.current?.autocomplete.setVal(keywords.join(' '));
+      setInputValue(keywords.join(" "));
+      search.current?.autocomplete.setVal(keywords.join(" "));
     });
   }, [isBrowser, location.search, location.pathname]);
 
@@ -414,9 +420,9 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
       }
     };
 
-    document.addEventListener('keydown', handleShortcut);
+    document.addEventListener("keydown", handleShortcut);
     return () => {
-      document.removeEventListener('keydown', handleShortcut);
+      document.removeEventListener("keydown", handleShortcut);
     };
   }, [onInputFocus]);
 
@@ -425,39 +431,42 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
     params.delete(SEARCH_PARAM_HIGHLIGHT);
     const paramsStr = params.toString();
     const searchUrl =
-      location.pathname + (paramsStr !== '' ? `?${paramsStr}` : '') + location.hash;
+      location.pathname +
+      (paramsStr !== "" ? `?${paramsStr}` : "") +
+      location.hash;
 
     if (searchUrl !== location.pathname + location.search + location.hash) {
       history.push(searchUrl);
     }
 
-    setInputValue('');
-    search.current?.autocomplete.setVal('');
+    setInputValue("");
+    search.current?.autocomplete.setVal("");
   }, [location.pathname, location.search, location.hash, history]);
 
   return (
     <div
-      className={clsx('navbar__search', styles.searchBarContainer, {
+      className={clsx("navbar__search", styles.searchBarContainer, {
         [styles.searchIndexLoading]: loading && inputChanged,
         [styles.focused]: focused,
       })}
       hidden={hidden}
-      style={{width: '100%', maxWidth: 'none', marginLeft: 0}}
-      dir="ltr">
+      style={{ width: "100%", maxWidth: "none", marginLeft: 0 }}
+      dir="ltr"
+    >
       <input
         placeholder={translate({
-          id: 'theme.SearchBar.label',
-          message: 'Search',
-          description: 'The ARIA label and placeholder for search button',
+          id: "theme.SearchBar.label",
+          message: "Search",
+          description: "The ARIA label and placeholder for search button",
         })}
         aria-label="Search"
-        className={clsx('navbar__search-input', styles.searchInput)}
+        className={clsx("navbar__search-input", styles.searchInput)}
         onMouseEnter={onInputMouseEnter}
         onFocus={onInputFocus}
         onBlur={onInputBlur}
         onChange={onInputChange}
         ref={searchBarRef}
-        style={{width: '100%', maxWidth: 'none'}}
+        style={{ width: "100%", maxWidth: "none" }}
         value={inputValue}
       />
       {askAi && AskAIWidgetComponent && (
@@ -468,7 +477,7 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
       <LoadingRing className={styles.searchBarLoadingRing} />
       {searchBarShortcut &&
         searchBarShortcutHint &&
-        (inputValue !== '' ? (
+        (inputValue !== "" ? (
           <button className={styles.searchClearButton} onClick={onClearSearch}>
             x
           </button>
@@ -476,11 +485,13 @@ export default function ForkedSearchBar({handleSearchBarToggle}) {
           isBrowser &&
           searchBarShortcutKeymap && (
             <div className={styles.searchHintContainer}>
-              {getKeymapHints(searchBarShortcutKeymap, isMac).map((hint, index) => (
-                <kbd key={index} className={styles.searchHint}>
-                  {hint}
-                </kbd>
-              ))}
+              {getKeymapHints(searchBarShortcutKeymap, isMac).map(
+                (hint, index) => (
+                  <kbd key={index} className={styles.searchHint}>
+                    {hint}
+                  </kbd>
+                ),
+              )}
             </div>
           )
         ))}

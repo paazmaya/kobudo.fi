@@ -1,32 +1,34 @@
-import React, {type ReactNode} from 'react';
-import clsx from 'clsx';
-import Translate from '@docusaurus/Translate';
-import {useLocation} from '@docusaurus/router';
-import {useDocsSidebar} from '@docusaurus/plugin-content-docs/client';
-import DocSidebarItems from '@theme/DocSidebarItems';
-import type {Props} from '@theme/DocRoot/Layout/Main';
+import React, { type ReactNode } from "react";
+import clsx from "clsx";
+import Translate from "@docusaurus/Translate";
+import { useLocation } from "@docusaurus/router";
+import { useDocsSidebar } from "@docusaurus/plugin-content-docs/client";
+import DocSidebarItems from "@theme/DocSidebarItems";
+import type { Props } from "@theme/DocRoot/Layout/Main";
 
-import styles from './styles.module.css';
+import styles from "./styles.module.css";
 
 export default function DocRootLayoutMain({
   hiddenSidebarContainer,
   children,
 }: Props): ReactNode {
   const sidebar = useDocsSidebar();
-  const {pathname} = useLocation();
+  const { pathname } = useLocation();
 
   return (
     <main
       className={clsx(
         styles.docMainContainer,
         (hiddenSidebarContainer || !sidebar) && styles.docMainContainerEnhanced,
-      )}>
+      )}
+    >
       {sidebar && (
         <nav className={styles.mobileSidebarNav} aria-label="Docs navigation">
           <div className={styles.mobileSidebarNavHeader}>
             <Translate
               id="theme.docs.mobileSubnav.title"
-              description="Title for mobile docs sub navigation">
+              description="Title for mobile docs sub navigation"
+            >
               On This Section
             </Translate>
           </div>
@@ -42,10 +44,11 @@ export default function DocRootLayoutMain({
       )}
       <div
         className={clsx(
-          'container padding-top--md padding-bottom--lg',
+          "container padding-top--md padding-bottom--lg",
           styles.docItemWrapper,
           hiddenSidebarContainer && styles.docItemWrapperEnhanced,
-        )}>
+        )}
+      >
         {children}
       </div>
     </main>

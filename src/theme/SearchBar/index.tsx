@@ -1,10 +1,10 @@
-import React, {useEffect, useRef, useState, type ReactElement} from 'react';
-import clsx from 'clsx';
-import {translate} from '@docusaurus/Translate';
-import {useLocation} from '@docusaurus/router';
-import {DocsPreferredVersionContextProvider} from '@docusaurus/plugin-content-docs/client';
-import ForkedSearchBar from './ForkedSearchBar';
-import styles from './styles.module.css';
+import React, { useEffect, useRef, useState, type ReactElement } from "react";
+import clsx from "clsx";
+import { translate } from "@docusaurus/Translate";
+import { useLocation } from "@docusaurus/router";
+import { DocsPreferredVersionContextProvider } from "@docusaurus/plugin-content-docs/client";
+import ForkedSearchBar from "./ForkedSearchBar";
+import styles from "./styles.module.css";
 
 type Props = {
   handleSearchBarToggle?: (active: boolean) => void;
@@ -35,8 +35,8 @@ export default function SearchBar(props: Props): ReactElement {
     }
 
     const previousOverflow = document.body.style.overflow;
-    document.body.style.overflow = 'hidden';
-    document.body.classList.add('kb-search-modal-open');
+    document.body.style.overflow = "hidden";
+    document.body.classList.add("kb-search-modal-open");
 
     const focusTimer = window.setTimeout(() => {
       const input = modalRef.current?.querySelector<HTMLInputElement>(
@@ -46,13 +46,13 @@ export default function SearchBar(props: Props): ReactElement {
     }, 0);
 
     const onKeyDown = (event: KeyboardEvent) => {
-      if (event.key === 'Escape') {
+      if (event.key === "Escape") {
         event.preventDefault();
         closeModal();
         return;
       }
 
-      if (event.key === 'Tab' && modalRef.current) {
+      if (event.key === "Tab" && modalRef.current) {
         const focusable = modalRef.current.querySelectorAll<HTMLElement>(
           'button:not([disabled]), [href], input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])',
         );
@@ -75,12 +75,12 @@ export default function SearchBar(props: Props): ReactElement {
       }
     };
 
-    document.addEventListener('keydown', onKeyDown);
+    document.addEventListener("keydown", onKeyDown);
 
     return () => {
       document.body.style.overflow = previousOverflow;
-      document.body.classList.remove('kb-search-modal-open');
-      document.removeEventListener('keydown', onKeyDown);
+      document.body.classList.remove("kb-search-modal-open");
+      document.removeEventListener("keydown", onKeyDown);
       window.clearTimeout(focusTimer);
     };
   }, [isOpen]);
@@ -98,13 +98,14 @@ export default function SearchBar(props: Props): ReactElement {
       <button
         ref={triggerRef}
         type="button"
-        className={clsx('clean-btn', styles.searchTrigger)}
+        className={clsx("clean-btn", styles.searchTrigger)}
         aria-label={translate({
-          id: 'theme.SearchBar.label',
-          message: 'Search',
-          description: 'The ARIA label and placeholder for search button',
+          id: "theme.SearchBar.label",
+          message: "Search",
+          description: "The ARIA label and placeholder for search button",
         })}
-        onClick={openModal}>
+        onClick={openModal}
+      >
         <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
           <path
             d="M11 4a7 7 0 1 1 0 14 7 7 0 0 1 0-14Zm0-2a9 9 0 1 0 5.65 16l4.68 4.69a1 1 0 0 0 1.42-1.42l-4.69-4.68A9 9 0 0 0 11 2Z"
@@ -114,44 +115,52 @@ export default function SearchBar(props: Props): ReactElement {
       </button>
 
       {isOpen && (
-        <div className={styles.modalOverlay} role="presentation" onClick={closeModal}>
+        <div
+          className={styles.modalOverlay}
+          role="presentation"
+          onClick={closeModal}
+        >
           <div
             className={styles.modalDialog}
             role="dialog"
             aria-modal="true"
             aria-label={translate({
-              id: 'theme.SearchBar.modal.label',
-              message: 'Search site',
-              description: 'Accessible label for the search modal dialog',
+              id: "theme.SearchBar.modal.label",
+              message: "Search site",
+              description: "Accessible label for the search modal dialog",
             })}
             onClick={(event) => event.stopPropagation()}
-            ref={modalRef}>
+            ref={modalRef}
+          >
             <div className={styles.modalHeader}>
               <div className={styles.modalHeaderText}>
                 <strong>
-                {translate({
-                  id: 'theme.SearchBar.modal.title',
-                  message: 'Search site',
-                  description: 'Title shown in the search modal',
-                })}
+                  {translate({
+                    id: "theme.SearchBar.modal.title",
+                    message: "Search site",
+                    description: "Title shown in the search modal",
+                  })}
                 </strong>
                 <span className={styles.modalHeaderHint}>Esc to close</span>
               </div>
               <button
                 type="button"
-                className={clsx('clean-btn', styles.closeButton)}
+                className={clsx("clean-btn", styles.closeButton)}
                 aria-label={translate({
-                  id: 'theme.common.close',
-                  message: 'Close',
-                  description: 'Accessible label for close buttons',
+                  id: "theme.common.close",
+                  message: "Close",
+                  description: "Accessible label for close buttons",
                 })}
-                onClick={closeModal}>
+                onClick={closeModal}
+              >
                 x
               </button>
             </div>
             <div className={styles.searchContainer}>
               <DocsPreferredVersionContextProvider>
-                <ForkedSearchBar {...props} />
+                <ForkedSearchBar
+                  handleSearchBarToggle={props.handleSearchBarToggle}
+                />
               </DocsPreferredVersionContextProvider>
             </div>
           </div>

@@ -31,7 +31,8 @@
   /* Typography */
   --ifm-font-size-base: 18px;
   --ifm-line-height-base: 1.65;
-  --ifm-font-family-base: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --ifm-font-family-base:
+    system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 
   /* Navbar: deep red bg — 14:1 contrast with white text ✓ */
   --ifm-navbar-background-color: #5a0000;
@@ -65,7 +66,7 @@ body {
 }
 
 /* ── Dark mode ───────────────────────────────────────────── */
-[data-theme='dark'] {
+[data-theme="dark"] {
   /* Soft red – 7.5:1 on #0d0d0d ✓ */
   --ifm-color-primary: #ff8080;
   --ifm-color-primary-dark: #ff6060;
@@ -146,9 +147,10 @@ body {
   align-items: center;
   padding: 0.5rem 0.75rem;
   border-radius: 4px;
-  transition: color 0.15s ease, background-color 0.15s ease;
+  transition:
+    color 0.15s ease,
+    background-color 0.15s ease;
 }
-
 
 /* ── Left nav: hover & focus — subtle pill, no active background ── */
 .navbar__link {
@@ -158,7 +160,7 @@ body {
 .navbar__link:hover,
 .navbar__link:focus-visible {
   color: var(--ifm-navbar-link-hover-color) !important;
-  background-color: rgba(255 255 255 / 0.10) !important;
+  background-color: rgba(255 255 255 / 0.1) !important;
 }
 
 .navbar__link--active,
@@ -172,16 +174,15 @@ body {
 .navbar__link[aria-current]:hover,
 .navbar__link--active:focus-visible,
 .navbar__link[aria-current]:focus-visible {
-  background-color: rgba(255 255 255 / 0.10) !important;
+  background-color: rgba(255 255 255 / 0.1) !important;
 }
 
 /* ── Right nav items (Tietoja, locale dropdown): keep plain hover ── */
 .navbar__items--right .navbar__link:hover,
 .navbar__items--right .navbar__link:focus-visible {
   color: var(--ifm-navbar-link-hover-color) !important;
-  background-color: rgba(255 255 255 / 0.10) !important;
+  background-color: rgba(255 255 255 / 0.1) !important;
 }
-
 
 .navbar__toggle {
   color: #ffffff;
@@ -212,7 +213,11 @@ body {
 
 /* Active locale item: tinted background so the current language is unmistakable */
 .dropdown__link--active {
-  background-color: color-mix(in srgb, var(--ifm-color-primary) 18%, transparent) !important;
+  background-color: color-mix(
+    in srgb,
+    var(--ifm-color-primary) 18%,
+    transparent
+  ) !important;
   font-weight: 600;
 }
 
@@ -229,7 +234,11 @@ body {
 }
 
 .menu__link--active {
-  background-color: color-mix(in srgb, var(--ifm-color-primary) 12%, transparent);
+  background-color: color-mix(
+    in srgb,
+    var(--ifm-color-primary) 12%,
+    transparent
+  );
   color: var(--ifm-color-primary);
   font-weight: 600;
 }
@@ -237,25 +246,25 @@ body {
 /* Mobile sidebar (hamburger panel): explicit text colors for both themes */
 
 @media (max-width: 996px) {
-  [data-theme='light'] .navbar-sidebar .navbar-sidebar__items .menu__link {
+  [data-theme="light"] .navbar-sidebar .navbar-sidebar__items .menu__link {
     color: #ffffff !important;
   }
 }
 
-[data-theme='dark'] .navbar-sidebar .menu__link,
-[data-theme='dark'] .navbar-sidebar .menu__caret,
-[data-theme='dark'] .navbar-sidebar__back {
+[data-theme="dark"] .navbar-sidebar .menu__link,
+[data-theme="dark"] .navbar-sidebar .menu__caret,
+[data-theme="dark"] .navbar-sidebar__back {
   color: #f0f0f0 !important;
 }
 
-[data-theme='dark'] .navbar-sidebar .menu__link:hover,
-[data-theme='dark'] .navbar-sidebar .menu__link:focus-visible {
+[data-theme="dark"] .navbar-sidebar .menu__link:hover,
+[data-theme="dark"] .navbar-sidebar .menu__link:focus-visible {
   background: rgba(255 255 255 / 0.12);
 }
 
-[data-theme='dark'] .navbar-sidebar .menu__link--active,
-[data-theme='dark'] .navbar-sidebar .dropdown__link--active {
-  background-color: rgba(255 128 128 / 0.30) !important;
+[data-theme="dark"] .navbar-sidebar .menu__link--active,
+[data-theme="dark"] .navbar-sidebar .dropdown__link--active {
+  background-color: rgba(255 128 128 / 0.3) !important;
   color: #ffdede !important;
 }
 
@@ -333,17 +342,30 @@ body {
 /* ============================================================
    TYPOGRAPHY
    ============================================================ */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: 700;
   line-height: 1.25;
   margin-top: 1.5em;
 }
 
-h1 { font-size: 2.2rem; }
-h2 { font-size: 1.7rem; }
-h3 { font-size: 1.3rem; }
+h1 {
+  font-size: 2.2rem;
+}
+h2 {
+  font-size: 1.7rem;
+}
+h3 {
+  font-size: 1.3rem;
+}
 
-p { margin-bottom: 1.25rem; }
+p {
+  margin-bottom: 1.25rem;
+}
 
 /* ============================================================
    HERO SECTION (homepage)
@@ -355,7 +377,7 @@ p { margin-bottom: 1.25rem; }
   text-align: center;
 }
 
-[data-theme='dark'] .kb-hero {
+[data-theme="dark"] .kb-hero {
   background-color: #420000;
 }
 
@@ -402,7 +424,9 @@ p { margin-bottom: 1.25rem; }
   font-weight: 700;
   font-size: 1rem;
   text-decoration: none !important;
-  transition: background-color 0.15s ease, color 0.15s ease;
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease;
 }
 
 .kb-hero__cta--primary {
@@ -459,7 +483,9 @@ p { margin-bottom: 1.25rem; }
   border: 1.5px solid var(--kb-border);
   border-radius: 10px;
   overflow: hidden;
-  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
   display: flex;
   flex-direction: column;
 }
@@ -469,7 +495,7 @@ p { margin-bottom: 1.25rem; }
   box-shadow: 0 4px 20px rgba(139 0 0 / 0.15);
 }
 
-[data-theme='dark'] .kb-card:hover {
+[data-theme="dark"] .kb-card:hover {
   box-shadow: 0 4px 20px rgba(255 128 128 / 0.15);
 }
 
@@ -541,7 +567,7 @@ p { margin-bottom: 1.25rem; }
 
 /* Dark mode: primary (#ff8080) on white text = 2.4:1 — fails.
    Use deep rose #6b0030 → 11.75:1 on white ✓ */
-[data-theme='dark'] .markdown th {
+[data-theme="dark"] .markdown th {
   background-color: #6b0030;
 }
 
@@ -585,7 +611,7 @@ p { margin-bottom: 1.25rem; }
   color: #d0d0d0;
 }
 
-[data-theme='dark'] .footer {
+[data-theme="dark"] .footer {
   background-color: #000000;
 }
 
@@ -616,7 +642,9 @@ p { margin-bottom: 1.25rem; }
    REDUCED MOTION — WCAG 2.3.3 / prefers-reduced-motion
    ============================================================ */
 @media (prefers-reduced-motion: reduce) {
-  *, ::before, ::after {
+  *,
+  ::before,
+  ::after {
     transition-duration: 0.01ms !important;
     animation-duration: 0.01ms !important;
     animation-iteration-count: 1 !important;
