@@ -22,6 +22,7 @@
   --ifm-background-surface-color: #f5f5f5;
   --kb-card-bg: #f5f5f5;
   --kb-border: #d0d0d0;
+  --kb-image-placeholder: #5a0000;
 
   /* Text: 16.1:1 on white ✓ */
   --ifm-font-color-base: #1a1a1a;
@@ -81,6 +82,7 @@ body {
   --ifm-background-surface-color: #1a1a1a;
   --kb-card-bg: #1a1a1a;
   --kb-border: #2e2e2e;
+  --kb-image-placeholder: #420000;
 
   /* Text: ~20:1 on #0d0d0d ✓ */
   --ifm-font-color-base: #f0f0f0;
@@ -365,6 +367,17 @@ h3 {
 
 p {
   margin-bottom: 1.25rem;
+}
+
+/* Reserve image space using intrinsic dimensions and show a brand-matching placeholder color while loading. */
+img {
+  background-color: var(--kb-image-placeholder);
+  color: #ffffff;
+  text-align: center;
+}
+
+img[width][height] {
+  height: auto;
 }
 
 /* ============================================================

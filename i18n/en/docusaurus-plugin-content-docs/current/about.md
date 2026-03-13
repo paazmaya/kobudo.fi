@@ -5,6 +5,8 @@ slug: /about
 description: About this site, its purpose, scope, authorship, and how to contribute corrections or additional sources.
 ---
 
+export const buildDate = new Date().toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });
+
 # About This Site
 
 <img
@@ -35,20 +37,21 @@ The site is intentionally extensible: each section is designed as a starting poi
 
 ## Language
 
-Content is currently in **English**. Finnish-language versions of all pages are planned and will be added progressively. The site URL is kobudo.fi (a Finnish-registered domain), and the default language for visitors without an expressed preference is Finnish.
+Content is currently in **English**. Finnish-language versions of all pages are planned and will be added progressively. The site URL is `kobudo.fi` (a Finnish-registered domain), and the default language for visitors without an expressed preference is Finnish.
 
 ## Contributing
 
 If you notice an error in kata names, lineage details, or bibliographic information, or if you have sources that would improve the coverage, contributions are welcome.
 
-Please raise an issue or pull request in the project repository, or contact the site maintainer directly. All contributions should cite sources; unsourced claims will not be added to the reference pages.
+[Please raise an issue or pull request in the project repository](https://github.com/paazmaya/kobudo.fi/). All contributions should cite sources; unsourced claims will not be added to the content pages.
 
 ## Technical
 
-The site is built with [Docusaurus](https://docusaurus.io/) and deployed as a static site. Content is written in Markdown. The design uses Tailwind CSS and targets WCAG 2.2 Level AAA accessibility compliance throughout.
+The site is built with [Docusaurus](https://docusaurus.io/) and deployed as a static site hosted at [kobudo.fi](https://kobudo.fi). Content is authored in Markdown and [MDX](https://mdxjs.com/). The UI framework is [React](https://react.dev/), with styling powered by [Tailwind CSS](https://tailwindcss.com/). Build tooling uses [TypeScript](https://www.typescriptlang.org/) on [Node.js](https://nodejs.org/).
 
-## Sources
+Full-text search is provided locally via [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local), requiring no external search service. The design targets [WCAG 2.2 Level AAA](https://www.w3.org/TR/WCAG22/) accessibility compliance throughout.
 
-1. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): General overview used as a reference standard for factual claims across this site
-2. [Ryukyu Kingdom — Wikipedia](https://en.wikipedia.org/wiki/Ryukyu_Kingdom): Historical context for the Ryukyu Kingdom era
-3. [Research page](/research): Full bibliography of primary and secondary sources used across all sections
+Selected site images are generated locally with [ComfyUI](https://github.com/comfyanonymous/ComfyUI) using the z-image-turbo model workflow. Running generation locally keeps prompt iteration fast, makes outputs reproducible, and avoids third-party image API dependencies for visual assets.
+
+This site was last built on **{buildDate}**.
+
