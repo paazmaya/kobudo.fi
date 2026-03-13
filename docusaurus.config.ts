@@ -163,7 +163,7 @@ const config: Config = {
         {type: 'doc', docId: 'styles/index', label: 'Tyylit', position: 'left'},
         {type: 'doc', docId: 'weapons/index', label: 'Aseet', position: 'left'},
         {type: 'doc', docId: 'kata/index', label: 'Kata', position: 'left'},
-        {type: 'doc', docId: 'research', label: 'Tutkimus', position: 'left'},
+        {type: 'doc', docId: 'research', label: 'Tutkimus', position: 'left', className: 'kb-nav-optional'},
         {type: 'doc', docId: 'about', label: 'Tietoja', position: 'right'},
         {type: 'localeDropdown', position: 'right'},
       ],

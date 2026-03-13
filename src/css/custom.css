@@ -41,6 +41,7 @@
 
   /* Sidebar */
   --ifm-menu-link-sublist-icon-filter: none;
+  --ifm-menu-color: #1a1a1a;
 
   /* Dropdown hover: stronger than infima default (0.05) for visible contrast */
   --ifm-dropdown-hover-background-color: rgba(0, 0, 0, 0.12);
@@ -49,11 +50,18 @@
   --ifm-link-color: #6b0000;
   --ifm-link-hover-color: #420000;
 
+  /* Search icon: dark glyph on light input background */
+  --ifm-navbar-search-input-icon: url("data:image/svg+xml;utf8,<svg fill='%23595959' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' height='16px' width='16px'><path d='M6.02945,10.20327a4.17382,4.17382,0,1,1,4.17382-4.17382A4.15609,4.15609,0,0,1,6.02945,10.20327Zm9.69195,4.2199L10.8989,9.59979A5.88021,5.88021,0,0,0,12.058,6.02856,6.00467,6.00467,0,1,0,9.59979,10.8989l4.82338,4.82338a.89729.89729,0,0,0,1.29912,0,.89749.89749,0,0,0-.00087-1.29909Z' /></svg>");
+
   /* TOC: #595959 → 7.0:1 on white ✓ */
   --ifm-toc-link-color: #595959;
 
   /* Code */
   --ifm-code-font-size: 90%;
+}
+
+body {
+  min-width: 360px;
 }
 
 /* ── Dark mode ───────────────────────────────────────────── */
@@ -87,8 +95,14 @@
   --ifm-link-color: #ff8080;
   --ifm-link-hover-color: #ffa0a0;
 
+  /* Search icon: light glyph on dark input background */
+  --ifm-navbar-search-input-icon: url("data:image/svg+xml;utf8,<svg fill='%23f0f0f0' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' height='16px' width='16px'><path d='M6.02945,10.20327a4.17382,4.17382,0,1,1,4.17382-4.17382A4.15609,4.15609,0,0,1,6.02945,10.20327Zm9.69195,4.2199L10.8989,9.59979A5.88021,5.88021,0,0,0,12.058,6.02856,6.00467,6.00467,0,1,0,9.59979,10.8989l4.82338,4.82338a.89729.89729,0,0,0,1.29912,0,.89749.89749,0,0,0-.00087-1.29909Z' /></svg>");
+
   /* TOC: #b0b0b0 → 8.0:1 on card bg #1a1a1a ✓ */
   --ifm-toc-link-color: #b0b0b0;
+
+  /* Sidebar/menu text in dark mode */
+  --ifm-menu-color: #f0f0f0;
 
   /* Sidebar caret: restore visibility on dark background */
   --ifm-menu-link-sublist-icon-filter: invert(0.8);
@@ -117,6 +131,11 @@
   font-weight: 700;
   font-size: 1.2rem;
   letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+.navbar__brand {
+  flex-shrink: 0;
 }
 
 .navbar__link {
@@ -169,6 +188,9 @@
   align-self: center;
   height: 48px;
   width: 48px;
+  display: none;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Constrain SVG icons in the navbar to a fixed size — prevents stretching */
@@ -210,6 +232,78 @@
   background-color: color-mix(in srgb, var(--ifm-color-primary) 12%, transparent);
   color: var(--ifm-color-primary);
   font-weight: 600;
+}
+
+/* Mobile sidebar (hamburger panel): explicit text colors for both themes */
+
+@media (max-width: 996px) {
+  [data-theme='light'] .navbar-sidebar .navbar-sidebar__items .menu__link {
+    color: #ffffff !important;
+  }
+}
+
+[data-theme='dark'] .navbar-sidebar .menu__link,
+[data-theme='dark'] .navbar-sidebar .menu__caret,
+[data-theme='dark'] .navbar-sidebar__back {
+  color: #f0f0f0 !important;
+}
+
+[data-theme='dark'] .navbar-sidebar .menu__link:hover,
+[data-theme='dark'] .navbar-sidebar .menu__link:focus-visible {
+  background: rgba(255 255 255 / 0.12);
+}
+
+[data-theme='dark'] .navbar-sidebar .menu__link--active,
+[data-theme='dark'] .navbar-sidebar .dropdown__link--active {
+  background-color: rgba(255 128 128 / 0.30) !important;
+  color: #ffdede !important;
+}
+
+.navbar-sidebar .menu__list-item-collapsible:hover {
+  background: transparent;
+}
+
+@media (min-width: 997px) and (max-width: 1174px) {
+  .navbar__items--left .navbar__link {
+    padding: 0.5rem 0.5rem;
+    font-size: 0.94rem;
+  }
+
+  .navbar__items--right .navbar__link {
+    padding: 0.5rem 0.5rem;
+  }
+
+  .navbar__title {
+    font-size: 1.08rem;
+  }
+
+  .navbar__items--left .kb-nav-optional {
+    display: none;
+  }
+}
+
+@media (max-width: 996px) {
+  .navbar__inner {
+    min-height: var(--ifm-navbar-height);
+    align-items: center;
+  }
+
+  .navbar__items--right {
+    gap: 0.15rem;
+  }
+
+  .navbar__toggle {
+    display: inline-flex;
+    margin-right: 0.1rem;
+  }
+
+  .navbar__title {
+    font-size: 1.05rem;
+  }
+
+  .theme-doc-sidebar-container {
+    display: none;
+  }
 }
 
 .menu__caret {

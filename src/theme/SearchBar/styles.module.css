@@ -1,0 +1,132 @@
+.searchTrigger {
+  width: 42px;
+  height: 42px;
+  border-radius: 8px;
+  color: #ffffff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchTrigger:hover,
+.searchTrigger:focus-visible {
+  background-color: rgba(255 255 255 / 0.14);
+}
+
+.searchTrigger svg {
+  width: 20px;
+  height: 20px;
+}
+
+.modalOverlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1100;
+  background: rgba(6 8 11 / 0.6);
+  backdrop-filter: blur(6px);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 5.2rem 1rem 1rem;
+}
+
+.modalDialog {
+  width: min(920px, 100%);
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--kb-border);
+  border-radius: 14px;
+  box-shadow:
+    0 32px 80px rgba(0 0 0 / 0.45),
+    0 6px 20px rgba(0 0 0 / 0.2);
+  padding: 0.85rem;
+}
+
+.modalHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.25rem;
+  padding: 0.1rem 0.15rem 0.5rem;
+  color: var(--ifm-font-color-base);
+}
+
+.modalHeaderText {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+}
+
+.modalHeaderHint {
+  font-size: 0.76rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--kb-text-muted);
+}
+
+.closeButton {
+  width: 36px;
+  height: 36px;
+  border-radius: 6px;
+  color: var(--ifm-font-color-base);
+}
+
+.closeButton:hover,
+.closeButton:focus-visible {
+  background-color: color-mix(in srgb, var(--ifm-color-primary) 24%, transparent);
+}
+
+.searchContainer {
+  padding: 0.35rem;
+  width: 100%;
+  --search-local-modal-width: 100%;
+  --search-local-modal-width-sm: 100%;
+}
+
+.searchContainer :global(.navbar__search) {
+  width: 100% !important;
+  max-width: none !important;
+  display: block;
+  margin-left: 0 !important;
+}
+
+.searchContainer :global(.navbar__search-input) {
+  width: 100% !important;
+  max-width: none !important;
+  display: block;
+  min-height: 52px;
+}
+
+.searchContainer :global(.navbar__search-input:not(:focus)) {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+.searchContainer :global(.navbar__search-input:focus),
+.searchContainer :global(.navbar__search-input:active),
+.searchContainer :global(.navbar__search-input:focus-visible) {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+.searchContainer :global(.aa-Autocomplete),
+.searchContainer :global(.aa-Form),
+.searchContainer :global(.aa-InputWrapper),
+.searchContainer :global(.aa-Input) {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+@media (max-width: 576px) {
+  .modalOverlay {
+    padding-top: 4.2rem;
+  }
+
+  .modalDialog {
+    border-radius: 10px;
+    padding: 0.65rem;
+  }
+
+  .modalHeaderHint {
+    display: none;
+  }
+}
