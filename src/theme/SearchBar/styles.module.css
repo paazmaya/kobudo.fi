@@ -1,7 +1,7 @@
 .searchTrigger {
-  width: 42px;
-  height: 42px;
-  border-radius: 8px;
+  width: 2.63rem;
+  height: 2.63rem;
+  border-radius: 0.5rem;
   color: #ffffff;
   display: inline-flex;
   align-items: center;
@@ -14,8 +14,8 @@
 }
 
 .searchTrigger svg {
-  width: 20px;
-  height: 20px;
+  width: 1.25rem;
+  height: 1.25rem;
 }
 
 .modalOverlay {
@@ -31,13 +31,13 @@
 }
 
 .modalDialog {
-  width: min(920px, 100%);
+  width: min(57.5rem, 100%);
   background: var(--ifm-background-surface-color);
   border: 1px solid var(--kb-border);
-  border-radius: 14px;
+  border-radius: 0.88rem;
   box-shadow:
-    0 32px 80px rgba(0 0 0 / 0.45),
-    0 6px 20px rgba(0 0 0 / 0.2);
+    0 2rem 5rem rgba(0 0 0 / 0.45),
+    0 0.38rem 1.25rem rgba(0 0 0 / 0.2);
   padding: 0.85rem;
 }
 
@@ -64,9 +64,9 @@
 }
 
 .closeButton {
-  width: 36px;
-  height: 36px;
-  border-radius: 6px;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 0.38rem;
   color: var(--ifm-font-color-base);
 }
 
@@ -97,7 +97,7 @@
   width: 100% !important;
   max-width: none !important;
   display: block;
-  min-height: 52px;
+  min-height: 3.25rem;
 }
 
 .searchContainer :global(.navbar__search-input:not(:focus)) {
@@ -126,7 +126,7 @@
   }
 
   .modalDialog {
-    border-radius: 10px;
+    border-radius: 0.63rem;
     padding: 0.65rem;
   }
 

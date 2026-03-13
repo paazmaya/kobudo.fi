@@ -32,7 +32,7 @@
   }
 
   .mobileSidebarNav :global(.menu__link) {
-    min-height: 44px;
+    min-height: 2.75rem;
   }
 }
 

@@ -1,4 +1,23 @@
 User-agent: *
 Allow: /
 
+# Redirect-only pages (alternate-language slugs that immediately redirect to
+# the canonical URL). These are not real content; blocking them saves crawl
+# budget and prevents any risk of duplicate-content indexing.
+
+# English-slug redirects at the Finnish (root) locale
+Disallow: /history/
+Disallow: /styles/
+Disallow: /weapons/
+Disallow: /research
+Disallow: /about
+
+# Finnish-slug redirects at the English locale
+Disallow: /en/historia/
+Disallow: /en/tyylit/
+Disallow: /en/aseet/
+Disallow: /en/tutkimus
+Disallow: /en/tietoja
+
 Sitemap: https://kobudo.fi/sitemap.xml
+Sitemap: https://kobudo.fi/en/sitemap.xml

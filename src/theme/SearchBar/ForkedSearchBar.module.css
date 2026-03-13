@@ -8,16 +8,16 @@
   left: 0 !important;
   right: auto !important;
   background: var(--search-local-modal-background, #f5f6f7);
-  border-radius: 10px;
+  border-radius: 0.63rem;
   box-shadow:
     inset 1px 1px 0 0 hsla(0, 0%, 100%, 0.5),
-    0 3px 8px 0 #555a64;
-  margin-top: 10px;
+    0 0.19rem 0.5rem 0 #555a64;
+  margin-top: 0.63rem;
   width: 100%;
   max-width: none;
   position: relative;
-  padding: var(--search-local-spacing, 10px);
-  max-height: min(60vh, 560px);
+  padding: var(--search-local-spacing, 0.63rem);
+  max-height: min(60vh, 35rem);
   overflow-y: auto;
 }
 
@@ -38,8 +38,8 @@
 :global(.navbar__search-input).searchInput {
   width: 100% !important;
   max-width: none !important;
-  min-height: 52px;
-  border-radius: 10px;
+  min-height: 3.25rem;
+  border-radius: 0.63rem;
   padding-left: 2.75rem;
   padding-right: 2.4rem;
   border: 1px solid
@@ -82,13 +82,13 @@ html[data-theme="dark"] .searchBar .dropdownMenu {
   background: var(--search-local-modal-background, var(--ifm-background-color));
   box-shadow:
     inset 1px 1px 0 0 #2c2e40,
-    0 3px 8px 0 #000309;
+    0 0.19rem 0.5rem 0 #000309;
 }
 
 .searchBar .dropdownMenu .suggestion {
   cursor: pointer;
   background: var(--search-local-hit-background, #fff);
-  border-radius: 8px;
+  border-radius: 0.5rem;
   box-shadow: var(--search-local-hit-shadow, 0 1px 3px 0 #d4d9e1);
   padding: 0 0.8rem;
   width: 100%;
@@ -96,7 +96,7 @@ html[data-theme="dark"] .searchBar .dropdownMenu {
   color: var(--search-local-hit-color, #444950);
   display: flex;
   flex-direction: row;
-  min-height: var(--search-local-hit-height, 58px);
+  min-height: var(--search-local-hit-height, 3.63rem);
   height: auto;
 }
 
@@ -107,7 +107,7 @@ html[data-theme="dark"] .dropdownMenu .suggestion {
 }
 
 .searchBar .dropdownMenu .suggestion:not(:last-child) {
-  margin-bottom: 6px;
+  margin-bottom: 0.38rem;
 }
 
 .searchBar .dropdownMenu .suggestion.cursor {
@@ -138,16 +138,16 @@ html[data-theme="dark"] .noResultsIcon {
 }
 
 .hitTree > svg {
-  height: var(--search-local-hit-height, 56px);
+  height: var(--search-local-hit-height, 3.5rem);
   opacity: 0.5;
   stroke-width: var(--search-local-icon-stroke-width, 1.4);
-  width: 24px;
+  width: 1.5rem;
 }
 
 .hitIcon {
   stroke-width: var(--search-local-icon-stroke-width, 1.4);
-  height: 20px;
-  width: 20px;
+  height: 1.25rem;
+  width: 1.25rem;
 }
 
 .hitWrapper {
@@ -156,7 +156,7 @@ html[data-theme="dark"] .noResultsIcon {
   flex-direction: column;
   font-weight: 500;
   justify-content: center;
-  margin: 0 8px;
+  margin: 0 0.5rem;
   overflow-x: hidden;
   width: 80%;
 }
@@ -183,8 +183,8 @@ html[data-theme="dark"] .noResultsIcon {
 }
 
 .hitAction {
-  height: 20px;
-  width: 20px;
+  height: 1.25rem;
+  width: 1.25rem;
 }
 
 .hideAction > svg {
@@ -196,16 +196,16 @@ html[data-theme="dark"] .noResultsIcon {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding: var(--search-local-spacing, 12px) 0;
+  padding: var(--search-local-spacing, 0.75rem) 0;
 }
 
 .noResultsIcon {
-  margin-bottom: var(--search-local-spacing, 12px);
+  margin-bottom: var(--search-local-spacing, 0.75rem);
 }
 
 .hitFooter {
   text-align: center;
-  margin-top: var(--search-local-spacing, 12px);
+  margin-top: var(--search-local-spacing, 0.75rem);
   font-size: 0.85em;
 }
 
@@ -241,8 +241,8 @@ html[data-theme="dark"] .noResultsIcon {
 .searchBarContainer .searchBarLoadingRing {
   display: none;
   position: absolute;
-  left: 14px;
-  top: 14px;
+  left: 0.88rem;
+  top: 0.88rem;
 }
 
 .searchBarContainer .searchClearButton {
@@ -270,14 +270,14 @@ html[data-theme="dark"] .noResultsIcon {
 
 .searchHintContainer {
   position: absolute;
-  right: 14px;
+  right: 0.88rem;
   top: 0;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
   pointer-events: none;
-  gap: 4px;
+  gap: 0.25rem;
 }
 
 .searchHint {
@@ -285,7 +285,7 @@ html[data-theme="dark"] .noResultsIcon {
   background-color: var(--ifm-navbar-search-input-background-color);
   border: 1px solid var(--ifm-color-emphasis-400);
   box-shadow: inset 0 -1px 0 var(--ifm-color-emphasis-400);
-  border-radius: 4px;
+  border-radius: 0.25rem;
   font-size: 0.68rem;
 }
 
@@ -298,7 +298,7 @@ html[data-theme="dark"] .noResultsIcon {
 
 html[dir="rtl"] .searchHintContainer {
   right: auto;
-  left: 10px;
+  left: 0.63rem;
 }
 
 html[dir="rtl"] .searchBarContainer .searchClearButton {
@@ -308,7 +308,7 @@ html[dir="rtl"] .searchBarContainer .searchClearButton {
 
 html[dir="rtl"] .searchBarContainer .searchBarLoadingRing {
   left: auto;
-  right: 10px;
+  right: 0.63rem;
 }
 
 html[dir="rtl"] :global(.navbar__search-input) {
