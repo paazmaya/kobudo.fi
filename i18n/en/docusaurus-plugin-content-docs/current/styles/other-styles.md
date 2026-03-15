@@ -48,6 +48,26 @@ Tokushinryū draws from multiple Okinawan lineages to build a broad bō kata lis
 
 - Nihon Kobudō Kyōkai: https://www.nihonkobudokyoukai.org/martialarts/064/
 
+## Ryukyu Kobudo Kongo-ryu (琉球古武道金剛流)
+
+Kongo-ryu is a kobudo style that descends directly from [Taira Shinken](/en/history/taira-shinken). Its founder, **Sakagami Ryusho** (坂上隆祥), received the **first shihan license Taira ever awarded** (1959), followed by 8th dan in kobudo (1963). Sakagami was the third-generation head of Itosu-ha Shito-ryu karate (the Itosu-ryu line: Itosu Anko to Mabuni Kenwa to Sakagami).
+
+The Kongo-ryu official site states that it is "the oldest Ryukyu kobudo dojo on mainland Japan." After Taira's death, Sakagami formalized his own kobudo as Kongo-ryu. The current shuseki shihan is his son **Sakagami Sadaaki**, who is also the head of Itosu-ryu karate internationally. Instructional DVD series covering bo, sai, nunchaku, tekko, and kama have been published under the Kongo-ryu name.
+
+- Official site: https://www.kobudo-kongo-ryu.net
+- Itosu-ryu kobudo page: https://www.itosu-ryu.net/kobudo
+
+## Okinawa Kobudo Kenshin-ryu (沖縄古武道憲心流)
+
+Kenshin-ryu was founded in 1961 (Showa 36) by **Hayashi Teruo** (林輝男), who is described in a 1964 Japanese magazine article as a "leading disciple who learned kobudo under Mr. Taira Shinken."
+
+The style name is a deliberate combination: "Ken" (憲) comes from **Nakaima Kenko** (Ryuei-ryu karate), Hayashi's other main teacher, and "Shin" (心) comes from **Taira Shinken**. This makes the dual lineage visible in the name itself. The same source explains that Hayashi "created the Okinawan kobudo of Kenshin-ryu by adopting the two characters."
+
+Hayashi was also founder and head of **Hayashi-ha Shito-ryu-kai** and held positions in the Japan Karatedo Federation. The current organization is the **Japan Kobudo Kenshin-ryu-Kai**, with Hayashi identified in the international Shito-ryu records as "Soke Hanshi 10th Dan Okinawa Kobudo Kenshin-Ryu."
+
+- Official Hayashi-ha site: https://hayashiha.jp/kenshinryu/index.html
+- Kenshin-ryu naming source: [Ryukyu Bugei article (1964 translation)](https://ryukyu-bugei.com/?p=10979)
+
 ## Sources
 
 1. [Nihon Kobudō Kyōkai — Ryukyu Kobujutsu](https://www.nihonkobudokyoukai.org/martialarts/062/) — Inoue Kisho / Taira line listing

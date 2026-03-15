@@ -45,21 +45,35 @@ The Taira / Hozon Shinkōkai style is characterized by:
 
 ## Key Students and Successors
 
-### Inoue Motokatsu (井上元勝): Systematizer and mainland heir
+Most of Taira's students were already senior karateka when they came to him. Their different body methods shaped how his material was transmitted in each branch. For complete profiles, see [Students of Taira Shinken](/tyylit/tairan-oppilaat).
 
-Originally a student of Fujita Seiko and Konishi Yasuhiro (Shindō Jinen-ryū), Inoue was directed by his own teachers to study Ryukyu kobudo from Taira. He received **all 42 traditional weapons kata** directly from Taira and, on Taira's instruction, developed a complete technical training framework: _tsukaikata_ (usage techniques), _kihon_, basic kumite, and _bunkai kumite_, for each of the eight weapons. He subsequently published three hardcover volumes documenting the 42 kata and a series of weapon-specific training paperbacks (_琉球古武道基本技シリーズ_, 1970s), turning Taira's repertoire into a fully systematized curriculum. His bujutsu background gave the system its characteristic emphasis on paired practice and applied bunkai.
+### Inoue Motokatsu (井上元勝): Systematizer and Mainland Heir
+
+A student of Konishi Yasuhiro (Shindo Jinen-ryu), Inoue received menkyo kaiden and all 42 kata from Taira. He developed a complete technical framework for each weapon — kihon, basic kumite, and bunkai kumite — and published the hardcover series documenting the full curriculum. He became the principal mainland heir and head of the Hozon Shinkokai.
 
 ### Inoue Kisho (井上貴勝): Current Head
 
-The eldest son of Motokatsu Inoue. He serves as President of both the Ryūkyū Kobujutsu Hozon Shinkōkai and the Yuishinkai (a karate organization his father also founded), maintaining the Taira–Inoue syllabus intact while emphasizing the integration of karate and kobudo practice.
+The eldest son of Motokatsu Inoue. He serves as President of both the Ryukyu Kobujutsu Hozon Shinkokai and the Yuishinkai, maintaining the Taira-Inoue syllabus intact.
 
-### Akamine Eisuke (赤嶭栄亮): Yamane and Taira Bridge
+### Akamine Eisuke (赤嶺栄亮): Okinawa Successor
 
-Akamine Eisuke uniquely combined two streams: before studying with Taira, he had already trained Yamane-line bō directly from students of Chinen "Yamani no usume" (Chinen Sandā), acquiring Sakugawa no Kun, Shūshi no Kun, Yonekawa no Kun, Shirotaru no Kun, and others from that separate tradition. His subsequent study under Taira made him a bridge between the Yamane-Chinen bō lineage and Taira's standardized kobudo. Where kata names coincide (Sakugawa, Shūshi, Shirotaru), his versions preserve Yamane flavor within the Taira naming framework. He succeeded Taira in Okinawa following Taira's death in 1970.
+Before Taira, Akamine had already trained Yamane-line bo from students of Chinen Sanda, making him a bridge between that separate tradition and Taira's multi-weapon system. He succeeded Taira in Okinawa after 1970.
 
-### Shimabuku Tatsuo: Isshin-ryū Adoption
+### Shimabuku Tatsuo: Isshin-ryu Adoption
 
-Shimabuku Tatsuo, founder of Isshin-ryū karate, trained with Taira in kobudo. Isshin-ryū's standard bō and sai kata (Tokumine no Kun, Urashi no Kun, Chatanyara no Sai, and others) reflects Taira's repertoire as filtered through Shimabuku's own karate body method, stance preferences, and power generation, a clear example of how a karate style reshapes inherited kobudo while retaining the same names and broad _embusen_ (form pattern).
+Shimabuku incorporated Taira-line kata into the Isshin-ryu weapon curriculum. His characteristic stances and power generation give these kata a distinct feel, showing how a karate style reshapes inherited forms while retaining names and broad pattern.
+
+### Nakamoto Masahiro: Bunbukan and Reference Works
+
+A student of both Taira and Akamine, Nakamoto is the author of two foundational Okinawan kobudo reference works and heads Bunbukan (文武館).
+
+### Sakagami Ryusho: First Shihan License, Kongo-ryu
+
+Received the first shihan license Taira ever awarded (1959) and founded Ryukyu Kobudo Kongo-ryu, described as the oldest Ryukyu kobudo dojo on the Japanese mainland.
+
+### Hayashi Teruo: Kenshin-ryu
+
+A "leading disciple" of Taira per 1964 print source. He founded Okinawa Kobudo Kenshin-ryu in 1961, with the style name encoding both his kobudo teachers: Ken (Nakaima Kenko) and Shin (Taira Shinken).
 
 ## How Karate Styles Shaped the Transmission
 
@@ -69,7 +83,10 @@ Because most of Taira's close students were already senior karateka in different
 | --------------------------------- | ---------------------- | -------------------------------------------------------- |
 | Konishi / Inoue (Hozon Shinkōkai) | Shindō Jinen-ryū       | Strong basics, paired forms, classical bujutsu etiquette |
 | Akamine / Okinawa                 | Yamane-line bō + Taira | Yamane flavor preserved in overlapping kata              |
+| Nakamoto / Bunbukan               | Taira-Akamine line     | Documented in major Okinawan kobudo reference works      |
 | Shimabuku / Isshin-ryū            | Isshin-ryū             | Distinct stances, upper body posture, power generation   |
+| Sakagami / Kongo-ryu              | Itosu-ha Shitō-ryū    | First shihan license; oldest mainland Ryukyu kobudo dojo |
+| Hayashi / Kenshin-ryu             | Hayashi-ha Shitō-ryū  | Name fuses Nakaima (Ken) and Taira (Shin)                |
 | Shitō-ryū and Shōrin-ryū schools  | Various                | Style-specific hip work, stance depth, tempo             |
 
 All branches share the same kata names and broad structure; the differences lie in stance depth, hip usage, tempo, and application emphasis, each reflecting the karate tradition of the transmitting teacher.
@@ -84,10 +101,22 @@ Soeishi / Chinen Shikiyanaka
                             ├── Inoue Motokatsu (井上元勝)  ← menkyo kaiden
                             │       └── Inoue Kisho (井上貴勝)  ← current head
                             ├── Akamine Eisuke (赤嶺栄亮)  ← Okinawa successor
-                            └── Shimabuku Tatsuo (嶋袋龍夫)  ← Isshin-ryū founder
+                            │       └── Nakamoto Masahiro (仲本政博)  ← Bunbukan
+                            ├── Shimabuku Tatsuo (嶋袋龍夫)  ← Isshin-ryū founder
+                            ├── Sakagami Ryusho (坂上隆祥)  ← first shihan license → Kongo-ryu
+                            └── Hayashi Teruo (林輝男)  ← "leading disciple" → Kenshin-ryu
 ```
 
 _(Karate teachers: Funakoshi Gichin → Taira from 1922; Mabuni Kenwa → Taira 1934–1940)_
+
+## Derived Styles
+
+Two named kobudo styles grew directly from Taira's students:
+
+- **Ryukyu Kobudo Kongo-ryu** (琉球古武道金剛流) — Founded by Sakagami Ryusho. Current head: Sakagami Sadaaki.
+- **Okinawa Kobudo Kenshin-ryu** (沖縄古武道憲心流) — Founded by Hayashi Teruo in 1961.
+
+For full profiles of all documented students, see [Students of Taira Shinken](/tyylit/tairan-oppilaat).
 
 ## Sources
 

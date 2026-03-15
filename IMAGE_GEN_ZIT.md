@@ -250,6 +250,45 @@ A bright cheerful cartoon close-up illustration of a traditional Okinawan rokush
 
 ---
 
+## History — Yabiku Moden
+
+**URL:** `/en/history/yabiku-moden`
+**Placeholder size:** 960 × 400 → **Use 960 × 384** (30 × 12 × 32²; 368,640 px)
+
+**Prompt:**
+
+```
+A wide bright cheerful cartoon illustration of a dignified middle-aged Okinawan kobudo teacher standing in a sunlit stone-walled dojo courtyard in the early Taisho era (c. 1912–1920). He wears a thick white cotton keikogi gi top and dark indigo hakama wide-leg pleated trousers, bare feet on pale grey flagstones. He stands approximately 170cm tall, holding a rokushaku-bō upright at his right side — the staff 182cm long, dark iron ferrule cap resting on the flagstone floor, 12cm above the crown of his head. Behind him, six students of varying heights stand in two rows, each holding a weapon — three holding bo staffs and one holding a sai pair. The dojo has aged coral-limestone walls with a row of stone lanterns casting vivid warm amber light. A single wooden signboard with kanji characters written in Japanese calligraphy brushwork hangs above the entrance. The sky is vivid deep blue fading to gold at the horizon. Vivid saturated colors with dark crimson wall accents. No text, no watermark, no modern elements, no blurriness, no distortion.
+```
+
+---
+
+## Styles — Students of Taira Shinken
+
+**URL:** `/en/styles/taira-students`
+**Placeholder size:** 960 × 400 → **Use 960 × 384** (30 × 12 × 32²; 368,640 px)
+
+**Prompt:**
+
+```
+A wide bright cheerful cartoon illustration of seven Okinawan kobudo practitioners of different ages standing in a semicircle formation inside a traditional stone-walled dojo, each holding a different weapon at their side: the first holds a rokushaku-bō (182cm long, 12cm above head level); the second holds a sai pair (each 50cm iron trident with octagonal shaft); the third holds a tonfa pair (each 45cm red-oak cylinder with perpendicular handle); the fourth holds a nunchaku (two 30cm sticks joined by twisted cord); the fifth holds a kama pair (30cm ash handle with curved iron sickle blade); the sixth holds a pair of tekko (12cm horseshoe-shaped iron bars); the seventh holds a surujin (2m weighted cord coiled in one hand). All wear thick white cotton keikogi gi tops and dark indigo hakama wide-leg pleated trousers, bare feet on worn wooden floor. Each practitioner stands approximately 170cm tall. Stone lanterns along the dark crimson plastered wall cast vivid warm amber light onto the group. Vivid saturated colors throughout. No text, no watermark, no modern clothing, no blurriness, no distortion.
+```
+
+---
+
+## Styles — Taira Line (Key Students Mid-Page)
+
+**URL:** `/en/styles/taira-line` (second image, mid-page near student profiles)
+**Placeholder size:** 960 × 400 → **Use 960 × 384** (30 × 12 × 32²; 368,640 px)
+
+**Prompt:**
+
+```
+A wide bright cheerful cartoon illustration of two Okinawan kobudo practitioners facing each other in a paired practice exercise inside a traditional stone-walled dojo. The practitioner on the left stands approximately 170cm tall in a wide forward stance, both hands extended forward gripping a sai pair — each 50cm iron trident with octagonal shaft and two upward-curved yoku tines, held in hon-te (orthodox grip) with prongs running along the forearm. The practitioner on the right mirrors them in a defensive stance, holding a rokushaku-bō (182cm long, 12cm above head height) in a two-point shoulder guard. Both wear thick white cotton keikogi gi tops, dark indigo hakama wide-leg pleated trousers, and bare feet on worn wooden floor. A row of stone lanterns along the dark crimson plastered wall casts vivid warm amber pools of light. The composition captures a teaching moment with one practitioner demonstrating a technique. Vivid saturated colors throughout. No text, no watermark, no modern clothing, no blurriness, no distortion.
+```
+
+---
+
 ## Weapons — Sai
 
 **URL:** `/en/weapons/sai`

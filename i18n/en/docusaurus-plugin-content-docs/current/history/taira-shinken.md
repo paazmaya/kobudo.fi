@@ -26,7 +26,7 @@ After moving to Tokyo in 1922, Taira became a close student (*deshi*) of Funakos
 
 ### Yabiku Moden: Primary Kobudo Teacher
 
-Around 1929, Taira began formal Ryukyu kobudo training under **Yabiku Moden** (屋比久孟傳), who had himself studied Yamani-line bō from Yamani no Chinen and others, and who founded the Ryukyu Kobujutsu Kenkyūkai. Through Yabiku, Taira inherited an extensive collection of older bō kata, including [Sakugawa, Shūshi, Chinen/Soeishi line, and others](/en/kata/bo-kata), and the lineages reaching back to Soeishi and Chinen Shikiyanaka in the late Ryukyu Kingdom period.
+Around 1929, Taira began formal Ryukyu kobudo training under **[Yabiku Moden](/en/history/yabiku-moden)** (屋比久孟傳), who had himself studied Yamani-line bō from Yamani no Chinen and others, and who founded the Ryukyu Kobujutsu Kenkyūkai. Through Yabiku, Taira inherited an extensive collection of older bō kata, including [Sakugawa, Shūshi, Chinen/Soeishi line, and others](/en/kata/bo-kata), and the lineages reaching back to Soeishi and Chinen Shikiyanaka in the late Ryukyu Kingdom period.
 
 ### Mabuni Kenwa: Shitō-ryū Refinement
 
@@ -66,6 +66,8 @@ This made kobudo "karate-dojo friendly": karate organizations could integrate Ta
 Taira's senior student **Inoue Motokatsu** received *menkyo kaiden* (full transmission certification) and subsequently codified the curriculum into a series of weapon-specific instructional manuals (the _琉球古武道基本技シリーズ_, 1970s). Inoue had previously studied under Fujita Seiko and Konishi Yasuhiro (Shindō Jinen-ryū), and was directed by his own teachers to study Ryukyu kobudo from Taira; he received all 42 traditional weapons kata directly from him.
 
 Today the primary heir organization is the **琉球古武術保存振興会** ([Ryūkyū Kobujutsu Hozon Shinkōkai](/en/styles/taira-line)), currently headed by Inoue's eldest son **Inoue Kisho**, and registered with the Nihon Kobudō Kyōkai.
+
+Beyond Inoue, Taira's senior students formed several distinct lines. **Sakagami Ryusho** received the first shihan license Taira ever awarded (1959) and later founded the Ryukyu Kobudo Kongo-ryu on the mainland. **Hayashi Teruo** was described in a 1964 Japanese publication as a "leading disciple" and founded Kenshin-ryu, a school whose name combines one character each from Taira and from his second kobudo teacher Nakaima Kenko. For full profiles of all documented students, see [Students of Taira Shinken](/en/styles/taira-students).
 
 ## Kata He Created
 

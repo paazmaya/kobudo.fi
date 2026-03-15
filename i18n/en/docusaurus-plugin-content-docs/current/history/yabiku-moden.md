@@ -1,0 +1,80 @@
+---
+sidebar_position: 2.5
+title: Yabiku Moden
+slug: /history/yabiku-moden
+description: Yabiku Moden founded the Ryukyu Kobujutsu Kenkyukai in the Taisho era and was the primary kobudo teacher of Taira Shinken.
+---
+
+# Yabiku Moden (屋比久孟伝)
+
+<img
+src="/img/banner-yabiku-moden.png"
+alt="Illustration of an early 20th-century Okinawan kobudo teacher in a dojo courtyard"
+width={960}
+height={384}
+loading="lazy"
+style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+/>
+
+Yabiku Moden is the figure who bridged the informal weapon traditions of the [Ryukyu Kingdom era](/en/history/ryukyu-kingdom) and the organized, curriculum-based kobudo of the 20th century. He founded the **Ryukyu Kobujutsu Kenkyukai** (琉球古武術研究会) in the early Taisho period (after 1912), making it the first formal organization dedicated to preserving and teaching Ryukyuan weapon arts. His most well-documented student, [Taira Shinken](/en/history/taira-shinken), built directly on that foundation and spread it across the Japanese mainland and beyond.
+
+## His Own Teachers
+
+Yabiku studied from several teachers across two disciplines:
+
+**Karate teacher**
+
+- **Itosu Anko** (糸洲安恒) — the Shuri karate master who systematized kata for school teaching and introduced karate into the Okinawan school system. Through Itosu, Yabiku gained a structured pedagogical approach to organizing and transmitting martial content.
+
+**Kobudo teachers**
+
+- **Chinen Sanda** (知念砂谷, also known as Yamani no Chinen, c. 1842–1925) — the central figure of Yamane-ryu bojutsu. Through Chinen, Yabiku inherited the core of the Yamani-line bo tradition that forms the backbone of later Ryukyu kobudo.
+- **Tawata Shinboku** (多和田真武) — a further kobudo teacher listed in Yabiku's known lineage.
+- **Kanagusuku Sanda** (金城砂谷) — another kobudo specialist in Yabiku's training background.
+
+This combination placed Yabiku at the intersection of the Itosu karate reform movement and the older Yamani bo tradition, giving him both a modern pedagogical framework and deep access to older weapon lineages.
+
+## The Ryukyu Kobujutsu Kenkyukai
+
+Yabiku founded the Kenkyukai in the early Taisho period. Before this organization existed, weapon transmission had occurred through private teacher-to-student relationships with no formal structure, documentation, or shared curriculum.
+
+The Kenkyukai gave kobudo a formal home: a place for regular practice, a named tradition, and a framework for teaching and transmitting the art to future generations. It also positioned weapon arts alongside the karate reform movement of the same era, treating kobudo as a serious and preservable discipline rather than informal village knowledge.
+
+Sources indicate that Yabiku taught at Bito Elementary School and in teacher-training contexts, meaning his influence extended beyond private martial arts circles into formal education settings.
+
+## Students: What Is Documented
+
+The written record is sparse on named students beyond one. Japanese and English sources that discuss Yabiku consistently identify **Taira Shinken** as his most significant student. One Japanese Wikipedia entry on Ryukyu kobujutsu states directly: "First, Yabiku Moden established the Ryukyu Kobujutsu Kenkyukai in the early Taisho period, and his disciple Taira Shinken founded the Preservation Society in 1940."
+
+A detailed English lineage page describes Taira as "one of his most famous students" who "carried on the work started by his teacher" and added his own contributions.
+
+Other students likely existed — Yabiku taught in both private and educational settings — but their names are not clearly tied to later named styles in available Japanese library sources. Current evidence allows only stating with confidence that **Taira Shinken** is a documented direct kobudo student of Yabiku Moden. For the full range of students who later continued this lineage, see [Students of Taira Shinken](/en/styles/taira-students).
+
+## Connection to the Wider Lineage
+
+Yabiku's main kobudo teacher, Chinen Sanda, is also the root figure of the [Yamane-ryu](/en/styles/yamane-ryu) bō tradition. Both the Taira line and Yamane-ryu trace back to Chinen Sanda, though through different transmission paths: Yamane-ryu preserved the bo repertoire associated with Chinen's own family tradition, while Yabiku organized the broader Ryukyu kobudo framework that Taira later extended into a full multi-weapon curriculum.
+
+In this sense, Yabiku was one of the first people to take the scattered Ryukyu weapon traditions and organize them into a single, nameable, transmittable system. That organizational work is the key reason his name appears at the junction of virtually every 20th-century Ryukyu kobudo lineage chart.
+
+## Lineage Chart
+
+```
+Chinen Sanda (知念砂谷, Yamane-ryu bo)
+    └── Yabiku Moden (屋比久孟伝)
+            └── Taira Shinken (平信賢, 1897–1970)
+                    ├── Inoue Motokatsu (井上元勝)  ← menkyo kaiden
+                    │       └── Inoue Kisho (井上貴勝)  ← current head
+                    ├── Akamine Eisuke (赤嶺栄亮)  ← Okinawa successor
+                    ├── Sakagami Ryusho (坂上隆祥)  ← first shihan license
+                    └── [and others — full list](/en/styles/taira-students)
+```
+
+_(Karate influence: Itosu Anko → Yabiku; Funakoshi Gichin → Taira from 1922; Mabuni Kenwa → Taira 1934–1940)_
+
+## Sources
+
+1. [Ryukyu kobujutsu — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E7%90%89%E7%90%83%E5%8F%A4%E6%AD%A6%E8%A1%93): Yabiku as founder of Kenkyukai in early Taisho; Taira as his disciple who founded the Preservation Society in 1940
+2. [Yabiku Moden — Ryukyu Kobudo USA](https://www.ryukyukobudousa.com/lineage/yabiku-moden): His teachers (Itosu, Chinen Sanda, Tawata Shinboku, Kanagusuku Sanda); Taira Shinken as "one of his most famous students"
+3. [Kobudo Arakaki — about](http://www.kobudo-arakaki.com/about/): Lineage summary Chinen Sanda → Yabiku Moden → Taira Shinken → Inoue Motokatsu
+4. [Ryukyu Kobujutsu Hozon Shinkokai — genealogy](https://www.ryukyukobujutsuhozonshinkokai.org/012_en_keifu.html): Detailed lineage from Chinen Shikiyanaka through Yamani no Chinen and Yabiku to Taira
+5. [Research page](/en/research): Primary bibliographic sources for lineage documentation

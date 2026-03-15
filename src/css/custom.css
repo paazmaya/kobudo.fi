@@ -62,19 +62,19 @@
   --ifm-code-font-size: 90%;
 
   /* Spacing scale (4px grid) */
-  --kb-space-1: 0.25rem;    /* 4px */
-  --kb-space-2: 0.5rem;     /* 8px */
-  --kb-space-3: 0.75rem;    /* 12px */
-  --kb-space-4: 1rem;       /* 16px */
-  --kb-space-6: 1.5rem;     /* 24px */
-  --kb-space-8: 2rem;       /* 32px */
-  --kb-space-12: 3rem;      /* 48px */
+  --kb-space-1: 0.25rem; /* 4px */
+  --kb-space-2: 0.5rem; /* 8px */
+  --kb-space-3: 0.75rem; /* 12px */
+  --kb-space-4: 1rem; /* 16px */
+  --kb-space-6: 1.5rem; /* 24px */
+  --kb-space-8: 2rem; /* 32px */
+  --kb-space-12: 3rem; /* 48px */
 
   /* Border radius scale */
-  --kb-radius-sm: 0.25rem;   /* 4px */
-  --kb-radius-md: 0.5rem;    /* 8px */
-  --kb-radius-lg: 0.63rem;   /* ~10px */
-  --kb-radius-xl: 0.88rem;   /* ~14px */
+  --kb-radius-sm: 0.25rem; /* 4px */
+  --kb-radius-md: 0.5rem; /* 8px */
+  --kb-radius-lg: 0.63rem; /* ~10px */
+  --kb-radius-xl: 0.88rem; /* ~14px */
 
   /* Focus ring */
   --kb-focus-color: #005fcc;
@@ -169,10 +169,8 @@ body {
 }
 
 .navbar__link {
-  color: var(--ifm-navbar-link-color) !important;
+  color: var(--ifm-navbar-link-color);
   font-weight: 500;
-  /* Fixed height, not min-height, so items don't stretch in flex */
-  height: 3rem;
   align-items: center;
   padding: 0.5rem 0.75rem;
   border-radius: var(--kb-radius-sm);
@@ -194,8 +192,8 @@ body {
 
 .navbar__link--active,
 .navbar__link[aria-current] {
-  color: #ffffff !important;
-  background-color: var(--ifm-color-primary-darkest);
+  color: var(--ifm-color-primary-darkest);
+  background-color: var(--ifm-color-content-inverse);
 }
 
 /* active + hover: keep the underline, add the pill */
@@ -322,7 +320,6 @@ body {
 
 @media (max-width: 996px) {
   .navbar__inner {
-    min-height: var(--ifm-navbar-height);
     align-items: center;
   }
 

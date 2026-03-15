@@ -23,6 +23,7 @@ These arts were not recorded in formal scrolls or licensing documents to the sam
 ## Key themes in History
 
 - [Ryukyu Kingdom Era](./ryukyu-kuningaskunta): The political and social context that shaped weapon use
+- [Yabiku Moden](./yabiku-moden): The founder of the Ryukyu Kobujutsu Kenkyukai and primary teacher of Taira Shinken
 - [Taira Shinken](./taira-shinken): The central figure of 20th-century systematization
 - [Kata Transmission](./kata-siirto): How forms were preserved across generations
 

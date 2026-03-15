@@ -22,8 +22,7 @@ Ryukyu weapon arts are not a single unified system. Several distinct lineages de
 
 | Lineage                         | Japanese name          | Primary weapon emphasis          | Key organization                 |
 | ------------------------------- | ---------------------- | -------------------------------- | -------------------------------- |
-| [Taira Line](./taira-linja)     | 琉球古武術保存振興会系 | 8 weapons, 40+ kata              | Ryūkyū Kobujutsu Hozon Shinkōkai |
-| [Matayoshi Kobudo](./matayoshi) | 金硬流唐手沖縄古武術   | Wide range incl. unusual weapons | IMKA / Matayoshi Kodokan         |
+| [Taira Line](./taira-linja)     | 琉球古武術保存振興会系 | 8 weapons, 40+ kata              | Ryūkyū Kobujutsu Hozon Shinkōkai || [Taira Students](./taira-students) | Various derived lines  | Per student and style            | See student profiles             || [Matayoshi Kobudo](./matayoshi) | 金硬流唐手沖縄古武術   | Wide range incl. unusual weapons | IMKA / Matayoshi Kodokan         |
 | [Yamane-ryū](./yamane-ryu)      | 山根流棒術             | Bō (long staff), fluid style     | Various                          |
 | [Other Styles](./muut-tyylit)   | Various                | Mixed                            | Multiple organizations           |
 
