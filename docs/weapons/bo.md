@@ -3,6 +3,7 @@ sidebar_position: 2
 title: Bō — Sauva
 slug: /aseet/bo
 description: The bō, a six-foot hardwood staff and the most widely practiced weapon in Ryukyu kobudo, with more kata than any other weapon.
+social_image: "/img/social/bo-staff-close-1200x630.jpg"
 ---
 
 # Bō: 棒 (Staff)

@@ -3,6 +3,7 @@ sidebar_position: 4
 title: Kata Transmission
 slug: /history/kata-transmission
 description: How Ryukyu kobudo kata were preserved across generations, the role of named masters, and how multiple versions of the same kata coexist today.
+social_image: "/img/social/kata-transmission-lesson-1200x630.jpg"
 ---
 
 # Kata Transmission

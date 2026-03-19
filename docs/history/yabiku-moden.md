@@ -3,6 +3,7 @@ sidebar_position: 2.5
 title: Yabiku Moden
 slug: /historia/yabiku-moden
 description: Yabiku Moden perusti Ryukyu Kobujutsu Kenkyukain Taisho-kaudella ja oli Taira Shinkenin tärkein kobudon opettaja.
+social_image: "/img/social/banner-yabiku-moden-1200x630.jpg"
 ---
 
 # Yabiku Moden (屋比久孟伝)

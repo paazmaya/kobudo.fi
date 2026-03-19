@@ -3,6 +3,7 @@ sidebar_position: 3
 title: Sai-kata
 slug: /kata/sai-kata
 description: Technical analysis of the Taira-line sai kata and the three family clusters (Hamahiga, Tsuken–Chatan–Tawada, Kochijo–Jigen) and their structural relationships.
+social_image: "/img/social/sai-kata-guard-1200x630.jpg"
 ---
 
 # Sai Kata Families

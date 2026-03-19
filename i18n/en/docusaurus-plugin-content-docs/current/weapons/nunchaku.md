@@ -3,6 +3,7 @@ sidebar_position: 5
 title: Nunchaku
 slug: /weapons/nunchaku
 description: The nunchaku, two hardwood sticks connected by rope or chain, associated with agricultural threshing tool origins.
+social_image: "/img/social/nunchaku-coiled-1200x630.jpg"
 ---
 
 # Nunchaku (ヌンチャク)

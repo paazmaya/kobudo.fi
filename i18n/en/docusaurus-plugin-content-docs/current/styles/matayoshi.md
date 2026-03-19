@@ -3,6 +3,7 @@ sidebar_position: 3
 title: Matayoshi Kobudo
 slug: /styles/matayoshi
 description: The Matayoshi Kobudo lineage, combining Kingai-ryū karate and Okinawan kobujutsu, with Chinese-influenced technique and wide weapon range.
+social_image: "/img/social/matayoshi-weapons-1200x630.jpg"
 ---
 
 # Matayoshi Kobudo: 金硬流唐手沖縄古武術

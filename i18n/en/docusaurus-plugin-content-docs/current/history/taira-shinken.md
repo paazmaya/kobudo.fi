@@ -3,6 +3,7 @@ sidebar_position: 3
 title: Taira Shinken
 slug: /history/taira-shinken
 description: The life and systematization work of Taira Shinken (1897–1970), the central figure in modern Ryukyu kobudo.
+social_image: "/img/social/taira-shinken-portrait-1200x630.jpg"
 ---
 
 # Taira Shinken (平信賢, 1897–1970)

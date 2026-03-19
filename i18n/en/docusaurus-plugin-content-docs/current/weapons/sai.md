@@ -3,6 +3,7 @@ sidebar_position: 3
 title: "Sai: Metal Trident"
 slug: /weapons/sai
 description: The sai, a metal trident used in pairs or tripplet, the second most kata-rich weapon in Ryukyu kobudo.
+social_image: "/img/social/sai-pair-overhead-1200x630.jpg"
 ---
 
 # Sai: 釵 (Metal Trident)

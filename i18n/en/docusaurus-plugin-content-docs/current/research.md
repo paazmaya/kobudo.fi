@@ -3,6 +3,7 @@ sidebar_position: 5
 title: Research & Bibliography
 slug: /research
 description: Core Japanese-language books and reference works for researching Ryukyu weapon-based martial arts and Taira Shinken's lineage.
+social_image: "/img/social/banner-research-library-1200x630.jpg"
 ---
 
 # Research & Bibliography

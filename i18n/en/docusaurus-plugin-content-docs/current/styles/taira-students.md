@@ -3,6 +3,7 @@ sidebar_position: 2.5
 title: Students of Taira Shinken
 slug: /styles/taira-students
 description: The documented direct students of Taira Shinken and the styles and organizations they founded or led, from Inoue Motokatsu and Akamine Eisuke to Sakagami Ryusho and Hayashi Teruo.
+social_image: "/img/social/banner-taira-students-1200x630.jpg"
 ---
 
 # Students of Taira Shinken

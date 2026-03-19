@@ -67,28 +67,6 @@ const config: Config = {
       attributes: { name: "theme-color", content: "#5a0000" },
     },
     {
-      tagName: "meta",
-      attributes: {
-        property: "og:image",
-        content: "https://kobudo.fi/img/hero-dojo-wall.png",
-      },
-    },
-    {
-      tagName: "meta",
-      attributes: { property: "og:image:width", content: "1184" },
-    },
-    {
-      tagName: "meta",
-      attributes: { property: "og:image:height", content: "448" },
-    },
-    {
-      tagName: "meta",
-      attributes: {
-        name: "twitter:image",
-        content: "https://kobudo.fi/img/hero-dojo-wall.png",
-      },
-    },
-    {
       tagName: "script",
       attributes: { type: "text/javascript" },
       innerHTML: `(function(c,l,a,r,i,t,y){
@@ -248,11 +226,12 @@ const config: Config = {
         {
           title: "Yhteisö",
           items: [
-            { label: "GitHub", href: "https://github.com/paazmaya/kobudo.fi" },
+            { label: "Source code at GitHub", href: "https://github.com/paazmaya/kobudo.fi" },
             {
               label: "Lisenssi: CC BY 4.0",
               href: "https://creativecommons.org/licenses/by/4.0/",
             },
+            { label: "Karate Teacher Jukka Paasonen", href: "https://karatejukka.fi" }
           ],
         },
       ],

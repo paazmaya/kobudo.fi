@@ -3,6 +3,7 @@ sidebar_position: 2
 title: Ryukyu Kingdom Era
 slug: /history/ryukyu-kingdom
 description: The political and social context of the Ryukyu Kingdom that shaped the development of weapon-based martial arts.
+social_image: "/img/social/ryukyu-procession-1200x630.jpg"
 ---
 
 # Ryukyu Kingdom Era

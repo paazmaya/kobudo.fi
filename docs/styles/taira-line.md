@@ -3,6 +3,7 @@ sidebar_position: 2
 title: Taira-linja
 slug: /tyylit/taira-linja
 description: The Ryūkyū Kobujutsu Hozon Shinkōkai lineage descending from Taira Shinken through Inoue Motokatsu to Inoue Kisho.
+social_image: "/img/social/taira-line-scroll-1200x630.jpg"
 ---
 
 # Taira Line: Ryūkyū Kobujutsu

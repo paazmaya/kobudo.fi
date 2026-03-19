@@ -3,6 +3,7 @@ sidebar_position: 2.5
 title: Tairan oppilaat
 slug: /tyylit/tairan-oppilaat
 description: Taira Shinkenin dokumentoidut suorat oppilaat ja heidän perustamiaan tyylejä ja organisaatioita - Inoue Motokatsu, Akamine Eisuke, Sakagami Ryusho, Hayashi Teruo ja muut.
+social_image: "/img/social/banner-taira-students-1200x630.jpg"
 ---
 
 # Students of Taira Shinken

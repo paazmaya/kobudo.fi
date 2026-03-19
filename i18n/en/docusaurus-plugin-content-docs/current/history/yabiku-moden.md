@@ -3,6 +3,7 @@ sidebar_position: 2.5
 title: Yabiku Moden
 slug: /history/yabiku-moden
 description: Yabiku Moden founded the Ryukyu Kobujutsu Kenkyukai in the Taisho era and was the primary kobudo teacher of Taira Shinken.
+social_image: "/img/social/banner-yabiku-moden-1200x630.jpg"
 ---
 
 # Yabiku Moden (屋比久孟伝)

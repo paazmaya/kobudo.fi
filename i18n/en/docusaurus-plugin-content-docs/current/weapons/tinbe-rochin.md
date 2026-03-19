@@ -3,6 +3,7 @@ sidebar_position: 8
 title: Tinbē-Rochin
 slug: /weapons/tinbe-rochin
 description: Tinbē-Rochin, the shield-and-short-spear combination, one of the most distinctive and unusual weapon pairs in Ryukyu kobudo.
+social_image: "/img/social/tinbe-rochin-pair-1200x630.jpg"
 ---
 
 # Tinbē-Rochin (ティンベー・ロチン)

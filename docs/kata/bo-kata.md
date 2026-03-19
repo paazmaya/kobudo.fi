@@ -3,6 +3,7 @@ sidebar_position: 2
 title: Bō-kata
 slug: /kata/bo-kata
 description: "Cross-style comparison of the major bō (staff) kata families: Shūshi, Sakugawa, Soeishi, Chatan Yara, Tsuken, Shirataru, Chōun, Tokumine and Urasoe."
+social_image: "/img/social/bo-kata-strike-1200x630.jpg"
 ---
 
 # Bō Kata Families

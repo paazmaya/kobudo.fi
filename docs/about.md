@@ -3,6 +3,7 @@ sidebar_position: 6
 title: Tietoja Sivustosta
 slug: /tietoja
 description: "About this site: its purpose, scope, authorship, and how to contribute corrections or additional sources."
+social_image: "/img/social/banner-about-desk-1200x630.jpg"
 ---
 
 export const buildDate = new Date().toLocaleDateString('en-GB', { year: 'numeric', month: 'long', day: 'numeric' });

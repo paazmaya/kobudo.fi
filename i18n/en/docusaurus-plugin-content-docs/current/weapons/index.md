@@ -3,6 +3,7 @@ sidebar_position: 1
 title: Traditional Weapons
 slug: /weapons/
 description: "The eight core weapons of the Taira Shinken curriculum: bō, sai, tonfa, nunchaku, kama, tekko, tinbē-rochin and surujin."
+social_image: "/img/social/banner-eight-weapons-1200x630.jpg"
 ---
 
 # Traditional Weapons

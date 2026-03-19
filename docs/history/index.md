@@ -3,6 +3,7 @@ sidebar_position: 1
 title: Ryūkyū Kobudon Historia
 slug: /historia/
 description: Overview of the history of Ryukyuan weapon-based martial arts, from the Ryukyu Kingdom through Taira Shinken's systematization.
+social_image: "/img/social/banner-okinawa-coast-1200x630.jpg"
 ---
 
 # History of Ryukyu Kobudo
