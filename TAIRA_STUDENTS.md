@@ -19,8 +19,8 @@ Taira left a **small but very influential** circle of senior students whose kara
 
 - **Role**: Second‑generation president of the Okinawan Ryukyu Kobudō organization after Taira; major bō specialist.
 - **Relationship to Taira**:
-  - Arakaki Ryukyu Kobudō’s Japanese history page explains that **after Taira’s death in 1970, “his senior disciple Akamine Eisuke became the second president of the Ryukyu Kobudō Hozon Shinkōkai”**. [kobudo-arakaki](http://www.kobudo-arakaki.com/about/)
-  - It states clearly that **Akamine studied under Taira** (after earlier studying Yamane‑line bō under Chinen Sanda’s direct students). [kobudo-arakaki](http://www.kobudo-arakaki.com/about/)
+  - Arakaki Ryukyu Kobudō’s Japanese history page explains that **after Taira’s death in 1970, “his senior disciple Akamine Eisuke became the second president of the Ryukyu Kobudō Hozon Shinkōkai”**. [kobudo-arakaki](https://kobudo-arakaki.com/about/)
+  - It states clearly that **Akamine studied under Taira** (after earlier studying Yamane‑line bō under Chinen Sanda’s direct students). [kobudo-arakaki](https://kobudo-arakaki.com/about/)
 - **Style / organization**:
   - Head of Okinawan **Ryukyu Kobudō Hozon Shinkōkai (Okinawa branch)**; his line strongly emphasizes Yamane‑line bō kata (Sakugawa no Kun, Shūshi no Kun, Yonekawa no Kun, Shirotaru no Kun) integrated into Taira’s broader weapon syllabus. [koryu-uchinadi](https://www.koryu-uchinadi.com/yamane-ryu/)
 - **Library‑oriented sources**:

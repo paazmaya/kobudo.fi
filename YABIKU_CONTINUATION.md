@@ -8,7 +8,7 @@ Known sources are very sparse on _other_ named students of Yabiku Moden; most ex
 - A detailed English lineage article on Yabiku states that _among his students_ was **“the founder of Ryukyu Kobudo Hozon Shinko Kai, Taira Shinken”**, who “carried on the work started by his teacher” and added his own contributions. [ryukyukobudousa](https://www.ryukyukobudousa.com/lineage/yabiku-moden)
 
 So for your genealogy:  
-**Chinen Sanda (Yamani‑ryū bō) → Yabiku Moden → Taira Shinken → Inoue Motokatsu / others.** [kobudo-arakaki](http://www.kobudo-arakaki.com/about/)
+**Chinen Sanda (Yamani‑ryū bō) → Yabiku Moden → Taira Shinken → Inoue Motokatsu / others.** [kobudo-arakaki](https://kobudo-arakaki.com/about/)
 
 ## 2. Other students of Yabiku: what is explicitly attested?
 
@@ -16,7 +16,7 @@ Japanese and English sources that focus on Yabiku himself (rather than on Taira)
 
 - Yabiku’s teachers are named (Itosu Ankō for karate; Chinen Sanda, Tawata/Tawada Shinboku, Kanagusuku Sanda for kobudō). [ryukyukobudousa](https://www.ryukyukobudousa.com/lineage/yabiku-moden)
 - The Ryukyu‑kobudo USA lineage page calls **Taira Shinken “one of his most famous students”**, but does **not** list other named disciples. [ryukyukobudousa](https://www.ryukyukobudousa.com/lineage/yabiku-moden)
-- The general Ryūkyū kobudō articles that mention Yabiku’s Kenkyūkai go directly from Yabiku to Taira when describing organizational lineage. [kobudo-arakaki](http://www.kobudo-arakaki.com/about/)
+- The general Ryūkyū kobudō articles that mention Yabiku’s Kenkyūkai go directly from Yabiku to Taira when describing organizational lineage. [kobudo-arakaki](https://kobudo-arakaki.com/about/)
 
 There are _likely_ other students (he taught karate and kobudō at Bito Elementary and in teacher‑training contexts), but those names are not clearly tied to later named styles in readily searchable Japanese or library‑oriented sources. Current evidence only allows you to state with confidence that:
 

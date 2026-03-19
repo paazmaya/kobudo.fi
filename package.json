@@ -13,7 +13,8 @@
     "deploy": "docusaurus deploy",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "check-external-links": "node scripts/check-external-md-links.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "3.9.2",
@@ -32,6 +33,7 @@
     "@docusaurus/tsconfig": "3.9.2",
     "@docusaurus/types": "3.9.2",
     "oxfmt": "0.41.0",
+    "playwright": "1.56.1",
     "typescript": "5.9.3"
   },
   "browserslist": {

@@ -159,7 +159,7 @@ A small number of further practitioners are described in dojo histories and web 
 1. [Ryukyu Kobujutsu Hozon Shinkokai — genealogy](https://www.ryukyukobujutsuhozonshinkokai.org/012_en_keifu.html): Inoue Motokatsu's receipt of all 42 kata from Taira; creation of the kihon/kumite framework; Inoue Kisho as current head
 2. [Budokai Kokoro — Kobudo](https://www.budokaikokoro.nl/kobudo.php): Inoue Motokatsu background and published works
 3. [NDL Search — Ryukyu Kobudo Kihon-waza Series](https://ndlsearch.ndl.go.jp/books/R100000002-I000001348055): Inoue Motokatsu's publications catalogued in National Diet Library
-4. [Kobudo Arakaki — about](http://www.kobudo-arakaki.com/about/): Akamine Eisuke as Taira's successor in Okinawa; his prior Yamane-line training
+4. [Kobudo Arakaki — about](https://kobudo-arakaki.com/about/): Akamine Eisuke as Taira's successor in Okinawa; his prior Yamane-line training
 5. [Okinawa Karate Kaikan — Nakamoto books](https://karatekaikan.jp/products/book-okinawatradition-kobudo): Nakamoto Masahiro's reference works on traditional Okinawan kobudo
 6. [Nihon Kobudo Kyokai — Motobu Udun-di](https://www.nihonkobudokyoukai.org/martialarts/065/): Formal listing for Motobu Udun-di
 7. [Itosu-ryu Kobudo — Kongo-ryu](https://www.itosu-ryu.net/kobudo): Sakagami Ryusho as the recipient of Taira's first shihan license

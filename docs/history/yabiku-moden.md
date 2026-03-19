@@ -76,6 +76,6 @@ _(Karate influence: Itosu Anko → Yabiku; Funakoshi Gichin → Taira from 1922;
 
 1. [Ryukyu kobujutsu — Japanese Wikipedia](https://ja.wikipedia.org/wiki/%E7%90%89%E7%90%83%E5%8F%A4%E6%AD%A6%E8%A1%93): Yabiku as founder of Kenkyukai in early Taisho; Taira as his disciple who founded the Preservation Society in 1940
 2. [Yabiku Moden — Ryukyu Kobudo USA](https://www.ryukyukobudousa.com/lineage/yabiku-moden): His teachers (Itosu, Chinen Sanda, Tawata Shinboku, Kanagusuku Sanda); Taira Shinken as "one of his most famous students"
-3. [Kobudo Arakaki — about](http://www.kobudo-arakaki.com/about/): Lineage summary Chinen Sanda → Yabiku Moden → Taira Shinken → Inoue Motokatsu
+3. [Kobudo Arakaki — about](https://kobudo-arakaki.com/about/): Lineage summary Chinen Sanda → Yabiku Moden → Taira Shinken → Inoue Motokatsu
 4. [Ryukyu Kobujutsu Hozon Shinkokai — genealogy](https://www.ryukyukobujutsuhozonshinkokai.org/012_en_keifu.html): Detailed lineage from Chinen Shikiyanaka through Yamani no Chinen and Yabiku to Taira
 5. [Research page](/tutkimus): Primary bibliographic sources for lineage documentation

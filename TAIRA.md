@@ -9,7 +9,7 @@ Taira’s kobudō sits at the intersection of several karate and kobudō lineage
 
 **Primary kobudō teacher: Yabiku Moden – Ryūkyū Kobujutsu Kenkyūkai**
 
-- Around 1929, he began formal Ryūkyū kobudō under Yabiku Moden (屋比久孟傳), who had studied Yamani‑line bō and other weapons from Yamani no Chinen and others, then founded the Ryukyu Kobujutsu Kenkyūkai. [kobudo-arakaki](http://www.kobudo-arakaki.com/about/)
+- Around 1929, he began formal Ryūkyū kobudō under Yabiku Moden (屋比久孟傳), who had studied Yamani‑line bō and other weapons from Yamani no Chinen and others, then founded the Ryukyu Kobujutsu Kenkyūkai. [kobudo-arakaki](https://kobudo-arakaki.com/about/)
 - Through Yabiku, Taira inherited a corpus of older bō kata (Sakugawa, Shūshi, Chinen/Soeishi line, etc.) and their associated lineages reaching back to Soeishi, Chinen Shikiyanaka and Yamani no Chinen in the late Ryukyu Kingdom period, as shown in the Ryūkyū Kobujutsu Hozon Shinkōkai genealogy. [ryukyukobujutsuhozonshinkokai](https://www.ryukyukobujutsuhozonshinkokai.org/012_en_keifu.html)
 
 **Karate & kobudō refinement: Mabuni Kenwa – Shitō‑ryū influence**
@@ -20,7 +20,7 @@ Taira’s kobudō sits at the intersection of several karate and kobudō lineage
 **Summary of technical influences**
 
 - **Shotokan/Itosu–Funakoshi line**: training structure, kihon emphasis, some empty‑hand kata context. [en.wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken)
-- **Yamani/Yabiku line kobudō**: core of the bō and other weapons kata, Ryukyu Kingdom genealogies. [kobudo-arakaki](http://www.kobudo-arakaki.com/about/)
+- **Yamani/Yabiku line kobudō**: core of the bō and other weapons kata, Ryukyu Kingdom genealogies. [kobudo-arakaki](https://kobudo-arakaki.com/about/)
 - **Shitō‑ryū Mabuni line**: broad kata literacy, methodical cataloguing of variants, strong influence on how Taira later “anthologized” kobudō kata into a comprehensive syllabus. [isshin-concentration.blogspot](https://isshin-concentration.blogspot.com/2023/07/taira-shinken-restorer-of-okinawa-kobudo.html?m=0)
 
 ## 2. Taira’s own system-building
@@ -51,7 +51,7 @@ Taira’s kobudō sits at the intersection of several karate and kobudō lineage
 
 **Akamine Eisuke (赤嶺栄亮)** – Okinawan bō master bridging Yamane and Taira
 
-- A Ryukyu kobudō article notes that Akamine Eisuke, before studying under Taira, had already learned Yamane‑line bō from direct students of Chinen “Yamani no usume” (Chinen Sandā), acquiring Sakugawa no Kun, Shūshi no Kun, Yonekawa no Kun, Shirotaru no Kun and others directly from that stream. [kobudo-arakaki](http://www.kobudo-arakaki.com/about/)
+- A Ryukyu kobudō article notes that Akamine Eisuke, before studying under Taira, had already learned Yamane‑line bō from direct students of Chinen “Yamani no usume” (Chinen Sandā), acquiring Sakugawa no Kun, Shūshi no Kun, Yonekawa no Kun, Shirotaru no Kun and others directly from that stream. [kobudo-arakaki](https://kobudo-arakaki.com/about/)
 - He later studied under Taira, so his own style (Ryūkyū Kobudō and related lines) represents a **fusion of Yamane‑Chinen bō and Taira’s standardized kobudō**; where kata names coincide (Sakugawa, Shūshi, Shirotaru), his versions preserve Yamane flavor while fitting into the Taira naming matrix. [koryu-uchinadi](https://www.koryu-uchinadi.com/yamane-ryu/)
 
 **Other notable students / adopters**
@@ -83,7 +83,7 @@ Because most of Taira’s close students were already senior karateka in differe
 
 For your expanded Taira study, these newer/less‑obvious sources are worth mining:
 
-- **Arakaki Ryūkyū Kobudō site (琉球古武道について)** – concise Japanese summary of Taira’s teachers (Funakoshi, Yabiku, Mabuni) and details on Akamine Eisuke’s prior Yamane‑line training and the specific kata he brought (Sakugawa, Shūshi, Yonekawa, Shirotaru). [kobudo-arakaki](http://www.kobudo-arakaki.com/about/)
+- **Arakaki Ryūkyū Kobudō site (琉球古武道について)** – concise Japanese summary of Taira’s teachers (Funakoshi, Yabiku, Mabuni) and details on Akamine Eisuke’s prior Yamane‑line training and the specific kata he brought (Sakugawa, Shūshi, Yonekawa, Shirotaru). [kobudo-arakaki](https://kobudo-arakaki.com/about/)
 - **Ryūkyū Kobujutsu Hozon Shinkōkai genealogy page** – detailed English genealogy from Soeishi and Chinen Shikiyanaka through Yamani no Chinen and Yabiku to Taira and then Motokatsu/Kishō Inoue, plus notes on Inoue’s role in codifying kihon, kumite, and publications. [ryukyukobujutsuhozonshinkokai](https://www.ryukyukobujutsuhozonshinkokai.org/012_en_keifu.html)
 - **Andreas Quast’s “Taira Shinken – Restorer of Okinawa Kobudō” essay** – deep historical article (blog) that analyses Taira’s training under Mabuni, his appearance in Karate‑dō Taikan, and kata such as Sesoko no Kun in that context. [isshin-concentration.blogspot](https://isshin-concentration.blogspot.com/2023/07/taira-shinken-restorer-of-okinawa-kobudo.html?m=0)
 - **Isshin‑Concentration / Isshinkai materials** – pieces that detail Taira’s relationship to Tatsuo Shimabuku and discuss derivative variations of Tokumine no Kon and other kata, which are excellent for seeing how karate styles reshaped Taira material. [isshin-concentration.blogspot](http://isshin-concentration.blogspot.com/2024/05/sai-discussion-on-e-budocom.html)
