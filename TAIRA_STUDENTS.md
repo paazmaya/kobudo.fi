@@ -91,7 +91,7 @@ For your presentation, the six above (Inoue Motokatsu, Akamine, Nakamoto, Inoue 
 
 Here is material just on **Sakagami Ryūsho** and **Hayashi Teruo** as students of Taira Shinken, with their styles, organizations, and anchored sources you can append to your existing list.
 
-***
+---
 
 ## Sakagami Ryūsho 坂上隆祥 (Hyōgo / Tsurumi, Tokyo–Yokohama)
 
@@ -101,15 +101,16 @@ Here is material just on **Sakagami Ryūsho** and **Hayashi Teruo** as students 
 - The Itosu‑ryu official kobudō page (Itosu‑ryu Karatedo International Federation) explains that **“Ryukyu Kobudo Kongo‑ryu was an Okinawan weaponary martial arts style that was created by the martial artist, Ryusho Sakagami. He received the first Shihan license from the modern pioneer of Kobudo, Master Shinken Taira.”** [itosu-ryu](https://www.itosu-ryu.net/kobudo)
 - The Kongo‑ryu site in Japanese confirms this from the Ryukyu side: **“琉球古武道中興の祖と言われた平信賢師より第一号師範免状を受けた武道家坂上隆祥師によって創流された古武道の流派であり…”** (“Kongo‑ryu is a kobudō school founded by the martial artist Sakagami Ryūsho, who received the first shihan menjo from Master Taira Shinken, called the restorer of Ryukyu kobudō”). [kobudo-kongo-ryu](https://www.kobudo-kongo-ryu.net/kongo-ryu)
 
-Together these show:  
+Together these show:
+
 - Sakagami first learned Ryukyu kobudō from **Yabiku Moden and Mabuni Kenwa**, then in the mid‑1950s invited Taira to his home and honbu to deepen his kobudō. [shuriway.co](https://www.shuriway.co.uk/sakagami.html)
 - Taira explicitly recognized him with **first shihan license and later 8th dan in kobudō**, making him one of Taira’s senior mainland disciples. [itosu-ryu](https://www.itosu-ryu.net/kobudo)
 
 ### Styles and organizations
 
-- **Karate style:**  
-  - 3rd‑generation head of **Itosu‑ha / Itosu‑kai Shitō‑ryū**; the Itosu‑ryu federation traces the line *Itosu Ankō → Mabuni Kenwa → Sakagami Ryūsho → Sakagami Sadaaki (current sōke).* [shuriway.co](https://www.shuriway.co.uk/sakagami.html)
-- **Kobudō style:**  
+- **Karate style:**
+  - 3rd‑generation head of **Itosu‑ha / Itosu‑kai Shitō‑ryū**; the Itosu‑ryu federation traces the line _Itosu Ankō → Mabuni Kenwa → Sakagami Ryūsho → Sakagami Sadaaki (current sōke)._ [shuriway.co](https://www.shuriway.co.uk/sakagami.html)
+- **Kobudō style:**
   - Founder of **Ryūkyū Kobudō Kongo‑ryū** (琉球古武道金剛流), described as the **oldest Ryukyu kobudō dōjō on mainland Japan**. [kobudo-kongo-ryu](https://www.kobudo-kongo-ryu.net/kongo-ryu)
   - Kongo‑ryu kata and basics are now systematized and taught under his son **Sakagami Sadaaki** as shuseki shihan; multiple instructional DVDs (bō, sai, nunchaku, tekko, kama) are published by Tokyo‑dō International and other Japanese firms. [tokyodo-in.co](https://www.tokyodo-in.co.jp/SHOP/dvd-ikb2.html)
 
@@ -119,24 +120,24 @@ Together these show:
 - **Kongo‑ryū official site (金剛流とは？)** gives a Japanese synopsis that can be cited in Japanese‑language work and is the closest thing to a “library‑style entry” for Sakagami’s kobudō line. [kobudo-kongo-ryu](https://www.kobudo-kongo-ryu.net/kongo-ryu)
 - For karate context, Sakagami’s kata compendium **『空手道形大観』 (Karatedo Kata Taikan)** is catalogued in NDL and university libraries; it situates his karate in the Itosu–Mabuni line that then intersects with Taira’s kobudō. [ci.nii.ac](https://ci.nii.ac.jp/ncid/BA86661994)
 
-***
+---
 
 ## Hayashi Teruo 林輝男 (Nara / Osaka)
 
 ### Relationship to Taira Shinken
 
-- A 1964 Japanese entry on **Okinawa Kobudō Kenshin‑ryū** (translated and cited by Andreas Quast) describes Taira and then states:  
+- A 1964 Japanese entry on **Okinawa Kobudō Kenshin‑ryū** (translated and cited by Andreas Quast) describes Taira and then states:
   - “**Mr. Hayashi Teruo is a leading disciple who learned kobudō under Mr. Taira Shinken. Afterwards, Mr. Hayashi chose Mr. Nakaima Kenkō as his master. … By adopting the two characters of “Ken” from Nakaima Kenkō and “Shin” from Taira Shinken, Mr. Hayashi created the Okinawan kobudō of ‘Kenshin‑ryū’.**” [ryukyu-bugei](https://ryukyu-bugei.com/?p=10979)
-- The same piece gives a bibliography: *“Okinawa Kobudō Kenshin‑ryū. In: Jinbutsu Ōrai Rekishi Dokuhon (人物往来歴史読本) 9(12), Jinbutsu Ōraisha, Dec[ember].”*—this is a Japanese historical magazine volume you can locate via library databases. [ryukyu-bugei](https://ryukyu-bugei.com/?p=10979)
+- The same piece gives a bibliography: _“Okinawa Kobudō Kenshin‑ryū. In: Jinbutsu Ōrai Rekishi Dokuhon (人物往来歴史読本) 9(12), Jinbutsu Ōraisha, Dec[ember].”_—this is a Japanese historical magazine volume you can locate via library databases. [ryukyu-bugei](https://ryukyu-bugei.com/?p=10979)
 
 So we have a contemporaneous Japanese print source (1964) explicitly calling Hayashi **a leading disciple (門弟 / leading disciple)** of Taira in kobudō, and explaining that Kenshin‑ryū’s name itself encodes both **Ken** (Nakaima Kenkō, Ryūei‑ryū) and **Shin** (Taira Shin‑ken). [ryukyu-bugei](https://ryukyu-bugei.com/?p=10979)
 
 ### Styles and organizations
 
-- **Karate style:**  
-  - Founder and sōke of **Hayashi‑ha Shitō‑ryū‑kai** (日本空手道 林派糸東流会).  
+- **Karate style:**
+  - Founder and sōke of **Hayashi‑ha Shitō‑ryū‑kai** (日本空手道 林派糸東流会).
   - The Hayashi‑ha official site lists his long karate career (JKF director, FAJKO director, etc.) and shows he built a large Osaka‑based Shitō‑ryū network. [hayashiha](https://hayashiha.jp/hayashiha/index.html)
-- **Kobudō style:**  
+- **Kobudō style:**
   - Founder of **Okinawa Kobudō Kenshin‑ryū** (沖縄古武道憲心流). The Hayashi‑ha Kenshin‑ryū page states that **“Okinawa Kobudō Kenshin‑ryū was founded in Shōwa 36 (1961) by first‑generation sōke Hayashi Teruo”**, teaching bō, sai, kama etc., with the explicit goal of enhancing karate basics by integrating weapon work. [hayashiha](https://hayashiha.jp/kenshinryu/index.html)
   - The international Shitō‑ryū organization chart page identifies him as **“Soke Hanshi 10th Dan Okinawa Kobudo Kenshin‑Ryu”** and founder/president of **Japan Kobudo Kenshin‑Ryu‑Kai**, alongside his role as president and sōke of Hayashi‑ha Shitō‑ryū‑kai. [internationalshitoryu](https://www.internationalshitoryu.com/aboutus/organization-chart/hayashi-teruo/)
 
@@ -144,12 +145,12 @@ So we have a contemporaneous Japanese print source (1964) explicitly calling Hay
 
 Putting the above together:
 
-- **Kobudō roots**:  
+- **Kobudō roots**:
   - Learns Okinawan kobudō first from **Taira Shinken** (Ryukyu kobudō) and then **Nakaima Kenkō** (Ryūei‑ryū); Kenshin‑ryū’s name deliberately fuses these two lines (Ken + Shin). [ryukyu-bugei](https://ryukyu-bugei.com/?p=10979)
-- **Karate base**:  
+- **Karate base**:
   - Initially Gōjū‑ryū under Higa Seikō; later extensive Shitō‑ryū under Kuniba Kōsei and Mabuni Kenwa, then develops his own **Hayashi‑ha** branch. [kobayashidojo](https://www.kobayashidojo.com/hayashi-story)
-- **Resulting systems**:  
-  - **Hayashi‑ha Shitō‑ryū‑kai** – large karate organization (Osaka HQ, international branches).  
+- **Resulting systems**:
+  - **Hayashi‑ha Shitō‑ryū‑kai** – large karate organization (Osaka HQ, international branches).
   - **Japan Kobudō Kenshin‑ryū‑kai** – kobudō organization encoding Taira + Nakaima influence, with kata and pedagogy designed to reinforce Hayashi‑ha karate basics. [internationalshitoryu](https://www.internationalshitoryu.com/aboutus/organization-chart/hayashi-teruo/)
 
 ### Library‑oriented / Japanese sources you can chase

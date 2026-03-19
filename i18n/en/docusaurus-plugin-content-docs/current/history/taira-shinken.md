@@ -23,7 +23,7 @@ Taira Shinken is considered the most important single figure in the preservation
 
 ### Funakoshi Gichin: Shōtōkan Karate Foundation
 
-After moving to Tokyo in 1922, Taira became a close student (*deshi*) of Funakoshi Gichin, the pioneer of Shōtōkan karate. This gave him a Shuri-based empty-hand foundation, instilling an emphasis on structured kihon, formal kata lists, and a pedagogical framework that he later applied directly to kobudo, making the weapons curriculum compatible with existing karate dojo structures and belt systems.
+After moving to Tokyo in 1922, Taira became a close student (_deshi_) of Funakoshi Gichin, the pioneer of Shōtōkan karate. This gave him a Shuri-based empty-hand foundation, instilling an emphasis on structured kihon, formal kata lists, and a pedagogical framework that he later applied directly to kobudo, making the weapons curriculum compatible with existing karate dojo structures and belt systems.
 
 ### Yabiku Moden: Primary Kobudo Teacher
 
@@ -45,26 +45,26 @@ The expanded posthumous edition, **_新編・増補 琉球古武道大鑑_** (�
 
 The core curriculum Taira systematized:
 
-| Weapon         | Japanese           | Kata count |
-| -------------- | ------------------ | ---------- |
-| Staff (6 ft)   | 棒 [Bō](/en/weapons/bo)              | ~18        |
-| Sai            | 釵 [Sai](/en/weapons/sai)             | 8          |
-| Tonfa          | [Tonfa](/en/weapons/tonfa)         | 2          |
+| Weapon         | Japanese                                 | Kata count |
+| -------------- | ---------------------------------------- | ---------- |
+| Staff (6 ft)   | 棒 [Bō](/en/weapons/bo)                  | ~18        |
+| Sai            | 釵 [Sai](/en/weapons/sai)                | 8          |
+| Tonfa          | [Tonfa](/en/weapons/tonfa)               | 2          |
 | Nunchaku       | [Nunchaku](/en/weapons/nunchaku)         | 2          |
-| Sickle         | 鎌 [Kama](/en/weapons/kama)            | 2          |
-| Knuckle guards | 鉄甲 [Tekko](/en/weapons/tekko)         | 2          |
+| Sickle         | 鎌 [Kama](/en/weapons/kama)              | 2          |
+| Knuckle guards | 鉄甲 [Tekko](/en/weapons/tekko)          | 2          |
 | Shield & spear | [Tinbē-Rochin](/en/weapons/tinbe-rochin) | 1          |
-| Weighted chain | [Surujin](/en/weapons/surujin)   | 2          |
+| Weighted chain | [Surujin](/en/weapons/surujin)           | 2          |
 
 ## Kobudo Pedagogy: Karate's Influence
 
-Coming from both Funakoshi and Mabuni, Taira built his kobudo curriculum using a karate-style teaching framework: systematic kihon, formalized kata lists organized by weapon and level. In later cooperation with his student Inoue Motokatsu, he also added explicit *tsukaikata* (usage techniques), *kihon kumite* (basic partner practice), and *bunkai kumite* (kata application) for each weapon.
+Coming from both Funakoshi and Mabuni, Taira built his kobudo curriculum using a karate-style teaching framework: systematic kihon, formalized kata lists organized by weapon and level. In later cooperation with his student Inoue Motokatsu, he also added explicit _tsukaikata_ (usage techniques), _kihon kumite_ (basic partner practice), and _bunkai kumite_ (kata application) for each weapon.
 
 This made kobudo "karate-dojo friendly": karate organizations could integrate Taira’s weapons syllabus into existing belt systems, which is precisely what happened in Shotokan, Shōrin-ryū, Isshin-ryū, and other styles where [Sakugawa, Shūshi, Tokumine, and Tsuken kata](/en/kata/bo-kata) became standard kobudo options.
 
 ## The Lineage Continues
 
-Taira's senior student **Inoue Motokatsu** received *menkyo kaiden* (full transmission certification) and subsequently codified the curriculum into a series of weapon-specific instructional manuals (the _琉球古武道基本技シリーズ_, 1970s). Inoue had previously studied under Fujita Seiko and Konishi Yasuhiro (Shindō Jinen-ryū), and was directed by his own teachers to study Ryukyu kobudo from Taira; he received all 42 traditional weapons kata directly from him.
+Taira's senior student **Inoue Motokatsu** received _menkyo kaiden_ (full transmission certification) and subsequently codified the curriculum into a series of weapon-specific instructional manuals (the _琉球古武道基本技シリーズ_, 1970s). Inoue had previously studied under Fujita Seiko and Konishi Yasuhiro (Shindō Jinen-ryū), and was directed by his own teachers to study Ryukyu kobudo from Taira; he received all 42 traditional weapons kata directly from him.
 
 Today the primary heir organization is the **琉球古武術保存振興会** ([Ryūkyū Kobujutsu Hozon Shinkōkai](/en/styles/taira-line)), currently headed by Inoue's eldest son **Inoue Kisho**, and registered with the Nihon Kobudō Kyōkai.
 

@@ -33,8 +33,8 @@ These characteristics make Yamane-ryū bō kata immediately recognizable even wh
 
 Yamane-ryū preserves several kata that overlap in name with Taira-line bō:
 
-| Kata name                 | Notes                                                                    |
-| ------------------------- | ------------------------------------------------------------------------ |
+| Kata name                                     | Notes                                                                    |
+| --------------------------------------------- | ------------------------------------------------------------------------ |
 | [Sakugawa no Kon](/en/kata/bo-kata)           | Different choreography from Taira version; shared family origin          |
 | [Shūshi no Kon](/en/kata/bo-kata)             | Same name, distinct Yamane-ryū interpretation                            |
 | [Tsuken Bō](/en/kata/bo-kata)                 | Tsuken-area origin; Yamane-ryū version emphasizes oar-derived techniques |
@@ -46,18 +46,18 @@ Yamane-ryū is transmitted through several organizations including the **Ryūky�
 
 The **RBKD** (琉球棒術研究会) was founded in 1985 by Oshiro and Nishime. Its current head is **Chogi Kishaba**. The RBKD preserves the following kata:
 
-| Kata                         | Notes                                                         |
-| ---------------------------- | ------------------------------------------------------------- |
-| Donyukon I & II              | Foundational forms                                            |
+| Kata                                             | Notes                                                         |
+| ------------------------------------------------ | ------------------------------------------------------------- |
+| Donyukon I & II                                  | Foundational forms                                            |
 | [Choun no Kun](/en/kata/bo-kata) Shō / Dai       | Two-level form                                                |
 | [Shuji no Kun](/en/kata/bo-kata) Shō / Dai       | Two-level form                                                |
 | [Ryubi no Kon](/en/kata/bo-kata)                 | Advanced form                                                 |
-| Sakugawa no Kun              | Shared name with Taira-line; distinct Yamane-ryū choreography |
+| Sakugawa no Kun                                  | Shared name with Taira-line; distinct Yamane-ryū choreography |
 | [Shirataru no Kun](/en/kata/bo-kata)             | Also rendered Shirotaru                                       |
-| Tomari Shirataru             | Extended variant                                              |
+| Tomari Shirataru                                 | Extended variant                                              |
 | [Yunigawa / Yonegawa no Kun](/en/kata/bo-kata)   |                                                               |
 | [Shinakachi / Sunakake no Kun](/en/kata/bo-kata) |                                                               |
-| Chikin Bō / Tsuken Bō        | Tsuken island origin                                          |
+| Chikin Bō / Tsuken Bō                            | Tsuken island origin                                          |
 
 ## Founding Figure
 

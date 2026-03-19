@@ -21,11 +21,11 @@ The **tekko** (鉄甲, also written 鉄甲 or テッコウ) are metal knuckle gu
 
 ## Physical Characteristics
 
-| Property    | Detail                                             |
-| ----------- | -------------------------------------------------- |
-| Form        | Metal arc fitting across the knuckles              |
-| Projections | One or more short points on the striking surface   |
-| Material    | Iron or steel                                      |
+| Property    | Detail                                            |
+| ----------- | ------------------------------------------------- |
+| Form        | Metal arc fitting across the knuckles             |
+| Projections | One or more short points on the striking surface  |
+| Material    | Iron or steel                                     |
 | Usage       | Worn, one per hand, or one hand only in some kata |
 
 ## Technique

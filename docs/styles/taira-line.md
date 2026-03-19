@@ -86,8 +86,8 @@ Because most of Taira's close students were already senior karateka in different
 | Akamine / Okinawa                 | Yamane-line bō + Taira | Yamane flavor preserved in overlapping kata              |
 | Nakamoto / Bunbukan               | Taira-Akamine line     | Documented in major Okinawan kobudo reference works      |
 | Shimabuku / Isshin-ryū            | Isshin-ryū             | Distinct stances, upper body posture, power generation   |
-| Sakagami / Kongo-ryu              | Itosu-ha Shitō-ryū    | First shihan license; oldest mainland Ryukyu kobudo dojo |
-| Hayashi / Kenshin-ryu             | Hayashi-ha Shitō-ryū  | Name fuses Nakaima (Ken) and Taira (Shin)                |
+| Sakagami / Kongo-ryu              | Itosu-ha Shitō-ryū     | First shihan license; oldest mainland Ryukyu kobudo dojo |
+| Hayashi / Kenshin-ryu             | Hayashi-ha Shitō-ryū   | Name fuses Nakaima (Ken) and Taira (Shin)                |
 | Shitō-ryū and Shōrin-ryū schools  | Various                | Style-specific hip work, stance depth, tempo             |
 
 All branches share the same kata names and broad structure; the differences lie in stance depth, hip usage, tempo, and application emphasis, each reflecting the karate tradition of the transmitting teacher.

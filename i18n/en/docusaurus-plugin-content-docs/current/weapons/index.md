@@ -21,16 +21,16 @@ The Taira Shinken curriculum organizes Ryukyu kobudo around **eight core weapon 
 
 ## The Eight Weapons
 
-| Weapon                         | Japanese           | Origin/character                     | Kata (Taira line) |
-| ------------------------------ | ------------------ | ------------------------------------ | ----------------- |
-| [Bō](./bo)                     | 棒                 | 6 ft staff, the most universal weapon   | 18+               |
+| Weapon                         | Japanese           | Origin/character                           | Kata (Taira line) |
+| ------------------------------ | ------------------ | ------------------------------------------ | ----------------- |
+| [Bō](./bo)                     | 棒                 | 6 ft staff, the most universal weapon      | 18+               |
 | [Sai](./sai)                   | 釵                 | Metal trident for thrust, trap, and strike | 8                 |
-| [Tonfa](./tonfa)               | トンファー         | Millstone handle, close-range       | 2                 |
-| [Nunchaku](./nunchaku)         | ヌンチャク         | Flail-type, threshing tool origin   | 2                 |
-| [Kama](./kama)                 | 錐                 | Sickle, agricultural tool           | 2                 |
-| [Tekko](./tekko)               | 鉄甲               | Knuckle guards, horseshoe-derived   | 2                 |
-| [Tinbē-Rochin](./tinbe-rochin) | ティンベー・ロチン | Shield and short spear               | 1                 |
-| [Surujin](./surujin)           | スルジン           | Weighted rope/chain for ranged control | 2                 |
+| [Tonfa](./tonfa)               | トンファー         | Millstone handle, close-range              | 2                 |
+| [Nunchaku](./nunchaku)         | ヌンチャク         | Flail-type, threshing tool origin          | 2                 |
+| [Kama](./kama)                 | 錐                 | Sickle, agricultural tool                  | 2                 |
+| [Tekko](./tekko)               | 鉄甲               | Knuckle guards, horseshoe-derived          | 2                 |
+| [Tinbē-Rochin](./tinbe-rochin) | ティンベー・ロチン | Shield and short spear                     | 1                 |
+| [Surujin](./surujin)           | スルジン           | Weighted rope/chain for ranged control     | 2                 |
 
 ## Weapons Beyond the Eight
 

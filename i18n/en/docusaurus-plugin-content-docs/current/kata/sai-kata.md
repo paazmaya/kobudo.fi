@@ -27,11 +27,11 @@ The Bushukan analysis starts from the observation that Taira attributed seven of
 
 **浜比嘉の釵 (Hamahiga no Sai)** is argued to be the structural "source" form. Its sequences recur across two closely related kata:
 
-| Kata                 | Japanese         | Relationship                                          |
-| -------------------- | ---------------- | ----------------------------------------------------- |
+| Kata                 | Japanese         | Relationship                                         |
+| -------------------- | ---------------- | ---------------------------------------------------- |
 | Hamahiga no Sai      | 浜比嘉の釵       | Source form: structural elements recur in both below |
-| Hamagotenyaka no Sai | 浜御殿屋可阿の釵 | Shares many phrases with Hamahiga; closely related    |
-| Hantagwa no Sai      | 端多小の釵       | Structurally close; similar embusen and techniques    |
+| Hamagotenyaka no Sai | 浜御殿屋可阿の釵 | Shares many phrases with Hamahiga; closely related   |
+| Hantagwa no Sai      | 端多小の釵       | Structurally close; similar embusen and techniques   |
 
 These three form one sub-family: elaborations or reorganizations of the Hamahiga structural template.
 

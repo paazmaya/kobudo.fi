@@ -55,4 +55,3 @@ Full-text search is provided locally via [docusaurus-search-local](https://githu
 Selected site images are generated locally with [ComfyUI](https://github.com/comfyanonymous/ComfyUI) using the z-image-turbo model workflow. Running generation locally keeps prompt iteration fast, makes outputs reproducible, and avoids third-party image API dependencies for visual assets.
 
 This site was last built on **{buildDate}**.
-

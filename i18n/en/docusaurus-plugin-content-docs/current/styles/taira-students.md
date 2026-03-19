@@ -23,16 +23,16 @@ See also: [Taira Line: Ryukyu Kobujutsu](/en/styles/taira-line) for the main org
 
 ## Summary Table
 
-| Student | Karate base | Kobudo style created or led | Organization |
-| --- | --- | --- | --- |
-| Inoue Motokatsu | Shindo Jinen-ryu (Konishi) | Ryukyu Kobujutsu Hozon Shinkokai | Yuishinkai |
-| Akamine Eisuke | Yamane-line bo + Taira | Ryukyu Kobudo (Okinawa branch) | Okinawa Hozon Shinkokai |
-| Nakamoto Masahiro | Taira-Akamine line | Okinawan Traditional Kobudo | Bunbukan |
-| Inoue Kisho | Yuishinkai (son of Motokatsu) | Ryukyu Kobujutsu (current head) | Hozon Shinkokai |
-| Shimabuku Tatsuo | Isshin-ryu karate | Isshin-ryu weapon curriculum | Isshin-ryu dojo network |
-| Uehara Seikichi | Motobu Udun-di | Motobu Udun-di (weapons within) | Motobu-ryu |
-| Sakagami Ryusho | Itosu-ha Shito-ryu | Ryukyu Kobudo Kongo-ryu | Itosu-ryu federation |
-| Hayashi Teruo | Hayashi-ha Shito-ryu | Okinawa Kobudo Kenshin-ryu | Japan Kobudo Kenshin-ryu-Kai |
+| Student           | Karate base                   | Kobudo style created or led      | Organization                 |
+| ----------------- | ----------------------------- | -------------------------------- | ---------------------------- |
+| Inoue Motokatsu   | Shindo Jinen-ryu (Konishi)    | Ryukyu Kobujutsu Hozon Shinkokai | Yuishinkai                   |
+| Akamine Eisuke    | Yamane-line bo + Taira        | Ryukyu Kobudo (Okinawa branch)   | Okinawa Hozon Shinkokai      |
+| Nakamoto Masahiro | Taira-Akamine line            | Okinawan Traditional Kobudo      | Bunbukan                     |
+| Inoue Kisho       | Yuishinkai (son of Motokatsu) | Ryukyu Kobujutsu (current head)  | Hozon Shinkokai              |
+| Shimabuku Tatsuo  | Isshin-ryu karate             | Isshin-ryu weapon curriculum     | Isshin-ryu dojo network      |
+| Uehara Seikichi   | Motobu Udun-di                | Motobu Udun-di (weapons within)  | Motobu-ryu                   |
+| Sakagami Ryusho   | Itosu-ha Shito-ryu            | Ryukyu Kobudo Kongo-ryu          | Itosu-ryu federation         |
+| Hayashi Teruo     | Hayashi-ha Shito-ryu          | Okinawa Kobudo Kenshin-ryu       | Japan Kobudo Kenshin-ryu-Kai |
 
 ---
 
@@ -69,6 +69,7 @@ After Taira's death in 1970, Akamine became the second president of the Ryukyu K
 A Chinese-language survey of Okinawan kobudo based on Japanese sources explicitly lists Nakamoto as "one of Taira Shinken's direct students" and describes him as one of the most significant branches of Okinawan kobudo descending from Taira. He also trained under Akamine Eisuke and is often described in Okinawan media as a successor within the Taira-Akamine line.
 
 He is the author of two foundational reference works:
+
 - _Okinawa Dento Kobudo: Shokyu — Sono Kata to Oyo_ (Bunbukan, 1989)
 - _Okinawa Dento Kobudo: Sono Rekishi to Tamashii_ (Bunbukan, 1993)
 

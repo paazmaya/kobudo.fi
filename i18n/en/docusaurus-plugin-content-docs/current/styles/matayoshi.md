@@ -30,15 +30,15 @@ Registered under the name **金硬流唐手沖縄古武術** (Kingai-ryū Karate
 
 The Matayoshi curriculum includes an unusually wide selection of weapons:
 
-| Category      | Weapons                                                           |
-| ------------- | ----------------------------------------------------------------- |
-| Staff weapons | [Bō](/en/weapons/bo), Jō                                                            |
-| Bladed        | [Kama](/en/weapons/kama) (sickle), Nuntei (trident spear)                             |
-| Flexible      | [Nunchaku](/en/weapons/nunchaku), [Surujin](/en/weapons/surujin), Sansetsukon (3-section staff)                  |
-| Polearms      | Eku (boat oar), Kuwa (hoe/mattock), Yonsetsukun (4-section staff) |
-| Thrust/Guard  | [Sai](/en/weapons/sai), [Tekko](/en/weapons/tekko)                                                        |
-| Shield        | Tinbē (shield)                                                    |
-| Iron          | Tetsubō (iron truncheon)                                          |
+| Category      | Weapons                                                                                         |
+| ------------- | ----------------------------------------------------------------------------------------------- |
+| Staff weapons | [Bō](/en/weapons/bo), Jō                                                                        |
+| Bladed        | [Kama](/en/weapons/kama) (sickle), Nuntei (trident spear)                                       |
+| Flexible      | [Nunchaku](/en/weapons/nunchaku), [Surujin](/en/weapons/surujin), Sansetsukon (3-section staff) |
+| Polearms      | Eku (boat oar), Kuwa (hoe/mattock), Yonsetsukun (4-section staff)                               |
+| Thrust/Guard  | [Sai](/en/weapons/sai), [Tekko](/en/weapons/tekko)                                              |
+| Shield        | Tinbē (shield)                                                                                  |
+| Iron          | Tetsubō (iron truncheon)                                                                        |
 
 This breadth reflects the Matayoshi family's emphasis on preserving farming, fishing and everyday-object origins of Okinawan weapons.
 
