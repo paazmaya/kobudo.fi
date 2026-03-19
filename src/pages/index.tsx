@@ -81,9 +81,8 @@ function HeroSection(): React.ReactElement {
       />
       <h1 className="kb-hero__title">Ryukyu Kobudo</h1>
       <p className="kb-hero__subtitle">
-        The weapon arts of the Ryukyu Islands — their history, lineages, tools
-        and kata. A research resource tracing traditions from the Ryukyu Kingdom
-        to the present day.
+        The weapon arts of the Ryukyu Islands — their history, lineages, tools and kata. A research
+        resource tracing traditions from the Ryukyu Kingdom to the present day.
       </p>
       <div className="kb-hero__actions">
         <Link
@@ -147,26 +146,17 @@ export default function Home(): React.ReactElement {
   return (
     <Layout title={siteConfig.title} description={siteConfig.tagline}>
       <Head>
-        <meta
-          property="og:title"
-          content="Ryukyu Kobudo — Okinawan Weapon Arts"
-        />
+        <meta property="og:title" content="Ryukyu Kobudo — Okinawan Weapon Arts" />
         <meta
           property="og:description"
           content="History, lineages, weapons and kata of the Ryukyu Islands' weapon-based martial arts traditions."
         />
         <meta property="og:type" content="website" />
-        <meta
-          property="og:image"
-          content="https://kobudo.fi/img/hero-dojo-wall.png"
-        />
+        <meta property="og:image" content="https://kobudo.fi/img/hero-dojo-wall.png" />
         <meta property="og:image:width" content="1184" />
         <meta property="og:image:height" content="448" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta
-          name="twitter:image"
-          content="https://kobudo.fi/img/hero-dojo-wall.png"
-        />
+        <meta name="twitter:image" content="https://kobudo.fi/img/hero-dojo-wall.png" />
         <script type="application/ld+json">
           {JSON.stringify({
             "@context": "https://schema.org",

@@ -97,10 +97,7 @@ const config: Config = {
             return items.map((item) => {
               const url = item.url;
               // Homepage
-              if (
-                url === "https://kobudo.fi/" ||
-                url === "https://kobudo.fi/en/"
-              ) {
+              if (url === "https://kobudo.fi/" || url === "https://kobudo.fi/en/") {
                 return { ...item, priority: 1.0 };
               }
               // Section index pages (end with / and have one path segment after host)
@@ -226,12 +223,18 @@ const config: Config = {
         {
           title: "Yhteisö",
           items: [
-            { label: "Source code at GitHub", href: "https://github.com/paazmaya/kobudo.fi" },
+            {
+              label: "Source code at GitHub",
+              href: "https://github.com/paazmaya/kobudo.fi",
+            },
             {
               label: "Lisenssi: CC BY 4.0",
               href: "https://creativecommons.org/licenses/by/4.0/",
             },
-            { label: "Karate Teacher Jukka Paasonen", href: "https://karatejukka.fi" }
+            {
+              label: "Karate Teacher Jukka Paasonen",
+              href: "https://karatejukka.fi",
+            },
           ],
         },
       ],

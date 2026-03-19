@@ -115,11 +115,7 @@ export default function SearchBar(props: Props): ReactElement {
       </button>
 
       {isOpen && (
-        <div
-          className={styles.modalOverlay}
-          role="presentation"
-          onClick={closeModal}
-        >
+        <div className={styles.modalOverlay} role="presentation" onClick={closeModal}>
           <div
             className={styles.modalDialog}
             role="dialog"
@@ -158,9 +154,7 @@ export default function SearchBar(props: Props): ReactElement {
             </div>
             <div className={styles.searchContainer}>
               <DocsPreferredVersionContextProvider>
-                <ForkedSearchBar
-                  handleSearchBarToggle={props.handleSearchBarToggle}
-                />
+                <ForkedSearchBar handleSearchBarToggle={props.handleSearchBarToggle} />
               </DocsPreferredVersionContextProvider>
             </div>
           </div>

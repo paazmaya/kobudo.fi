@@ -14,9 +14,7 @@ function toAbsoluteUrl(siteUrl: string, pathOrUrl: string): string {
   return `${siteUrl.replace(/\/$/, "")}/${pathOrUrl.replace(/^\//, "")}`;
 }
 
-export default function DocItemStructuredData(
-  props: DocItemStructuredDataProps,
-): ReactElement {
+export default function DocItemStructuredData(props: DocItemStructuredDataProps): ReactElement {
   const { siteConfig, i18n } = useDocusaurusContext();
   const { metadata, frontMatter } = useDoc();
   const frontMatterValues = frontMatter as Record<string, unknown>;
@@ -24,9 +22,7 @@ export default function DocItemStructuredData(
   const headline = metadata.title;
   const description = metadata.description ?? siteConfig.tagline;
   const imagePath = String(
-    frontMatterValues.social_image ??
-      frontMatterValues.image ??
-      "/img/hero-dojo-wall.png",
+    frontMatterValues.social_image ?? frontMatterValues.image ?? "/img/hero-dojo-wall.png",
   );
 
   const canonicalUrl = toAbsoluteUrl(siteConfig.url, metadata.permalink);
@@ -55,9 +51,7 @@ export default function DocItemStructuredData(
     <>
       <StructuredData {...props} />
       <Head>
-        <script type="application/ld+json">
-          {JSON.stringify(articleSchema)}
-        </script>
+        <script type="application/ld+json">{JSON.stringify(articleSchema)}</script>
       </Head>
     </>
   );

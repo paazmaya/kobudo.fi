@@ -6,7 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start --port 9900",
     "build": "docusaurus build",
-    "format": "prettier --write .",
+    "format": "oxfmt",
     "serve": "docusaurus serve --port 9901",
     "clear": "docusaurus clear",
     "swizzle": "docusaurus swizzle",
@@ -21,17 +21,17 @@
     "@docusaurus/preset-classic": "3.9.2",
     "@easyops-cn/docusaurus-search-local": "0.55.1",
     "@mdx-js/react": "3.1.1",
-    "@tailwindcss/postcss": "4.2.1",
+    "@tailwindcss/postcss": "4.2.2",
     "clsx": "2.1.1",
     "react": "19.2.4",
     "react-dom": "19.2.4",
-    "tailwindcss": "4.2.1"
+    "tailwindcss": "4.2.2"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
     "@docusaurus/tsconfig": "3.9.2",
     "@docusaurus/types": "3.9.2",
-    "prettier": "3.8.1",
+    "oxfmt": "0.41.0",
     "typescript": "5.9.3"
   },
   "browserslist": {

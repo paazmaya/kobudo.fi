@@ -32,16 +32,13 @@ export default function DocItemMetadata(props: DocItemMetadataProps): ReactEleme
     : `${description} ${SITE_PURPOSE_SUFFIX}`;
 
   const socialImage = String(
-    frontMatterValues.social_image ??
-      frontMatterValues.image ??
-      "/img/hero-dojo-wall.png",
+    frontMatterValues.social_image ?? frontMatterValues.image ?? "/img/hero-dojo-wall.png",
   );
   const absoluteSocialImage = toAbsoluteUrl(siteConfig.url, socialImage);
   const canonicalUrl = toAbsoluteUrl(siteConfig.url, metadata.permalink);
 
   const keywords =
-    Array.isArray(frontMatterValues.keywords) &&
-    frontMatterValues.keywords.length > 0
+    Array.isArray(frontMatterValues.keywords) && frontMatterValues.keywords.length > 0
       ? frontMatterValues.keywords.join(", ")
       : typeof frontMatterValues.keywords === "string"
         ? frontMatterValues.keywords
@@ -80,9 +77,7 @@ export default function DocItemMetadata(props: DocItemMetadataProps): ReactEleme
         <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content={socialDescription} />
         <meta name="twitter:image" content={absoluteSocialImage} />
-        <script type="application/ld+json">
-          {JSON.stringify(articleSchema)}
-        </script>
+        <script type="application/ld+json">{JSON.stringify(articleSchema)}</script>
 
         {keywords ? <meta name="keywords" content={keywords} /> : null}
       </Head>

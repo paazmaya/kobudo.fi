@@ -4,10 +4,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useIsBrowser from "@docusaurus/useIsBrowser";
 import { useHistory, useLocation } from "@docusaurus/router";
 import { translate } from "@docusaurus/Translate";
-import {
-  useActivePlugin,
-  useActiveVersion,
-} from "@docusaurus/plugin-content-docs/client";
+import { useActivePlugin, useActiveVersion } from "@docusaurus/plugin-content-docs/client";
 import {
   fetchIndexesByWorker,
   searchByWorker,
@@ -72,9 +69,7 @@ export default function ForkedSearchBar({ handleSearchBarToggle }) {
 
   const activePlugin = useActivePlugin();
   let versionUrl = baseUrl;
-  const activeVersion = useActiveVersion(
-    activePlugin?.pluginId ?? docsPluginIdForPreferredVersion,
-  );
+  const activeVersion = useActiveVersion(activePlugin?.pluginId ?? docsPluginIdForPreferredVersion);
 
   if (activeVersion && !activeVersion.isLast) {
     versionUrl = `${activeVersion.path}/`;
@@ -163,9 +158,7 @@ export default function ForkedSearchBar({ handleSearchBarToggle }) {
         const detailedSearchContext =
           searchContext && Array.isArray(searchContextByPaths)
             ? searchContextByPaths.find((item) =>
-                typeof item === "string"
-                  ? item === searchContext
-                  : item.path === searchContext,
+                typeof item === "string" ? item === searchContext : item.path === searchContext,
               )
             : searchContext;
         const translatedSearchContext = detailedSearchContext
@@ -206,9 +199,7 @@ export default function ForkedSearchBar({ handleSearchBarToggle }) {
 
       if (versionUrl !== baseUrl) {
         if (!versionUrl.startsWith(baseUrl)) {
-          throw new Error(
-            `Version url '${versionUrl}' does not start with base url '${baseUrl}'.`,
-          );
+          throw new Error(`Version url '${versionUrl}' does not start with base url '${baseUrl}'.`);
         }
         params.set("version", versionUrl.substring(baseUrl.length));
       }
@@ -280,10 +271,7 @@ export default function ForkedSearchBar({ handleSearchBarToggle }) {
             suggestion: SuggestionTemplate,
             empty: EmptyTemplate,
             footer: ({ query, isEmpty }) => {
-              if (
-                isEmpty &&
-                (!searchContext || !useAllContextsWithNoSearchContext)
-              ) {
+              if (isEmpty && (!searchContext || !useAllContextsWithNoSearchContext)) {
                 return;
               }
               const a = searchFooterLinkElement({ query, isEmpty });
@@ -296,29 +284,26 @@ export default function ForkedSearchBar({ handleSearchBarToggle }) {
         },
       ],
     )
-      .on(
-        "autocomplete:selected",
-        function (_event, { document: { u, h }, type, tokens }) {
-          searchBarRef.current?.blur();
-          if (type === SearchDocumentType.AskAI && askAi) {
-            askAIWidgetRef.current?.openWithNewSession(tokens.join(""));
-            return;
-          }
+      .on("autocomplete:selected", function (_event, { document: { u, h }, type, tokens }) {
+        searchBarRef.current?.blur();
+        if (type === SearchDocumentType.AskAI && askAi) {
+          askAIWidgetRef.current?.openWithNewSession(tokens.join(""));
+          return;
+        }
 
-          let url = u;
-          if (Mark && tokens.length > 0) {
-            const params = new URLSearchParams();
-            for (const token of tokens) {
-              params.append(SEARCH_PARAM_HIGHLIGHT, token);
-            }
-            url += `?${params.toString()}`;
+        let url = u;
+        if (Mark && tokens.length > 0) {
+          const params = new URLSearchParams();
+          for (const token of tokens) {
+            params.append(SEARCH_PARAM_HIGHLIGHT, token);
           }
-          if (h) {
-            url += h;
-          }
-          history.push(url);
-        },
-      )
+          url += `?${params.toString()}`;
+        }
+        if (h) {
+          url += h;
+        }
+        history.push(url);
+      })
       .on("autocomplete:closed", () => {
         searchBarRef.current?.blur();
       });
@@ -430,10 +415,7 @@ export default function ForkedSearchBar({ handleSearchBarToggle }) {
     const params = new URLSearchParams(location.search);
     params.delete(SEARCH_PARAM_HIGHLIGHT);
     const paramsStr = params.toString();
-    const searchUrl =
-      location.pathname +
-      (paramsStr !== "" ? `?${paramsStr}` : "") +
-      location.hash;
+    const searchUrl = location.pathname + (paramsStr !== "" ? `?${paramsStr}` : "") + location.hash;
 
     if (searchUrl !== location.pathname + location.search + location.hash) {
       history.push(searchUrl);
@@ -485,13 +467,11 @@ export default function ForkedSearchBar({ handleSearchBarToggle }) {
           isBrowser &&
           searchBarShortcutKeymap && (
             <div className={styles.searchHintContainer}>
-              {getKeymapHints(searchBarShortcutKeymap, isMac).map(
-                (hint, index) => (
-                  <kbd key={index} className={styles.searchHint}>
-                    {hint}
-                  </kbd>
-                ),
-              )}
+              {getKeymapHints(searchBarShortcutKeymap, isMac).map((hint, index) => (
+                <kbd key={index} className={styles.searchHint}>
+                  {hint}
+                </kbd>
+              ))}
             </div>
           )
         ))}

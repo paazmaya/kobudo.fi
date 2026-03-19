@@ -8,10 +8,7 @@ import type { Props } from "@theme/DocRoot/Layout/Main";
 
 import styles from "./styles.module.css";
 
-export default function DocRootLayoutMain({
-  hiddenSidebarContainer,
-  children,
-}: Props): ReactNode {
+export default function DocRootLayoutMain({ hiddenSidebarContainer, children }: Props): ReactNode {
   const sidebar = useDocsSidebar();
   const { pathname } = useLocation();
 

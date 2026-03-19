@@ -14,10 +14,7 @@
  */
 import React from "react";
 import { useLocation } from "@docusaurus/router";
-import {
-  useActiveDocContext,
-  useLayoutDoc,
-} from "@docusaurus/plugin-content-docs/client";
+import { useActiveDocContext, useLayoutDoc } from "@docusaurus/plugin-content-docs/client";
 import DefaultNavbarItem from "@theme/NavbarItem/DefaultNavbarItem";
 
 type Props = {

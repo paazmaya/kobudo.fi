@@ -30,8 +30,7 @@
 }
 
 .searchInput:focus {
-  outline: 2px solid
-    var(--search-local-input-active-border-color, var(--ifm-color-primary));
+  outline: 2px solid var(--search-local-input-active-border-color, var(--ifm-color-primary));
   outline-offset: 0;
 }
 
@@ -42,13 +41,8 @@
   border-radius: 0.63rem;
   padding-left: 2.75rem;
   padding-right: 2.4rem;
-  border: 1px solid
-    color-mix(in srgb, var(--ifm-color-primary) 28%, var(--kb-border));
-  background-color: color-mix(
-    in srgb,
-    var(--ifm-background-color) 82%,
-    #10131a 18%
-  );
+  border: 1px solid color-mix(in srgb, var(--ifm-color-primary) 28%, var(--kb-border));
+  background-color: color-mix(in srgb, var(--ifm-background-color) 82%, #10131a 18%);
 }
 
 .searchBarContainer :global(.navbar__search-input),
@@ -111,10 +105,7 @@ html[data-theme="dark"] .dropdownMenu .suggestion {
 }
 
 .searchBar .dropdownMenu .suggestion.cursor {
-  background-color: var(
-    --search-local-highlight-color,
-    var(--ifm-color-primary)
-  );
+  background-color: var(--search-local-highlight-color, var(--ifm-color-primary));
 }
 
 .hitTree,
@@ -222,10 +213,7 @@ html[data-theme="dark"] .noResultsIcon {
 .suggestion.cursor .hitTree,
 .suggestion.cursor .hitIcon,
 .suggestion.cursor .hitPath {
-  color: var(
-    --search-local-hit-active-color,
-    var(--ifm-color-white)
-  ) !important;
+  color: var(--search-local-hit-active-color, var(--ifm-color-white)) !important;
 }
 
 .suggestion.cursor mark {

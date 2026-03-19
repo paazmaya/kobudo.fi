@@ -2,10 +2,7 @@ import React from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import { useAlternatePageUtils } from "@docusaurus/theme-common/internal";
 import { translate } from "@docusaurus/Translate";
-import {
-  mergeSearchStrings,
-  useHistorySelector,
-} from "@docusaurus/theme-common";
+import { mergeSearchStrings, useHistorySelector } from "@docusaurus/theme-common";
 import DropdownNavbarItem from "@theme/NavbarItem/DropdownNavbarItem";
 import IconLanguage from "@theme/Icon/Language";
 import styles from "./styles.module.css";
@@ -21,22 +18,14 @@ const SCHEME = "pathname://";
  *   fi /historia/      → en pathname:///en/historia/   (wrong slug)
  *   en /en/history/    → fi pathname:///history/       (wrong slug)
  */
-function translateAlternateUrl(
-  url: string,
-  targetLocale: string,
-  defaultLocale: string,
-): string {
+function translateAlternateUrl(url: string, targetLocale: string, defaultLocale: string): string {
   if (!url.startsWith(SCHEME)) return url;
 
   const withoutScheme = url.slice(SCHEME.length); // e.g. /en/historia/?q=1#h
   const qIdx = withoutScheme.indexOf("?");
   const hIdx = withoutScheme.indexOf("#");
-  const pathEnd = Math.min(
-    qIdx === -1 ? Infinity : qIdx,
-    hIdx === -1 ? Infinity : hIdx,
-  );
-  const rawPath =
-    pathEnd === Infinity ? withoutScheme : withoutScheme.slice(0, pathEnd);
+  const pathEnd = Math.min(qIdx === -1 ? Infinity : qIdx, hIdx === -1 ? Infinity : hIdx);
+  const rawPath = pathEnd === Infinity ? withoutScheme : withoutScheme.slice(0, pathEnd);
   const suffix = pathEnd === Infinity ? "" : withoutScheme.slice(pathEnd);
 
   if (targetLocale !== defaultLocale) {
@@ -68,9 +57,7 @@ function useLocaleDropdownUtils() {
   const getLocaleConfig = (locale: string) => {
     const localeConfig = localeConfigs[locale];
     if (!localeConfig) {
-      throw new Error(
-        `Docusaurus bug, no locale config found for locale=${locale}`,
-      );
+      throw new Error(`Docusaurus bug, no locale config found for locale=${locale}`);
     }
     return localeConfig;
   };
@@ -87,10 +74,7 @@ function useLocaleDropdownUtils() {
 
   return {
     getURL: (locale: string, options: { queryString?: string }) => {
-      const finalSearch = mergeSearchStrings(
-        [search, options.queryString],
-        "append",
-      );
+      const finalSearch = mergeSearchStrings([search, options.queryString], "append");
       return `${getBaseURLForLocale(locale)}${finalSearch}${hash}`;
     },
     getLabel: (locale: string) => getLocaleConfig(locale).label,
@@ -125,11 +109,7 @@ export default function LocaleDropdownNavbarItem({
     target: "_self",
     autoAddBaseUrl: false,
     className:
-      locale === currentLocale
-        ? mobile
-          ? "menu__link--active"
-          : "dropdown__link--active"
-        : "",
+      locale === currentLocale ? (mobile ? "menu__link--active" : "dropdown__link--active") : "",
     onClick: () => {
       try {
         localStorage.setItem("kobudo-locale", locale);

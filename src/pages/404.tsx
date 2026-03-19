@@ -32,14 +32,9 @@ export default function NotFound(): React.ReactElement {
           textAlign: "center",
         }}
       >
-        <h1
-          style={{ fontSize: "clamp(2rem, 5vw, 3rem)", marginBottom: "1rem" }}
-        >
-          Sivua ei löydy
-        </h1>
+        <h1 style={{ fontSize: "clamp(2rem, 5vw, 3rem)", marginBottom: "1rem" }}>Sivua ei löydy</h1>
         <p style={{ fontSize: "1.1rem", marginBottom: "2.5rem", opacity: 0.8 }}>
-          Etsimääsi sivua ei löydy. Voit palata etusivulle tai selata sisältöä
-          alta.
+          Etsimääsi sivua ei löydy. Voit palata etusivulle tai selata sisältöä alta.
         </p>
         <nav
           aria-label="Sivuston osiot"

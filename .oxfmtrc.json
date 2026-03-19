@@ -1,0 +1,13 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "sortPackageJson": false,
+  "ignorePatterns": [
+    "build/",
+    "node_modules/",
+    "**/*.md",
+    "**/*.mdx",
+    "package.json",
+    "package-lock.json",
+    "tsconfig.json"
+  ]
+}

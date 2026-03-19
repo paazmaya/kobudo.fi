@@ -32,8 +32,7 @@
   /* Typography */
   --ifm-font-size-base: 1.13rem;
   --ifm-line-height-base: 1.65;
-  --ifm-font-family-base:
-    system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --ifm-font-family-base: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 
   /* Navbar: deep red bg — 14:1 contrast with white text ✓ */
   --ifm-navbar-background-color: #5a0000;
@@ -240,11 +239,7 @@ body {
 
 /* Active locale item: tinted background so the current language is unmistakable */
 .dropdown__link--active {
-  background-color: color-mix(
-    in srgb,
-    var(--ifm-color-primary) 18%,
-    transparent
-  ) !important;
+  background-color: color-mix(in srgb, var(--ifm-color-primary) 18%, transparent) !important;
   font-weight: 600;
 }
 
@@ -261,11 +256,7 @@ body {
 }
 
 .menu__link--active {
-  background-color: color-mix(
-    in srgb,
-    var(--ifm-color-primary) 12%,
-    transparent
-  );
+  background-color: color-mix(in srgb, var(--ifm-color-primary) 12%, transparent);
   color: var(--ifm-color-primary);
   font-weight: 600;
 }
