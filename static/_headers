@@ -1,0 +1,16 @@
+# Security headers
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+  Timing-Allow-Origin: *
+
+# Cache control for static assets
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Cache control for HTML pages
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
