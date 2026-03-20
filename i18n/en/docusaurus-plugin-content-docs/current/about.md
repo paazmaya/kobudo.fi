@@ -48,7 +48,7 @@ If you notice an error in kata names, lineage details, or bibliographic informat
 
 ## Technical
 
-The site is built with [Docusaurus](https://docusaurus.io/) and deployed as a static site hosted at [kobudo.fi](https://kobudo.fi). Content is authored in Markdown and [MDX](https://mdxjs.com/). The UI framework is [React](https://react.dev/), with styling powered by [Tailwind CSS](https://tailwindcss.com/). Build tooling uses [TypeScript](https://www.typescriptlang.org/) on [Node.js](https://nodejs.org/).
+The site is built with [Docusaurus](https://docusaurus.io/) and deployed as a static site hosted at [kobudo.fi](https://kobudo.fi). Content is authored in Markdown and [MDX](https://mdxjs.com/). The UI framework is [React](https://react.dev/), with styling powered by [Tailwind CSS](https://tailwindcss.com/). Build tooling uses [TypeScript](https://www.typescriptlang.org/) on [Node.js](https://nodejs.org/en).
 
 Full-text search is provided locally via [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local), requiring no external search service. The design targets [WCAG 2.2 Level AAA](https://www.w3.org/TR/WCAG22/) accessibility compliance throughout.
 

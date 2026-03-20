@@ -72,11 +72,11 @@ Taira left a **small but very influential** circle of senior students whose kara
 - **Role**: 12th‑generation head of Motobu Udun‑di, Ryukyu royal family martial art.
 - **Relationship to Taira**:
   - A Chinese‑language survey of Okinawan kobudō notes that among **Taira’s disciples in the “classical Ryukyu weapons” line are Matayoshi Masahiro, Uehara Seikichi, Nakamoto Masahiro, and others**, indicating direct kobudō instruction relationship. [sanchintw.blogspot](https://sanchintw.blogspot.com/2019/06/okinawa-kobudo.html)
-  - While Uehara is best known for Motobu Udun‑di, his kobudō repertoire includes weapon methods that share kata names and principles with Taira‑line kobudō, and he is listed alongside other Taira students in that survey. [store.shopping.yahoo.co](https://store.shopping.yahoo.co.jp/samuraishop/055-udo1d.html)
+  - While Uehara is best known for Motobu Udun-di, his kobudō repertoire includes weapon methods that share kata names and principles with Taira‑line kobudō, and he is listed alongside other Taira students in that survey. Motobu Udun-di DVDs and books (e.g. 上原清吉 instructional videos, "琉球王家秘伝 本部御殿手") are catalogued in Japanese library and commercial bibliographic databases, noting his status as 12th‑generation sōke; the Kyōkai profile provides the background.
 - **Style / organization**:
   - **Motobu Udun‑di / Motobu‑ryū**; while primarily an empty‑hand and sword art, their curriculum includes bō and other weapons which show overlap with Taira’s material where kata names coincide. [nihonkobudokyoukai](https://www.nihonkobudokyoukai.org/martialarts/065/)
 - **Library‑oriented sources**:
-  - Motobu Udun‑di DVDs and books (e.g. 上原清吉 instructional videos, “琉球王家秘伝 本部御殿手”) are catalogued in Japanese library and commercial bibliographic databases, noting his status as 12th‑generation sōke; the Kyōkai profile provides the background. [store.shopping.yahoo.co](https://store.shopping.yahoo.co.jp/samuraishop/055-udo1d.html)
+  - Motobu Udun-di DVDs and books (e.g. 上原清吉 instructional videos, "琉球王家秘伝 本部御殿手") are catalogued in Japanese library and commercial bibliographic databases, noting his status as 12th‑generation sōke; the Kyōkai profile provides the background. Search on Japanese retailers for "琉球王家秘伝 本部御殿手 上原清吉".
 
 ---
 

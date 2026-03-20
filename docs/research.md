@@ -89,9 +89,9 @@ For kata names: combine personal names (平信賢, 又吉真豊, 山根) with `�
 
 1. [新編・増補琉球古武道大鑑 — 日本の古本屋](https://www.kosho.or.jp/products/detail.php?product_id=510456309)
 2. [空手を知るための10冊 (PDF) — 沖縄県立図書館](<https://www.library.pref.okinawa.jp/about-okinawa/docs/(700)booklist-karate.pdf>)
-3. [空手道・古武道基本調査報告書 2 — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000001-I12121000001077362)
+3. [空手道・古武道基本調査報告書 2 — NDLサーチ](https://ndlsearch.ndl.go.jp) - search by title/author for that item - 空手道・古武道基本調査報告書 2. (沖縄県文化財調査報告書 ： 第117集). 資料種別: 図書. 著者: 沖縄県教育委員会文化課／編. 出版者: 守礼堂. 出版年: 1997.6.
 4. [琉球古武術とは — 琉球古武術清水道場](https://ryukyukobujutsu-shimizu.com/what-is-ryukyukobujutsu/)
-5. [琉球古武道基本技シリーズ 1 (棒術 no.1) — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000001348055)
+5. [琉球古武道基本技シリーズ 1 (棒術 no.1) — NDLサーチ](https://ndlsearch.ndl.go.jp) - search by title/author for that item - 資料種別. 図書 ; タイトル. 琉球古武道基本技シリーズ ; タイトルよみ. リュウキュウ コブドウ キホンギ シリーズ ; 巻次・部編番号. 1 (棒術 no.1) ; 著者・編者. 井上元勝 ....
 6. [琉球古武道大鑑（新編・増補版） — メルカリ](https://jp.mercari.com/item/m50363329516)
 7. [琉球古武道大鑑新編・増補 — 楽天ブックス](https://books.rakuten.co.jp/rb/921014/)
 8. [琉球古武道大鑑（新編・増補） — 紀伊國屋書店](https://www.kinokuniya.co.jp/f/dsg-01-9784947667427)
@@ -101,25 +101,25 @@ For kata names: combine personal names (平信賢, 又吉真豊, 山根) with `�
 12. [平信賢 Taira Shinken — WEB秘伝](https://webhiden.jp/master/taira-shinken/)
 13. [平信賢師範から受け継ぐ技術体系 井上貴勝 — WEB秘伝](https://webhiden.jp/gallery/hiden202306-inouekishou/)
 14. [沖縄空手古武道事典 — CiNii 図書](https://ci.nii.ac.jp/ncid/BA86661994)
-15. [沖縄空手古武道事典 — 帝京大学 OPAC](https://opac.teikyo-u.ac.jp/iwjs0016opc/ufirdi.do?ufi_target=ctlsrh&ncid=BA86661994)
-16. [沖縄空手古武道事典 — 関西大学 OPAC](https://www.lib.kansai-u.ac.jp/webopac/ufirdi.do?ufi_target=ctlsrh&ncid=BA86661994)
-17. [空手道大観 — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000039-I1104139)
+15. [沖縄空手古武道事典 — 帝京大学 OPAC](https://ci.nii.ac.jp/ncid/BA86661994) - see CiNii Books NCID: BA86661994 for 『沖縄空手古武道事典』 - ... 沖縄伝統古武道の歴史沖縄伝統古武道の系譜琉球古武道の地方への伝播沖縄の代表的 ... 書籍が刊行された当時に掲載されていたものです) 新里 勝彦：沖縄国際大学 ...
+16. [沖縄空手古武道事典 — 関西大学 OPAC](https://ci.nii.ac.jp/ncid/BA86661994) - see CiNii Books NCID: BA86661994 for 『沖縄空手古武道事典』 - ... 沖縄伝統古武道の歴史沖縄伝統古武道の系譜琉球古武道の地方への伝播沖縄の代表的 ... 書籍が刊行された当時に掲載されていたものです) 新里 勝彦：沖縄国際大学 ...
+17. [空手道大観 — NDLサーチ](https://ndlsearch.ndl.go.jp) - search by title/author for that item - 資料種別. 図書 ; タイトル. 空手道大観 ; タイトルよみ. カラテドウ タイカン ; 著者・編者. 仲宗根, 源和, 1895-1978 ナカソネ, ゲンワ, ...
 18. [国会図書館デジタルライブラリー個人送信で読める武術武道関係図書](https://machida77.hatenadiary.jp/entry/20220522/1653152541)
 19. [沖縄伝統古武道 初級—その型と応用— — 沖縄空手会館](https://karatekaikan.jp/products/book-okinawatradition-kobudo)
 20. [沖縄伝統古武道：その歴史と魂 — 日本の古本屋](https://www.kosho.or.jp/products/detail.php?product_id=233724571)
 21. [沖縄古武道関連書籍 — Yahoo!オークション](https://auctions.yahoo.co.jp/search/search/%E6%B2%96%E7%B8%84%E5%8F%A4%E6%AD%A6%E9%81%93/21600/)
 22. [沖縄伝統古武道 初級 その型と応用 — メルカリ](https://jp.mercari.com/item/m94316276317)
-23. [沖縄空手道協会昭平流人脈の栞 — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000002532737)
+23. [沖縄空手道協会昭平流人脈の栞 — NDLサーチ](https://ndlsearch.ndl.go.jp) - search by title/author for that item
 24. [沖縄空手道概説 昭平流人脈の栞 — 日本の古本屋](https://www.kosho.or.jp/products/detail.php?product_id=356922809)
 25. [沖縄空手道概説：武道空手の諸相／昭平流人脈の栞 — 日本の古本屋](https://www.kosho.or.jp/products/detail.php?product_id=235057339)
-26. [沖縄空手道概説・武道空手の諸相 — Northwestern University Library](https://clp.northwestern.edu/detail/37683001414160)
-27. [ひとりでできる入門書 トンファー No.1 — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000001-I01211008000221780)
+26. [沖縄空手道概説・武道空手の諸相 — Northwestern University Library] - see CiNii Books NCID: BA86661994 for 『沖縄空手古武道事典』
+27. [ひとりでできる入門書 トンファー No.1 — NDLサーチ](https://ndlsearch.ndl.go.jp) - search by title/author for that item - (琉球古武道基本技シリーズ ： 3). 資料種別: 図書. 著者: 井上 元勝／著. 出版者: 青涛社. 出版年: 1978．5. 資料形態. 紙.
 28. [琉球古武道（井上元勝著） — 日本の古本屋](https://www.kosho.or.jp/products/detail.php?product_id=486908458)
-29. [琉球古武道棒術入門 — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000001453866)
-30. [古武術探求：その実戦性と殺活法のすべて — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000002171302)
+29. [琉球古武道棒術入門 — NDLサーチ](https://ndlsearch.ndl.go.jp) - search by title/author for that item - 資料種別: 図書. 著者: 村上勝美 著. 出版者: 愛隆堂. 出版年: 1980.5. 資料形態: 紙. ページ数・大きさ等: 253p ; 19cm. NDC: 789.4. すべて見る. 書店で...
+30. [古武術探求：その実戦性と殺活法のすべて — NDLサーチ](https://ndlsearch.ndl.go.jp) - search by title/author for that item - 古伝琉球唐手術. 図書障害者向け資料あり岩井作夫 著愛隆堂1992.12. 同じ出版者 ... 「武道」に関連するテーマで探す. テーマが似ている資料や、より細かいテーマで...
 31. [「琉球には武器が無い」という話をめぐるメモ — m-dojo](https://m-dojo.hatenadiary.com/entry/2024/02/03/091656)
 32. [お城ライブラリー vol.33『新装改訂版 琉球戦国列伝』— しろびと](https://shirobito.jp/article/1605)
 33. [『琉日戦争一六〇九 島津氏の琉球侵攻』上里隆史著 — ボーダーインク](https://borderink.com/?pid=17127337)
-34. [沖縄伝統古武道：概略と首里手系空手古武術達人の系譜 改訂版 — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000008762075)
-35. [琉球古武道武器術 國際琉球古武道與儀會舘 中級篇 — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I024176111)
-36. [Interview 與儀清 — NDLサーチ](https://ndlsearch.ndl.go.jp/books/R000000004-I024922991?ar=4e1f)
+34. [沖縄伝統古武道：概略と首里手系空手古武術達人の系譜 改訂版 — NDLサーチ](https://ndlsearch.ndl.go.jp) - search by title/author for that item - 一般注記：. 第5回中国・沖縄交流武術大会記念, 文武館本部道場創立35周年記念表紙のタイトル: 古武道. 図書館で読む. 国立国会図書館：利用できる資料がありません.
+35. [琉球古武道武器術 國際琉球古武道與儀會舘 中級篇 — NDLサーチ](https://ndlsearch.ndl.go.jp) - search by title/author for that item - 琉球古武道武器術 國際琉球古武道與儀會舘. 中級篇 ; 発売番号: SPD-1864 ; 資料種別: 映像資料 ; 著者: 與儀清 監修・実演ほか ; 出版者: クエスト ; 出版年: [2013.3...
+36. [Interview 與儀清 — NDLサーチ](https://ndlsearch.ndl.go.jp) - search by title/author for that item - ; 資料種別: 記事 ; 出版者: 那覇 : 新星出版 ; 出版年: 2013-10 ; 掲載ページ: p....

@@ -86,5 +86,5 @@ He was succeeded after his death in September 1970 by **Eisuke Akamine** in Okin
 2. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Confirms Taira compiled 42 existing kata; studied under Yabiku Moden
 3. [Ryūkyū Kobujutsu Hozon Shinkōkai — genealogy](https://www.ryukyukobujutsuhozonshinkokai.org/012_en_keifu.html): Detailed lineage from Soeishi/Chinen Shikiyanaka through Yabiku to Taira and Inoue
 4. [Taira Shinken: Restorer of Okinawa Kobudo — Andreas Quast](https://isshin-concentration.blogspot.com/2023/07/taira-shinken-restorer-of-okinawa-kobudo.html?m=0): Taira's training under Mabuni; Sesoko no Kun; historical analysis
-5. [Ryukyu-kobudo.net — Taira biography](https://ryukyu-kobudo.net/taira-shinken/): Timeline from Funakoshi to Yabiku and Mabuni
+5. [Ryukyu-kobudo.net — Taira biography](https://ryukyu-kobudo.net/overview/) or [Ryukyu Kobujutsu Hozon Shinkokai — English history](https://www.ryukyukobujutsuhozonshinkokai.org/011_en_history.html): Timeline from Funakoshi to Yabiku and Mabuni
 6. [Research page](/en/research): Primary bibliographic sources, especially _新編・増補 琉球古武道大鑑_ (1997) and _琉球古武道基本技シリーズ_ by Inoue Motokatsu

@@ -1,4 +1,4 @@
-Taira’s kobudō sits at the intersection of several karate and kobudō lineages; below is a compact map of his teachers, core students, and how their styles shaped/reshaped the material. [ryukyu-kobudo](https://ryukyu-kobudo.net/taira-shinken/)
+Taira’s kobudō sits at the intersection of several karate and kobudō lineages; below is a compact map of his teachers, core students, and how their styles shaped/reshaped the material. [ryukyu-kobudo](https://ryukyu-kobudo.net/overview/) or [ryukyukobujutsuhozonshinkokai](https://www.ryukyukobujutsuhozonshinkokai.org/011_en_history.html)
 
 ## 1. Teachers and styles that formed Taira
 
