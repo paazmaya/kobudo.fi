@@ -419,6 +419,19 @@ A wide bright cheerful cartoon illustration of an Okinawan martial artist execut
 
 ---
 
+## Kata — Name Lineage
+
+**URL:** `/en/kata/name-lineage`
+**Placeholder size:** 960 × 400 → **Use 960 × 384** (30 × 12 × 32²; 368,640 px)
+
+**Prompt:**
+
+```
+A wide bright cheerful cartoon illustration of an elaborate genealogy network chart spread across a dark crimson silk scroll background. Complex branching ink lines connect dozens of nodes, each node containing kata names written in Japanese calligraphy brushwork — Shūshi, Sakugawa, Chōun, Soeishi, Shirataru, Yonekawa, Tokumine, Tsuken, Chatan Yara, Hamahiga — with small weapon symbols at key junctions: rokushaku-bō staff silhouettes, sai trident icons, eku paddle shapes. Gold-leaf inked lines create a web-like network showing historical relationships between kata families. The scroll edges are illuminated by vivid amber lantern light from above left, creating warm highlights on the gold connections while the deep crimson background provides rich contrast. The composition captures the complexity of Ryukyu kobudo's transmission history across multiple lineages. Bright cheerful cartoon style, clean bold outlines, flat cel-shaded colors. No Latin text, no watermark, no blurriness, no distortion.
+```
+
+---
+
 ## Research — Banner
 
 **URL:** `/en/research`

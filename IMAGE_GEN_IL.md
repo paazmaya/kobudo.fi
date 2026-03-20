@@ -384,6 +384,19 @@ okinawan kobudo kata name scroll, large japanese brush calligraphy characters, k
 
 ---
 
+## Kata — Name Lineage
+
+**URL:** `/en/kata/name-lineage`  
+**Placeholder size:** 960 × 400
+
+**Prompt:**
+
+```
+complex genealogy chart, okinawan kata lineage network, branching ink lines connecting kata names, shushi, sakugawa, choun, soeishi family names in japanese calligraphy, weapon symbols (bo, sai) at nodes, dark crimson background, gold ink accents, traditional scroll layout, horizontal panoramic format, intricate network diagram, traditional media, ink illustration, masterpiece, best quality, general
+```
+
+---
+
 ## Research — Banner
 
 **URL:** `/en/research`  
