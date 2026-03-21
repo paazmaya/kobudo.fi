@@ -24,7 +24,7 @@ DNS
 Static site
 
 - statichost.eu
-- Redirects configured in _redirects file, https://www.statichost.eu/docs/routing/
+- Redirects configured in \_redirects file, https://www.statichost.eu/docs/routing/
 
 Email
 

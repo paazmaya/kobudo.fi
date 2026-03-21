@@ -9,6 +9,20 @@ const config: Config = {
   baseUrl: "/",
   future: {
     v4: true,
+    experimental_faster: {
+      swcJsLoader: true,
+      swcJsMinimizer: true,
+      swcHtmlMinimizer: true,
+      lightningCssMinimizer: true,
+      rspackBundler: true,
+      rspackPersistentCache: true,
+      ssgWorkerThreads: true,
+      mdxCrossCompilerCache: true,
+    },
+    experimental_storage: {
+      type: "localStorage",
+      namespace: true,
+    },
   },
   favicon: "favicon.ico",
   onBrokenLinks: "throw",
@@ -138,24 +152,6 @@ const config: Config = {
         indexBlog: false,
       },
     ],
-    [
-      "@docusaurus/plugin-client-redirects",
-      {
-        createRedirects(existingPath: string) {
-          // The redirect plugin strips the locale baseUrl before calling this
-          // function, so existingPath is always relative (e.g. /history/ for
-          // the English locale build, /historia/ for Finnish).
-          //
-          // English locale pages get a redirect FROM their Finnish-slug equivalent;
-          // Finnish locale pages get a redirect FROM their English-slug equivalent.
-          const fiFrom = EN_TO_FI[existingPath];
-          if (fiFrom && fiFrom !== existingPath) return [fiFrom];
-          const enFrom = FI_TO_EN[existingPath];
-          if (enFrom && enFrom !== existingPath) return [enFrom];
-          return undefined;
-        },
-      },
-    ],
   ],
   themeConfig: {
     colorMode: {
@@ -241,6 +237,6 @@ const config: Config = {
       copyright: `© ${new Date().getFullYear()} Ryukyu Kobudo Research`,
     },
   } satisfies Preset.ThemeConfig,
-  scripts: [{ src: "/js/redirect.js", async: false }],
+  // scripts: [{ src: "/js/redirect.js", async: false }],
 };
 export default config;

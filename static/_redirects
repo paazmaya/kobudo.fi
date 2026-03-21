@@ -44,3 +44,6 @@
 /research /en/research 301!
 /about /en/about 301!
 
+# Not found
+/* /404.html 404
+/en/* /en/404.html 404

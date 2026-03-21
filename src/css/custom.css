@@ -178,13 +178,10 @@ body {
     background-color 0.15s ease;
 }
 
-/* ── Left nav: hover & focus — subtle pill, no active background ── */
-.navbar__link {
-  border-radius: var(--kb-radius-sm);
-}
-
 .navbar__link:hover,
-.navbar__link:focus-visible {
+.navbar__link:focus-visible,
+.navbar__items--right .navbar__link:hover,
+.navbar__items--right .navbar__link:focus-visible {
   color: var(--ifm-navbar-link-hover-color) !important;
   background-color: rgba(255 255 255 / 0.1) !important;
 }
@@ -200,13 +197,6 @@ body {
 .navbar__link[aria-current]:hover,
 .navbar__link--active:focus-visible,
 .navbar__link[aria-current]:focus-visible {
-  background-color: rgba(255 255 255 / 0.1) !important;
-}
-
-/* ── Right nav items (Tietoja, locale dropdown): keep plain hover ── */
-.navbar__items--right .navbar__link:hover,
-.navbar__items--right .navbar__link:focus-visible {
-  color: var(--ifm-navbar-link-hover-color) !important;
   background-color: rgba(255 255 255 / 0.1) !important;
 }
 
@@ -306,16 +296,10 @@ body {
 .navbar-sidebar .menu__list .menu__list .menu__link:hover,
 .navbar-sidebar .menu__list .menu__list .menu__link:focus-visible {
   opacity: 1;
-  background: rgba(255 255 255 / 0.08);
 }
 
 [data-theme="dark"] .navbar-sidebar .menu__list .menu__list {
   border-left-color: rgba(255 255 255 / 0.15);
-}
-
-[data-theme="dark"] .navbar-sidebar .menu__list .menu__list .menu__link:hover,
-[data-theme="dark"] .navbar-sidebar .menu__list .menu__list .menu__link:focus-visible {
-  background: rgba(255 255 255 / 0.1);
 }
 
 @media (min-width: 997px) and (max-width: 1174px) {
@@ -382,18 +366,18 @@ body {
     padding-left: 0.75rem;
     margin-left: 0.5rem;
   }
-  
+
   .menu__list-item-collapsible .table-of-contents__link {
     font-size: 0.9rem;
     opacity: 0.85;
     transition: opacity 0.15s ease;
   }
-  
+
   .menu__list-item-collapsible .table-of-contents__link:hover,
   .menu__list-item-collapsible .table-of-contents__link:focus-visible {
     opacity: 1;
   }
-  
+
   /* Nested TOC items (H3, H4, etc.) in mobile */
   .menu__list-item-collapsible .table-of-contents ul ul {
     margin-left: 1rem;
@@ -401,16 +385,16 @@ body {
     padding-left: 0.5rem;
     margin-top: 0.25rem;
   }
-  
+
   .menu__list-item-collapsible .table-of-contents ul ul .table-of-contents__link {
     font-size: 0.85rem;
     font-weight: 400;
   }
-  
+
   [data-theme="dark"] .menu__list-item-collapsible .table-of-contents {
     border-left-color: var(--kb-border);
   }
-  
+
   [data-theme="dark"] .menu__list-item-collapsible .table-of-contents ul ul {
     border-left-color: rgba(255 255 255 / 0.1);
   }
@@ -745,6 +729,27 @@ img[width][height] {
   /* #b0b0b0 → 8.0:1 on footer bg #1a1a1a ✓ */
   color: var(--kb-footer-muted);
   font-size: 0.88rem;
+}
+
+/* ============================================================
+   404 NOT FOUND PAGE
+   ============================================================ */
+.kb-not-found {
+  max-width: 720px;
+  margin: 4rem auto;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+
+.kb-not-found__title {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin-bottom: 1rem;
+}
+
+.kb-not-found__description {
+  font-size: 1.1rem;
+  margin-bottom: 2.5rem;
+  opacity: 0.8;
 }
 
 /* ============================================================
