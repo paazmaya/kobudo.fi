@@ -13,7 +13,7 @@ alt="Scroll of people and names"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 Below is a comprehensive analysis of major Ryukyu kobudo kata families, each linking kata to weapon, main styles that use it, and the most credible origin/creator attribution. This reveals the complex network of historical relationships between different lineages and how kata evolved across multiple traditions.

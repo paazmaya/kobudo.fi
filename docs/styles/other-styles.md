@@ -14,7 +14,7 @@ alt="Various kobudo practitioners demonstrating different styles"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 Beyond the three major lineages, several further traditions preserve Ryukyuan weapon techniques, some focused on single weapons, others integrated into karate systems.

@@ -343,6 +343,19 @@ A fully built LEGO world close study of a surujin — every element made from LE
 
 ---
 
+## 404 — Not Found
+
+**URL:** `/404`
+**Placeholder size:** 960 × 400 → **Use 960 × 384** (15 × 6 × 64; 368,640 px)
+
+**Prompt:**
+
+```
+A fully built LEGO world showing a confused Okinawan martial artist searching through ancient scrolls in a dimly lit traditional dojo library. The practitioner, approximately 170cm tall in a white cotton keikogi gi and dark indigo hakama, stands surrounded by towering stacks of aged reference books and partially unrolled scrolls with kanji calligraphy. He holds one scroll up to dim light from a single iron lantern, scratching his head with a puzzled expression. Dark crimson plastered stone walls create deep shadows around the scene. The mood captures the feeling of searching for lost knowledge in traditional Ryukyu kobudo. A fully built LEGO world, vibrant saturated colors, visible studs throughout.
+```
+
+---
+
 ## Kata — Index Banner
 
 **URL:** `/en/kata/`

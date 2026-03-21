@@ -14,7 +14,7 @@ alt="Pair of traditional kama sickles"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The **kama** (鎌) is a sickle, a tool with a short wooden or metal handle with a curved blade at right angles. Practiced in pairs, it is one of the most common agricultural tools repurposed as a weapon in the Okinawan tradition.

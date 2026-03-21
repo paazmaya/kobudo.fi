@@ -14,7 +14,7 @@ alt="Pair of tekko metal knuckle guards"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The **tekko** (鉄甲, also written 鉄甲 or テッコウ) are metal knuckle guards worn over the fist. The weapon is believed to derive from a horseshoe or similar iron fitting. Of the eight Taira curriculum weapons, tekko is the only one worn rather than held.

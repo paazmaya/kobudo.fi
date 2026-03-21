@@ -14,7 +14,7 @@ alt="Demonstration of Matayoshi kobudo weapon techniques"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The Matayoshi family lineage combines karate (_Kingai-ryū karate_) with an exceptionally wide-ranging weapon curriculum. The style carries strong Chinese-influenced characteristics, reflecting the historical connections between the Ryukyu Kingdom and mainland China.

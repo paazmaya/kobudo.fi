@@ -14,7 +14,7 @@ alt="Traditional Okinawan nunchaku weapon"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The **nunchaku** (ヌンチャク) consists of two short hardwood sticks connected by a short rope or chain. The weapon is widely known outside martial arts practice through popular culture, but within Ryukyu kobudo its use is systematic and technically demanding.

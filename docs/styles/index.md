@@ -14,7 +14,7 @@ alt="Lineage chart of Okinawan kobudo styles"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 Ryukyu weapon arts are not a single unified system. Several distinct lineages developed in parallel, each tracing a teacher-student chain back to named practitioners of the Ryukyu Kingdom era. They share a common pool of kata names and, in many cases, underlying technical patterns, but differ in curriculum emphasis, weapon selection, and stylistic interpretation.

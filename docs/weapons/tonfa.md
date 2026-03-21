@@ -14,7 +14,7 @@ alt="Pair of traditional tonfa weapons"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The **tonfa** (トンファー, also written 答禍 or 当破) is a hardwood weapon with a perpendicular handle set approximately one third of the way along a wooden shaft. Practiced in pairs, it is primarily a close-range striking weapon with a distinctive spinning motion.

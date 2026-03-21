@@ -419,6 +419,19 @@ A wide bright cheerful cartoon illustration of an Okinawan martial artist execut
 
 ---
 
+## 404 — Not Found
+
+**URL:** `/404`
+**Placeholder size:** 960 × 400 → **Use 960 × 384** (30 × 12 × 32²; 368,640 px)
+
+**Prompt:**
+
+```
+A wide bright cheerful cartoon illustration of an Okinawan martial artist looking confused and frustrated while searching through ancient scrolls in a dimly lit traditional dojo library. The practitioner, approximately 170cm tall in a white cotton keikogi gi and dark indigo hakama, stands surrounded by towering stacks of aged reference books and partially unrolled scrolls with kanji calligraphy. He holds one scroll up to dim light from a single iron lantern, scratching his head with a puzzled expression. Dark crimson plastered stone walls create deep shadows around the scene. The mood captures the feeling of searching for lost knowledge in traditional Ryukyu kobudo. Bright cheerful cartoon style, clean bold outlines, flat cel-shaded colors. No text, no watermark, no modern elements, no blurriness, no distortion.
+```
+
+---
+
 ## Kata — Name Lineage
 
 **URL:** `/en/kata/name-lineage`

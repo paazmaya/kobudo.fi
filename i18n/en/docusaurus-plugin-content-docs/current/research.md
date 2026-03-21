@@ -14,7 +14,7 @@ alt="Stack of Japanese martial arts reference books"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 This page lists core Japanese-language books and reference works for researching Ryukyu weapon-based martial arts, with emphasis on Taira Shinken and lineages from the Ryukyu Kingdom era to modern styles. All items are catalogued in major Japanese library databases (NDL Search, CiNii Books) or widely held in university and prefectural libraries.

@@ -14,7 +14,7 @@ alt="Surujin weighted chain weapon"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The **surujin** (スルジン, also written 石投 or 鎖) is a flexible weapon consisting of a rope, cord or chain with weighted ends. It is the only weapon in the Taira curriculum that extends the practitioner's effective range beyond arm's reach through projectile-like throwing and entangling techniques.

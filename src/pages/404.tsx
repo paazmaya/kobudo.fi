@@ -33,6 +33,13 @@ export default function NotFound(): React.ReactElement {
         }}
       >
         <h1 style={{ fontSize: "clamp(2rem, 5vw, 3rem)", marginBottom: "1rem" }}>Sivua ei löydy</h1>
+        <img
+          src="/img/banner-404-not-finding-papers.png"
+          alt="Confused martial artist searching through ancient scrolls in a dimly lit traditional dojo library"
+          width={960}
+          height={384}
+          className="kb-banner"
+        />
         <p style={{ fontSize: "1.1rem", marginBottom: "2.5rem", opacity: 0.8 }}>
           Etsimääsi sivua ei löydy. Voit palata etusivulle tai selata sisältöä alta.
         </p>

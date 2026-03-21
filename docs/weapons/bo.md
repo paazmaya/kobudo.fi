@@ -14,7 +14,7 @@ alt="Traditional Okinawan bo staff"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The **bō** (棒) is a hardwood staff approximately 6 feet (182 cm) long, known as the _rokushakubō_, and the most central weapon in Ryukyu kobudo. It carries the largest number of kata of any weapon in the corpus, and its kata names are the most widely shared across different styles and organizations.

@@ -10,11 +10,11 @@ social_image: "/img/social/sai-kata-guard-1200x630.jpg"
 
 <img
 src="/img/sai-kata-guard.png"
-alt="Structural analysis diagram of the eight Taira-line sai kata"
+alt="Structural analysis diagram of eight Taira-line sai kata"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The Taira line preserves eight sai kata. An analysis by the Bushukan research group (武集館) identifies clear structural relationships between these eight forms, grouping them into **three family clusters** based on shared sequences, embusen (movement pattern), and tactical emphasis.

@@ -14,7 +14,7 @@ alt="Pair of traditional sai (metal tridents)"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The **sai** (釵) is a metal weapon consisting of a central shaft with two curved side tines (_yoku_). Practiced in pairs or as a set of three (two held, one thrown), the sai is the second most kata-rich weapon in the Taira curriculum, with eight kata attributed to the lineage.

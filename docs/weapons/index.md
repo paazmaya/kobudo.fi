@@ -14,7 +14,7 @@ alt="Eight traditional Okinawan kobudo weapons displayed"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The Taira Shinken curriculum organizes Ryukyu kobudo around **eight core weapon types**. Each weapon has its own history, mechanics, and set of kata. Some evolved from agricultural or marine tools; others were specialist weapons of the Pechin warrior class.

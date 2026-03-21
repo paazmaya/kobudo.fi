@@ -21,9 +21,6 @@
 /en/aseet/surujin /aseet/surujin 301!
 /en/tutkimus /tutkimus 301!
 /en/tietoja /tietoja 301!
-/en/kata/ /kata/ 301!
-/en/kata/bo-kata /kata/bo-kata 301!
-/en/kata/sai-kata /kata/sai-kata 301!
 
 # Finnish base with English slug → English correct URL (forced)
 /history/ /en/history/ 301!
@@ -47,6 +44,3 @@
 /research /en/research 301!
 /about /en/about 301!
 
-# Homepage redirects
-/ / 200
-/en/ /en/ 200

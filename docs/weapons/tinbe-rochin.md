@@ -14,7 +14,7 @@ alt="Tinbē (vine shield) and rochin (short spear)"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The **Tinbē-Rochin** (ティンベー・ロチン) is a paired-weapon combination: the **tinbē** is a small round shield traditionally made from a sea turtle shell or woven vine, while the **rochin** is a short spear or blade. The combination is one of the most visually distinctive in Ryukyu kobudo and the only weapon pair that combines defense-object and offense-weapon as a unit.

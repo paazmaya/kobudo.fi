@@ -290,6 +290,34 @@ body {
   background: transparent;
 }
 
+/* Mobile submenu indentation and styling */
+.menu__list .menu__list,
+.menu__list-item-collapsible .menu__list {
+  margin-left: 1rem !important;
+  padding-left: 0.75rem !important;
+}
+
+.navbar-sidebar .menu__list .menu__list .menu__link {
+  font-size: 0.9rem;
+  font-weight: 400;
+  opacity: 0.85;
+}
+
+.navbar-sidebar .menu__list .menu__list .menu__link:hover,
+.navbar-sidebar .menu__list .menu__list .menu__link:focus-visible {
+  opacity: 1;
+  background: rgba(255 255 255 / 0.08);
+}
+
+[data-theme="dark"] .navbar-sidebar .menu__list .menu__list {
+  border-left-color: rgba(255 255 255 / 0.15);
+}
+
+[data-theme="dark"] .navbar-sidebar .menu__list .menu__list .menu__link:hover,
+[data-theme="dark"] .navbar-sidebar .menu__list .menu__list .menu__link:focus-visible {
+  background: rgba(255 255 255 / 0.1);
+}
+
 @media (min-width: 997px) and (max-width: 1174px) {
   .navbar__items--left .navbar__link {
     padding: 0.5rem 0.5rem;
@@ -347,6 +375,47 @@ body {
   min-height: var(--kb-space-12);
 }
 
+/* Mobile TOC indentation and styling */
+@media (max-width: 996px) {
+  .menu__list-item-collapsible .table-of-contents {
+    border-left: 2px solid var(--kb-border);
+    padding-left: 0.75rem;
+    margin-left: 0.5rem;
+  }
+  
+  .menu__list-item-collapsible .table-of-contents__link {
+    font-size: 0.9rem;
+    opacity: 0.85;
+    transition: opacity 0.15s ease;
+  }
+  
+  .menu__list-item-collapsible .table-of-contents__link:hover,
+  .menu__list-item-collapsible .table-of-contents__link:focus-visible {
+    opacity: 1;
+  }
+  
+  /* Nested TOC items (H3, H4, etc.) in mobile */
+  .menu__list-item-collapsible .table-of-contents ul ul {
+    margin-left: 1rem;
+    border-left: 1px solid rgba(0 0 0 / 0.1);
+    padding-left: 0.5rem;
+    margin-top: 0.25rem;
+  }
+  
+  .menu__list-item-collapsible .table-of-contents ul ul .table-of-contents__link {
+    font-size: 0.85rem;
+    font-weight: 400;
+  }
+  
+  [data-theme="dark"] .menu__list-item-collapsible .table-of-contents {
+    border-left-color: var(--kb-border);
+  }
+  
+  [data-theme="dark"] .menu__list-item-collapsible .table-of-contents ul ul {
+    border-left-color: rgba(255 255 255 / 0.1);
+  }
+}
+
 /* ============================================================
    FOCUS RING — WCAG 2.2 §2.4.11 visible focus
    ============================================================ */
@@ -393,6 +462,18 @@ img {
 
 img[width][height] {
   height: auto;
+}
+
+/* ============================================================
+   BANNER IMAGES
+   ============================================================ */
+.kb-banner {
+  width: 100%;
+  max-width: 960px;
+  height: auto;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  display: block;
 }
 
 /* ============================================================

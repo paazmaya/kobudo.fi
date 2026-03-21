@@ -14,7 +14,7 @@ alt="Illustration of kobudo practitioners demonstrating different weapons in a g
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 Taira Shinken left a small but influential group of senior students. Because most of them were already experienced karateka in different styles before studying kobudo under Taira, his material branched into several distinct technical traditions. This page profiles the eight best-documented students, followed by a note on others whose connection to Taira is credible but less fully documented.

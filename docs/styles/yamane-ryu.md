@@ -14,7 +14,7 @@ alt="Practitioner demonstrating Yamane-ryū long staff technique"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 Yamane-ryū is a bō-specialized lineage distinguished by its fluid, long-range technique and association with the Yamane and Chinen families of central Okinawa. Where the [Taira line](/tyylit/taira-linja) systematizes multiple weapon categories, Yamane-ryū's identity is built entirely around the [long staff](/aseet/bo).

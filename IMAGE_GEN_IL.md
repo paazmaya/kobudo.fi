@@ -384,6 +384,32 @@ okinawan kobudo kata name scroll, large japanese brush calligraphy characters, k
 
 ---
 
+## 404 — Not Found
+
+**URL:** `/404`  
+**Placeholder size:** 960 × 400
+
+**Prompt:**
+
+```
+confused okinawan martial artist searching through old scrolls, lost in traditional dojo library, surrounded by piles of ancient books and unrolled scrolls, looking for missing kata knowledge, dim candlelight, dark crimson walls, dramatic shadows, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
+```
+
+---
+
+## 404 — Not Found
+
+**URL:** `/404`  
+**Placeholder size:** 960 × 400
+
+**Prompt:**
+
+```
+confused okinawan martial artist searching through old scrolls, lost in traditional dojo library, surrounded by piles of ancient books and unrolled scrolls, looking for missing kata knowledge, dim candlelight, dark crimson walls, dramatic shadows, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
+```
+
+---
+
 ## Kata — Name Lineage
 
 **URL:** `/en/kata/name-lineage`  
