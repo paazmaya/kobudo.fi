@@ -14,7 +14,10 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "check-external-links": "node scripts/check-external-md-links.mjs"
+    "check-external-links": "node scripts/check-external-md-links.mjs",
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug"
   },
   "dependencies": {
     "@docusaurus/core": "3.9.2",
@@ -32,8 +35,9 @@
     "@docusaurus/module-type-aliases": "3.9.2",
     "@docusaurus/tsconfig": "3.9.2",
     "@docusaurus/types": "3.9.2",
+    "@playwright/test": "1.58.2",
     "oxfmt": "0.41.0",
-    "playwright": "1.56.1",
+    "oxlint": "1.56.0",
     "typescript": "5.9.3"
   },
   "browserslist": {

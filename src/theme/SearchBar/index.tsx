@@ -45,7 +45,20 @@ export default function SearchBar(props: Props): ReactElement {
       input?.focus();
     }, 0);
 
-    const onKeyDown = (event: KeyboardEvent) => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      // Ctrl+K or Cmd+K to open search
+      if ((event.ctrlKey || event.metaKey) && event.key === "k") {
+        event.preventDefault();
+        if (!isOpen) {
+          openModal();
+        }
+        return;
+      }
+
+      if (!isOpen) {
+        return;
+      }
+
       if (event.key === "Escape") {
         event.preventDefault();
         closeModal();
@@ -73,6 +86,10 @@ export default function SearchBar(props: Props): ReactElement {
           first.focus();
         }
       }
+    };
+
+    const onKeyDown = (event: KeyboardEvent) => {
+      handleKeyDown(event);
     };
 
     document.addEventListener("keydown", onKeyDown);
@@ -122,7 +139,7 @@ export default function SearchBar(props: Props): ReactElement {
             aria-modal="true"
             aria-label={translate({
               id: "theme.SearchBar.modal.label",
-              message: "Search site",
+              message: "Search",
               description: "Accessible label for the search modal dialog",
             })}
             onClick={(event) => event.stopPropagation()}

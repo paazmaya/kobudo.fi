@@ -2,13 +2,31 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 import { FI_TO_EN, EN_TO_FI } from "./src/utils/localePaths";
 
+// https://docusaurus.io/docs/api/docusaurus-config
 const config: Config = {
+  // Title for your website
+  // https://docusaurus.io/docs/api/docusaurus-config#title
   title: "Ryukyu Kobudo",
+
+  // Tagline for your website
+  // https://docusaurus.io/docs/api/docusaurus-config#tagline
   tagline: "Okinawan Weapon Arts — History, Styles & Kata",
+
+  // URL for your website
+  // https://docusaurus.io/docs/api/docusaurus-config#url
   url: "https://kobudo.fi",
+
+  // Base URL pathname for your site
+  // https://docusaurus.io/docs/api/docusaurus-config#baseUrl
   baseUrl: "/",
+
+  // Future flags for experimental features
+  // https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
+    // Opt-in to Docusaurus v4 behavior
     v4: true,
+    // Build performance optimizations
+    // https://docusaurus.io/docs/api/docusaurus-config#experimental_faster
     experimental_faster: {
       swcJsLoader: true,
       swcJsMinimizer: true,
@@ -19,13 +37,24 @@ const config: Config = {
       ssgWorkerThreads: true,
       mdxCrossCompilerCache: true,
     },
+    // Browser storage type for theme and other state
+    // https://docusaurus.io/docs/api/docusaurus-config#experimental_storage
     experimental_storage: {
       type: "localStorage",
       namespace: true,
     },
   },
+
+  // Path to your site favicon
+  // https://docusaurus.io/docs/api/docusaurus-config#favicon
   favicon: "favicon.ico",
+
+  // Behavior for broken links
+  // https://docusaurus.io/docs/api/docusaurus-config#onBrokenLinks
   onBrokenLinks: "throw",
+
+  // Internationalization configuration
+  // https://docusaurus.io/docs/i18n/tutorial#configure-your-site
   i18n: {
     defaultLocale: "fi",
     locales: ["fi", "en"],
@@ -34,6 +63,9 @@ const config: Config = {
       en: { label: "English", htmlLang: "en" },
     },
   },
+
+  // Custom tags to be injected into HTML <head>
+  // https://docusaurus.io/docs/api/docusaurus-config#headTags
   headTags: [
     {
       tagName: "link",
@@ -90,18 +122,30 @@ const config: Config = {
     })(window, document, "clarity", "script", "vvat8zr3wa");`,
     },
   ],
+  // Presets are bundles of plugins and themes
+  // https://docusaurus.io/docs/presets
   presets: [
     [
+      // Classic preset combines docs, blog, pages, and theme
+      // https://docusaurus.io/docs/api/plugins/@docusaurus/preset-classic
       "classic",
       {
         docs: {
+          // Path to sidebar configuration
+          // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs
           sidebarPath: "./sidebars.ts",
+          // Serve docs at root instead of /docs/
           routeBasePath: "/",
         },
+        // Disable blog
         blog: false,
         theme: {
+          // Path to custom CSS
+          // https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic
           customCss: "./src/css/custom.css",
         },
+        // Sitemap configuration for SEO
+        // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap
         sitemap: {
           changefreq: "monthly",
           priority: 0.6,
@@ -133,7 +177,11 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+
+  // Custom plugins for additional functionality
+  // https://docusaurus.io/docs/api/plugin-methods
   plugins: [
+    // Tailwind CSS integration plugin
     async function tailwindPlugin(_context: unknown, _options: unknown) {
       return {
         name: "docusaurus-tailwindcss",
@@ -143,6 +191,8 @@ const config: Config = {
         },
       };
     },
+    // Local search plugin
+    // https://github.com/easyops-cn/docusaurus-search-local
     [
       "@easyops-cn/docusaurus-search-local",
       {
@@ -153,12 +203,19 @@ const config: Config = {
       },
     ],
   ],
+
+  // Theme configuration for classic theme
+  // https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic
   themeConfig: {
+    // Dark/light mode configuration
+    // https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic#colorMode
     colorMode: {
       defaultMode: "dark",
       respectPrefersColorScheme: true,
       disableSwitch: false,
     },
+    // Navigation bar configuration
+    // https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic#navbar
     navbar: {
       title: "Ryukyu Kobudo",
       logo: {
@@ -197,6 +254,8 @@ const config: Config = {
         { type: "localeDropdown", position: "right" },
       ],
     },
+    // Footer configuration
+    // https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic#footer-1
     footer: {
       style: "dark",
       links: [

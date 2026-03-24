@@ -127,6 +127,10 @@
     "message": "T\u00e4ll\u00e4 sivulla",
     "description": "The label used by the button on the collapsible TOC component"
   },
+  "theme.TOCCollapsible.navAriaLabel": {
+    "message": "Toissijainen",
+    "description": "The ARIA label for the table of contents secondary navigation"
+  },
   "theme.docs.breadcrumbs.home": {
     "message": "Etusivu",
     "description": "The ARIA label for the home page in the breadcrumbs"
