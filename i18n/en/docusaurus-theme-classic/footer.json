@@ -35,13 +35,17 @@
     "message": "About",
     "description": "The label of footer link with label=Tietoja linking to /tietoja"
   },
-  "link.item.label.GitHub": {
-    "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/paazmaya/kobudo.fi"
+  "link.item.label.Lähdekoodi GitHubissa": {
+    "message": "Source code at GitHub",
+    "description": "The label of footer link with label=Lähdekoodi GitHubissa linking to https://github.com/paazmaya/kobudo.fi"
   },
   "link.item.label.Lisenssi: CC BY 4.0": {
     "message": "License: CC BY 4.0",
     "description": "The label of footer link with label=Lisenssi: CC BY 4.0 linking to https://creativecommons.org/licenses/by/4.0/"
+  },
+  "link.item.label.Karateopettaja Jukka Paasonen": {
+    "message": "Karate Teacher Jukka Paasonen",
+    "description": "The label of footer link with label=Karateopettaja Jukka Paasonen linking to https://karatejukka.fi"
   },
   "copyright": {
     "message": "© 2026 Ryukyu Kobudo Research",

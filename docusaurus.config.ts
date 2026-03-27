@@ -279,7 +279,7 @@ const config: Config = {
           title: "Yhteisö",
           items: [
             {
-              label: "Source code at GitHub",
+              label: "Lähdekoodi GitHubissa",
               href: "https://github.com/paazmaya/kobudo.fi",
             },
             {
@@ -287,7 +287,7 @@ const config: Config = {
               href: "https://creativecommons.org/licenses/by/4.0/",
             },
             {
-              label: "Karate Teacher Jukka Paasonen",
+              label: "Karateopettaja Jukka Paasonen",
               href: "https://karatejukka.fi",
             },
           ],

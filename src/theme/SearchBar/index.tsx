@@ -30,23 +30,8 @@ export default function SearchBar(props: Props): ReactElement {
   };
 
   useEffect(() => {
-    if (!isOpen) {
-      return undefined;
-    }
-
-    const previousOverflow = document.body.style.overflow;
-    document.body.style.overflow = "hidden";
-    document.body.classList.add("kb-search-modal-open");
-
-    const focusTimer = window.setTimeout(() => {
-      const input = modalRef.current?.querySelector<HTMLInputElement>(
-        'input.navbar__search-input, input[aria-label="Search"]',
-      );
-      input?.focus();
-    }, 0);
-
     const handleKeyDown = (event: KeyboardEvent) => {
-      // Ctrl+K or Cmd+K to open search
+      // Ctrl+K or Cmd+K to open search (works globally)
       if ((event.ctrlKey || event.metaKey) && event.key === "k") {
         event.preventDefault();
         if (!isOpen) {
@@ -88,16 +73,32 @@ export default function SearchBar(props: Props): ReactElement {
       }
     };
 
-    const onKeyDown = (event: KeyboardEvent) => {
-      handleKeyDown(event);
-    };
+    document.addEventListener("keydown", handleKeyDown);
 
-    document.addEventListener("keydown", onKeyDown);
+    return () => {
+      document.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [isOpen]);
+
+  useEffect(() => {
+    if (!isOpen) {
+      return undefined;
+    }
+
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    document.body.classList.add("kb-search-modal-open");
+
+    const focusTimer = window.setTimeout(() => {
+      const input = modalRef.current?.querySelector<HTMLInputElement>(
+        'input.navbar__search-input, input[aria-label="Search"]',
+      );
+      input?.focus();
+    }, 0);
 
     return () => {
       document.body.style.overflow = previousOverflow;
       document.body.classList.remove("kb-search-modal-open");
-      document.removeEventListener("keydown", onKeyDown);
       window.clearTimeout(focusTimer);
     };
   }, [isOpen]);
@@ -154,7 +155,13 @@ export default function SearchBar(props: Props): ReactElement {
                     description: "Title shown in the search modal",
                   })}
                 </strong>
-                <span className={styles.modalHeaderHint}>Esc to close</span>
+                <span className={styles.modalHeaderHint}>
+                  {translate({
+                    id: "theme.SearchBar.modal.hint",
+                    message: "Esc to close",
+                    description: "Hint for closing the search modal with Escape key",
+                  })}
+                </span>
               </div>
               <button
                 type="button"

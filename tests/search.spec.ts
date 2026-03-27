@@ -1,53 +1,55 @@
 import { test, expect } from "@playwright/test";
 
-// Search modal structure
-const searchModalSnapshot = `- dialog "Search":
-  - textbox "Search"
-  - button "Clear"
-  - button "Close"`;
-
 test.describe("search", () => {
   test("should render search modal correctly", async ({ page }) => {
-    // Use English locale for consistent accessibility labels
-    await page.goto("/en/");
+    await page.goto("/");
 
     // Click the search button using accessibility locator
-    const searchButton = page.getByRole("button", { name: "Search" });
+    const searchButton = page.getByRole("button", { name: "Haku" });
     await searchButton.waitFor({ state: "visible" });
     await searchButton.click();
 
     // Wait for the search dialog to appear using accessibility role
-    const searchDialog = page.getByRole("dialog", { name: "Search" });
+    const searchDialog = page.getByRole("dialog", { name: "Haku" });
     await searchDialog.waitFor({ state: "visible" });
-
-    // Take visual snapshot of the modal
     await expect(searchDialog).toHaveScreenshot("visual/search-modal.png");
+    await expect(searchDialog).toMatchAriaSnapshot(`
+    - dialog "Haku":
+      - strong: Hae sivustolta
+      - text: Esc sulje
+      - button "Sulje"
+      - combobox "Haku"
+    `);
 
-    // Verify ARIA structure
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    expect(searchDialog).toMatchAriaSnapshot(searchModalSnapshot);
+    // Fill in a search and check that one expected result is visible
+    await page.getByRole("combobox", { name: "Haku" }).fill("taira");
+    await expect(page.getByRole("option", { name: "Students of Taira Shinken" })).toBeVisible();
 
-    // Close the search dialog using Escape key
-    await page.keyboard.press("Escape");
+    // Click on the backdrop, assumed position
+    await page.mouse.click(1, 1);
+
+    // Verify search dialog is closed
     await searchDialog.waitFor({ state: "hidden" });
-
-    // Expect the search button to be visible again
-    await expect(searchButton).toBeVisible();
+    await expect(searchDialog).not.toBeVisible();
   });
 
-  test("should open search with keyboard shortcut", async ({ page }) => {
-    // Use English locale for consistent accessibility labels
-    await page.goto("/en/");
+  test("should open and close search with keyboard shortcuts", async ({ page }) => {
+    await page.goto("/");
 
     // Open search using Ctrl+K keyboard shortcut
     await page.keyboard.press("Control+k");
 
     // Verify search dialog appears
-    const searchDialog = page.getByRole("dialog", { name: "Search" });
+    const searchDialog = page.getByRole("dialog", { name: "Haku" });
     await searchDialog.waitFor({ state: "visible" });
 
     // Verify the search input is focused
-    const searchInput = page.getByRole("textbox", { name: "Search" });
+    const searchInput = page.getByRole("textbox", { name: "Haku" });
     await expect(searchInput).toBeFocused();
+
+    // Close the search dialog using Escape key
+    await page.keyboard.press("Escape");
+    await searchDialog.waitFor({ state: "hidden" });
+    await expect(searchDialog).not.toBeVisible();
   });
 });

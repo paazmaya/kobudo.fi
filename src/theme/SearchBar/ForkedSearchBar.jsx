@@ -441,7 +441,11 @@ export default function ForkedSearchBar({ handleSearchBarToggle }) {
           message: "Search",
           description: "The ARIA label and placeholder for search button",
         })}
-        aria-label="Search"
+        aria-label={translate({
+          id: "theme.SearchBar.label",
+          message: "Search",
+          description: "The ARIA label and placeholder for search button",
+        })}
         className={clsx("navbar__search-input", styles.searchInput)}
         onMouseEnter={onInputMouseEnter}
         onFocus={onInputFocus}

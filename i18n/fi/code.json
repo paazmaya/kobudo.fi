@@ -214,6 +214,22 @@
     "message": "Dokumentteja ei l\u00f6ydetty",
     "description": "The paragraph for empty search result"
   },
+  "theme.SearchBar.modal.label": {
+    "message": "Haku",
+    "description": "Accessible label for the search modal dialog"
+  },
+  "theme.SearchBar.modal.title": {
+    "message": "Hae sivustolta",
+    "description": "Title shown in the search modal"
+  },
+  "theme.SearchBar.modal.hint": {
+    "message": "Esc sulje",
+    "description": "Hint for closing the search modal with Escape key"
+  },
+  "theme.common.close": {
+    "message": "Sulje",
+    "description": "Accessible label for close buttons"
+  },
   "theme.ErrorPageContent.tryAgain": {
     "message": "Yrit\u00e4 uudelleen",
     "description": "The label of the button to try again rendering when the React error boundary captures an error"

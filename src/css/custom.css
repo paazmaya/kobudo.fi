@@ -147,6 +147,9 @@ body {
   background-color: var(--ifm-navbar-background-color);
   border-bottom: none;
   box-shadow: 0 0.13rem 0.5rem rgba(0 0 0 / 0.4);
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 /* Ensure items center-align rather than stretch — prevents icon elongation */

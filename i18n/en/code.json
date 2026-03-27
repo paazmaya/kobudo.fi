@@ -365,6 +365,22 @@
     "message": "This page is a draft. It will only be visible in dev and be excluded from the production build.",
     "description": "The draft content banner message"
   },
+  "theme.SearchBar.modal.label": {
+    "message": "Search",
+    "description": "Accessible label for the search modal dialog"
+  },
+  "theme.SearchBar.modal.title": {
+    "message": "Search site",
+    "description": "Title shown in the search modal"
+  },
+  "theme.SearchBar.modal.hint": {
+    "message": "Esc to close",
+    "description": "Hint for closing the search modal with Escape key"
+  },
+  "theme.common.close": {
+    "message": "Close",
+    "description": "Accessible label for close buttons"
+  },
   "theme.ErrorPageContent.tryAgain": {
     "message": "Try again",
     "description": "The label of the button to try again rendering when the React error boundary captures an error"
