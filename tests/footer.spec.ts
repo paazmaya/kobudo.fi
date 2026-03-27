@@ -7,6 +7,7 @@ test.describe("footer", () => {
     await page.waitForSelector("footer, .footer", { state: "visible" });
     const footer = page.locator("footer, .footer").first();
     await expect(footer).toHaveScreenshot("visual/footer-homepage.png");
-    expect(footer).toMatchAriaSnapshot("");
+    // Verify footer contains expected elements
+    await expect(footer.locator("a, p").first()).toBeVisible();
   });
 });
