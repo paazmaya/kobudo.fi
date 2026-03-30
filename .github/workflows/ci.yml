@@ -43,7 +43,7 @@ jobs:
 
       - name: Install Playwright browsers
         # Takes about 2...3 minutes
-        run: npx playwright install --with-deps --only-shell
+        run: npx playwright install --with-deps chromium webkit
 
       - name: Run Playwright tests
         run: npm test

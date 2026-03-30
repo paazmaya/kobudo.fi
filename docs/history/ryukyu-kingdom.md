@@ -14,7 +14,7 @@ alt="Map and illustration of the Ryukyu Kingdom"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The Ryukyu Kingdom unified the Okinawan islands under King Shō Hashi in 1429, beginning a centuries-long period as a maritime trading hub connecting Japan, China, Korea and Southeast Asia. This position shaped both culture and martial practice in distinctive ways.

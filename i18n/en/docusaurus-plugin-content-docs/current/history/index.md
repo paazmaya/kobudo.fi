@@ -14,7 +14,7 @@ alt="Illustration of Ryukyu Kingdom castle and warriors"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The weapon arts of the Ryukyu Islands developed within the unique social and political context of the Ryukyu Kingdom (1429–1879). Unlike mainland Japan, where weapon arts were tied directly to the samurai class, Ryukyuan weapon practices evolved among the **Pechin**, a scholar-warrior class that served as administrators, envoys and castle guards.

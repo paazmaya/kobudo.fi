@@ -4,12 +4,10 @@ import { useLocation } from "@docusaurus/router";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 export default function NotFoundContent(): React.ReactElement {
-  const {
-    i18n: { currentLocale },
-  } = useDocusaurusContext();
   const location = useLocation();
-  const isEn = currentLocale === "en";
+  // Detect locale from URL path since Docusaurus context doesn't work reliably on 404 pages
   const currentPath = location.pathname;
+  const isEn = currentPath.startsWith("/en/") || currentPath === "/en";
   // Send info to clarity
   if (typeof window !== "undefined" && (window as any).clarity) {
     (window as any).clarity("set", "404_path", currentPath);

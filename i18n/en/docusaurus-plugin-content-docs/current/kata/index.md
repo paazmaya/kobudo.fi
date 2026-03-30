@@ -14,7 +14,7 @@ alt="Calligraphic kata names in Japanese"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 Kata name analysis is one of the most useful tools for tracing the history of Ryukyu kobudo. Because kata were transmitted personally without extensive documentation, the names carry teacher names, place names, and family lineages. They are the primary historical fingerprints.

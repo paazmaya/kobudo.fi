@@ -14,7 +14,7 @@ alt="Illustration of an early 20th-century Okinawan kobudo teacher in a dojo cou
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 Yabiku Moden is the figure who bridged the informal weapon traditions of the [Ryukyu Kingdom era](/historia/ryukyu-kuningaskunta) and the organized, curriculum-based kobudo of the 20th century. He founded the **Ryukyu Kobujutsu Kenkyukai** (琉球古武術研究会) in the early Taisho period (after 1912), making it the first formal organization dedicated to preserving and teaching Ryukyuan weapon arts. His most well-documented student, [Taira Shinken](/historia/taira-shinken), built directly on that foundation and spread it across the Japanese mainland and beyond.

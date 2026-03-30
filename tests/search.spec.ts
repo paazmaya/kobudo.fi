@@ -44,7 +44,7 @@ test.describe("search", () => {
     await searchDialog.waitFor({ state: "visible" });
 
     // Verify the search input is focused
-    const searchInput = page.getByRole("textbox", { name: "Haku" });
+    const searchInput = page.getByRole("combobox", { name: "Haku" });
     await expect(searchInput).toBeFocused();
 
     // Close the search dialog using Escape key

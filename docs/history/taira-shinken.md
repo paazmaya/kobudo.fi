@@ -14,7 +14,7 @@ alt="Portrait placeholder for Taira Shinken"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 Taira Shinken is considered the most important single figure in the preservation and transmission of Ryukyu kobudo in the 20th century. Born in 1897 on Kume Island (as Maezato Shinken), he moved to Tokyo in 1922 where he became a student of **Funakoshi Gichin** and built a Shuri-based karate foundation. He later studied kobudo under **Yabiku Moden** and refined his knowledge further through extended training with **Mabuni Kenwa**. This combination of three distinct lineages shaped both his technical repertoire and his approach to systematizing an entire weapons curriculum.

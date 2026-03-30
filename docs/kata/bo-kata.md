@@ -14,7 +14,7 @@ alt="Comparison chart of bo kata across multiple Okinawan kobudo lineages"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 The bō kata corpus is the largest in Ryukyu kobudo and the most widely distributed across different organizations. The key lineages compared below are the **[Taira line](/tyylit/taira-linja)** (Ryūkyū Kobudō), **[Matayoshi Kobudō](/tyylit/matayoshi)**, **[Yamane-ryū](/tyylit/yamane-ryu)**, and **karate-based weapon syllabi** (including Shōrin-ryū, Isshin-ryū and multi-organization lists like the WUKF/Jundokan catalog).

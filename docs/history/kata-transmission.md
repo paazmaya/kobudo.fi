@@ -14,7 +14,7 @@ alt="Illustration of teacher demonstrating kata to students"
 width={960}
 height={384}
 loading="lazy"
-style={{width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '2rem'}}
+className="kb-banner"
 />
 
 Unlike Japanese koryū weapon schools, which typically maintain formal licensing systems (_menkyo_) and written curricula (_densho_), Ryukyu kobudo was transmitted primarily through direct physical instruction without extensive written documentation. This has profound consequences for how we understand the relationship between different versions of "the same" kata.

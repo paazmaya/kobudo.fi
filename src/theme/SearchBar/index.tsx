@@ -90,11 +90,17 @@ export default function SearchBar(props: Props): ReactElement {
     document.body.classList.add("kb-search-modal-open");
 
     const focusTimer = window.setTimeout(() => {
-      const input = modalRef.current?.querySelector<HTMLInputElement>(
-        'input.navbar__search-input, input[aria-label="Search"]',
-      );
-      input?.focus();
-    }, 0);
+      // Use requestAnimationFrame for Safari compatibility - ensures DOM is painted
+      requestAnimationFrame(() => {
+        const input = modalRef.current?.querySelector<HTMLInputElement>(
+          'input.navbar__search-input, input[aria-label="Search"]',
+        );
+        // Safari requires element to be visible and focusable
+        if (input && input.offsetParent !== null) {
+          input.focus();
+        }
+      });
+    }, 50);
 
     return () => {
       document.body.style.overflow = previousOverflow;

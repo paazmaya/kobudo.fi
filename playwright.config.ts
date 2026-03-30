@@ -23,7 +23,8 @@ export default defineConfig({
 
   // Reporter format: 'line' shows one line per test in CI
   // https://playwright.dev/docs/test-reporters
-  reporter: "line",
+  // html report only at CI, which should not open automatically
+  reporter: process.env.CI ? [["html", { open: "never" }]] : "line",
 
   // Shared settings for all tests
   // https://playwright.dev/docs/test-use-options
