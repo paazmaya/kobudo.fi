@@ -9,7 +9,7 @@
   // If the user has explicitly chosen Finnish via the language switcher, respect that
   try {
     if (localStorage.getItem("kobudo-locale") === "fi") return;
-  } catch (e) {}
+  } catch {}
 
   // Read the browser's ordered language preference list
   var langs = navigator.languages ? Array.from(navigator.languages) : [navigator.language || "fi"];

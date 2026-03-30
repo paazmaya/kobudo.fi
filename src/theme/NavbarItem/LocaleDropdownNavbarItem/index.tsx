@@ -113,7 +113,7 @@ export default function LocaleDropdownNavbarItem({
     onClick: () => {
       try {
         localStorage.setItem("kobudo-locale", locale);
-      } catch (e) {}
+      } catch {}
     },
   }));
 

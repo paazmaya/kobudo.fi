@@ -1,6 +1,5 @@
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
-import { FI_TO_EN, EN_TO_FI } from "./src/utils/localePaths";
 
 // https://docusaurus.io/docs/api/docusaurus-config
 const config: Config = {

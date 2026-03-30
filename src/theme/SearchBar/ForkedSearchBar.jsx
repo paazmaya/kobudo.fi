@@ -53,7 +53,7 @@ async function fetchOpenAskAI() {
     return {
       AskAIWidget: openAskAIModule.AskAIWidget,
     };
-  } catch (error) {
+  } catch {
     return null;
   }
 }

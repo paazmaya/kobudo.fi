@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
+import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join, relative } from "node:path";
 import { request } from "playwright";
 
@@ -91,7 +91,7 @@ function extractExternalUrls(markdownContent) {
 
   const markdownLinkRegex = /\[[^\]]*\]\(([^\s)]+)(?:\s+"[^"]*")?\)/g;
   const autoLinkRegex = /<\s*(https?:\/\/[^\s>]+)\s*>/g;
-  const rawUrlRegex = /(?:^|[\s(])((?:https?:\/\/)[^\s<>()\[\]{}"'`]+)/g;
+  const rawUrlRegex = /(?:^|[\s(])((?:https?:\/\/)[^\s<>()[\]{}"'`]+)/g;
 
   const capture = (candidate) => {
     const cleaned = cleanupCandidate(candidate);
@@ -190,7 +190,7 @@ async function checkUrlStatus(apiContext, url) {
 }
 
 async function runWithConcurrency(items, workerCount, taskFn) {
-  const results = new Array(items.length);
+  const results = Array.from({ length: items.length });
   let index = 0;
 
   async function worker() {

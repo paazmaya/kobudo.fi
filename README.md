@@ -5,6 +5,7 @@
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 [![statichost.eu status](https://builder.statichost.eu/kobudo-fi/status.svg)](https://builder.statichost.eu/kobudo-fi/)
+[![CI](https://github.com/paazmaya/kobudo.fi/actions/workflows/ci.yml/badge.svg)](https://github.com/paazmaya/kobudo.fi/actions/workflows/ci.yml)
 
 ## Domain, web, and email hosting
 

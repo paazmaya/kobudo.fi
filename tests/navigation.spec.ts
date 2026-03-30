@@ -1,4 +1,4 @@
-import { test, expect, Page } from "./fixtures";
+import { test, expect } from "./fixtures";
 
 test.describe("navigation", () => {
   test("should render correctly on homepage", async ({ page }) => {

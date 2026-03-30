@@ -1,7 +1,6 @@
 import React from "react";
 import Link from "@docusaurus/Link";
 import { useLocation } from "@docusaurus/router";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 export default function NotFoundContent(): React.ReactElement {
   const location = useLocation();
