@@ -17,13 +17,13 @@ loading="lazy"
 className="kb-banner"
 />
 
-The bō kata corpus is the largest in Ryukyu kobudo and the most widely distributed across different organizations. The key lineages compared below are the **[Taira line](/tyylit/taira-linja)** (Ryūkyū Kobudō), **[Matayoshi Kobudō](/tyylit/matayoshi)**, **[Yamane-ryū](/tyylit/yamane-ryu)**, and **karate-based weapon syllabi** (including Shōrin-ryū, Isshin-ryū and multi-organization lists like the WUKF/Jundokan catalog).
+The bō kata corpus is the largest in Ryukyu kobudo and the most widely distributed across different organizations. The key lineages compared below are the **[Taira line](/tyylit/taira-linja#curriculum)** (Ryūkyū Kobudō), **[Matayoshi Kobudō](/tyylit/matayoshi#shared-kata-names-with-the-taira-line)**, **[Yamane-ryū](/tyylit/yamane-ryu#key-kata)**, and **karate-based weapon syllabi** (including Shōrin-ryū, Isshin-ryū and multi-organization lists like the WUKF/Jundokan catalog).
 
 ## How to Read This Table
 
 Each row represents one underlying kata _family_, identified by its kanji name. The columns show what name each organization uses and any notable differences. Same-family ≠ identical choreography. Different-family ≠ no common history.
 
-## Major Bō Kata Families
+## Major Bō Kata Families {#major-bo-kata-families}
 
 <div className="table-wrapper">
 

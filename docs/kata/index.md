@@ -37,14 +37,14 @@ The same kata can appear under several spellings:
 
 Do not assume different spellings mean different kata without checking the kanji.
 
-### 3. Post-war "Shō/Dai/Ni" variants
+### 3. Post-war "Shō/Dai/Ni" variants {#post-war-sho-dai-ni-variants}
 
 Many post-war schools created _Shō_ (small/first) and _Dai_ (large/second) variants from a single older form. These are best understood as a shared family, not unrelated kata.
 
 ## Sections
 
-- [Bō Kata](./bo-kata): Major bō kata families across [Taira](/tyylit/taira-linja), [Matayoshi](/tyylit/matayoshi), [Yamane-ryū](/tyylit/yamane-ryu), and karate weapon curricula
-- [Sai Kata](./sai-kata): Sai kata families with technical cluster analysis of the [Taira line's](/tyylit/taira-linja) eight sai forms
+- [Bō Kata](./bo-kata#major-bo-kata-families): Major bō kata families across [Taira](/tyylit/taira-linja#curriculum), [Matayoshi](/tyylit/matayoshi#shared-kata-names-with-the-taira-line), [Yamane-ryū](/tyylit/yamane-ryu#key-kata), and karate weapon curricula
+- [Sai Kata](./sai-kata#the-three-cluster-analysis): Sai kata families with technical cluster analysis of the [Taira line's](/tyylit/taira-linja#curriculum) eight sai forms
 
 ## Why Cross-Style Comparison Matters
 

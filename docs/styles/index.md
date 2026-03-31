@@ -33,7 +33,7 @@ A key insight when studying these lineages: the same kata name appearing in mult
 
 The technical choreography of each organization's version will differ. What is shared is the family lineage: a cluster of techniques, a rhythm, a set of core sequences that identify the kata as belonging to this tradition rather than that one.
 
-## Nihon Kobudō Kyōkai Recognition
+## Nihon Kobudō Kyōkai Recognition {#nihon-kobudokyo-recognition}
 
 Four Ryukyu-related weapon arts are registered with the **Nihon Kobudō Kyōkai** (日本古武道協会), giving them formal recognition within Japan's national framework for classical martial arts:
 

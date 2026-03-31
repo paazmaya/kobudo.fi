@@ -19,7 +19,7 @@ className="kb-banner"
 
 The Matayoshi family lineage combines karate (_Kingai-ryū karate_) with an exceptionally wide-ranging weapon curriculum. The style carries strong Chinese-influenced characteristics, reflecting the historical connections between the Ryukyu Kingdom and mainland China.
 
-## Nihon Kobudō Kyōkai Listing
+## Nihon Kobudō Kyōkai Listing {#nihon-kobudokyo-listing}
 
 Registered under the name **金硬流唐手沖縄古武術** (Kingai-ryū Karate & Okinawan Kobujutsu). Current representative: **又吉 靖 (Matayoshi Yasushi)**, listed as 宗家十七代目 (17th-generation sōke).
 

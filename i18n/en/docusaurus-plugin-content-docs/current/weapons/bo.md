@@ -32,9 +32,9 @@ The **bō** (棒) is a hardwood staff approximately 6 feet (182 cm) long, known 
 
 The bō was carried as a walking staff, a carrying pole, and a practical travel tool. Any length of hardwood can serve as a bō, which made it the natural foundation for a systematic weapon curriculum. Virtually every Okinawan kobudo organization begins serious weapon training with the bō.
 
-## Kata Families
+## Kata Families {#kata-families}
 
-The bō kata are organized by family. See [Bō Kata](/en/kata/bo-kata) for the full cross-style comparison. The most important families in the Taira-line curriculum:
+The bō kata are organized by family. See [Bō Kata](/en/kata/bo-kata#major-bo-kata-families) for the full cross-style comparison. The most important families in the Taira-line curriculum:
 
 | Kata family  | Typical name                    | Notes                                        |
 | ------------ | ------------------------------- | -------------------------------------------- |

@@ -36,7 +36,7 @@ The three-sai practice reflects a traditional use where one is thrown to distrac
 
 ## Kata Families
 
-The Taira line preserves eight sai kata organized in three family clusters. See [Sai Kata](/kata/sai-kata) for the full structural analysis:
+The Taira line preserves eight sai kata organized in three family clusters. See [Sai Kata](/kata/sai-kata#the-three-cluster-analysis) for the full structural analysis:
 
 **Hamahiga family:** Hamahiga no Sai → Hamagotenyaka no Sai, Hantagwa no Sai
 

@@ -21,17 +21,17 @@ Taira Shinken is considered the most important single figure in the preservation
 
 ## Teachers and Influences
 
-### Funakoshi Gichin: Shōtōkan Karate Foundation
+### Funakoshi Gichin: Shōtōkan Karate Foundation {#funakoshi-gichin-shotokan}
 
 After moving to Tokyo in 1922, Taira became a close student (_deshi_) of Funakoshi Gichin, the pioneer of Shōtōkan karate. This gave him a Shuri-based empty-hand foundation, instilling an emphasis on structured kihon, formal kata lists, and a pedagogical framework that he later applied directly to kobudo. This made the weapons curriculum compatible with existing karate dojo structures and belt systems.
 
 ### Yabiku Moden: Primary Kobudo Teacher
 
-Around 1929, Taira began formal Ryukyu kobudo training under **[Yabiku Moden](/historia/yabiku-moden)** (屋比久孟傳), who had himself studied Yamani-line bō from Yamani no Chinen and others, and who founded the Ryukyu Kobujutsu Kenkyūkai. Through Yabiku, Taira inherited an extensive collection of older bō kata, including [Sakugawa, Shūshi, Chinen/Soeishi line, and others](/kata/bo-kata), and the lineages reaching back to Soeishi and Chinen Shikiyanaka in the late Ryukyu Kingdom period.
+Around 1929, Taira began formal Ryukyu kobudo training under **[Yabiku Moden](/historia/yabiku-moden)** (屋比久孟傳), who had himself studied Yamani-line bō from Yamani no Chinen and others, and who founded the Ryukyu Kobujutsu Kenkyūkai. Through Yabiku, Taira inherited an extensive collection of older bō kata, including [Sakugawa, Shūshi, Chinen/Soeishi line, and others](/kata/bo-kata#major-bo-kata-families), and the lineages reaching back to Soeishi and Chinen Shikiyanaka in the late Ryukyu Kingdom period.
 
-### Mabuni Kenwa: Shitō-ryū Refinement
+### Mabuni Kenwa: Shitō-ryū Refinement {#mabuni-kenwa-shito-ryu}
 
-In 1933, Taira invited **Mabuni Kenwa** to teach at his Shōtōkan branch in Ikaho, Gunma. Mabuni stayed for approximately six years (1934–1940), with Taira housing and financially supporting him throughout. Under Mabuni, Taira deepened his knowledge of bō and sai kata, including [Sesoko no Kun](/kata/bo-kata), and absorbed Shitō-ryū's broad approach of preserving multiple regional lineages under one organizational roof, a strategy Taira later applied directly to his own kobudo work.
+In 1933, Taira invited **Mabuni Kenwa** to teach at his Shōtōkan branch in Ikaho, Gunma. Mabuni stayed for approximately six years (1934–1940), with Taira housing and financially supporting him throughout. Under Mabuni, Taira deepened his knowledge of bō and sai kata, including [Sesoko no Kun](/kata/bo-kata#major-bo-kata-families), and absorbed Shitō-ryū's broad approach of preserving multiple regional lineages under one organizational roof, a strategy Taira later applied directly to his own kobudo work.
 
 ## The Compilation Work
 
@@ -39,7 +39,7 @@ Taira's central contribution was the collection and codification of kata from mu
 
 This work culminated in his privately printed volume **_琉球古武道大鑑 乾之巻_** (Ryūkyū Kobudō Daikan), with sections also appearing in Nakasone Genwa's prewar anthology **_空手道大観_** (1938).
 
-The expanded posthumous edition, **_新編・増補 琉球古武道大鑑_** (榕樹書林, 1997), supervised by Inoue Kisho, remains the definitive technical reference for the Taira lineage. It covers over **forty kata across eight weapon types**: [bō](/aseet/bo), [sai](/aseet/sai), [tonfa](/aseet/tonfa), [nunchaku](/aseet/nunchaku), [kama](/aseet/kama), [tekko](/aseet/tekko), [tinbē-rochin](/aseet/tinbe-rochin), and [surujin](/aseet/surujin).
+The expanded posthumous edition, **_新編・増補 琉球古武道大鑑_** (榕樹書林, 1997), supervised by Inoue Kisho, remains the definitive technical reference for the Taira lineage. It covers over **forty kata across eight weapon types**: [bō](/aseet/bo#kata-families), [sai](/aseet/sai#kata-families), [tonfa](/aseet/tonfa), [nunchaku](/aseet/nunchaku), [kama](/aseet/kama), [tekko](/aseet/tekko), [tinbē-rochin](/aseet/tinbe-rochin), and [surujin](/aseet/surujin).
 
 ## Eight Weapons, Forty Kata
 
@@ -60,7 +60,7 @@ The core curriculum Taira systematized:
 
 Coming from both Funakoshi and Mabuni, Taira built his kobudo curriculum using karate-style pedagogy: systematic kihon, formalized kata lists organized by weapon and level. In later cooperation with his student Inoue Motokatsu, this teaching framework grew to include explicit _tsukaikata_ (usage techniques), _kihon kumite_ (basic partner practice), and _bunkai kumite_ (kata application) for each weapon.
 
-This made kobudo "karate-dojo friendly": karate organizations could integrate Taira’s weapons syllabus into existing belt systems, which is precisely what happened in Shotokan, Shōrin-ryū, Isshin-ryū, and other styles where [Sakugawa, Shūshi, Tokumine, and Tsuken kata](/kata/bo-kata) became standard kobudo options.
+This made kobudo "karate-dojo friendly": karate organizations could integrate Taira's weapons syllabus into existing belt systems, which is precisely what happened in Shotokan, Shōrin-ryū, Isshin-ryū and other styles where [Sakugawa, Shūshi, Tokumine, and Tsuken kata](/kata/bo-kata#major-bo-kata-families) became standard kobudo options.
 
 ## The Lineage Continues
 
@@ -76,7 +76,7 @@ Beyond collecting existing kata, Taira created several new ones. Two bear his bi
 
 - **[Maezato no Nunchaku](/aseet/nunchaku)**: the standard nunchaku training kata in the Ryukyu kobudy curriculum
 - **[Maezato no Tekko](/aseet/tekko)**: a kata using metal horse stirrups, named after his birthplace
-- **[Jigen no Sai](/kata/sai-kata)**: an explicitly creative work adapting [Kochijo no Sai](/kata/sai-kata) for the manji-sai variant weapon
+- **[Jigen no Sai](/kata/sai-kata#cluster-3-the-kochijojigen-pair)**: an explicitly creative work adapting [Kochijo no Sai](/kata/sai-kata#cluster-3-the-kochijojigen-pair) for the manji-sai variant weapon
 
 He was succeeded after his death in September 1970 by **Eisuke Akamine** in Okinawa, and by **Inoue Motokatsu** for the mainland Japan organization.
 
@@ -87,4 +87,4 @@ He was succeeded after his death in September 1970 by **Eisuke Akamine** in Okin
 3. [Ryūkyū Kobujutsu Hozon Shinkōkai — genealogy](https://www.ryukyukobujutsuhozonshinkokai.org/012_en_keifu.html): Detailed lineage from Soeishi/Chinen Shikiyanaka through Yabiku to Taira and Inoue
 4. [Taira Shinken: Restorer of Okinawa Kobudo — Andreas Quast](https://isshin-concentration.blogspot.com/2023/07/taira-shinken-restorer-of-okinawa-kobudo.html?m=0): Taira's training under Mabuni; Sesoko no Kun; historical analysis
 5. [Ryukyu-kobudo.net — Taira biography](https://ryukyu-kobudo.net/overview/) or [Ryukyu Kobujutsu Hozon Shinkokai — English history](https://www.ryukyukobujutsuhozonshinkokai.org/011_en_history.html): Timeline from Funakoshi to Yabiku and Mabuni
-6. [Research page](/tutkimus): Primary bibliographic sources, especially _新編・増補 琉球古武道大鑑_ (1997) and _琉球古武道基本技シリーズ_ by Inoue Motokatsu
+6. [Research page](/tutkimus#core-works-by-taira-shinken-and-direct-lineage): Primary bibliographic sources, especially _新編・増補 琉球古武道大鑑_ (1997) and _琉球古武道基本技シリーズ_ by Inoue Motokatsu

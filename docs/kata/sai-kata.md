@@ -17,7 +17,7 @@ loading="lazy"
 className="kb-banner"
 />
 
-The Taira line preserves eight sai kata. An analysis by the Bushukan research group (武集館) identifies clear structural relationships between these eight forms, grouping them into **three family clusters** based on shared sequences, embusen (movement pattern), and tactical emphasis.
+The Taira line preserves eight sai kata. An analysis by the Bushukan research group (武集館) identifies clear structural relationships between these eight forms, grouping them into **three family clusters** based on shared sequences, embusen (movement pattern), and tactical emphasis. See the [Taira line curriculum](/tyylit/taira-linja#curriculum) for how these fit into the broader eight-weapon system.
 
 ## The Three Cluster Analysis
 
@@ -78,4 +78,4 @@ All five cluster-root names (Hamahiga, Chatan Yara, Tsuken, Tawada, and Kochijo)
 
 1. [Sai (weapon) — Wikipedia](<https://en.wikipedia.org/wiki/Sai_(weapon)>): Confirms sai was historically used by Okinawan domestic police (ufuchiku) for crowd control and arrest
 2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken): Notes the manji-sai variant is Taira's own creation for Jigen no Sai
-3. [Research page](/tutkimus): _新編・増補 琉球古武道大鑑_ (1997) as the primary published source for Taira's eight sai kata
+3. [Research page](/tutkimus#core-works-by-taira-shinken-and-direct-lineage): _新編・増補 琉球古武道大鑑_ (1997) as the primary published source for Taira's eight sai kata

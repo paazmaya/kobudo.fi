@@ -35,6 +35,9 @@ jobs:
       - name: Run linter
         run: npx oxlint --deny-warnings
 
+      - name: Build the site
+        run: npm run build
+
       - name: Cache Playwright browsers
         uses: actions/cache@v4
         id: playwright-cache
@@ -49,6 +52,7 @@ jobs:
         run: npx playwright install --with-deps chromium webkit
 
       - name: Run Playwright tests
+        # Runs "npm run serve"
         run: npm test
 
       - name: Upload test results
