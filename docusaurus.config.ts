@@ -269,7 +269,7 @@ const config: Config = {
     navbar: {
       title: "Ryukyu Kobudo",
       logo: {
-        alt: "Ryukyu Kobudo",
+        alt: "", // Leave empty since its decoration
         src: "img/navbar-logo.png",
       },
       hideOnScroll: true,

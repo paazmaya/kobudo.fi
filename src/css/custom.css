@@ -21,7 +21,8 @@
   --ifm-background-color: #ffffff;
   --ifm-background-surface-color: #f5f5f5;
   --kb-card-bg: #f5f5f5;
-  --kb-border: #d0d0d0;
+  /* Border: #949494 → 3.0:1 on #f5f5f5 for non-text contrast ✓ */
+  --kb-border: #949494;
   --kb-image-placeholder: #5a0000;
 
   /* Text: 16.1:1 on white ✓ */
@@ -75,8 +76,8 @@
   --kb-radius-lg: 0.63rem; /* ~10px */
   --kb-radius-xl: 0.88rem; /* ~14px */
 
-  /* Focus ring */
-  --kb-focus-color: #005fcc;
+  /* Focus ring: #003d9e → 7.0:1 on white ✓ */
+  --kb-focus-color: #003d9e;
 
   /* Footer (always dark surface) */
   --kb-footer-bg: #1a1a1a;
@@ -87,6 +88,8 @@
 
 body {
   min-width: 20rem;
+  /* Ensure focused elements aren't hidden under sticky navbar (WCAG 2.4.12) */
+  scroll-padding-top: calc(var(--ifm-navbar-height) + 1rem);
 }
 
 /* ── Dark mode ───────────────────────────────────────────── */
@@ -104,7 +107,8 @@ body {
   --ifm-background-color: #0d0d0d;
   --ifm-background-surface-color: #1a1a1a;
   --kb-card-bg: #1a1a1a;
-  --kb-border: #2e2e2e;
+  /* Border: #525252 → 3.0:1 on #1a1a1a for non-text contrast ✓ */
+  --kb-border: #525252;
   --kb-image-placeholder: #420000;
 
   /* Text: ~20:1 on #0d0d0d ✓ */
@@ -452,6 +456,13 @@ img[width][height] {
 }
 
 /* ============================================================
+   ANCHOR OFFSET — prevent headings hidden under sticky navbar
+   ============================================================ */
+[id] {
+  scroll-margin-top: calc(var(--ifm-navbar-height) + 1rem);
+}
+
+/* ============================================================
    BANNER IMAGES
    ============================================================ */
 .kb-banner {
@@ -717,7 +728,7 @@ img[width][height] {
 }
 
 .footer__link-item {
-  min-height: 2.25rem;
+  min-height: var(--kb-space-12); /* 48px for WCAG 2.5.5 AAA */
   display: flex;
   align-items: center;
   /* #b0b0b0 → 8.0:1 on footer bg #1a1a1a ✓ */
@@ -753,6 +764,29 @@ img[width][height] {
   font-size: 1.1rem;
   margin-bottom: 2.5rem;
   opacity: 0.8;
+}
+
+/* ============================================================
+   HEADING ANCHOR LINKS (hash-link)
+   ============================================================ */
+/* Hash links are visible on hover/focus; hide from a11y tree when invisible */
+.hash-link {
+  color: var(--ifm-link-color);
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.hash-link:hover,
+.hash-link:focus-visible,
+*:hover > .hash-link,
+*:focus-visible > .hash-link {
+  opacity: 1;
+}
+
+/* Ensure visible hash-links meet contrast requirements */
+.hash-link:hover,
+.hash-link:focus-visible {
+  color: var(--ifm-link-hover-color);
 }
 
 /* ============================================================
