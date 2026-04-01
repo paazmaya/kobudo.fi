@@ -1,6 +1,6 @@
 .searchTrigger {
-  width: 2.63rem;
-  height: 2.63rem;
+  width: 3rem; /* 48px for WCAG 2.5.5 AAA */
+  height: 3rem;
   border-radius: 0.5rem;
   color: #ffffff;
   display: inline-flex;
@@ -64,8 +64,8 @@
 }
 
 .closeButton {
-  width: 2.25rem;
-  height: 2.25rem;
+  width: 3rem; /* 48px for WCAG 2.5.5 AAA */
+  height: 3rem;
   border-radius: 0.38rem;
   color: var(--ifm-font-color-base);
 }

@@ -39,7 +39,7 @@
   --ifm-navbar-background-color: #5a0000;
   --ifm-navbar-link-color: #ffffff;
   --ifm-navbar-link-hover-color: #ffd0d0;
-  --ifm-navbar-height: 3.75rem;
+  --ifm-navbar-height: 4rem;
 
   /* Sidebar */
   --ifm-menu-link-sublist-icon-filter: none;
@@ -227,6 +227,24 @@ body {
 /* Color mode toggle: always white on the dark-red navbar */
 .navbar .clean-btn {
   color: #ffffff;
+  height: 3rem !important; /* 48px for WCAG 2.5.5 AAA, override @layer */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem; /* Match search trigger */
+}
+
+/* Override parent toggle wrapper (has 2rem from Docusaurus @layer) */
+/* Exclude navbar__toggle which is the mobile hamburger menu */
+.navbar [class*="toggle_"]:not(.navbar__toggle) {
+  width: 3rem !important;
+  height: 3rem !important;
+}
+
+.navbar .clean-btn:hover,
+.navbar .clean-btn:focus-visible {
+  background-color: rgba(255 255 255 / 0.14);
+  border-radius: 0.5rem; /* Ensure rounded rectangle, not circle */
 }
 
 /* Locale dropdown in navbar */
@@ -328,6 +346,11 @@ body {
   }
 }
 
+/* Ensure mobile hamburger is hidden on desktop by default */
+.navbar__toggle {
+  display: none !important; /* Override @layer docusaurus.theme-classic */
+}
+
 @media (max-width: 996px) {
   .navbar__inner {
     align-items: center;
@@ -338,7 +361,7 @@ body {
   }
 
   .navbar__toggle {
-    display: inline-flex;
+    display: inline-flex !important; /* Override desktop !important */
     margin-right: 0.1rem;
   }
 
@@ -769,11 +792,14 @@ img[width][height] {
 /* ============================================================
    HEADING ANCHOR LINKS (hash-link)
    ============================================================ */
-/* Hash links are visible on hover/focus; hide from a11y tree when invisible */
+/* Hash links: override Docusaurus inline transparent color */
 .hash-link {
-  color: var(--ifm-link-color);
-  opacity: 0;
-  transition: opacity 0.15s ease;
+  color: inherit !important;
+  opacity: 0 !important;
+  visibility: hidden;
+  transition:
+    opacity 0.15s ease,
+    visibility 0.15s ease;
 }
 
 .hash-link:hover,
@@ -781,12 +807,8 @@ img[width][height] {
 *:hover > .hash-link,
 *:focus-visible > .hash-link {
   opacity: 1;
-}
-
-/* Ensure visible hash-links meet contrast requirements */
-.hash-link:hover,
-.hash-link:focus-visible {
-  color: var(--ifm-link-hover-color);
+  visibility: visible;
+  color: var(--ifm-link-hover-color) !important;
 }
 
 /* ============================================================
