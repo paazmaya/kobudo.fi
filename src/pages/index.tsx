@@ -4,6 +4,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import Head from "@docusaurus/Head";
 import { FI_TO_EN } from "../utils/localePaths";
+import { OptimizedHeroImage, OptimizedCardImage } from "../components/OptimizedImage";
 
 interface SectionCard {
   title: string;
@@ -71,13 +72,11 @@ function HeroSection(): React.ReactElement {
   const isEn = currentLocale === "en";
   return (
     <section className="kb-hero">
-      <img
+      <OptimizedHeroImage
         src="/img/hero-dojo-wall.png"
         alt="Traditional Okinawan kobudo weapons against a dojo background"
         width={1184}
         height={448}
-        loading="eager"
-        className="kb-hero__image"
       />
       <h1 className="kb-hero__title">Ryukyu Kobudo</h1>
       <p className="kb-hero__subtitle">
@@ -118,14 +117,7 @@ function CardGrid(): React.ReactElement {
               className="kb-card__link"
               aria-label={`Go to ${card.title} section`}
             >
-              <img
-                src={card.imgSrc}
-                alt={card.imgAlt}
-                width={384}
-                height={256}
-                loading="lazy"
-                className="kb-card__img"
-              />
+              <OptimizedCardImage src={card.imgSrc} alt={card.imgAlt} width={384} height={256} />
               <div className="kb-card__body">
                 <h2 className="kb-card__title">{card.title}</h2>
                 <p className="kb-card__desc">{card.description}</p>

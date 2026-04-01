@@ -69,6 +69,57 @@ const config: Config = {
     {
       tagName: "link",
       attributes: {
+        rel: "preconnect",
+        href: "https://www.clarity.ms",
+      },
+    },
+    {
+      tagName: "link",
+      attributes: {
+        rel: "dns-prefetch",
+        href: "https://www.clarity.ms",
+      },
+    },
+    // Optimized theme detection to reduce forced reflow
+    {
+      tagName: "script",
+      attributes: { type: "text/javascript" },
+      innerHTML: `(function() {
+        // Read theme from localStorage only once
+        var savedTheme = null;
+        try {
+          savedTheme = window.localStorage.getItem("theme-5af");
+        } catch (e) {}
+        
+        // Read from URL if present
+        var urlTheme = null;
+        try {
+          urlTheme = new URLSearchParams(window.location.search).get("docusaurus-theme");
+        } catch (e) {}
+        
+        // Determine theme: URL param > localStorage > system preference
+        var theme = urlTheme || savedTheme;
+        if (!theme) {
+          theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+        }
+        
+        // Set theme attribute immediately (before DOM is ready)
+        document.documentElement.setAttribute("data-theme", theme);
+        // Defer non-critical theme-choice attribute to reduce forced reflow
+        if (window.requestIdleCallback) {
+          requestIdleCallback(function() {
+            document.documentElement.setAttribute("data-theme-choice", urlTheme || savedTheme || "system");
+          });
+        } else {
+          setTimeout(function() {
+            document.documentElement.setAttribute("data-theme-choice", urlTheme || savedTheme || "system");
+          }, 1);
+        }
+      })();`,
+    },
+    {
+      tagName: "link",
+      attributes: {
         rel: "icon",
         type: "image/png",
         sizes: "32x32",

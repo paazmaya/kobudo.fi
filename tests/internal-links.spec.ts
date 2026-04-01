@@ -24,7 +24,7 @@ async function getAllLinksFromPage(page: Page): Promise<{ path: string; fragment
   return linkData;
 }
 
-async function crawlSite(page: Page, baseUrl: string) {
+async function crawlSite(page: Page) {
   const visited = new Set<string>();
   const toVisit = new Set<string>(["/"]);
   const allInternalLinks = new Map<string, Set<string>>(); // path -> fragments
@@ -76,11 +76,10 @@ test.describe("No 404s on internal links", () => {
   test("All internal links return 200 and fragments exist", async ({
     page,
     browserName,
-    baseURL,
   }, testInfo) => {
     test.skip(browserName !== "chromium", "Runs only on Chromium");
 
-    const { allInternalLinks, pageIds } = await crawlSite(page, baseURL ?? "");
+    const { allInternalLinks, pageIds } = await crawlSite(page);
 
     const brokenLinks: string[] = [];
     const brokenFragments: string[] = [];
