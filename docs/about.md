@@ -6,7 +6,7 @@ description: "About this site: its purpose, scope, authorship, and how to contri
 social_image: "/img/social/banner-about-desk-1200x630.jpg"
 ---
 
-import { useDocusaurusContext } from '@docusaurus/useDocusaurusContext';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 export const BuildDate = () => {
 const { siteConfig } = useDocusaurusContext();
@@ -59,4 +59,4 @@ Full-text search is provided locally via [docusaurus-search-local](https://githu
 
 Selected site images are generated locally with [ComfyUI](https://github.com/comfyanonymous/ComfyUI) using the z-image-turbo model workflow. Running generation locally keeps prompt iteration fast, makes outputs reproducible, and avoids third-party image API dependencies for visual assets.
 
-This site was last built on **{buildDate}**.
+This site was last built on **<BuildDate />**.

@@ -6,7 +6,7 @@ description: About this site, its purpose, scope, authorship, and how to contrib
 social_image: "/img/social/banner-about-desk-1200x630.jpg"
 ---
 
-import { useDocusaurusContext } from '@docusaurus/useDocusaurusContext';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 export const BuildDate = () => {
 const { siteConfig } = useDocusaurusContext();

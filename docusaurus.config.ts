@@ -353,7 +353,6 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} Ryukyu Kobudo Research`,
     },
   } satisfies Preset.ThemeConfig,
   // scripts: [{ src: "/js/redirect.js", async: false }],
