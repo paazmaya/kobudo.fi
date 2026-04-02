@@ -139,14 +139,14 @@ No text, no watermark, no modern elements, no blurriness, no distortion.
 
 A bright cheerful cartoon portrait illustration, wide composition: a dignified elderly Okinawan kobudo master standing three-quarter view in a stone courtyard dojo.
 He wears a thick white cotton keikogi gi top with double-lapel and short sleeves, belted with a dark black-indigo obi sash, and wide dark indigo hakama wide-leg pleated trousers.
-His feet are bare on worn grey flagstones.
-His weathered face shows deep lines and serene authority, with a calm wise expression — eyes focused and contemplative, a gentle knowing smile suggesting decades of wisdom.
-He has short-cropped grey hair.
+His feet are bare on worn grey flagstones with visible texture and weathering.
+His weathered face shows deep lines and serene authority, with a calm wise expression — eyes focused and contemplative with a gentle knowing smile suggesting decades of wisdom, subtle crow's feet at the corners, a dignified set to his jaw.
+He has short-cropped grey hair with receding temples.
 He stands approximately 170cm tall.
-He holds a rokushaku-bō upright at his right side — the staff 182cm long, extending 12cm above the crown of his head with its lower dark iron ferrule cap resting on the flagstone floor; the staff tapers from 3cm diameter at the centre third to 2cm at each tip, warm amber-brown red-oak grain, slightly worn and darkened from handling.
+He holds a rokushaku-bō upright at his right side — the staff 182cm long, extending 12cm above the crown of his head with its lower dark iron ferrule cap resting on the flagstone floor; the staff tapers from 3cm diameter at the centre third to 2cm at each tip, warm amber-brown red-oak grain, slightly worn and darkened from years of handling.
 Kanji characters written in Japanese calligraphy brushwork appear on a wooden plaque in the background — 平信賢 (Taira Shinken), 師範 (Shihan) — as architectural details.
 Dramatic side lighting from the right casts vivid light across his white gi and a long dark shadow across the dark crimson plastered wall behind him.
-Vivid colors.
+Vivid saturated colors throughout.
 No text, no watermark, no photographic artifacts, no modern clothing, no blurriness, no distortion.
 
 ## History — Kata Transmission
@@ -155,12 +155,12 @@ No text, no watermark, no photographic artifacts, no modern clothing, no blurrin
 **Placeholder size:** 960 × 400 → **Use 960 × 384** (30 × 12 × 32²; 368,640 px)
 
 A wide bright cheerful cartoon illustration of a master teaching a student a bō kata inside a traditional stone-walled Okinawan dojo at night.
-The master — elderly, approximately 170cm tall, white cotton keikogi gi top, dark indigo hakama wide-leg pleated trousers, bare feet, short grey hair — stands close behind a younger student of similar 170cm height and guides the student's hands on a rokushaku-bō: 182cm long, visibly 12cm taller than either practitioner's head when the lower ferrule tip touches the floor; a tapered red-oak staff 3cm in diameter at the centre third, narrowing to 2cm at each dark iron ferrule tip.
-The master's weathered face shows a patient mentoring expression with gentle focused eyes and a soft encouraging smile.
-The student, wearing a white keikogi gi and dark indigo hakama, bare feet, shows an eager attentive expression — eyes wide with concentration, lips slightly parted in focused determination.
-A row of stone lanterns along the dark crimson plastered wall behind them casts vivid pools of warm amber light across the worn wooden floor.
-Long dramatic shadows stretch forward.
-The mood is reverent and intimate.
+The master — elderly, approximately 170cm tall, white cotton keikogi gi top, dark indigo hakama wide-leg pleated trousers, bare feet, short grey hair with receding hairline — stands close behind a younger student of similar 170cm height and guides the student's hands on a rokushaku-bō: 182cm long, visibly 12cm taller than either practitioner's head when the lower ferrule tip touches the floor; a tapered red-oak staff 3cm in diameter at the centre third, narrowing to 2cm at each dark iron ferrule tip.
+The master's weathered face shows a patient mentoring expression with gentle focused eyes watching the student's grip position, a soft encouraging smile suggesting experienced guidance, subtle laugh lines at the corners of his eyes.
+The student, wearing a white keikogi gi and dark indigo hakama, bare feet, shows an eager attentive expression — eyes wide with concentration, lips slightly parted in focused determination, a hint of nervous excitement in his youthful face.
+A row of stone lanterns along the dark crimson plastered wall behind them casts vivid pools of warm amber light across the worn wooden floor with visible grain and wear patterns.
+Long dramatic shadows stretch forward across the floorboards.
+The mood is reverent and intimate, capturing a moment of knowledge transmission.
 Vivid saturated colors with dark crimson walls.
 Kanji characters written in Japanese calligraphy brushwork on wall plaques include 伝 (Den/Transmission), 継承 (Succession), 型 (Kata) — as traditional dojo decorations.
 No text, no watermark, no modern clothing, no blurriness, no distortion.
@@ -225,11 +225,11 @@ No readable modern Latin text, no watermark, no blurriness, no distortion.
 **Placeholder size:** 960 × 400 → **Use 960 × 384** (30 × 12 × 32²; 368,640 px)
 
 A wide bright cheerful cartoon illustration of an Okinawan martial artist performing a bojutsu technique outdoors at dusk.
-He stands approximately 170cm tall and wears a white cotton keikogi gi top and vivid dark indigo hakama wide-leg pleated trousers, bare feet on grey flagstone.
-He is in a fluid wide shiko-dachi low stance, body torqued, sweeping a rokushaku-bō — 182cm long and thus 12cm taller than the practitioner, tapering from 3cm diameter at the centre to 2cm at each tip, red-oak grain — in a powerful horizontal arc; the staff is painted as a motion blur suggesting speed.
-His face shows intense focused determination with furrowed brow, eyes locked on an unseen target, jaw set in concentration, a bead of perspiration on his temple suggesting exertion.
+He stands approximately 170cm tall and wears a white cotton keikogi gi top and vivid dark indigo hakama wide-leg pleated trousers, bare feet on grey flagstone with visible weathering and moss between cracks.
+He is in a fluid wide shiko-dachi low stance, body torqued, sweeping a rokushaku-bō — 182cm long and thus 12cm taller than the practitioner, tapering from 3cm diameter at the centre to 2cm at each tip, red-oak grain — in a powerful horizontal arc; the staff is painted as a motion blur suggesting speed and centrifugal force.
+His face shows intense focused determination with deeply furrowed brow, eyes locked on an unseen target with piercing concentration, jaw set in exertion, a bead of perspiration on his temple suggesting physical effort, tendons visible in his neck from the exertion.
 A single vivid torch at ground level casts hard amber light forward, projecting long dramatic shadows of the figure and staff across the courtyard flagstones.
-The sky behind burns deep crimson fading to vivid orange.
+The sky behind burns deep crimson fading to vivid orange and gold at the horizon, suggesting sunset atmosphere.
 Kanji characters written in Japanese calligraphy brushwork on a stone marker in the background — 山根流 (Yamane-ryū), 棒術 (Bōjutsu) — as period signage.
 Vivid saturated colors throughout.
 No text, no watermark, no modern clothing, no blurriness, no distortion.
@@ -425,11 +425,12 @@ No Latin text, no watermark, no blurriness, no distortion.
 **Placeholder size:** 960 × 400 → **Use 960 × 384** (30 × 12 × 32²; 368,640 px)
 
 A wide bright cheerful cartoon illustration of an Okinawan martial artist performing a bō kata technique in a stone-paved dojo courtyard at night.
-He stands approximately 170cm tall and wears a thick white cotton keikogi gi top and vivid dark indigo hakama wide-leg pleated trousers, bare feet on worn grey flagstones.
-He is in a dynamic shiko-dachi low wide stance, body tensed and torqued at the waist, wielding a rokushaku-bō — 182cm long, 12cm taller than the practitioner, tapering from 3cm diameter at the centre to 2cm at each dark iron ferrule tip — in a powerful horizontal strike painted as a vivid motion-blur arc.
-His face shows intense focused concentration with furrowed brow, determined eyes fixed forward, jaw set in exertion, a bead of sweat on his temple.
-Dark crimson plastered stone walls surround the courtyard, iron wall lanterns flaring vivid amber light.
-Long dramatic shadows stretch across the flagstones.
+He stands approximately 170cm tall and wears a thick white cotton keikogi gi top and vivid dark indigo hakama wide-leg pleated trousers, bare feet on worn grey flagstones with visible cracks and weathering.
+He is in a dynamic shiko-dachi low wide stance, body tensed and torqued at the waist, wielding a rokushaku-bō — 182cm long, 12cm taller than the practitioner, tapering from 3cm diameter at the centre to 2cm at each dark iron ferrule tip — in a powerful horizontal strike painted as a vivid motion-blur arc suggesting speed and force.
+His face shows intense focused concentration with deeply furrowed brow, determined eyes fixed forward on an unseen target, jaw set with unwavering determination, a bead of sweat on his temple suggesting physical exertion, his expression conveying complete immersion in the technique.
+Dark crimson plastered stone walls surround the courtyard with visible texture and aged patina, iron wall lanterns flaring vivid amber light that casts dramatic shadows.
+Long shadows stretch across the flagstones from the lantern light.
+The sky above is not visible but the warm lantern glow suggests nighttime practice.
 Kanji characters written in Japanese calligraphy brushwork on wall plaques — 型 (Kata), 棒 (Bō), 慈恩 (Jion), 壭興 (Sakugawa) — as traditional dojo decorations.
 Vivid saturated colors throughout.
 No text, no watermark, no modern clothing, no blurriness, no distortion.
@@ -440,11 +441,10 @@ No text, no watermark, no modern clothing, no blurriness, no distortion.
 **Placeholder size:** 960 × 400 → **Use 960 × 384** (30 × 12 × 32²; 368,640 px)
 
 A wide bright cheerful cartoon illustration of an Okinawan martial artist executing a sai kata technique in a stone dojo.
-He stands approximately 170cm tall and wears a white cotton keikogi gi top, vivid dark indigo hakama wide-leg pleated trousers, and bare feet on dark wooden floorboards.
-He holds both sai in a crossed defensive trapping guard at chest height — each sai 50cm total: a 15cm tsuka handle wrapped in black cord gripped in the fist, a central monouchi iron prong 35cm long extending forward from the knuckles to a sharp point, octagonal cross-section tapering from 2.5cm wide at the base to a fine tip; two upward-curved yoku tines 10cm long branching outward at 45° from the moto junction; one sai crossed over the other at the wrist.
-Three-quarter view.
-His expression is intensely focused and intent — brow furrowed in concentration, eyes locked on an unseen opponent with piercing determination, lips pressed in a firm line of resolve.
-Dramatic vivid torchlight from the right casts a deep shadow behind him against a dark crimson plastered wall, the dark iron sai tines glinting with sharp metallic highlights.
+He stands approximately 170cm tall and wears a white cotton keikogi gi top, vivid dark indigo hakama wide-leg pleated trousers, and bare feet on dark wooden floorboards with visible grain and wear patterns from years of training.
+He holds both sai in a crossed defensive trapping guard at chest height — each sai 50cm total: a 15cm tsuka handle wrapped in black cord gripped in the fist, a central monouchi iron prong 35cm long extending forward from the knuckles to a sharp point, octagonal cross-section tapering from 2.5cm wide at the base to a fine tip; two upward-curved yoku tines 10cm long branching outward at 45° from the moto junction; one sai crossed over the other at the wrist forming an X-guard.
+Three-quarter view showing his intensely focused and intent expression — brow deeply furrowed in concentration, eyes locked on an unseen opponent with piercing vigilant determination, lips pressed in a firm line of resolve, a slight tension visible in his jaw muscles showing defensive readiness.
+Dramatic vivid torchlight from the right casts a deep shadow behind him against a dark crimson plastered wall with visible texture, the dark iron sai tines glinting with sharp metallic highlights reflecting the flame.
 Kanji characters written in Japanese calligraphy brushwork on wall plaques — 釵型 (Sai Kata), 慈恩 (Jion), 昭雲 (Shōun) — as traditional dojo decorations.
 Vivid saturated colors.
 No text, no watermark, no modern clothing, no blurriness, no distortion.

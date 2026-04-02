@@ -15,6 +15,16 @@ const config: Config = {
   // https://docusaurus.io/docs/api/docusaurus-config#url
   url: "https://kobudo.fi",
 
+  // Custom fields available at build time
+  // https://docusaurus.io/docs/api/docusaurus-config#customFields
+  customFields: {
+    buildDate: new Date().toLocaleDateString("en-GB", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    }),
+  },
+
   // Base URL pathname for your site
   // https://docusaurus.io/docs/api/docusaurus-config#baseUrl
   baseUrl: "/",

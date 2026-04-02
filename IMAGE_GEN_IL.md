@@ -145,7 +145,7 @@ ryukyu kingdom ceremonial scene 1429 to 1879, king sho hashi court, traditional 
 **Prompt:**
 
 ```
-1boy, elderly okinawan master, taira shinken, traditional gi and hakama, holding bo staff, outdoor dojo, stone courtyard, dark crimson wall behind, dramatic side lighting, from side, three-quarter view, respectful dignified pose, traditional media, ink illustration, realistic portrait style, masterpiece, best quality, general
+1boy, elderly okinawan master, taira shinken, traditional gi and hakama, holding bo staff, outdoor dojo, stone courtyard, dark crimson wall behind, dramatic side lighting, from side, three-quarter view, respectful dignified pose, serene expression, calm contemplative eyes, gentle knowing smile, weathered wise face, traditional media, ink illustration, realistic portrait style, masterpiece, best quality, general
 ```
 
 ---
@@ -158,7 +158,7 @@ ryukyu kingdom ceremonial scene 1429 to 1879, king sho hashi court, traditional 
 **Prompt:**
 
 ```
-master teaching student kobudo kata, two figures, traditional okinawan dojo, wooden floor, stone walls, dark crimson lantern light, motion blur on weapon, bo staff technique, depth of field, dramatic shadows, from side, traditional media, japanese woodblock print, masterpiece, best quality, general
+master teaching student kobudo kata, two figures, traditional okinawan dojo, wooden floor, stone walls, dark crimson lantern light, motion blur on weapon, bo staff technique, depth of field, dramatic shadows, from side, master with patient mentoring expression, gentle focused eyes, encouraging smile, student with eager attentive expression, wide concentrated eyes, focused determination, traditional media, japanese woodblock print, masterpiece, best quality, general
 ```
 
 ---
@@ -210,7 +210,7 @@ branching lineage scroll, taira shinken kobudo school, vertical genealogy chart 
 **Prompt:**
 
 ```
-1boy, okinawan martial artist, yamane-ryu bojutsu stance, long bo staff extended in fluid sweeping posture, outdoor stone courtyard, low angle shot, dramatic dark crimson sky background, dynamic motion lines, wide low composition, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
+1boy, okinawan martial artist, yamane-ryu bojutsu stance, long bo staff extended in fluid sweeping posture, outdoor stone courtyard, low angle shot, dramatic dark crimson sky background, dynamic motion lines, wide low composition, intense focused determination, furrowed brow, piercing eyes, exertion expression, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
 ```
 
 ---
@@ -366,7 +366,7 @@ okinawan kobudo kata name scroll, large japanese brush calligraphy characters, k
 **Prompt:**
 
 ```
-1boy, okinawan martial artist performing bo kata, rokushaku bo staff in mid-strike, outdoor dojo stone courtyard, dramatic low angle, dark crimson sky and torchlight, motion blur on staff, dynamic action pose, wide low composition, from side, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
+1boy, okinawan martial artist performing bo kata, rokushaku bo staff in mid-strike, outdoor dojo stone courtyard, dramatic low angle, dark crimson sky and torchlight, motion blur on staff, dynamic action pose, wide low composition, from side, intense focused concentration, furrowed brow, determined eyes, jaw set with determination, exertion expression, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
 ```
 
 ---
@@ -379,7 +379,7 @@ okinawan kobudo kata name scroll, large japanese brush calligraphy characters, k
 **Prompt:**
 
 ```
-1boy, okinawan martial artist performing sai kata, pair of sai in defensive trapping stance, dojo stone courtyard, dark crimson lantern light, dramatic shadows, metallic glint on sai tines, three-quarter view, dynamic pose, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
+1boy, okinawan martial artist performing sai kata, pair of sai in defensive trapping stance, dojo stone courtyard, dark crimson lantern light, dramatic shadows, metallic glint on sai tines, three-quarter view, dynamic pose, intense focused vigilance, narrowed eyes watching opponent, brow furrowed in concentration, firm jaw showing defensive readiness, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
 ```
 
 ---
@@ -392,7 +392,7 @@ okinawan kobudo kata name scroll, large japanese brush calligraphy characters, k
 **Prompt:**
 
 ```
-confused okinawan martial artist searching through old scrolls, lost in traditional dojo library, surrounded by piles of ancient books and unrolled scrolls, looking for missing kata knowledge, dim candlelight, dark crimson walls, dramatic shadows, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
+confused okinawan martial artist searching through old scrolls, lost in traditional dojo library, surrounded by piles of ancient books and unrolled scrolls, looking for missing kata knowledge, dim candlelight, dark crimson walls, dramatic shadows, comically puzzled expression, raised eyebrows, wide confused eyes, questioning frown, scratching head, bewildered pose, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
 ```
 
 ---
@@ -405,7 +405,7 @@ confused okinawan martial artist searching through old scrolls, lost in traditio
 **Prompt:**
 
 ```
-confused okinawan martial artist searching through old scrolls, lost in traditional dojo library, surrounded by piles of ancient books and unrolled scrolls, looking for missing kata knowledge, dim candlelight, dark crimson walls, dramatic shadows, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
+confused okinawan martial artist searching through old scrolls, lost in traditional dojo library, surrounded by piles of ancient books and unrolled scrolls, looking for missing kata knowledge, dim candlelight, dark crimson walls, dramatic shadows, comically puzzled expression, raised eyebrows, wide confused eyes, questioning frown, scratching head, bewildered pose, traditional media, japanese woodblock print, ukiyo-e style, masterpiece, best quality, general
 ```
 
 ---
