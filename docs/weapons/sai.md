@@ -34,6 +34,14 @@ The sai's primary tactical function is the **trap-and-counter**: the tines can c
 
 The three-sai practice reflects a traditional use where one is thrown to distract or injure while retaining two for close combat.
 
+## Historical Origins
+
+The 揆奮館 article describes sai as a **capture weapon** used by officials (役人) to arrest and control people, functionally similar to Japan's _jitte_ but typically used in pairs or trios in Okinawa. Sai technique is built around both **defense and offense**: used to receive and trap swords, poles, or other weapons, then strike or lock joints; throwing sai is also mentioned as part of the classical repertoire.
+
+Several modern dojo pages and seminars by Okinawan institutions present sai as a **non‑bladed metal weapon** suited to the Ryukyuan legal environment (where swords were restricted), reinforcing this "law‑enforcement tool" origin rather than an agricultural one.
+
+According to Ryukyu Kobudo sources, the character for sai (釵) means "hairpin" but the weapon may have originated from Indian Buddhist implements shaped like the human body. In the Ryukyu Kingdom era, officials called _ufuchiku_ (大筑, similar to modern police chiefs) carried sai as symbols of rank and for self‑defense, crowd control, and guidance duties.
+
 ## Kata Families
 
 The Taira line preserves eight sai kata organized in three family clusters. See [Sai Kata](/kata/sai-kata#the-three-cluster-analysis) for the full structural analysis:
@@ -53,3 +61,7 @@ The _Jigen no Sai_ kata is performed with the **manji-sai** (卍釵), a variant 
 1. [Sai (weapon) — Wikipedia](<https://en.wikipedia.org/wiki/Sai_(weapon)>): History (approved for Okinawan kobudō use 1668 by Moto Chohei), parts (monouchi, yoku, tsume, moto, tsuka, tsukagashira), use by domestic police (ufuchiku)
 2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken): Confirms the manji-sai is Taira's own creation
 3. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Confirms 8 sai kata in the Taira curriculum
+4. [琉球古武道武器術 — 揆奮館流武術](http://kihunkan.net/ryukyukobudobukijutu.htm): Sai as capture weapon for officials, defense and offense techniques, throwing applications
+5. [Okinawa Traditional Karate — Cabinet Office](https://www8.cao.go.jp/okinawa/okinawakarate/shokai/karate-shokai.html): Non-bladed metal weapon suited to Ryukyuan legal environment
+6. [Ryukyu Kobudo Weapons](https://www.ryukyukobudo.net/ryukyu_kobudo/kobudo_weapons/): Character meaning (hairpin), Indian Buddhist origin theory, _ufuchiku_ officials' use for rank and duties
+7. [琉球古武術 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/琉球古武術): Sai characteristics and historical usage

@@ -17,7 +17,11 @@ loading="lazy"
 className="kb-banner"
 />
 
-The **Tinbē-Rochin** (ティンベー・ロチン) is a paired-weapon combination: the **tinbē** is a small round shield traditionally made from a sea turtle shell or woven vine, while the **rochin** is a short spear or blade. The combination is one of the most visually distinctive in Ryukyu kobudo and the only weapon pair that combines defense-object and offense-weapon as a unit.
+The **Tinbē-Rochin** (ティンベー・ロチン) is a paired-weapon combination: the **tinbē** is a small round shield traditionally made from rattan, leather, or **turtle shell**, while the **rochin** is a short spear or blade. The combination is one of the most visually distinctive in Ryukyu kobudo and the only weapon pair that combines defense-object and offense-weapon as a unit.
+
+According to the JRKF "What is Ryukyu Kobudo" page, the **tinbē** (shield) and **rōchin** (short spear) form a paired weapon set. Shields were traditionally made from **rattan, leather, or turtle shell**, while rōchin could be a short spear or **machete‑like blade (seiryuto / 青龍刀)**, and both could be used for feints, blinding, cutting, and thrusting. Modern tinbē may be made from **light alloys or wood**, but the tactical idea remains: **use the shield for protection, vision disruption, and edge strikes, while the rochin stabs and cuts**, echoing southern Chinese shield‑and‑spear systems.
+
+揆奮館 traces tinbē techniques back to **southern Shaolin (南派小林拳の流れをくむ)** and asserts that they were in actual use by the **Three Kingdoms (三山) period**, making tinbē one of the **oldest layers** of Ryukyuan weapon practice.
 
 ## Physical Characteristics
 
@@ -45,3 +49,6 @@ The Taira curriculum includes one primary tinbē-rochin kata:
 1. [Tinbe-rochin — Wikipedia](https://en.wikipedia.org/wiki/Tinbe-rochin): Physical dimensions (shield ~45 cm × 38 cm; rochin = forearm length), materials, circular technique description, upward stabbing applications
 2. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Confirms one tinbē-rochin kata in the Taira curriculum
 3. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo): Matayoshi version: Tinbei+Seiryuto (shield + short sword), Timbei no Kata
+4. [JRKF — What is Ryukyu Kobudo](https://jrkf.clouver.jp/kobudo.html): Tinbē-rōchin as paired weapon set, traditional materials (rattan, leather, turtle shell), rochin variants (short spear, seiryuto blade), tactical uses (feints, blinding, cutting, thrusting)
+5. [Ryukyu Kobudo Weapons](https://www.ryukyukobudo.net/ryukyu_kobudo/kobudo_weapons): Modern materials (light alloys, wood), shield protection and vision disruption tactics, southern Chinese shield-and-spear system connections
+6. [琉球古武道武器術 — 揆奮館流武術](http://kihunkan.net/ryukyukobudobukijutu.htm): Southern Shaolin lineage (南派小林拳), Three Kingdoms (三山) period usage, oldest layer of Ryukyuan weapon practice

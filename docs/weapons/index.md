@@ -36,13 +36,15 @@ The Taira Shinken curriculum organizes Ryukyu kobudo around **eight core weapon 
 
 While the Taira / Hozon Shinkōkai curriculum centers on eight weapons, the broader Ryukyu kobudo tradition includes additional tools. The [Matayoshi curriculum](/tyylit/matayoshi), for example, adds:
 
-- **Eku** (エーク / 様): boat oar, particularly associated with the Tsuken island tradition
-- **Sansetsukon**: three-section staff
-- **Kuwa**: mattock or hoe
-- **Nuntei**: specialized trident-spear
-- **Jō**: shorter staff (~4 ft)
+| Weapon           | Japanese          | Description                                                        |
+| ---------------- | ----------------- | ------------------------------------------------------------------ |
+| [Eku](./eku)     | 櫂 / エーク       | Boat oar, particularly associated with the Tsuken island tradition |
+| [Kuwa](./kuwa)   | 鍬                | Hoe, agricultural digging tool with earth-flinging techniques      |
+| [Nunti](./nunti) | 貫手棒 / ヌンティ | Trident-spear combining sai and spear tactics                      |
+| **Sansetsukon**  | 三節棍            | Three-section staff                                                |
+| **Jō**           | 杖                | Shorter staff (~4 ft)                                              |
 
-These additional weapons reflect the Matayoshi emphasis on everyday-object origins and Chinese-influenced combat tools.
+These additional weapons reflect the Matayoshi emphasis on everyday-object origins and Chinese-influenced combat tools. Some, like the eku and kuwa, represent fishing and farming implements that became weapons, while the nunti bridges spear and sai techniques with its distinctive manji-sai head.
 
 ## Why These Eight?
 

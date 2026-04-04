@@ -32,6 +32,16 @@ The **bō** (棒) is a hardwood staff approximately 6 feet (182 cm) long, known 
 
 The bō was carried as a walking staff, a carrying pole, and a practical travel tool. Any length of hardwood can serve as a bō, which made it the natural foundation for a systematic weapon curriculum. Virtually every Okinawan kobudo organization begins serious weapon training with the bō.
 
+## Historical Origins
+
+According to the article "琉球古武道武器術" by 揆奮館流武術, **bōjutsu was originally the weapon of government officials** (role similar to modern police) in the Ryukyu Kingdom, used for controlling disturbances rather than battlefield mass combat.
+
+The same essay notes that Chinese military treatises such as **『武備志』 and 『紀効新書』** contain staff methods whose technical content closely resembles modern Okinawan bōjutsu, and quotes "all martial arts take staff (棍) as their root," emphasizing that staff work is the foundation of weapons practice.
+
+## Distinctive Characteristics
+
+The article distinguishes Chinese staff (slender, whippy, skin‑cutting) from Okinawan staff (shorter, thicker, bone‑breaking) and describes traditional Ryukyu staff wood as **kuba** (クバ, a tough wood with wavy grain), before modern red/white oak became common. It notes that kingdom‑era guard bō were often five shaku, not the modern standard of six shaku.
+
 ## Kata Families {#kata-families}
 
 The bō kata are organized by family. See [Bō Kata](/en/kata/bo-kata#major-bo-kata-families) for the full cross-style comparison. The most important families in the Taira-line curriculum:
@@ -56,3 +66,6 @@ Beyond solo kata, bō practice includes **kumibō** (組棒), which are pre-arra
 1. [Bō — Wikipedia](https://en.wikipedia.org/wiki/B%C5%8D): Physical characteristics (1.82 m / 6 shaku, 3 cm thick, red/white oak), grip technique, history of kobudo development in early 17th-century Okinawa
 2. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Bō as the most widely practiced weapon in the Ryukyu kobudo corpus
 3. [Yamanni ryu — Wikipedia](https://en.wikipedia.org/wiki/Yamanni_ryu): Notes Yamane-ryū strikes resemble yari (spear) and naginata techniques
+4. [琉球古武道武器術 — 揆奮館流武術](http://kihunkan.net/ryukyukobudobukijutu.htm): Bō as government official weapon, Chinese military treatise connections (武備志, 紀効新書), staff as foundation principle, kuba wood, five vs six shaku distinction
+5. [Okinawa Times — 琉球古武道の棒術](https://www.okinawatimes.co.jp/articles/-/821696): Traditional kuba wood, kingdom-era guard bō specifications
+6. [琉球古武術 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/琉球古武術): Six-shaku staff dimensions, origin as carrying pole, kata naming conventions

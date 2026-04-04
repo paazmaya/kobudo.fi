@@ -31,6 +31,12 @@ The **nunchaku** (ヌンチャク) consists of two short hardwood sticks connect
 
 The standard origin theory connects the nunchaku to an agricultural flail used for threshing grain. The short connected form had obvious weapon potential when the tool was already carried. As with many Okinawan weapon origins, the direct historical evidence for this is circumstantial rather than documented.
 
+According to the 揆奮館 article, after the 1609 Satsuma invasion, when weapons were restricted, **women are said to have devised nunchaku from a tool used to strip banana fiber (クーラ)**, turning it into a self‑defense weapon. Nunchaku thus evolved as a **concealed personal protection tool**, not a battlefield weapon.
+
+The Ryukyu Kobudo weapons page notes that nunchaku, like other **hidden weapons (暗器)**, was **originally a hunting tool**. With its short reach and need for precise control, it emphasizes receiving first, which is why nunchaku kata traditionally **begin with receiving techniques rather than direct attacks**. The weapon was also called **ヌウチク** in some schools and may have originated from **horse bridles (ムーゲー)**.
+
+Okinawan dojo and federation sites commonly emphasize nunchaku's role as a later addition to kobudō, popularized for demonstration and training but historically secondary compared to staff and spear‑like weapons. Its purpose is to weaken and neutralize unreasonable violence or multiple attackers rather than aggressive use.
+
 ## Technique
 
 Nunchaku technique centers on **swinging momentum and sudden direction change**: the weapon builds kinetic energy in circular swings, then the path of the free stick is redirected or arrested by the grip hand. Basic techniques include overhead swing-and-catch, side figure-eight patterns, and close-range grip-work.
@@ -47,3 +53,6 @@ The weapon requires careful coordination because a poorly controlled swing strik
 1. [Nunchaku — Wikipedia](https://en.wikipedia.org/wiki/Nunchaku): Construction (~30 cm sticks, rope or chain connection), origin theories (flail, horse bit, hyoshiki clappers), notes peasant-origin theory is "romantic exaggeration"; martial arts in Okinawa practiced by aristocracy and Pechin, not commoners
 2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken): Confirms Taira created the Maezato no Nunchaku kata
 3. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo): Matayoshi nunchaku kata (Nunchaku no Kata / threshing short staff)
+4. [琉球古武道武器術 — 揆奮館流武術](http://kihunkan.net/ryukyukobudobukijutu.htm): 1609 Satsuma invasion context, banana fiber tool (クーラ) origin, women's self-defense development, concealed weapon nature
+5. [Ryukyu Kobudo Weapons](https://www.ryukyukobudo.net/ryukyu_kobudo/kobudo_weapons): Hidden weapon (暗器) classification, hunting tool origin, receiving-first technique, ヌウチク naming, horse bridle (ムーゲー) origin theory
+6. [Okinawa BB TV — 空手の歴史](https://www.okinawabbtv.com/desc/%E7%A9%BA%E6%89%8B%E3%81%AE%E6%AD%B4%E5%8F%B22-%E6%B2%96%E7%B8%84%E3%81%AE%E4%BC%9D%E7%B5%B1%E5%8F%A4%E6%AD%A6%E9%81%93/): Nunchaku as later addition to kobudō, demonstration focus

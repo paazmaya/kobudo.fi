@@ -17,7 +17,9 @@ loading="lazy"
 className="kb-banner"
 />
 
-The **tekko** (鉄甲, also written 鉄甲 or テッコウ) are metal knuckle guards worn over the fist. The weapon is believed to derive from a horseshoe or similar iron fitting. Of the eight Taira curriculum weapons, tekko is the only one worn rather than held.
+The **tekko** (鉄甲, also written 鉄甲 or テッコウ) are metal knuckle guards worn over the fist. According to the Ryukyu Kobudo weapons page, tekko originally came from **horse shoes (馬蹄)** used in agriculture: people realized that if the iron shoe was held in the hand, it could reinforce the fist so that existing karate punches could be used almost unchanged, making tekko a very efficient weapon to learn and employ.
+
+Of the eight Taira curriculum weapons, tekko is the only one worn rather than held. Traditional tekko had **protruding spikes**, but modern practice usually uses **rounded ends for safety**.
 
 ## Physical Characteristics
 
@@ -43,8 +45,14 @@ The tekko kata therefore closely resemble empty-hand karate sequences, performed
 - **Maezato no Tekko** (前里の鉄甲, first kata): Composed by Taira Shinken himself; the name Maezato relates to his birth name before adoption. The kata closely resembles empty-hand karate sequences, applying the tekko's metal surfaces to augment standard punching, blocking and raking techniques.
 - **Tekko no Ni** (鉄甲の二, second kata): The second tekko kata in the Taira curriculum. Practitioners in the Taira lineage account include those in the Ryu Kon Kai, Akamine, Miyazato, and Kakazu traditions.
 
+## Related Weapon: Tetchū (鉄柱 / 寸鉄)
+
+The 揆奮館 article also describes **鉄柱（寸鉄）**, a roughly **15‑cm iron rod with a ring**, used both as a palm weapon and for throwing. This weapon is likened to small shuriken‑like projectiles, showing that **throwable iron rods** were part of Okinawan weapons culture, not only chains or stones. The tetchū represents a different class of iron weapon from the tekko, emphasizing projectile capability over fist reinforcement.
+
 ## Sources
 
 1. [Tekkō — Wikipedia](https://en.wikipedia.org/wiki/Tekko): Full development history (yawara → chize kun bo → tekko → tek chu → horseshoe tekko → stirrup tekko), construction, confirms Taira Shinken's Maezato no Tekko kata; notes current practitioners include Taira/Ryukyu kobudo lineages
 2. [Taira Shinken — Wikipedia](https://en.wikipedia.org/wiki/Taira_Shinken): Confirms Taira created Maezato no Tekko; name derives from his birth name Maezato
 3. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Confirms two tekko kata in the Taira curriculum
+4. [Ryukyu Kobudo Weapons](https://www.ryukyukobudo.net/ryukyu_kobudo/kobudo_weapons): Horseshoe (馬蹄) origin, agricultural roots, karate punch reinforcement, efficiency, traditional spikes vs modern rounded ends
+5. [琉球古武道武器術 — 揆奮館流武術 (YouTube)](https://www.youtube.com/watch?v=viQxoozR1fI): Tetchū (鉄柱/寸鉄) description, 15-cm iron rod with ring, palm weapon and throwing applications, shuriken-like projectiles in Okinawan weapons culture

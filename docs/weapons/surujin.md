@@ -48,8 +48,16 @@ The weapon demands significant practice to control because the dynamics of a spi
 
 The surujin is likely related to the throwing-stone traditions documented in Okinawan and Chinese military records. The Tsuken sand-throwing techniques preserved in _Tsuken Sunakake no Kon_ (usually classified as an eku kata) show the same conceptual logic: range extension and distraction through thrown or swung objects.
 
+### Alternative Naming: Suruchin (スルチン / 棕櫚鎮)
+
+According to Ryukyu Kobudo sources, this weapon is also called **suruchin** (スルチン, 棕櫚鎮). It connects two striking weapons with rope or chain. The original form used **fist‑sized stones** tied with **palm fiber rope (棕櫚縄, shuro‑nawa)**. The name "suru" comes from the palm (シュロ, shuro/suru) used for the rope. Like nunchaku, it was used as a **hidden weapon (暗器)** and hunting tool, swung to strike or entangle opponents' limbs or weapons.
+
+揆奮館 mentions suruchin in the context of **China‑influenced flexible weapons** (together with sansetsukon), stressing how these required high skill and bodily integration, using the whole body to generate force and control the weapon's path.
+
 ## Sources
 
 1. [Surujin — Wikipedia](https://en.wikipedia.org/wiki/Surujin): Physical dimensions (2–3 m rope with weighted ends), usage techniques (throwing, entangling with hōjōjutsu-style wrapping, spike for coup de grâce), classified as chain weapon
 2. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Confirms two surujin kata in the Taira curriculum
 3. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo): Matayoshi suruchin kata listed as Suruchin no Kata
+4. [Ryukyu Kobudo Weapons](https://www.ryukyukobudo.net/ryukyu_kobudo/kobudo_weapons): Suruchin naming (棕櫚鎮), fist-sized stones with palm fiber rope (棕櫚縄/shuro-nawa), etymology from palm (シュロ), hidden weapon (暗器) classification, hunting tool origin, striking and entangling techniques
+5. [琉球古武道武器術 — 揆奮館流武術](http://kihunkan.net/ryukyukobudukijutu.htm): China-influenced flexible weapons context, sansetsukon comparison, high skill and bodily integration requirements, whole-body force generation

@@ -32,6 +32,10 @@ The **tonfa** (トンファー, also written 答禍 or 当破) is a hardwood wea
 
 The most widely cited origin theory is that the tonfa derives from the handle of a traditional millstone (_tobira_ or _tofa_). This was a heavy wooden peg inserted in the stone; when removed, it could be used as a natural hand weapon. Whether this is historically accurate or a post-war folk etymology is debated.
 
+According to the 揆奮館流武術 article, **柱拐 (tunkuwa / tonfa)** is a weapon originating in **Fuzhou, China**, where the weapon and its techniques were known and the term _tonkua_ is used in the local dialect. The article explains that tonfa developed from the **handle of a mortar (臼の柄ヘラ)** and was primarily a **defensive weapon**: held in both hands to receive attacks from swords, spears, or bō, with enough shock power that an opponent's weapon could be knocked from the hand.
+
+Alternative origin theories include the stone mill handle (石臼の挽き棒) and agricultural farming tools (ヘラ). The Ryukyu Kobudo weapons page describes modern tonfa as a **"T‑shaped short stick with a side handle"**, emphasizing its versatility for striking, blocking, and hooking.
+
 ## Technique
 
 The central technique of tonfa is the **spin-and-strike**: the weapon pivots forward around the handle grip to deliver a forearm-length strike, then retracts. The back end of the shaft protects the forearm while blocking. At close range the grip can shift to use the handle as a short thrusting club.
@@ -50,3 +54,6 @@ The Taira line preserves two tonfa kata:
 1. [Tonfa — Wikipedia](https://en.wikipedia.org/wiki/Tonfa): Physical dimensions (~38–51 cm, slightly past the elbow), three grip types (honte-mochi, gyakute-mochi, tokushu-mochi), origin debate (China, Southeast Asia, Okinawa), notes tokushu-mochi used in Yaraguwa kata
 2. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Confirms two tonfa kata in the Taira curriculum
 3. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo): Matayoshi tonfa kata (Matayoshi no Tunkuwa Dai Ichi/Ni)
+4. [琉球古武道武器術 — 揆奮館流武術](http://kihunkan.net/ryukyukobudobukijutu.htm): Fuzhou China origin, mortar handle derivation (臼の柄ヘラ), defensive weapon usage
+5. [Ryukyu Kobudo Weapons](https://www.ryukyukobudo.net/ryukyu_kobudo/kobudo_weapons): T-shaped short stick description, police adoption worldwide, alternative origin theories (stone mill, farming tools), technique variations
+6. [琉球古武術 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/琉球古武術): Agricultural tool origins, training requirements

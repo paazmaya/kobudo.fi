@@ -1,0 +1,69 @@
+---
+sidebar_position: 12
+title: "Nunti: Trident Spear"
+slug: /weapons/nunti
+description: The nunti-bō, a spear with a manji-sai head combining thrusting and trapping techniques, passed down in the Matayoshi family lineage.
+social_image: "/img/social/nunti-bo-spear-1200x630.jpg"
+---
+
+# Nunti: 貫手棒 (Trident Spear)
+
+<img
+src="/img/nunti-bo-spear.png"
+alt="Traditional Okinawan nunti-bō spear weapon"
+width={960}
+height={384}
+loading="lazy"
+className="kb-banner"
+/>
+
+The **nunti-bō** (貫手棒, also called **nuntisai** or simply **nunti / ヌンティ**) is a spear-like weapon with a **manji-sai (卍釵)** head at the tip. It is a traditional tool passed down in the Matayoshi family, combining the reach of a spear with the trapping capabilities of a sai.
+
+## Physical Characteristics
+
+| Property | Detail                                                       |
+| -------- | ------------------------------------------------------------ |
+| Length   | ~150 cm (five-shaku spear)                                   |
+| Head     | Manji-sai (卍釵) - trident with one tine curved up, one down |
+| Shaft    | Hardwood or bamboo (traditional)                             |
+| Usage    | Thrusting, trapping, and disarming                           |
+
+## Historical Origins
+
+### Matayoshi Family Transmission
+
+A modern Japanese explanation from 龍ケ崎光道館 describes **nunti‑bō (貫手棒)** as a traditional tool passed down in the **Matayoshi family**, with strong similarity to Chinese three‑prong spears called **虎叉 (ko‑sa)** known since the Three Kingdoms era.
+
+According to **Shinpo Matayoshi**, **nunti‑bō has been transmitted since the early Ryukyu Kingdom**. The original form combined a **bamboo staff with a concealed nunti‑sai**: the metal nunti‑sai was hidden inside the staff and thrown at the opponent's weapon, after which the remaining staff was used like a spear.
+
+### Chinese Connections
+
+揆奮館's essay ties nunti to **Chinese Wubeizhi's 叉武** and describes the Ryukyuan version as a **five‑shaku spear with a manji‑sai head**, used both for thrusting and for sophisticated trapping and disarming, thus bridging spear‑ and sai‑based tactics.
+
+According to Japanese Wikipedia, nunti may have originated from **fishing harpoons (もり)**. Nunti techniques are transmitted in the **Kinkō-ryū lineage**.
+
+## Tactical Applications
+
+The nunti is unique in bridging **spear and sai tactics**:
+
+- **Thrusting:** The spear shaft provides reach and penetrating power
+- **Trapping:** The manji-sai head can catch and immobilize weapons like a standard sai
+- **Disarming:** The asymmetric tines create sophisticated locking opportunities
+- **Throwing:** The original concealed design allowed the metal head to be thrown as a projectile
+
+This combination makes the nunti one of the most technically demanding weapons in the Ryukyu kobudo corpus.
+
+## Kata
+
+ODKs's "Okinawa Traditional Kobudō" kata list includes **鐘川のティンベー（カニガーヌティンベー）and ヌンティー**, explicitly listing nunti as one of the "other weapons" and citing _Okinawa Karate Kobudo Jiten_ as its reference.
+
+The nunti kata are primarily preserved in the **Matayoshi Kobudo** tradition, which includes this weapon as part of its expanded curriculum beyond the Taira eight weapons.
+
+## Sources
+
+1. [龍ケ崎光道館 — YouTube](https://www.youtube.com/watch?v=e86AsmSyJiA): Matayoshi family transmission, Chinese 虎叉 (ko-sa) similarity, Three Kingdoms era, Shinpo Matayoshi's account of early Ryukyu Kingdom transmission, concealed nunti-sai in bamboo staff design
+2. [琉球古武道武器術 — 揆奮館流武術](http://kihunkan.net/ryukyukobudobukijutu.htm): Chinese Wubeizhi 叉武 connection, five-shaku spear with manji-sai head description, bridging spear and sai tactics
+3. [ODKs — Okinawa Traditional Kobudō](https://www.odks.jp/kobudo/model.html): Kata list including ヌンティー, reference to Okinawa Karate Kobudo Jiten
+4. [琉球古武術 — Japanese Wikipedia](https://ja.wikipedia.org/wiki/琉球古武術): Nunti as spear-like weapon with manji-sai (卍釵) tip, fishing harpoon (もり) origin theory, Kinkō-ryū lineage transmission
+5. [Matayoshi Kobudo — Wikipedia](https://en.wikipedia.org/wiki/Matayoshi_Kobudo): Matayoshi family weapons curriculum, nunti-bō/nuntisai as part of expanded kobudo tradition
+6. [Okinawan kobudō — Wikipedia](https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D): Weapons beyond the Taira eight, Matayoshi additions
