@@ -1,6 +1,9 @@
 /**
  * Script to convert PNG images to WebP format with multiple sizes
  * for responsive image loading.
+ *
+ * Remember to install sharp, tested with version 0.34.5
+ * npm install --no-save sharp
  */
 
 import sharp from "sharp";

@@ -58,7 +58,7 @@ const config: Config = {
   // https://docusaurus.io/docs/api/docusaurus-config#favicon
   favicon: "favicon.ico",
 
-  // Behavior for broken links
+  // Behavior for broken internal links
   // https://docusaurus.io/docs/api/docusaurus-config#onBrokenLinks
   onBrokenLinks: "throw",
 

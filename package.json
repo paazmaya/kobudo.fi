@@ -41,7 +41,6 @@
     "@playwright/test": "1.59.0",
     "oxfmt": "0.43.0",
     "oxlint": "1.58.0",
-    "sharp": "0.34.5",
     "typescript": "5.9.3"
   },
   "browserslist": {
