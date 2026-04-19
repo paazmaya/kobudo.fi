@@ -18,7 +18,7 @@ className="kb-banner"
 
 Below is a comprehensive analysis of major Ryukyu kobudo kata families, each linking kata to weapon, main styles that use it, and the most credible origin/creator attribution. This reveals the complex network of historical relationships between different lineages and how kata evolved across multiple traditions.
 
-## Shūshi / Shushi / Shuji no Kon (周氏の棍) {#shushi-no-kon}
+## Shūshi / Shushi / Shuji no Kon (周氏の棍) {/* #shushi-no-kon */}
 
 **Weapon:** Rokushaku bō (staff).
 
@@ -56,7 +56,7 @@ Below is a comprehensive analysis of major Ryukyu kobudo kata families, each lin
 
 ---
 
-## Chōun / Choun no Kon (朝雲の棍 / 趙雲の棍) {#choun-no-kon}
+## Chōun / Choun no Kon (朝雲の棍 / 趙雲の棍) {/* #choun-no-kon */}
 
 **Weapon:** Bō.
 

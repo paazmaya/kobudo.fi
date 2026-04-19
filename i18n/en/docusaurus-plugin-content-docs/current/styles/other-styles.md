@@ -19,7 +19,7 @@ className="kb-banner"
 
 Beyond the three major lineages, several further traditions preserve Ryukyuan weapon techniques, some focused on single weapons and others integrated into karate systems.
 
-## Motobu Udun-di (本部御殿手) {#motobu-udun-di}
+## Motobu Udun-di (本部御殿手) {/* #motobu-udun-di */}
 
 The palace art of the Motobu royal family. Registered with the Nihon Kobudō Kyōkai as **琉球王家秘伝本部御殿手** (representative: 本部 朝正 Motobu Chōsei).
 
@@ -27,13 +27,13 @@ This art is described as a palace-guard style including both empty-hand methods 
 
 - Nihon Kobudō Kyōkai: https://www.nihonkobudokyoukai.org/martialarts/065/
 
-## Tokushinryū Kobudo (徳心流古武道) {#tokushinryu-kobudo}
+## Tokushinryū Kobudo (徳心流古武道) {/* #tokushinryu-kobudo */}
 
 Tokushinryū is a post-war organization that assembled a curriculum drawing from multiple Okinawan lineages. Its bō kata list includes several families (Sakugawa, Shūshi, Chatan Yara, Tsuken) alongside others not central to the Taira or Matayoshi lists.
 
 The Tokushinryū kata comparison table in the [Kata section](/en/kata/bo-kata) shows how the same family name can appear with distinct choreographies across four different organizations.
 
-## Okinawa Gōjū-ryū Bujutsu (沖縄剛柔流武術) {#okinawa-goju-ryu-bujutsu}
+## Okinawa Gōjū-ryū Bujutsu (沖縄剛柔流武術) {/* #okinawa-goju-ryu-bujutsu */}
 
 Primarily an empty-hand karate system, Okinawa Gōjū-ryū Bujutsu is listed among the Nihon Kobudō Kyōkai's **空手・琉球古武術** entries. Representative: **東恩納 盛男 (Higashionna Morio)**.
 

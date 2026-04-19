@@ -19,7 +19,7 @@ className="kb-banner"
 
 The Taira line is the most widely distributed single lineage in Ryukyu kobudo internationally. It traces directly from **Yabiku Moden → Taira Shinken → Inoue Motokatsu → Inoue Kisho**, with the primary heir organization being the **琉球古武術保存振興会** (Ryūkyū Kobujutsu Hozon Shinkōkai).
 
-## Nihon Kobudō Kyōkai Listing {#nihon-kobudokyo-listing}
+## Nihon Kobudō Kyōkai Listing {/* #nihon-kobudokyo-listing */}
 
 The organization is formally registered with the Nihon Kobudō Kyōkai under the name **琉球古武術** (Ryukyu Kobujutsu). Current representative: **井上 貴勝 (Inoue Kisho)**.
 

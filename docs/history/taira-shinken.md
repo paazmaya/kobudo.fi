@@ -21,7 +21,7 @@ Taira Shinken is considered the most important single figure in the preservation
 
 ## Teachers and Influences
 
-### Funakoshi Gichin: Shōtōkan Karate Foundation {#funakoshi-gichin-shotokan}
+### Funakoshi Gichin: Shōtōkan Karate Foundation {/* #funakoshi-gichin-shotokan */}
 
 After moving to Tokyo in 1922, Taira became a close student (_deshi_) of Funakoshi Gichin, the pioneer of Shōtōkan karate. This gave him a Shuri-based empty-hand foundation, instilling an emphasis on structured kihon, formal kata lists, and a pedagogical framework that he later applied directly to kobudo. This made the weapons curriculum compatible with existing karate dojo structures and belt systems.
 
@@ -29,7 +29,7 @@ After moving to Tokyo in 1922, Taira became a close student (_deshi_) of Funakos
 
 Around 1929, Taira began formal Ryukyu kobudo training under **[Yabiku Moden](/historia/yabiku-moden)** (屋比久孟傳), who had himself studied Yamani-line bō from Yamani no Chinen and others, and who founded the Ryukyu Kobujutsu Kenkyūkai. Through Yabiku, Taira inherited an extensive collection of older bō kata, including [Sakugawa, Shūshi, Chinen/Soeishi line, and others](/kata/bo-kata#major-bo-kata-families), and the lineages reaching back to Soeishi and Chinen Shikiyanaka in the late Ryukyu Kingdom period.
 
-### Mabuni Kenwa: Shitō-ryū Refinement {#mabuni-kenwa-shito-ryu}
+### Mabuni Kenwa: Shitō-ryū Refinement {/* #mabuni-kenwa-shito-ryu */}
 
 In 1933, Taira invited **Mabuni Kenwa** to teach at his Shōtōkan branch in Ikaho, Gunma. Mabuni stayed for approximately six years (1934–1940), with Taira housing and financially supporting him throughout. Under Mabuni, Taira deepened his knowledge of bō and sai kata, including [Sesoko no Kun](/kata/bo-kata#major-bo-kata-families), and absorbed Shitō-ryū's broad approach of preserving multiple regional lineages under one organizational roof, a strategy Taira later applied directly to his own kobudo work.
 

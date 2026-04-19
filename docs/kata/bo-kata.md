@@ -23,7 +23,7 @@ The bō kata corpus is the largest in Ryukyu kobudo and the most widely distribu
 
 Each row represents one underlying kata _family_, identified by its kanji name. The columns show what name each organization uses and any notable differences. Same-family ≠ identical choreography. Different-family ≠ no common history.
 
-## Major Bō Kata Families {#major-bo-kata-families}
+## Major Bō Kata Families {/* #major-bo-kata-families */}
 
 <div className="table-wrapper">
 

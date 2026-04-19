@@ -42,7 +42,7 @@ The same essay notes that Chinese military treatises such as **『武備志』 a
 
 The article distinguishes Chinese staff (slender, whippy, skin‑cutting) from Okinawan staff (shorter, thicker, bone‑breaking) and describes traditional Ryukyu staff wood as **kuba** (クバ, a tough wood with wavy grain), before modern red/white oak became common. It notes that kingdom‑era guard bō were often five shaku, not the modern standard of six shaku.
 
-## Kata Families {#kata-families}
+## Kata Families {/* #kata-families */}
 
 The bō kata are organized by family. See [Bō Kata](/en/kata/bo-kata#major-bo-kata-families) for the full cross-style comparison. The most important families in the Taira-line curriculum:
 

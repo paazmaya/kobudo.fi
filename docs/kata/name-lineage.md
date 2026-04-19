@@ -18,7 +18,7 @@ className="kb-banner"
 
 Below is a comprehensive analysis of major Ryukyu kobudo kata families, each linking kata to weapon, main styles that use it, and the most credible origin/creator attribution. This reveals the complex network of historical relationships between different lineages and how kata evolved across multiple traditions.
 
-## Shūshi / Shushi / Shuji no Kon (周氏の棍) {#shushi-no-kon}
+## Shūshi / Shushi / Shuji no Kon (周氏の棍) {/* #shushi-no-kon */}
 
 **Weapon:** Rokushaku bō (staff).
 
@@ -56,7 +56,7 @@ Below is a comprehensive analysis of major Ryukyu kobudo kata families, each lin
 
 ---
 
-## Chōun / Choun no Kon (朝雲の棍 / 趙雲の棍) {#choun-no-kon}
+## Chōun / Choun no Kon (朝雲の棍 / 趙雲の棍) {/* #choun-no-kon */}
 
 **Weapon:** Bō.
 
@@ -145,7 +145,7 @@ Below is a comprehensive analysis of major Ryukyu kobudo kata families, each lin
 
 ---
 
-## Tsuken / Chikin Bō & Tsuken Sunakake no Kon (津堅棒・津堅砂掛けの棍) {#tsuken}
+## Tsuken / Chikin Bō & Tsuken Sunakake no Kon (津堅棒・津堅砂掛けの棍) {/* #tsuken */}
 
 **Weapon:** Bō and eku (oar).
 
@@ -164,7 +164,7 @@ Below is a comprehensive analysis of major Ryukyu kobudo kata families, each lin
 
 ---
 
-## Chatan Yara no Kon / Chatan Yara no Sai (北谷屋良の棍・釵) {#chatanyara}
+## Chatan Yara no Kon / Chatan Yara no Sai (北谷屋良の棍・釵) {/* #chatanyara */}
 
 **Weapon:** Bō and sai.
 
@@ -182,7 +182,7 @@ Below is a comprehensive analysis of major Ryukyu kobudo kata families, each lin
 
 ---
 
-## Hamahiga no Sai (浜比嘉の釵) {#hamahiga}
+## Hamahiga no Sai (浜比嘉の釵) {/* #hamahiga */}
 
 **Weapon:** Sai.
 
@@ -199,7 +199,7 @@ Below is a comprehensive analysis of major Ryukyu kobudo kata families, each lin
 
 ---
 
-## Tsuken Shitahaku no Sai (津堅志多伯の釵) {#tsukenshitahaku}
+## Tsuken Shitahaku no Sai (津堅志多伯の釵) {/* #tsukenshitahaku */}
 
 **Weapon:** Sai.
 
@@ -216,7 +216,7 @@ Below is a comprehensive analysis of major Ryukyu kobudo kata families, each lin
 
 ---
 
-## Sakugawa / Kusanku link (empty‑hand to weapons) {#sakugawalink}
+## Sakugawa / Kusanku link (empty‑hand to weapons) {/* #sakugawalink */}
 
 **Relevant katas:** Kusanku (empty‑hand), Sakugawa no Kon (bō).
 

@@ -35,28 +35,29 @@ const config: Config = {
     // Opt-in to Docusaurus v4 behavior
     v4: true,
     // Build performance optimizations
-    // https://docusaurus.io/docs/api/docusaurus-config#experimental_faster
-    experimental_faster: {
-      swcJsLoader: true,
-      swcJsMinimizer: true,
-      swcHtmlMinimizer: true,
-      lightningCssMinimizer: true,
-      rspackBundler: true,
-      rspackPersistentCache: true,
-      ssgWorkerThreads: true,
-      mdxCrossCompilerCache: true,
-    },
-    // Browser storage type for theme and other state
-    // https://docusaurus.io/docs/api/docusaurus-config#experimental_storage
-    experimental_storage: {
-      type: "localStorage",
-      namespace: true,
-    },
+    // https://docusaurus.io/docs/api/docusaurus-config#faster
+    faster: true,
+  },
+
+  // Browser storage type for theme and other state
+  // https://docusaurus.io/docs/api/docusaurus-config#storage
+  storage: {
+    type: "localStorage",
+    namespace: true,
   },
 
   // Path to your site favicon
   // https://docusaurus.io/docs/api/docusaurus-config#favicon
   favicon: "favicon.ico",
+
+  // Global Docusaurus Markdown config
+  // https://docusaurus.io/docs/api/docusaurus-config#markdown
+  markdown: {
+    mdx1Compat: {
+      comments: true,
+      admonitions: true,
+    },
+  },
 
   // Behavior for broken internal links
   // https://docusaurus.io/docs/api/docusaurus-config#onBrokenLinks

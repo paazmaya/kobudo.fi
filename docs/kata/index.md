@@ -37,7 +37,7 @@ The same kata can appear under several spellings:
 
 Do not assume different spellings mean different kata without checking the kanji.
 
-### 3. Post-war "Shō/Dai/Ni" variants {#post-war-sho-dai-ni-variants}
+### 3. Post-war "Shō/Dai/Ni" variants {/* #post-war-sho-dai-ni-variants */}
 
 Many post-war schools created _Shō_ (small/first) and _Dai_ (large/second) variants from a single older form. These are best understood as a shared family, not unrelated kata.
 

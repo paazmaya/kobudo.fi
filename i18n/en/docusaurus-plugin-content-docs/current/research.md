@@ -21,13 +21,13 @@ This page lists core Japanese-language books and reference works for researching
 
 ## Core Works by Taira Shinken and Direct Lineage
 
-### 新編・増補 琉球古武道大鑑 {#shinpen-zoho-ryukyu-kobudo-daikan}
+### 新編・増補 琉球古武道大鑑 {/* #shinpen-zoho-ryukyu-kobudo-daikan */}
 
 平信賢 著、井上貴勝 監修（榕樹書林, 1997）
 
 Taira Shinken's main technical compendium — over forty kata across eight weapons, based on his earlier privately printed volume and material contributed to Nakasone Genwa's _空手道大観_. Published by 榕樹書林 in Okinawa, 800-copy limited edition. Recommended by the Okinawa Prefectural Library as a principal reference on Ryukyu kobudo.
 
-### 琉球古武道基本技シリーズ {#ryukyu-kobudo-kihon-waza-series}
+### 琉球古武道基本技シリーズ {/* #ryukyu-kobudo-kihon-waza-series */}
 
 井上元勝 著（績文堂出版／青濤社, 1970年代）
 
@@ -35,13 +35,13 @@ Slim manuals for individual weapons (bō, sai, tonfa, nunchaku, kama) providing 
 
 ## Encyclopedic and Survey References
 
-### 沖縄空手古武道事典 {#okinawa-karate-kobudo-jiten}
+### 沖縄空手古武道事典 {/* #okinawa-karate-kobudo-jiten */}
 
 高宮城繁・新里勝彦・仲本政博 編著（柏書房, 2008）
 
 Large reference volume (~745 pages) covering history, lineages, technical terminology and kata of Okinawan karate and traditional kobudo. Chapters explicitly include: Okinawan traditional kobudo history, kobudo genealogy, dissemination of Ryukyu kobudo, representative weapons, and kobudo kata. CiNii Books shows holdings at 70+ Japanese university libraries.
 
-### 空手道大観 {#karate-do-taikan}
+### 空手道大観 {/* #karate-do-taikan */}
 
 仲宗根源和 編著（東京図書, 1938）
 
@@ -49,19 +49,19 @@ Classic prewar anthology including sections by leading karate and kobudo experts
 
 ## Historical and Lineage-Oriented Works
 
-### 沖縄伝統古武道 初級 その型と応用 {#okinawa-dento-kobudo-shokyu}
+### 沖縄伝統古武道 初級 その型と応用 {/* #okinawa-dento-kobudo-shokyu */}
 
 仲本政博 著（文武館, 1989）
 
 Kata and applications for Okinawan traditional kobudo with extensive photographs. Authored by Nakamoto Masahiro, a holder of Okinawan intangible cultural heritage. Useful for linking technical kata performance to teacher biographies and organizational histories.
 
-### 沖縄伝統古武道 : その歴史と魂 {#okinawa-dento-kobudo-rekishi}
+### 沖縄伝統古武道 : その歴史と魂 {/* #okinawa-dento-kobudo-rekishi */}
 
 仲本政博 著（文武館, 1993）
 
 Focuses on historical development and "spirit" of Okinawan traditional kobudo. Suitable for contextual research on how kobudo survived through the Ryukyu Kingdom, Satsuma control, and modern Japan.
 
-### 空手道・古武道基本調査報告書 2 {#karate-kobudo-chosa-report}
+### 空手道・古武道基本調査報告書 2 {/* #karate-kobudo-chosa-report */}
 
 沖縄県教育委員会文化課 編（守礼堂, 1997）
 
@@ -69,7 +69,7 @@ Official Okinawa Prefectural cultural property survey documenting karate and kob
 
 ## Pre-Modern Historical Context
 
-### 琉日戦争一六〇九 島津氏の琉球侵攻 {#ryu-nissen-sensou-1609}
+### 琉日戦争一六〇九 島津氏の琉球侵攻 {/* #ryu-nissen-sensou-1609 */}
 
 上里隆史 著（ボーダーインク）
 

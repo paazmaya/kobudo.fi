@@ -85,7 +85,7 @@ Yamane‑ryu bōjutsu is distinguished from other Okinawan kobudō styles by its
 
 These characteristics make Yamane‑ryū bō kata immediately recognizable even when they carry the same name as a Taira-line version. The rhythmic quality and body dynamics are distinctly different.
 
-## Classical Kata Corpus
+## Classical Kata Corpus {/* #key-kata */}
 
 ### The Classical Five and Early Documentation
 
