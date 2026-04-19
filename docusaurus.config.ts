@@ -86,6 +86,15 @@ const config: Config = {
         href: "https://www.clarity.ms",
       },
     },
+    // Preload critical CSS for faster initial render
+    {
+      tagName: "link",
+      attributes: {
+        rel: "preload",
+        href: "/css/custom.css",
+        as: "style",
+      },
+    },
     // Optimized theme detection to reduce forced reflow
     {
       tagName: "script",
@@ -170,7 +179,10 @@ const config: Config = {
     },
     {
       tagName: "script",
-      attributes: { type: "text/javascript" },
+      attributes: {
+        type: "text/javascript",
+        defer: "true",
+      },
       innerHTML: `(function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
@@ -269,6 +281,20 @@ const config: Config = {
       defaultMode: "dark",
       respectPrefersColorScheme: true,
       disableSwitch: false,
+    },
+
+    // Docs sidebar configuration - disable unused features
+    docs: {
+      sidebar: {
+        hideable: false,
+        autoCollapseCategories: false,
+      },
+    },
+
+    // Table of contents configuration
+    tableOfContents: {
+      minHeadingLevel: 2,
+      maxHeadingLevel: 3,
     },
     // Navigation bar configuration
     // https://docusaurus.io/docs/api/themes/@docusaurus/theme-classic#navbar
