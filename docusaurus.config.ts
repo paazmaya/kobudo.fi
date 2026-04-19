@@ -52,12 +52,7 @@ const config: Config = {
 
   // Global Docusaurus Markdown config
   // https://docusaurus.io/docs/api/docusaurus-config#markdown
-  markdown: {
-    mdx1Compat: {
-      comments: true,
-      admonitions: true,
-    },
-  },
+  markdown: {},
 
   // Behavior for broken internal links
   // https://docusaurus.io/docs/api/docusaurus-config#onBrokenLinks
