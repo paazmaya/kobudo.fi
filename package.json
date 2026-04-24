@@ -1,7 +1,7 @@
 {
   "name": "kobudo-fi",
   "description": "Research resource for Ryukyu kobudo weapon-based martial arts",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "license": "CC-BY-4.0",
   "private": true,
   "scripts": {
@@ -27,11 +27,11 @@
     "@docusaurus/preset-classic": "3.10.0",
     "@easyops-cn/docusaurus-search-local": "0.55.1",
     "@mdx-js/react": "3.1.1",
-    "@tailwindcss/postcss": "4.2.2",
+    "@tailwindcss/postcss": "4.2.4",
     "clsx": "2.1.1",
     "react": "19.2.5",
     "react-dom": "19.2.5",
-    "tailwindcss": "4.2.2"
+    "tailwindcss": "4.2.4"
   },
   "devDependencies": {
     "@docusaurus/faster": "3.10.0",
@@ -39,8 +39,8 @@
     "@docusaurus/tsconfig": "3.10.0",
     "@docusaurus/types": "3.10.0",
     "@playwright/test": "1.59.1",
-    "oxfmt": "0.45.0",
-    "oxlint": "1.60.0",
+    "oxfmt": "0.46.0",
+    "oxlint": "1.61.0",
     "typescript": "5.9.3"
   },
   "browserslist": {

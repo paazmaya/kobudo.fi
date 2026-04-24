@@ -31,3 +31,7 @@ Email
 
 - migadu.com
 - Micro plan 19 USD/year
+
+## More links to check
+
+https://okinawankarate.org/ryukyu-kobudo.html#/

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    .bg { fill: #5a0000; }
+    .skin { fill: #c9845a; }
+    .hair { fill: #e8dfd0; }
+    .gi { fill: #f5f0e8; }
+    .gi-shadow { fill: #d8d0c0; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #7a1010; }
+      .skin { fill: #d4916a; }
+      .hair { fill: #fff5ec; }
+      .gi { fill: #ffffff; }
+      .gi-shadow { fill: #e8e0d0; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="32" height="32" rx="3"/>
+
+  <!-- Gi / body (collar open, wide bottom) -->
+  <path class="gi" d="M7 32 L7 22 Q11 18 16 17 Q21 18 25 22 L25 32 Z"/>
+  <!-- Gi lapel shadow / collar V -->
+  <path class="gi-shadow" d="M16 17 L14 22 L16 20 L18 22 Z"/>
+
+  <!-- Head -->
+  <ellipse class="skin" cx="16" cy="11" rx="5.5" ry="6"/>
+
+  <!-- White hair / top of head -->
+  <path class="hair" d="
+    M10.5 9 Q10 6 13 5 Q16 3.5 19 5 Q22 6 21.5 9
+    Q19 7 16 7 Q13 7 10.5 9 Z
+  "/>
+
+  <!-- Eyebrow hints (two small dark marks) -->
+  <rect class="bg" x="13" y="10.5" width="2" height="0.6" rx="0.3" opacity="0.55"/>
+  <rect class="bg" x="17" y="10.5" width="2" height="0.6" rx="0.3" opacity="0.55"/>
+
+  <!-- Eyes -->
+  <ellipse class="bg" cx="14.5" cy="12" rx="1" ry="0.8" opacity="0.7"/>
+  <ellipse class="bg" cx="18.5" cy="12" rx="1" ry="0.8" opacity="0.7"/>
+
+  <!-- Nose -->
+  <ellipse class="bg" cx="16.5" cy="13.5" rx="0.5" ry="0.4" opacity="0.3"/>
+
+  <!-- Mouth (gentle smile) -->
+  <path class="bg" d="M14.5 15 Q16 16 17.5 15" stroke-width="0.5" stroke="#3a1a00" fill="none" opacity="0.5"/>
+
+  <!-- Ear hints -->
+  <ellipse class="skin" cx="10.7" cy="11.5" rx="1" ry="1.4"/>
+  <ellipse class="skin" cx="21.3" cy="11.5" rx="1" ry="1.4"/>
+</svg>

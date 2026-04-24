@@ -46,9 +46,9 @@ const config: Config = {
     namespace: true,
   },
 
-  // Path to your site favicon
-  // https://docusaurus.io/docs/api/docusaurus-config#favicon
-  favicon: "favicon.ico",
+  // Favicon is managed manually via headTags below to ensure:
+  // 1. favicon.ico gets sizes="32x32" (fixes Chrome ICO-over-SVG bug)
+  // 2. icon.svg is served with type="image/svg+xml" for modern browsers
 
   // Global Docusaurus Markdown config
   // https://docusaurus.io/docs/api/docusaurus-config#markdown
@@ -132,22 +132,23 @@ const config: Config = {
         }
       })();`,
     },
+    // favicon.ico with sizes="32x32" prevents the Chrome bug where it picks
+    // ICO over SVG when both are present (see https://twitter.com/subzey/status/1417099064949235712)
     {
       tagName: "link",
       attributes: {
         rel: "icon",
-        type: "image/png",
+        href: "/favicon.ico",
         sizes: "32x32",
-        href: "/img/favicon-32x32.png",
       },
     },
+    // SVG favicon with dark/light mode support via embedded CSS media query
     {
       tagName: "link",
       attributes: {
         rel: "icon",
-        type: "image/png",
-        sizes: "16x16",
-        href: "/img/favicon-16x16.png",
+        href: "/icon.svg",
+        type: "image/svg+xml",
       },
     },
     {
