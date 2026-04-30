@@ -28,45 +28,45 @@ No numerals, no digits, no measurement annotations, no dimension labels, no numb
 
 ## Kanji Master List (Each Compound Used Exactly Once)
 
-| Section | Kanji | Reading |
-|---------|-------|---------|
-| Home Hero Banner | 武道 | Budō |
-| Home History Card | 琉球 | Ryūkyū |
-| Home Styles Card | 家系 | Kakei |
-| Home Weapons Card | 古武道 | Kobudō |
-| Home Kata Card | 形 | Kata/Katachi |
-| Home Research Card | 武芸 | Bugei |
-| Home About Card | 修行 | Shūgyō |
-| History Index Banner | 沖縄 | Okinawa |
-| History Ryukyu Kingdom | 首里 | Shuri |
-| History Taira Shinken | 師範 | Shihan |
-| History Kata Transmission | 伝授 | Denjū |
-| History Yabiku Moden | 道場 | Dōjō |
-| Styles Index Banner | 流派 | Ryūha |
-| Styles Matayoshi | 又吉 | Matayoshi |
-| Styles Taira Line Lineage | 平 | Taira |
-| Styles Yamane-ryū | 山根流 | Yamane-ryū |
-| Styles Other Styles | 伝統 | Dentō |
-| Styles Students of Taira | 門弟 | Montei |
-| Styles Taira Key Students | 稽古 | Keiko |
-| Weapons Index Banner | 武器 | Buki |
-| Weapons Bō | 六尺棒 | Rokushakubō |
-| Weapons Sai | 釵 | Sai |
-| Weapons Tonfa | 棍 | Kon |
-| Weapons Nunchaku | 節棍 | Setsukon |
-| Weapons Kama | 鎌 | Kama |
-| Weapons Tekko | 鉄甲 | Tekkō |
-| Weapons Tinbe-Rochin | 盾 | Tate |
-| Weapons Surujin | 索 | Saku |
-| Weapons Eku | 櫂 | Kai |
-| Weapons Kuwa | 鍬 | Kuwa |
-| Weapons Nunti | 貫手 | Nuntī |
-| Kata Index Banner | 演武 | Enbu |
-| Kata Name Lineage | 伝承 | Denshō |
-| Kata Bō Kata | 棒形 | Bō-kata |
-| Kata Sai Kata | 奥義 | Ōgi |
-| Research Banner | 研究 | Kenkyū |
-| About Banner | 道 | Michi/Dō |
+| Section                   | Kanji  | Reading      |
+| ------------------------- | ------ | ------------ |
+| Home Hero Banner          | 武道   | Budō         |
+| Home History Card         | 琉球   | Ryūkyū       |
+| Home Styles Card          | 家系   | Kakei        |
+| Home Weapons Card         | 古武道 | Kobudō       |
+| Home Kata Card            | 形     | Kata/Katachi |
+| Home Research Card        | 武芸   | Bugei        |
+| Home About Card           | 修行   | Shūgyō       |
+| History Index Banner      | 沖縄   | Okinawa      |
+| History Ryukyu Kingdom    | 首里   | Shuri        |
+| History Taira Shinken     | 師範   | Shihan       |
+| History Kata Transmission | 伝授   | Denjū        |
+| History Yabiku Moden      | 道場   | Dōjō         |
+| Styles Index Banner       | 流派   | Ryūha        |
+| Styles Matayoshi          | 又吉   | Matayoshi    |
+| Styles Taira Line Lineage | 平     | Taira        |
+| Styles Yamane-ryū         | 山根流 | Yamane-ryū   |
+| Styles Other Styles       | 伝統   | Dentō        |
+| Styles Students of Taira  | 門弟   | Montei       |
+| Styles Taira Key Students | 稽古   | Keiko        |
+| Weapons Index Banner      | 武器   | Buki         |
+| Weapons Bō                | 六尺棒 | Rokushakubō  |
+| Weapons Sai               | 釵     | Sai          |
+| Weapons Tonfa             | 棍     | Kon          |
+| Weapons Nunchaku          | 節棍   | Setsukon     |
+| Weapons Kama              | 鎌     | Kama         |
+| Weapons Tekko             | 鉄甲   | Tekkō        |
+| Weapons Tinbe-Rochin      | 盾     | Tate         |
+| Weapons Surujin           | 索     | Saku         |
+| Weapons Eku               | 櫂     | Kai          |
+| Weapons Kuwa              | 鍬     | Kuwa         |
+| Weapons Nunti             | 貫手   | Nuntī        |
+| Kata Index Banner         | 演武   | Enbu         |
+| Kata Name Lineage         | 伝承   | Denshō       |
+| Kata Bō Kata              | 棒形   | Bō-kata      |
+| Kata Sai Kata             | 奥義   | Ōgi          |
+| Research Banner           | 研究   | Kenkyū       |
+| About Banner              | 道     | Michi/Dō     |
 
 ---
 
