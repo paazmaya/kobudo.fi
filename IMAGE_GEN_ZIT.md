@@ -7,7 +7,7 @@ Prompts are written for **Z-Image Turbo** (natural language sentence style, no s
 Bright, cheerful cartoon illustration with clean bold black outlines and flat cel-shaded color fills; warm upbeat palette of vivid crimson red, bright gold, sky blue, warm amber, and clean white — fully saturated, friendly, and welcoming throughout;
 Okinawan kobudo theme presented with fun accessible energy; simplified graphic backgrounds with soft shadow accents only; stylized expressive characters and objects with clear clean proportions; joyful mood in every composition.
 No western text, no watermark, no modern elements, no blurriness, no distortion.
-No modern objects, no hiragana, no katakana.
+No modern objects, no hiragana. Katakana is allowed for weapon names.
 No numerals, no digits, no measurement annotations, no dimension labels, no numbers of any kind rendered anywhere in the image.
 
 - bright cheerful cartoon illustration
@@ -26,48 +26,48 @@ No numerals, no digits, no measurement annotations, no dimension labels, no numb
 
 ---
 
-## Kanji Master List (Each Compound Used Exactly Once)
+## Text Master List (Each Compound/Word Used Exactly Once)
 
-| Section                      | Kanji  | Reading      |
-| ---------------------------- | ------ | ------------ |
-| Home Hero Banner             | 武道   | Budō         |
-| Home History Card            | 琉球   | Ryūkyū       |
-| Home Styles Card             | 家系   | Kakei        |
-| Home Weapons Card            | 古武道 | Kobudō       |
-| Home Kata Card               | 形     | Kata/Katachi |
-| Home Research Card           | 武芸   | Bugei        |
-| Home About Card              | 修行   | Shūgyō       |
-| History Index Banner         | 沖縄   | Okinawa      |
-| History Ryukyu Kingdom       | 首里   | Shuri        |
-| History Martial Arts Context | 歴     | Reki         |
-| History Taira Shinken        | 師範   | Shihan       |
-| History Kata Transmission    | 伝授   | Denjū        |
-| History Yabiku Moden         | 道場   | Dōjō         |
-| Styles Index Banner          | 流派   | Ryūha        |
-| Styles Matayoshi             | 又吉   | Matayoshi    |
-| Styles Taira Line Lineage    | 平     | Taira        |
-| Styles Yamane-ryū            | 山根流 | Yamane-ryū   |
-| Styles Other Styles          | 伝統   | Dentō        |
-| Styles Students of Taira     | 門弟   | Montei       |
-| Styles Taira Key Students    | 稽古   | Keiko        |
-| Weapons Index Banner         | 武器   | Buki         |
-| Weapons Bō                   | 六尺棒 | Rokushakubō  |
-| Weapons Sai                  | 釵     | Sai          |
-| Weapons Tonfa                | 棍     | Kon          |
-| Weapons Nunchaku             | 節棍   | Setsukon     |
-| Weapons Kama                 | 鎌     | Kama         |
-| Weapons Tekko                | 鉄甲   | Tekkō        |
-| Weapons Tinbe-Rochin         | 盾     | Tate         |
-| Weapons Surujin              | 索     | Saku         |
-| Weapons Eku                  | 櫂     | Kai          |
-| Weapons Kuwa                 | 鍬     | Kuwa         |
-| Weapons Nunti                | 貫手   | Nuntī        |
-| Kata Index Banner            | 演武   | Enbu         |
-| Kata Name Lineage            | 伝承   | Denshō       |
-| Kata Bō Kata                 | 棒形   | Bō-kata      |
-| Kata Sai Kata                | 奥義   | Ōgi          |
-| Research Banner              | 研究   | Kenkyū       |
-| About Banner                 | 道     | Michi/Dō     |
+| Section                      | Kanji      | Reading      |
+| ---------------------------- | ---------- | ------------ |
+| Home Hero Banner             | 武道       | Budō         |
+| Home History Card            | 琉球       | Ryūkyū       |
+| Home Styles Card             | 家系       | Kakei        |
+| Home Weapons Card            | 古武道     | Kobudō       |
+| Home Kata Card               | 形         | Kata/Katachi |
+| Home Research Card           | 武芸       | Bugei        |
+| Home About Card              | 修行       | Shūgyō       |
+| History Index Banner         | 沖縄       | Okinawa      |
+| History Ryukyu Kingdom       | 首里       | Shuri        |
+| History Martial Arts Context | 歴         | Reki         |
+| History Taira Shinken        | 師範       | Shihan       |
+| History Kata Transmission    | 伝授       | Denjū        |
+| History Yabiku Moden         | 道場       | Dōjō         |
+| Styles Index Banner          | 流派       | Ryūha        |
+| Styles Matayoshi             | 又吉       | Matayoshi    |
+| Styles Taira Line Lineage    | 平         | Taira        |
+| Styles Yamane-ryū            | 山根流     | Yamane-ryū   |
+| Styles Other Styles          | 伝統       | Dentō        |
+| Styles Students of Taira     | 門弟       | Montei       |
+| Styles Taira Key Students    | 稽古       | Keiko        |
+| Weapons Index Banner         | 武器       | Buki         |
+| Weapons Bō                   | 六尺棒     | Rokushakubō  |
+| Weapons Sai                  | 釵         | Sai          |
+| Weapons Tonfa                | トンファー | Tonfa        |
+| Weapons Nunchaku             | ヌンチャク | Nunchaku     |
+| Weapons Kama                 | 鎌         | Kama         |
+| Weapons Tekko                | 鉄甲       | Tekkō        |
+| Weapons Tinbe-Rochin         | ティンベー | Tinbe        |
+| Weapons Surujin              | スルジン   | Surujin      |
+| Weapons Eku                  | 櫂         | Kai          |
+| Weapons Kuwa                 | 鍬         | Kuwa         |
+| Weapons Nunti                | 貫手       | Nuntī        |
+| Kata Index Banner            | 演武       | Enbu         |
+| Kata Name Lineage            | 伝承       | Denshō       |
+| Kata Bō Kata                 | 棒形       | Bō-kata      |
+| Kata Sai Kata                | 奥義       | Ōgi          |
+| Research Banner              | 研究       | Kenkyū       |
+| About Banner                 | 道         | Michi/Dō     |
 
 ---
 
@@ -75,7 +75,7 @@ No numerals, no digits, no measurement annotations, no dimension labels, no numb
 
 **URL:** `/en/`
 
-A wide bright cheerful cartoon illustration of a bustling traditional Okinawan dojo interior with an impressive weapons rack on a crimson lacquered wall — top tier: a rokushaku-bō, crafted from red oak with warm amber-brown grain; second tier: a sai pair of dark iron; third tier: a tonfa pair; fourth tier: a kama pair and a nunchaku.
+A wide bright cheerful cartoon illustration of a bustling traditional Okinawan dojo interior with an impressive weapons rack on a crimson lacquered wall — top tier: a rokushaku-bō (a plain wooden staff as tall as a standing adult man, tapering to bare wooden tips), crafted from red oak with warm amber-brown grain; second tier: a sai pair (solid all-metal iron tridents exactly the same length as a kama) of dark iron; third tier: a tonfa pair (all-wood cylindrical red-oak shafts exactly the same length as a kama); fourth tier: a kama pair (iron sickle blades set at a strict 90-degree angle to a wooden handle) and a nunchaku (two short octagonal hardwood sticks joined by a twisted horsehair cord).
 Two Okinawan kobudo masters are actively maintaining the weapons in front of the rack, neither looking toward the viewer. The master on the left, a lean elderly man with close-cropped silver-white hair and a neat white goatee, is meticulously wiping the shaft of a rokushaku-bō with a white cloth, his deep-set eyes focused entirely on the wood grain. The master on the right, a stocky broad-shouldered man in his mid-fifties with a wide square face, is closely inspecting the tip of a dark iron sai, holding it up slightly to catch the light, his brow furrowed in concentration. Both wear thick white cotton keikogi gi tops, dark indigo hakama wide-leg pleated trousers, and bare feet on the wooden floor. A small wooden bucket of oil and polishing rags sit on the floor beside them.
 Stone lanterns mounted on the wall cast vivid warm amber light, creating long dramatic shadows across the aged dark wooden floors.
 Dark crimson wall dominant throughout.
@@ -172,7 +172,7 @@ Vivid saturated colors throughout.
 **URL:** `/en/history/martial-arts-context`
 
 A wide bright cheerful cartoon illustration of a historical transition in Okinawan martial arts showing three distinct figures engaged in their own activities.
-In a traditional stone-walled dojo courtyard at dusk, three figures represent different eras, none looking toward the viewer: a Ryukyu Pechin scholar-warrior in elaborate printed silk robes is mid-motion, forcefully thrusting a rokushaku-bō forward in a martial demonstration, his eyes locked on his imaginary target; a Satsuma samurai in formal armor sits on a low wooden stool to the side, leaning forward with his chin resting on his hand, intently observing the Pechin's technique; and a modern Okinawan master in a white cotton keikogi gi and dark indigo hakama is kneeling on the worn flagstones, meticulously re-wrapping the handle of a dark iron sai with black cord, his head bowed as he concentrates on his task. A small wooden tray with extra cord and a knife sits beside the modern master.
+In a traditional stone-walled dojo courtyard at dusk, three figures represent different eras, none looking toward the viewer: a Ryukyu Pechin scholar-warrior in elaborate printed silk robes is mid-motion, forcefully thrusting a rokushaku-bō (a plain wooden staff as tall as a standing adult man, tapering to bare wooden tips) forward in a martial demonstration, his eyes locked on his imaginary target; a Satsuma samurai in formal armor sits on a low wooden stool to the side, leaning forward with his chin resting on his hand, intently observing the Pechin's technique; and a modern Okinawan master in a white cotton keikogi gi and dark indigo hakama is kneeling on the worn flagstones, meticulously wiping down his solid all-metal sai (an iron trident exactly the same length as a kama, with a bare metal handle), his head bowed as he concentrates on his task. A small wooden tray with extra cord and a knife sits beside the modern master.
 Kanji characters written in Japanese calligraphy brushwork appear on a weathered wooden plaque — 歴 (Reki/History) — as a traditional dojo decoration.
 Vivid warm lantern light casts dramatic shadows across the worn flagstones.
 Deep crimson and amber sunset sky.
@@ -209,8 +209,8 @@ Kanji characters written in Japanese calligraphy brushwork on wall plaques inclu
 **URL:** `/en/history/yabiku-moden`
 
 A wide bright cheerful cartoon illustration of a lively, active kobudo class in a sunlit stone-walled dojo courtyard in the early Taisho era (circa 1912–1920).
-A dignified middle-aged Okinawan teacher, a stocky broad-shouldered man in his mid-forties, is actively demonstrating a sweeping block with a rokushaku-bō. His body is torqued, his square face turned sharply to his left as he focuses fiercely on his imaginary opponent, completely ignoring the viewer. He wears a thick white cotton keikogi gi and dark indigo hakama.
-Behind him in two rows, six students of different heights and builds are actively trying to mirror his movement or practice their own drills, none looking at the viewer: a lean teenager in the front row is looking down at his own hands, struggling to adjust his grip on his bō; a wiry young man next to him is practicing a strike with a sai, his eyes locked forward on a wooden target post; in the back row, a heavyset adult is slightly off-balance, staring intently at the teacher's footwork trying to learn the stance; another slender adult is wiping sweat from his brow with his sleeve; a compact man is carefully wrapping a torn hakama hem; and the shortest teenage boy is enthusiastically thrusting a tonfa, eyes wide with effort.
+A dignified middle-aged Okinawan teacher, a stocky broad-shouldered man in his mid-forties, is actively demonstrating a sweeping block with a rokushaku-bō (a plain wooden staff as tall as a standing adult man, tapering to bare wooden tips). His body is torqued, his square face turned sharply to his left as he focuses fiercely on his imaginary opponent, completely ignoring the viewer. He wears a thick white cotton keikogi gi and dark indigo hakama.
+Behind him in two rows, six students of different heights and builds are actively trying to mirror his movement or practice their own drills, none looking at the viewer: a lean teenager in the front row is looking down at his own hands, struggling to adjust his grip on his bō (plain wooden staff); a wiry young man next to him is practicing a strike with a sai (a solid all-metal iron trident exactly the same length as a kama), his eyes locked forward on a wooden target post; in the back row, a heavyset adult is slightly off-balance, staring intently at the teacher's footwork trying to learn the stance; another slender adult is wiping sweat from his brow with his sleeve; a compact man is carefully wrapping a torn hakama hem; and the shortest teenage boy is enthusiastically thrusting a tonfa (an all-wood cylindrical red-oak shaft exactly the same length as a kama), eyes wide with effort.
 The dojo has aged coral-limestone walls with a row of stone lanterns casting vivid warm amber light.
 A single wooden signboard with kanji characters written in Japanese calligraphy brushwork hangs above the entrance — 道場 (Dōjō).
 The sky is vivid deep blue fading to gold at the horizon.
@@ -275,7 +275,7 @@ Dark crimson background dominant.
 **URL:** `/en/styles/taira-students`
 
 A wide bright cheerful cartoon illustration of a bustling, active traditional stone-walled dojo where seven Okinawan kobudo practitioners of different ages and builds are deeply engaged in training, none looking at the viewer.
-From left to right: a tall lean elder in his late sixties is demonstrating a precise rokushaku-bō block, his eyes fixed on the staff of his partner; a wiry man in his late thirties stands opposite him, watching the elder's technique with intense focus while holding a pair of tonfa; nearby, a stocky man in his mid-forties is kneeling on the wooden floor, polishing a dark iron sai with a white rag, looking down at his work; a slender young man in his mid-twenties is caught mid-swing practicing with a nunchaku, his eyes locked on his own weapon's arc; a compact man in his early forties and a lean teenager are carefully sparring with kama and bō respectively, locking eyes with each other in mutual concentration; and a slight young woman in her late twenties is standing to the side, looking down as she meticulously adjusts the knot of her dark obi sash, her surujin weighted chain resting by her bare feet.
+From left to right: a tall lean elder in his late sixties is demonstrating a precise rokushaku-bō (a plain wooden staff tapering to bare wooden tips) block, his eyes fixed on the staff of his partner; a wiry man in his late thirties stands opposite him, watching the elder's technique with intense focus while holding a pair of tonfa (all-wood cylindrical red-oak shafts exactly the same length as a kama); nearby, a stocky man in his mid-forties is kneeling on the wooden floor, polishing a dark iron sai (a solid all-metal iron trident exactly the same length as a kama, with a bare metal handle) with a white rag, looking down at his work; a slender young man in his mid-twenties is caught mid-swing practicing with a nunchaku (two short octagonal hardwood sticks joined by a twisted cord), his eyes locked on his own weapon's arc; a compact man in his early forties and a lean teenager are carefully sparring with kama (iron sickle blades set at a 90-degree angle to a wooden handle) and bō (plain wooden staffs tapering to bare wooden tips) respectively, locking eyes with each other in mutual concentration; and a slight young woman in her late twenties is standing to the side, looking down as she meticulously adjusts the knot of her dark obi sash, her surujin weighted chain (a long metal chain with a finger-sized metal ball at one end and a small iron knife attached to the other) resting by her bare feet.
 All wear thick white cotton keikogi gi tops and dark indigo hakama wide-leg pleated trousers, moving actively on the worn wooden floor.
 Stone lanterns along the dark crimson plastered wall cast vivid warm amber light onto the group.
 Kanji characters written in Japanese calligraphy brushwork on wall plaques include 門弟 (Montei/Disciples).
@@ -285,8 +285,8 @@ Kanji characters written in Japanese calligraphy brushwork on wall plaques inclu
 **URL:** `/en/styles/taira-line` (second image, mid-page near student profiles)
 
 A wide bright cheerful cartoon illustration of two Okinawan kobudo practitioners clashing in an intense, mid-strike paired practice exercise inside a traditional stone-walled dojo.
-The practitioner on the left, a stocky broad-shouldered man in his mid-forties, is lunging forward forcefully. His wide square face is set in fierce concentration, eyes locked entirely on the incoming staff, ignoring the viewer. He is actively parrying a heavy strike, his right hand thrusting a dark iron sai upwards to catch the wood between the central prong and the curved yoku tine.
-The practitioner on the right, a lean wiry man in his late thirties, is mid-thrust with a rokushaku-bō. His body is extended, short-cropped dark hair flying slightly from the momentum, his calm but determined eyes focused precisely on the impact point of his staff against the iron sai.
+The practitioner on the left, a stocky broad-shouldered man in his mid-forties, is lunging forward forcefully. His wide square face is set in fierce concentration, eyes locked entirely on the incoming staff, ignoring the viewer. He is actively parrying a heavy strike, his right hand thrusting a dark iron sai (a solid all-metal iron trident exactly the same length as a kama, with a bare metal handle) upwards to catch the wood between the central prong and the curved yoku tine.
+The practitioner on the right, a lean wiry man in his late thirties, is mid-thrust with a rokushaku-bō (a plain wooden staff as tall as a standing adult man, tapering to bare wooden tips). His body is extended, short-cropped dark hair flying slightly from the momentum, his calm but determined eyes focused precisely on the impact point of his staff against the iron sai.
 A small burst of stylized dust and a faint spark emphasize the sharp impact between the red oak wood and the dark iron. Neither man is looking at the viewer; they are completely absorbed in the martial clash. Both wear thick white cotton keikogi gi tops, dark indigo hakama wide-leg pleated trousers, and bare feet gripping the worn wooden floor.
 A row of stone lanterns along the dark crimson plastered wall casts vivid warm amber pools of light.
 Kanji characters written in Japanese calligraphy brushwork on a background wall plaque — 稽古 (Keiko/Practice) — as a traditional dojo decoration.
@@ -308,7 +308,7 @@ Vivid warm side light highlights every metalwork and wood-grain detail.
 
 **URL:** `/en/weapons/bo`
 
-A bright cheerful cartoon close-up illustration of a traditional Okinawan rokushaku-bō staff lying diagonally across the full frame, its full standing-adult length spanning corner to corner.
+A bright cheerful cartoon close-up illustration of a single traditional Okinawan rokushaku-bō (182 cm) staff lying diagonally across the full frame, its full standing-adult length spanning corner to corner.
 The staff tapers smoothly from thumb-thick at the exact centre to finger-thick at each tip — the taper is gradual and even, barely perceptible along any short section but obvious comparing centre to tip.
 Crafted from red oak, its straight pronounced grain shows vivid warm amber and sienna hues with a slight golden-brown patina from years of handling. It is made entirely of plain wood, with no handle strings, grips, or metal caps on the tips.
 Kanji characters written in Japanese calligraphy brushwork appear subtly in the background — 六尺棒 (Rokushakubō) — as a faint design element.
@@ -332,7 +332,7 @@ A bright cheerful cartoon close-up illustration of a pair of traditional Okinawa
 Each tonfa is exactly the same length as a kama and made entirely of wood: a straight cylindrical red-oak hardwood shaft thumb-thick in diameter running the full length; a short perpendicular grip handle mortise-and-tenon joined at a point one-third from the short butt end, leaving a long section extending beyond the grip and a short butt extension on either side of the handle joint; the grip handle itself similarly thumb-thick, worn slightly lighter from use.
 When the two pieces cross at their grip-handle points, the angle forms a clear X with the long ends extending away in opposite directions.
 Warm studio light from above illuminates the crossed joint, casting deep shadows into the cylindrical groove lines of the wood.
-Kanji characters written in Japanese calligraphy brushwork appear subtly — 棍 (Kon/Club-staff) — as a faint background element.
+Katakana characters written in Japanese calligraphy brushwork appear subtly — トンファー (Tonfa) — as a faint background element.
 Vivid warm timber tones against dark crimson cloth.
 
 ## Weapons — Nunchaku
@@ -344,7 +344,7 @@ Each of the two sticks is roughly half the length of a sai in length and thumb-t
 The two sticks are joined end-to-end at their top tips by a short length of tightly twisted natural horsehair cord — the cord a dense ivory-tan braid about as long as a hand's span.
 Here the sticks rest at an angle, one slightly overlapping the other toward the lower side, the cord forming a gentle loop between them.
 Warm overhead light picks out every octagonal facet edge and the cord fibre texture.
-Kanji characters written in Japanese calligraphy brushwork appear in the background — 節棍 (Setsukon/Sectioned Staff) — as a subtle decorative element.
+Katakana characters written in Japanese calligraphy brushwork appear in the background — ヌンチャク (Nunchaku) — as a subtle decorative element.
 The background is vivid crimson.
 
 ## Weapons — Kama
@@ -378,7 +378,7 @@ A bright cheerful cartoon still life illustration of the traditional Okinawan ti
 The tinbe shield is a large sea turtle shell (characteristic of the Taira lineage) — its total height exactly equal to the length of the rochin; the face shows vivid warm amber and dark brown tortoiseshell patterns, naturally convex with a smooth polished surface.
 The rochin lies beside it: a short stabbing spear exactly the same length as a sai, comprising a straight wooden oak handle that is thumb-thick with vivid dark amber-brown grain, transitioning to a sharp, pointy metal blade — the iron blade is leaf-shaped, tapering to a keen piercing point, dark charcoal-grey with visible forge hammer marks.
 The contrast between the intricate rattan weave texture of the shield and the smooth polished iron tip is the visual centrepiece.
-Kanji characters written in Japanese calligraphy brushwork appear subtly — 盾 (Tate/Shield) — as a faint background design element.
+Katakana characters written in Japanese calligraphy brushwork appear subtly — ティンベー (Tinbe) — as a faint background design element.
 
 ## Weapons — Surujin
 
@@ -389,7 +389,7 @@ The weapon is a long dark iron chain — about one and a half times the height o
 At one end of the chain is attached a solid iron metal ball, about the size of a person's fingers curled into a small fist, with a dark charcoal-grey surface and a directional specular highlight. At the opposite end is a small, sharp iron knife blade with a subtle curve and a honed glinting edge.
 The total coil fills nearly the whole frame, the metal ball and the small knife visible at the beginning and end of the spiral at opposite ends of the composition.
 Vivid overhead warm light picks out the metallic texture of the chain links and creates sharp glints on the ball and knife edge.
-Kanji characters written in Japanese calligraphy brushwork appear in the background — 索 (Saku/Cord) — as a subtle decorative element.
+Katakana characters written in Japanese calligraphy brushwork appear in the background — スルジン (Surujin) — as a subtle decorative element.
 
 ## Weapons — Eku
 
@@ -455,7 +455,7 @@ Bright cheerful cartoon style, clean bold outlines, flat cel-shaded colors.
 
 A wide bright cheerful cartoon illustration of an Okinawan martial artist performing a bō kata technique in a stone-paved dojo courtyard at night.
 He is a tall man in his late forties, his body torqued in a dynamic shiko-dachi low wide stance. His head is turned sharply in profile, his deeply furrowed brow and unwavering eyes staring forward at an unseen target, completely ignoring the viewer. His jaw is set with absolute resolve, a bead of sweat flying from his temple, tendons standing out in his thick neck from the explosive physical exertion. He wears a thick white cotton keikogi gi top and vivid dark indigo hakama, bare feet planted firmly on worn grey flagstones.
-He is wielding a rokushaku-bō in a powerful horizontal strike painted as a vivid motion-blur arc. The sheer force of the swing has caught a loose, glowing autumn leaf from a nearby courtyard tree in its vortex, swirling it around the wooden shaft.
+He is wielding a rokushaku-bō (a plain wooden staff as tall as a standing adult man, tapering to bare wooden tips) in a powerful horizontal strike painted as a vivid motion-blur arc. The sheer force of the swing has caught a loose, glowing autumn leaf from a nearby courtyard tree in its vortex, swirling it around the wooden shaft.
 Dark crimson plastered stone walls surround the courtyard with visible texture and aged patina, iron wall lanterns flaring vivid amber light that casts dramatic shadows.
 Long shadows stretch across the flagstones from the lantern light.
 Kanji characters written in Japanese calligraphy brushwork on a wall plaque — 棒形 (Bō-kata/Staff Form) — as a traditional dojo decoration.
@@ -467,7 +467,7 @@ Vivid saturated colors.
 
 A wide bright cheerful cartoon illustration of an Okinawan martial artist actively lunging forward in a dynamic sai kata technique inside a stone dojo.
 He is a stocky compact man in his early forties, captured in mid-lunge in a deep forward stance. His face is turned sharply to the side, heavy brows drawn tight in fierce concentration, his piercing eyes locked entirely on an imaginary opponent off-screen, paying no attention to the viewer. Sweat flies from his brow and his jaw muscle is visibly taut with explosive tension. He wears a white cotton keikogi gi top, vivid dark indigo hakama, and bare feet sliding on dark wooden floorboards.
-He is forcefully thrusting one solid dark iron sai (with a bare metal handle, no cord wrapping) forward at chest height while aggressively pulling the other sai back to his hip in a chambered position. The solid metal weapon glints sharply in the air from the speed of his motion, emphasizing the kinetic energy of the strike.
+He is forcefully thrusting one solid dark iron sai (an all-metal iron trident exactly the same length as a kama, with a bare metal handle and no cord wrapping) forward at chest height while aggressively pulling the other sai back to his hip in a chambered position. The solid metal weapon glints sharply in the air from the speed of his motion, emphasizing the kinetic energy of the strike.
 Dramatic vivid torchlight from the right casts a deep shadow behind him against a dark crimson plastered wall with visible texture, the dark iron sai tines glinting with sharp metallic highlights reflecting the flame.
 Kanji characters written in Japanese calligraphy brushwork on wall plaques — 奥義 (Ōgi/Deepest Teaching) — as traditional dojo decorations; faded ink sketches of sai-holding guards and a forward zenkutsu-dachi lunge decorate the stone walls.
 
@@ -476,7 +476,7 @@ Kanji characters written in Japanese calligraphy brushwork on wall plaques — �
 **URL:** `/en/research`
 
 A wide bright cheerful cartoon illustration of a scholar's library interior at night.
-Shelves of aged Japanese martial arts reference books fill the background — their cloth spines showing kanji characters written in Japanese calligraphy brushwork printed in vivid red and gold — with rolled scrolls tied in red silk cord stacked between them.
+Shelves of distinctly different Japanese martial arts reference books fill the background, representing a diverse research library. Among them are a massive, thick modern encyclopedia bound in dark blue cloth displaying the title 『沖縄空手古武道事典』; a highly worn, classic thick black volume with faded silver lettering showing 『琉球古武道大鑑』 by Taira Shinken; a stack of very slim, brightly colored instructional manuals showing 『琉球古武道基本技』 by Inoue Motokatsu; and a vintage clothbound book with fraying edges titled 『ヌンチャクとサイ』 by Sakagami Ryusho. Their spines show these Japanese characters written in calligraphy brushwork printed in vivid red, gold, and white, with rolled scrolls tied in red silk cord stacked between the volumes.
 In the foreground, an open reference volume lies on a dark wooden desk; the spine bears 研究 (Kenkyū/Research) in bold gold brushwork, and the open cream pages show columns of dense calligraphy brushwork text.
 An ink brush with a split bamboo handle lies diagonally across a page, a rectangular glossy black inkstone with pooled ink sits beside it.
 A single tallow candle in a cast-iron holder stands at the desk corner, its vivid amber-orange flame the sole light source — a warm cone against deep surrounding shadow.
