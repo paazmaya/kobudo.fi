@@ -73,6 +73,12 @@ panoramic view of okinawa's ancient coastline, ryukyu kingdom era, traditional t
 
 ryukyu kingdom ceremonial scene 1429 to 1879, king sho hashi court, traditional ryukyu palace architecture, shuri castle gate, dragon motif roof tiles, torchlight procession, pechin administrators, dark crimson banners with single kanji character 琉, twilight sky, silhouetted figures, wide panoramic composition, warm lantern light, japanese woodblock print, ukiyo-e style
 
+## History — Martial Arts Context
+
+**URL:** `/en/history/martial-arts-context`
+
+traditional okinawan martial arts history scene, pechin scholars practicing weapons in secret courtyard, satsuma samurai watching from distance, transition from kingdom to modern era, single kanji character 歴 painted on a weathered wall, dark crimson twilight sky, dramatic shadows, warm lantern light, horizontal wide composition, vivid saturated colors, japanese woodblock print, ukiyo-e style
+
 ## History — Yabiku Moden
 
 **URL:** `/en/history/yabiku-moden`

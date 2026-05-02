@@ -104,6 +104,14 @@ A fully built LEGO world showing Shuri Castle gate — every element made from L
 
 ---
 
+## History — Martial Arts Context
+
+**URL:** `/en/history/martial-arts-context`
+
+A fully built LEGO world showing the evolution of Okinawan martial arts — every element made from LEGO bricks. A dark red 48×16 stud wall of 2×4 LEGO bricks serves as the backdrop. Three LEGO minifigures stand representing different eras: a Ryukyu Pechin scholar in printed court robes holding a LEGO bō staff, a Satsuma samurai in printed armor, and a modern Okinawan master in a white gi holding a LEGO sai. A single kanji character 歴 is formed by black 1×1 LEGO round plates on a scroll hanging on the wall. Warm amber light from a LEGO torch element casts dramatic shadows. A fully built LEGO world, vibrant saturated colors, visible studs throughout.
+
+---
+
 ## History — Taira Shinken
 
 **URL:** `/en/history/taira-shinken`

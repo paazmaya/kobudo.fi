@@ -16,6 +16,7 @@
 /** Finnish slug → English slug */
 export const FI_TO_EN: Record<string, string> = {
   "/historia/": "/history/",
+  "/historia/kamppailulajit-historiallisessa-kontekstissa": "/history/martial-arts-context",
   "/historia/kata-siirto": "/history/kata-transmission",
   "/historia/ryukyu-kuningaskunta": "/history/ryukyu-kingdom",
   "/historia/taira-shinken": "/history/taira-shinken",
