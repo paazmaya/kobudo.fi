@@ -2,7 +2,7 @@
 sidebar_position: 6
 title: Tietoja Sivustosta
 slug: /tietoja
-description: "About this site: its purpose, scope, authorship, and how to contribute corrections or additional sources."
+description: "Tietoja tästä sivustosta: sen tarkoitus, laajuus, tekijät ja miten voit osallistua korjauksilla tai lisälähteillä."
 social_image: "/img/social/banner-about-desk-1200x630.jpg"
 ---
 
@@ -13,50 +13,50 @@ export const BuildDate = () => {
   return siteConfig.customFields.buildDate;
 };
 
-# About This Site
+# Tietoja tästä sivustosta
 
 <img
   src="/img/banner-about-desk.png"
-  alt="Abstract research and documentation concept"
+  alt="Abstrakti tutkimus- ja dokumentaatiokonsepti"
   width={960}
   height={384}
   loading="lazy"
   className="kb-banner"
 />
 
-**kobudo.fi** is a research resource documenting the weapon-based martial arts of the Ryukyu Islands, covering their history, lineages, tools and kata, with an emphasis on verifiable sources and cross-style comparison.
+**kobudo.fi** on tutkimusresurssi, joka dokumentoi Ryukyu-saarten aseellisia kamppailulajeja. Se kattaa niiden historian, sukulinjat, työkalut ja katat, painottaen todennettavissa olevia lähteitä ja eri tyylien välistä vertailua.
 
-## Purpose
+## Tarkoitus
 
-The site exists to:
+Sivuston tarkoituksena on:
 
-- Provide a structured reference for practitioners and researchers studying Ryukyu kobudo
-- Map kata name families across different organizations, showing shared roots and divergent branches
-- Present historical context from the Ryukyu Kingdom era through modern transmission
-- Catalog Japanese-language primary and secondary sources for further research
+- Tarjota jäsennelty hakuteos Ryukyu kobudoa opiskeleville harrastajille ja tutkijoille
+- Kartoittaa katanimien perheet eri organisaatioiden välillä, osoittaen jaetut juuret ja eriytyneet haarat
+- Esittää historiallinen konteksti Ryukyu-kuningaskunnan ajalta nykypäivän siirtoon asti
+- Luetteloida japaninkielisiä ensi- ja toissijaisia lähteitä jatkotutkimusta varten
 
-## Scope
+## Laajuus
 
-The primary focus is **weapons-based Ryukyuan martial arts** (古武道 / 古武術), particularly the Taira Shinken lineage (Ryūkyū Kobujutsu Hozon Shinkōkai), Matayoshi Kobudo, and Yamane-ryū. The site does not attempt to cover empty-hand Okinawan karate except where it directly intersects with weapon transmission.
+Pääpaino on **aseellisissa ryukyulaisissa kamppailulajeissa** (古武道 / 古武術), erityisesti Taira Shinkenin sukulinjassa (Ryūkyū Kobujutsu Hozon Shinkōkai), Matayoshi Kobudossa ja Yamane-ryūssa. Sivusto ei pyri kattamaan paljain käsin tehtävää okinawalaista karatea paitsi silloin, kun se risteää suoraan aseiden siirron kanssa.
 
-The site is intentionally extensible: each section is designed as a starting point with room for sub-sections, detailed kata analyses, teacher biographies and source comparisons to be added over time.
+Sivusto on tarkoituksella laajennettavissa: jokainen osio on suunniteltu lähtökohdaksi, jossa on tilaa alaosioille, yksityiskohtaisille kata-analyyseille, opettajien elämäkerroille ja lähdevertailuille, joita lisätään ajan myötä.
 
-## Language
+## Kieli
 
-Content is currently in **English**. Finnish-language versions of all pages are planned and will be added progressively. The site URL is `kobudo.fi`, a Finnish-registered domain, and the default language for visitors without an expressed preference is Finnish.
+Sisältö on tällä hetkellä **englanniksi**. Suomenkieliset versiot kaikista sivuista on suunnitteilla ja niitä lisätään asteittain. Sivuston URL-osoite on `kobudo.fi`, suomalainen verkkotunnus, ja oletuskieli ilman erillistä valintaa vieraileville on suomi.
 
-## Contributing
+## Osallistuminen
 
-If you notice an error in kata names, lineage details, or bibliographic information, or if you have sources that would improve the coverage, contributions are welcome.
+Jos huomaat virheen kata-nimissä, sukulinjojen yksityiskohdissa tai lähdetiedoissa, tai jos sinulla on lähteitä, jotka parantaisivat kattavuutta, osallistuminen on tervetullutta.
 
-[Please raise an issue or pull request in the project repository](https://github.com/paazmaya/kobudo.fi/). All contributions should cite sources; unsourced claims will not be added to the content pages.
+[Voi nostaa esiin ongelman (issue) tai tehdä vetopyynnön (pull request) projektin arkistossa](https://github.com/paazmaya/kobudo.fi/). Kaikissa kontribuutioissa tulee viitata lähteisiin; lähteettömiä väitteitä ei lisätä sisältösivuille.
 
-## Technical
+## Tekniikka
 
-The site is built with [Docusaurus](https://docusaurus.io/) and deployed as a static site hosted at [kobudo.fi](https://kobudo.fi). Content is authored in Markdown and [MDX](https://mdxjs.com/). The UI framework is [React](https://react.dev/), with styling powered by [Tailwind CSS](https://tailwindcss.com/). Build tooling uses [TypeScript](https://www.typescriptlang.org/) on [Node.js](https://nodejs.org/en).
+Sivusto on rakennettu [Docusaurus](https://docusaurus.io/) -työkalulla ja julkaistu staattisena sivustona osoitteessa [kobudo.fi](https://kobudo.fi). Sisältö on kirjoitettu Markdownilla ja [MDX:llä](https://mdxjs.com/). Käyttöliittymäkehys on [React](https://react.dev/), ja tyylityksessä on käytetty [Tailwind CSS](https://tailwindcss.com/) -kehystä. Koontityökalut käyttävät [TypeScriptiä](https://www.typescriptlang.org/) [Node.js:ssä](https://nodejs.org/en).
 
-Full-text search is provided locally via [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local), requiring no external search service. The design targets [WCAG 2.2 Level AAA](https://www.w3.org/TR/WCAG22/) accessibility compliance throughout.
+Koko tekstin haku on toteutettu paikallisesti [docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) -laajennuksen avulla, eikä se vaadi ulkoista hakupalvelua. Suunnittelu tähtää [WCAG 2.2 Level AAA](https://www.w3.org/TR/WCAG22/) -saavutettavuusvaatimusten täyttämiseen kauttaaltaan.
 
-Selected site images are generated locally with [ComfyUI](https://github.com/comfyanonymous/ComfyUI) using the z-image-turbo model workflow. Running generation locally keeps prompt iteration fast, makes outputs reproducible, and avoids third-party image API dependencies for visual assets.
+Valikoidut sivuston kuvat luodaan paikallisesti [ComfyUI:lla](https://github.com/comfyanonymous/ComfyUI) käyttäen z-image-turbo-mallin työnkulkua. Kuvien luominen paikallisesti pitää kehotteiden iteroinnin nopeana, tekee tulosteista toistettavia ja välttää kolmannen osapuolen kuvarajapintojen riippuvuudet visuaalisille resursseille.
 
-This site was last built on **<BuildDate />**.
+Tämä sivusto on viimeksi rakennettu **<BuildDate />**.

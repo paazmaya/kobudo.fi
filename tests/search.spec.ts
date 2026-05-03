@@ -16,14 +16,13 @@ test.describe("search", () => {
     await expect(searchDialog).toMatchAriaSnapshot(`
     - dialog "Haku":
       - strong: Hae sivustolta
-      - text: Esc sulje
-      - button "Sulje"
-      - combobox "Haku"
+      - button "Sulje": x
+      - combobox "Haku" [expanded]
     `);
 
     // Fill in a search and check that one expected result is visible
     await page.getByRole("combobox", { name: "Haku" }).fill("taira");
-    await expect(page.getByRole("option", { name: "Students of Taira Shinken" })).toBeVisible();
+    await expect(page.getByRole("option", { name: "Taira Shinkinin oppilaat" })).toBeVisible();
 
     // Click on the backdrop, assumed position
     await page.mouse.click(1, 1);
