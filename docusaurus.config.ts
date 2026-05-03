@@ -29,21 +29,24 @@ const config: Config = {
   // https://docusaurus.io/docs/api/docusaurus-config#baseUrl
   baseUrl: "/",
 
-  // Future flags for experimental features
+  // Future flags and performance options
   // https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    // Opt-in to Docusaurus v4 behavior
+    // Opt-in to Docusaurus v4 behavior (includes storage namespacing, strict MDX)
     v4: true,
-    // Build performance optimizations
+    // Build performance optimizations (Docusaurus Faster is stable in 3.10)
     // https://docusaurus.io/docs/api/docusaurus-config#faster
     faster: true,
+    // Experimental VCS API (upcoming v4 default for performance)
+    // https://docusaurus.io/blog/releases/3.10#vcs
+    experimental_vcs: "default-v2",
   },
 
-  // Browser storage type for theme and other state
+  // Browser storage type for theme and other state (stable in 3.10)
   // https://docusaurus.io/docs/api/docusaurus-config#storage
   storage: {
     type: "localStorage",
-    namespace: true,
+    namespace: true, // Will be automatically namespaced in v4
   },
 
   // Favicon is managed manually via headTags below to ensure:
@@ -52,6 +55,7 @@ const config: Config = {
 
   // Global Docusaurus Markdown config
   // https://docusaurus.io/docs/api/docusaurus-config#markdown
+  // Note: Docusaurus 3.10 encourages strict MDX. MDX v1 compat will be disabled in v4.
   markdown: {},
 
   // Behavior for broken internal links

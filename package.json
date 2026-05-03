@@ -23,8 +23,8 @@
     "test:debug": "playwright test --debug"
   },
   "dependencies": {
-    "@docusaurus/core": "3.10.0",
-    "@docusaurus/preset-classic": "3.10.0",
+    "@docusaurus/core": "3.10.1",
+    "@docusaurus/preset-classic": "3.10.1",
     "@easyops-cn/docusaurus-search-local": "0.55.1",
     "@mdx-js/react": "3.1.1",
     "@tailwindcss/postcss": "4.2.4",
@@ -34,13 +34,13 @@
     "tailwindcss": "4.2.4"
   },
   "devDependencies": {
-    "@docusaurus/faster": "3.10.0",
-    "@docusaurus/module-type-aliases": "3.10.0",
-    "@docusaurus/tsconfig": "3.10.0",
-    "@docusaurus/types": "3.10.0",
+    "@docusaurus/faster": "3.10.1",
+    "@docusaurus/module-type-aliases": "3.10.1",
+    "@docusaurus/tsconfig": "3.10.1",
+    "@docusaurus/types": "3.10.1",
     "@playwright/test": "1.59.1",
     "oxfmt": "0.47.0",
-    "oxlint": "1.61.0",
+    "oxlint": "1.62.0",
     "typescript": "5.9.3"
   },
   "browserslist": {
