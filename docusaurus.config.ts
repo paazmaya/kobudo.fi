@@ -307,7 +307,7 @@ const config: Config = {
       title: "Ryukyu Kobudo",
       logo: {
         alt: "", // Leave empty since its decoration
-        src: "img/navbar-logo.png",
+        src: "icon.svg",
       },
       hideOnScroll: true,
       items: [
@@ -382,6 +382,5 @@ const config: Config = {
       ],
     },
   } satisfies Preset.ThemeConfig,
-  // scripts: [{ src: "/js/redirect.js", async: false }],
 };
 export default config;

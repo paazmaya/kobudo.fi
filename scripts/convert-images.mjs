@@ -103,7 +103,7 @@ async function convertImage(filename) {
     // Generate 1x (original) compressed PNG
     const pngPath = path.join(OUTPUT_IMG_DIR, `${baseName}.png`);
     await image
-      .png({ compressionLevel: PNG_COMPRESSION_LEVEL, effort: PNG_EFFORT })
+      .png({ compressionLevel: PNG_COMPRESSION_LEVEL, effort: PNG_EFFORT, palette: true, colors: 64 })
       .toFile(pngPath);
     console.log(`Created ${baseName}.png (${width}x${height})`);
 
@@ -119,7 +119,7 @@ async function convertImage(filename) {
     const png2xPath = path.join(OUTPUT_IMG_DIR, `${baseName}-2x.png`);
     await sharp(inputPath)
       .resize(halfWidth, halfHeight)
-      .png({ compressionLevel: PNG_COMPRESSION_LEVEL, effort: PNG_EFFORT })
+      .png({ compressionLevel: PNG_COMPRESSION_LEVEL, effort: PNG_EFFORT, palette: true, colors: 64 })
       .toFile(png2xPath);
     console.log(`Created ${baseName}-2x.png (${halfWidth}x${halfHeight})`);
 
