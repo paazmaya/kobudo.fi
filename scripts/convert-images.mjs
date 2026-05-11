@@ -4,6 +4,7 @@
  *
  * Reads image list from images.json and converts PNG source files from
  * generated-images directory. Creates:
+ * - Compressed PNG (1x and 2x) in static/img/
  * - WebP variants (1x and 2x) in static/img/
  * - Social media JPEGs (1200x630) in static/img/social/
  *
@@ -25,10 +26,14 @@ const IMAGES_JSON_PATH = "./images.json";
 // Categories to skip (icons are handled separately, social media images are JPEGs)
 const SKIP_CATEGORIES = ["faviconsAndPWA", "uiAndBranding"];
 
+// PNG compression settings (0=none, 9=max; effort 1-10)
+const PNG_COMPRESSION_LEVEL = 9;
+const PNG_EFFORT = 10;
+
 // Social media image dimensions
 const SOCIAL_MEDIA_WIDTH = 1200;
 const SOCIAL_MEDIA_HEIGHT = 630;
-const SOCIAL_MEDIA_QUALITY = 80;
+const SOCIAL_MEDIA_QUALITY = 70;
 
 /**
  * Extract PNG filenames from images.json, excluding specified categories
@@ -95,17 +100,31 @@ async function convertImage(filename) {
     const width = metadata.width;
     const height = metadata.height;
 
+    // Generate 1x (original) compressed PNG
+    const pngPath = path.join(OUTPUT_IMG_DIR, `${baseName}.png`);
+    await image
+      .png({ compressionLevel: PNG_COMPRESSION_LEVEL, effort: PNG_EFFORT })
+      .toFile(pngPath);
+    console.log(`Created ${baseName}.png (${width}x${height})`);
+
     // Generate 1x (original) WebP
     const webpPath = path.join(OUTPUT_IMG_DIR, `${baseName}.webp`);
-    await image.webp({ quality: 75 }).toFile(webpPath);
+    await image.webp({ quality: 72 }).toFile(webpPath);
     console.log(`Created ${baseName}.webp (${width}x${height})`);
 
-    // Generate 2x (50% size) WebP for responsive images
+    // Generate 2x (50% size) WebP and PNG for responsive images
     const halfWidth = Math.round(width / 2);
     const halfHeight = Math.round(height / 2);
 
+    const png2xPath = path.join(OUTPUT_IMG_DIR, `${baseName}-2x.png`);
+    await sharp(inputPath)
+      .resize(halfWidth, halfHeight)
+      .png({ compressionLevel: PNG_COMPRESSION_LEVEL, effort: PNG_EFFORT })
+      .toFile(png2xPath);
+    console.log(`Created ${baseName}-2x.png (${halfWidth}x${halfHeight})`);
+
     const webp2xPath = path.join(OUTPUT_IMG_DIR, `${baseName}-2x.webp`);
-    await sharp(inputPath).resize(halfWidth, halfHeight).webp({ quality: 75 }).toFile(webp2xPath);
+    await sharp(inputPath).resize(halfWidth, halfHeight).webp({ quality: 72 }).toFile(webp2xPath);
     console.log(`Created ${baseName}-2x.webp (${halfWidth}x${halfHeight})`);
 
     // Generate social media JPEG (1200x630) with aspect ratio fill (cover)
@@ -126,7 +145,7 @@ async function convertImage(filename) {
 }
 
 async function main() {
-  console.log("Converting PNG images to WebP and social media JPEG formats...\n");
+  console.log("Converting PNG images to compressed PNG, WebP, and social media JPEG formats...\n");
   console.log(`Source directory: ${SOURCE_IMG_DIR}`);
   console.log(`Output directory: ${OUTPUT_IMG_DIR}`);
   console.log(`Social media directory: ${OUTPUT_SOCIAL_DIR}`);

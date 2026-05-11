@@ -1,8 +1,6 @@
 {
   "metadata": {
     "description": "Comprehensive list of all images used in the kobudo.fi website",
-    "lastUpdated": "2026-05-03",
-    "totalImages": 265,
     "imageFormats": ["png", "webp", "jpg"],
     "basePath": "/img/",
     "buildPath": "build/img/",
@@ -125,6 +123,13 @@
           "variants": ["1x", "2x"],
           "purpose": "Yabiku Moden page banner",
           "socialMedia": "banner-yabiku-moden-1200x630.jpg"
+        },
+        {
+          "baseName": "weapon-maintenance-banner",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Weapon maintenance image",
+          "socialMedia": "weapon-maintenance-banner-1200x630.jpg"
         }
       ]
     },
@@ -348,18 +353,6 @@
     }
   },
   "summary": {
-    "totalImageFiles": 265,
-    "breakdown": {
-      "faviconsAndPWA": 7,
-      "heroBanners": 44,
-      "cardImages": 12,
-      "weaponImages": 40,
-      "additionalWeaponImages": 12,
-      "styleImages": 16,
-      "historicalImages": 16,
-      "uiAndBranding": 1,
-      "socialMediaImages": 25
-    },
     "formats": {
       "png": 180,
       "webp": 55,
