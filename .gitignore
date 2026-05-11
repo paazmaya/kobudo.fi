@@ -161,3 +161,4 @@ yarn-error.log*
 external-link-report.md
 test-results/
 playwright-results/
+generated-images/

@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "description": "Comprehensive list of all images used in the kobudo.fi website",
+    "lastUpdated": "2026-05-03",
+    "totalImages": 265,
+    "imageFormats": ["png", "webp", "jpg"],
+    "basePath": "/img/",
+    "buildPath": "build/img/",
+    "staticPath": "static/img/"
+  },
+  "categories": {
+    "faviconsAndPWA": {
+      "description": "Favicon, PWA icons, and app-related images",
+      "images": [
+        {
+          "name": "favicon-16x16.png",
+          "size": "16x16",
+          "purpose": "Browser favicon"
+        },
+        {
+          "name": "favicon-32x32.png",
+          "size": "32x32",
+          "purpose": "Browser favicon"
+        },
+        {
+          "name": "apple-touch-icon.png",
+          "size": "180x180",
+          "purpose": "iOS app icon"
+        },
+        {
+          "name": "android-chrome-192x192.png",
+          "size": "192x192",
+          "purpose": "Android app icon"
+        },
+        {
+          "name": "android-chrome-512x512.png",
+          "size": "512x512",
+          "purpose": "Android app icon"
+        },
+        {
+          "name": "mstile-150x150.png",
+          "size": "150x150",
+          "purpose": "Windows tile icon"
+        },
+        {
+          "name": "icon-mask.png",
+          "purpose": "SVG mask icon"
+        }
+      ]
+    },
+    "heroBanners": {
+      "description": "Large hero/banner images used for page headers",
+      "images": [
+        {
+          "baseName": "hero-dojo-wall",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Homepage hero banner",
+          "pages": ["home", "default social image"]
+        },
+        {
+          "baseName": "banner-404-not-finding-papers",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "404 page banner"
+        },
+        {
+          "baseName": "banner-about-desk",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "About page banner",
+          "socialMedia": "banner-about-desk-1200x630.jpg"
+        },
+        {
+          "baseName": "banner-eight-weapons",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Weapons section banner",
+          "socialMedia": "banner-eight-weapons-1200x630.jpg"
+        },
+        {
+          "baseName": "banner-kata-lineage-scroll",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Kata lineage page banner"
+        },
+        {
+          "baseName": "banner-kata-scroll",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Kata section banner",
+          "socialMedia": "banner-kata-scroll-1200x630.jpg"
+        },
+        {
+          "baseName": "banner-lineage-scroll",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Lineage/styles section banner",
+          "socialMedia": "banner-lineage-scroll-1200x630.jpg"
+        },
+        {
+          "baseName": "banner-okinawa-coast",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "History section banner",
+          "socialMedia": "banner-okinawa-coast-1200x630.jpg"
+        },
+        {
+          "baseName": "banner-research-library",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Research page banner",
+          "socialMedia": "banner-research-library-1200x630.jpg"
+        },
+        {
+          "baseName": "banner-taira-students",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Taira students page banner",
+          "socialMedia": "banner-taira-students-1200x630.jpg"
+        },
+        {
+          "baseName": "banner-yabiku-moden",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Yabiku Moden page banner",
+          "socialMedia": "banner-yabiku-moden-1200x630.jpg"
+        }
+      ]
+    },
+    "cardImages": {
+      "description": "Card images used on homepage and section pages",
+      "images": [
+        {
+          "baseName": "card-about-journal",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "About/Journal card on homepage"
+        },
+        {
+          "baseName": "card-kata-scroll",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Kata card on homepage"
+        },
+        {
+          "baseName": "card-lineage-scroll",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Lineage card on homepage"
+        },
+        {
+          "baseName": "card-research-books",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Research card on homepage"
+        },
+        {
+          "baseName": "card-ryukyu-map",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Ryukyu map card on homepage",
+          "socialMedia": "card-ryukyu-map-1200x630.jpg"
+        },
+        {
+          "baseName": "card-weapons-display",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Weapons display card on homepage"
+        }
+      ]
+    },
+    "weaponImages": {
+      "description": "Images of specific weapons",
+      "images": [
+        {
+          "baseName": "bo-staff-close",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Bo staff close-up image",
+          "socialMedia": "bo-staff-close-1200x630.jpg"
+        },
+        {
+          "baseName": "bo-kata-strike",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Bo kata strike image",
+          "socialMedia": "bo-kata-strike-1200x630.jpg"
+        },
+        {
+          "baseName": "kama-pair-crossed",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Kama pair crossed image",
+          "socialMedia": "kama-pair-crossed-1200x630.jpg"
+        },
+        {
+          "baseName": "nunchaku-coiled",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Nunchaku coiled image",
+          "socialMedia": "nunchaku-coiled-1200x630.jpg"
+        },
+        {
+          "baseName": "sai-pair-overhead",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Sai pair overhead image",
+          "socialMedia": "sai-pair-overhead-1200x630.jpg"
+        },
+        {
+          "baseName": "sai-kata-guard",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Sai kata guard position image",
+          "socialMedia": "sai-kata-guard-1200x630.jpg"
+        },
+        {
+          "baseName": "surujin-rope-spiral",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Surujin rope spiral image",
+          "socialMedia": "surujin-rope-spiral-1200x630.jpg"
+        },
+        {
+          "baseName": "tekko-iron-knuckle",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Tekko iron knuckle image",
+          "socialMedia": "tekko-iron-knuckle-1200x630.jpg"
+        },
+        {
+          "baseName": "tinbe-rochin-pair",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Tinbe-rochin shield pair image",
+          "socialMedia": "tinbe-rochin-pair-1200x630.jpg"
+        },
+        {
+          "baseName": "tonfa-pair-cross",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Tonfa pair crossed image",
+          "socialMedia": "tonfa-pair-cross-1200x630.jpg"
+        }
+      ]
+    },
+    "additionalWeaponImages": {
+      "description": "Images for additional weapon pages",
+      "images": [
+        {
+          "baseName": "eku-boat-oar",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Eku (boat oar) weapon image",
+          "socialMedia": "eku-boat-oar-1200x630.jpg"
+        },
+        {
+          "baseName": "kuwa-hoe-tool",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Kuwa (hoe) tool weapon image",
+          "socialMedia": "kuwa-hoe-tool-1200x630.jpg"
+        },
+        {
+          "baseName": "nunti-bo-spear",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Nunti (bo spear) weapon image",
+          "socialMedia": "nunti-bo-spear-1200x630.jpg"
+        }
+      ]
+    },
+    "styleImages": {
+      "description": "Images for different kobudo styles",
+      "images": [
+        {
+          "baseName": "matayoshi-weapons",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Matayoshi style weapons display",
+          "socialMedia": "matayoshi-weapons-1200x630.jpg"
+        },
+        {
+          "baseName": "other-weapons-panel",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Other styles weapons panel",
+          "socialMedia": "other-weapons-panel-1200x630.jpg"
+        },
+        {
+          "baseName": "taira-line-scroll",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Taira line scroll image",
+          "socialMedia": "taira-line-scroll-1200x630.jpg"
+        },
+        {
+          "baseName": "yamane-bojutsu",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Yamane Ryu bojutsu image",
+          "socialMedia": "yamane-bojutsu-1200x630.jpg"
+        }
+      ]
+    },
+    "historicalImages": {
+      "description": "Images for historical context and figures",
+      "images": [
+        {
+          "baseName": "ryukyu-procession",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Ryukyu kingdom procession image",
+          "socialMedia": "ryukyu-procession-1200x630.jpg"
+        },
+        {
+          "baseName": "taira-shinken-portrait",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Taira Shinken portrait",
+          "socialMedia": "taira-shinken-portrait-1200x630.jpg"
+        },
+        {
+          "baseName": "kata-transmission-lesson",
+          "formats": ["png", "webp"],
+          "variants": ["1x", "2x"],
+          "purpose": "Kata transmission/lesson image",
+          "socialMedia": "kata-transmission-lesson-1200x630.jpg"
+        },
+        {
+          "baseName": "martial-arts-context-banner",
+          "formats": ["png"],
+          "variants": ["1x"],
+          "purpose": "Martial arts historical context banner",
+          "socialMedia": "martial-arts-context-1200x630.jpg"
+        }
+      ]
+    },
+    "uiAndBranding": {
+      "description": "UI elements and branding images",
+      "images": [
+        {
+          "name": "navbar-logo.png",
+          "purpose": "Navigation bar logo"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "totalImageFiles": 265,
+    "breakdown": {
+      "faviconsAndPWA": 7,
+      "heroBanners": 44,
+      "cardImages": 12,
+      "weaponImages": 40,
+      "additionalWeaponImages": 12,
+      "styleImages": 16,
+      "historicalImages": 16,
+      "uiAndBranding": 1,
+      "socialMediaImages": 25
+    },
+    "formats": {
+      "png": 180,
+      "webp": 55,
+      "jpg": 25
+    },
+    "notes": [
+      "PNG images typically have 1x and 2x variants (high-DPI support)",
+      "WebP variants available for modern browsers (same naming as PNG, different extension)",
+      "Social media images are 1200x630 JPG format for OG tags",
+      "Each main image uses OptimizedImage component to serve both PNG and WebP with fallbacks",
+      "All paths relative to /img/ in production"
+    ]
+  }
+}
