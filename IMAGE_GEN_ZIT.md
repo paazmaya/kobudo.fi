@@ -532,3 +532,14 @@ An ink brush with a bamboo handle, a rectangular black inkstone with pooled ink,
 A small oil lamp in a darkened brass holder provides the only light — its vivid amber flame illuminating the journal pages while the desk edges recede into deep shadow.
 Crimson backdrop with a bright accent strip along one edge.
 Bright cheerful cartoon style, clean bold outlines, flat cel-shaded colors.
+
+## Not found
+
+A wide bright cheerful cartoon illustration of a scholar's library interior at night.
+Shelves of distinctly different Japanese martial arts reference books fill the background,
+
+Five young people, of which three boys and two girls are trying to find something between the piles of papers and half opened scrolls. They were simple traditional okinawan clothes in 1700 century.
+They look confused and lost. two of the boys are looking at the bookshelf, while other of them is pulling out a small turtle from the bookshelf.
+
+Crimson backdrop.
+Bright cheerful cartoon style, clean bold outlines, flat cel-shaded colors.

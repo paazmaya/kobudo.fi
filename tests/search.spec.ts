@@ -22,7 +22,7 @@ test.describe("search", () => {
 
     // Fill in a search and check that one expected result is visible
     await page.getByRole("combobox", { name: "Haku" }).fill("taira");
-    await expect(page.getByRole("option", { name: "Taira Shinkinin oppilaat" })).toBeVisible();
+    await expect(page.getByRole("option", { name: "Taira Shinkenin oppilaat" })).toBeVisible();
 
     // Click on the backdrop, assumed position
     await page.mouse.click(1, 1);

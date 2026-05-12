@@ -4,7 +4,7 @@
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Vaihda tummaan tai vaaleaan tilaan (nykyinen: {mode})",
+    "message": "Vaihda tumman ja vaalean tilan välillä (nykyinen: {mode})",
     "description": "The ARIA label for the color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
@@ -24,7 +24,7 @@
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Dokumenttien sivupalkki",
+    "message": "Asiakirjojen sivupalkki",
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.paginator.navAriaLabel": {
@@ -32,11 +32,11 @@
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "Edellinen",
+    "message": "Edellinen sivu",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
-    "message": "Seuraava",
+    "message": "Seuraava sivu",
     "description": "The label used to navigate to the next doc"
   },
   "theme.notFound.title": {
@@ -60,7 +60,7 @@
     "description": "The default label used for the Tip admonition (:::tip)"
   },
   "theme.admonition.danger": {
-    "message": "Vaara",
+    "message": "Varoitus",
     "description": "The default label used for the Danger admonition (:::danger)"
   },
   "theme.admonition.info": {
@@ -184,7 +184,7 @@
     "description": "The ARIA label and placeholder for search button"
   },
   "theme.SearchBar.noResultsText": {
-    "message": "Ei tuloksia"
+    "message": "Ei hakutuloksia"
   },
   "theme.SearchBar.seeAllOutsideContext": {
     "message": "N\u00e4yt\u00e4 kaikki tulokset \"{context}\":n ulkopuolelta"
@@ -211,7 +211,7 @@
     "description": "Pluralized label for \"{count} documents found\"."
   },
   "theme.SearchPage.noResultsText": {
-    "message": "Dokumentteja ei l\u00f6ydetty",
+    "message": "Ei hakutuloksia",
     "description": "The paragraph for empty search result"
   },
   "theme.SearchBar.modal.label": {
