@@ -35,9 +35,9 @@
     "message": "All weapons",
     "description": "Navbar item with label Kaikki aseet"
   },
-  "item.label.Bō — Sauva": {
-    "message": "Bō — Staff",
-    "description": "Navbar item with label Bō — Sauva"
+  "item.label.Bō (棒)": {
+    "message": "Bō (棒)",
+    "description": "Navbar item with label Bō (棒)"
   },
   "item.label.Sai": {
     "message": "Sai",
@@ -51,9 +51,9 @@
     "message": "Nunchaku",
     "description": "Navbar item with label Nunchaku"
   },
-  "item.label.Kama — Sirppi": {
-    "message": "Kama — Sickle",
-    "description": "Navbar item with label Kama — Sirppi"
+  "item.label.Kama (鎌)": {
+    "message": "Kama (鎌)",
+    "description": "Navbar item with label Kama (鎌)"
   },
   "item.label.Tekko": {
     "message": "Tekko",

@@ -72,7 +72,12 @@ async function buildIco(inputPath, sizes, outputPath) {
     sizes.map((size) =>
       sharp(inputPath)
         .resize(size, size, { fit: "cover", position: "center" })
-        .png({ compressionLevel: PNG_COMPRESSION_LEVEL, effort: PNG_EFFORT, palette: true, colors: 32 })
+        .png({
+          compressionLevel: PNG_COMPRESSION_LEVEL,
+          effort: PNG_EFFORT,
+          palette: true,
+          colors: 32,
+        })
         .toBuffer(),
     ),
   );
@@ -121,9 +126,7 @@ async function main() {
   const generateNavbarLogo = args.includes("--navbar-logo");
 
   if (!sourcePath) {
-    console.error(
-      "Usage: node scripts/generate-icons.mjs <source.png> [--navbar-logo]",
-    );
+    console.error("Usage: node scripts/generate-icons.mjs <source.png> [--navbar-logo]");
     process.exit(1);
   }
 
@@ -158,16 +161,19 @@ async function main() {
   // Generate favicon.ico
   const icoPath = path.join(OUTPUT_STATIC_DIR, "favicon.ico");
   await buildIco(sourcePath, ICO_SIZES, icoPath);
-  console.log(
-    `Created favicon.ico (${ICO_SIZES.map((s) => `${s}x${s}`).join(", ")})`,
-  );
+  console.log(`Created favicon.ico (${ICO_SIZES.map((s) => `${s}x${s}`).join(", ")})`);
 
   // Optionally generate navbar-logo.png (32px tall, aspect-ratio preserved)
   if (generateNavbarLogo) {
     const navbarPath = path.join(OUTPUT_IMG_DIR, "navbar-logo.png");
     await sharp(sourcePath)
       .resize(null, 32) // height=32, width auto
-      .png({ compressionLevel: PNG_COMPRESSION_LEVEL, effort: PNG_EFFORT, palette: true, colors: 32 })
+      .png({
+        compressionLevel: PNG_COMPRESSION_LEVEL,
+        effort: PNG_EFFORT,
+        palette: true,
+        colors: 32,
+      })
       .toFile(navbarPath);
     console.log(`Created navbar-logo.png (height=32, aspect-ratio preserved)`);
   }
