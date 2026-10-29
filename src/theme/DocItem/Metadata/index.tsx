@@ -6,8 +6,10 @@ import Metadata from "@theme-original/DocItem/Metadata";
 
 type DocItemMetadataProps = React.ComponentProps<typeof Metadata>;
 
-const SITE_PURPOSE_SUFFIX =
-  "Part of kobudo.fi, a research resource on Ryukyu kobudo history, styles, weapons and kata.";
+const SITE_PURPOSE_SUFFIX: Record<string, string> = {
+  fi: "Osa kobudo.fi-sivustoa, joka on tutkimusresurssi Ryukyu kobudon historiasta, tyyleistä, aseista ja katoista.",
+  en: "Part of kobudo.fi, a research resource on Ryukyu kobudo history, styles, weapons and kata.",
+};
 
 function toAbsoluteUrl(siteUrl: string, pathOrUrl: string): string {
   if (/^https?:\/\//i.test(pathOrUrl)) {
@@ -17,6 +19,11 @@ function toAbsoluteUrl(siteUrl: string, pathOrUrl: string): string {
   return `${siteUrl.replace(/\/$/, "")}/${pathOrUrl.replace(/^\//, "")}`;
 }
 
+/**
+ * Swizzled DocItem/Metadata wrapper that enriches documentation pages
+ * with Open Graph, Twitter Card, and optional keywords meta tags.
+ * (JSON-LD Article structured data is handled by DocItem/StructuredData.)
+ */
 export default function DocItemMetadata(props: DocItemMetadataProps): ReactElement {
   const {
     siteConfig,
@@ -27,15 +34,15 @@ export default function DocItemMetadata(props: DocItemMetadataProps): ReactEleme
 
   const pageTitle = metadata.title;
   const description = (metadata.description ?? "").trim();
-  const socialDescription = description.includes(SITE_PURPOSE_SUFFIX)
+  const purposeSuffix = SITE_PURPOSE_SUFFIX[currentLocale] ?? SITE_PURPOSE_SUFFIX.fi;
+  const socialDescription = description.includes(purposeSuffix)
     ? description
-    : `${description} ${SITE_PURPOSE_SUFFIX}`;
+    : `${description} ${purposeSuffix}`;
 
   const socialImage = String(
     frontMatterValues.social_image ?? frontMatterValues.image ?? "/img/hero-dojo-wall.png",
   );
   const absoluteSocialImage = toAbsoluteUrl(siteConfig.url, socialImage);
-  const canonicalUrl = toAbsoluteUrl(siteConfig.url, metadata.permalink);
 
   const keywords =
     Array.isArray(frontMatterValues.keywords) && frontMatterValues.keywords.length > 0
@@ -43,25 +50,6 @@ export default function DocItemMetadata(props: DocItemMetadataProps): ReactEleme
       : typeof frontMatterValues.keywords === "string"
         ? frontMatterValues.keywords
         : undefined;
-
-  const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: pageTitle,
-    description,
-    image: absoluteSocialImage,
-    mainEntityOfPage: canonicalUrl,
-    inLanguage: currentLocale,
-    publisher: {
-      "@type": "Organization",
-      name: siteConfig.title,
-      url: siteConfig.url,
-      logo: {
-        "@type": "ImageObject",
-        url: toAbsoluteUrl(siteConfig.url, "/img/navbar-logo.png"),
-      },
-    },
-  };
 
   return (
     <>
@@ -77,7 +65,6 @@ export default function DocItemMetadata(props: DocItemMetadataProps): ReactEleme
         <meta name="twitter:title" content={pageTitle} />
         <meta name="twitter:description" content={socialDescription} />
         <meta name="twitter:image" content={absoluteSocialImage} />
-        <script type="application/ld+json">{JSON.stringify(articleSchema)}</script>
 
         {keywords ? <meta name="keywords" content={keywords} /> : null}
       </Head>

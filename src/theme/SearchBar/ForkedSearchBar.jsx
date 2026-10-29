@@ -60,6 +60,13 @@ async function fetchOpenAskAI() {
 
 const SEARCH_PARAM_HIGHLIGHT = "_highlight";
 
+/**
+ * Forked implementation of `@easyops-cn/docusaurus-search-local` SearchBar
+ * adapted to render inside the custom modal container (`src/theme/SearchBar/index.tsx`)
+ * with combobox ARIA attributes and localized labels.
+ *
+ * @param {{ handleSearchBarToggle?: (active: boolean) => void }} props
+ */
 export default function ForkedSearchBar({ handleSearchBarToggle }) {
   const isBrowser = useIsBrowser();
   const {

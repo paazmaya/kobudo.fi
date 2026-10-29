@@ -8,6 +8,10 @@ import type { Props } from "@theme/DocRoot/Layout/Main";
 
 import styles from "./styles.module.css";
 
+/**
+ * Swizzled DocRoot/Layout/Main component that injects an in-page mobile
+ * section navigation (`mobileSidebarNav`) above the document container.
+ */
 export default function DocRootLayoutMain({ hiddenSidebarContainer, children }: Props): ReactNode {
   const sidebar = useDocsSidebar();
   const { pathname } = useLocation();

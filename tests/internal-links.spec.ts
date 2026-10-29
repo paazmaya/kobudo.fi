@@ -1,20 +1,36 @@
 import { expect, Page, test } from "@playwright/test";
 
-async function getAllLinksFromPage(page: Page): Promise<{ path: string; fragment?: string }[]> {
-  const links = page.getByRole("link");
+function normalizePathname(pathname: string): string {
+  if (pathname.length > 1 && pathname.endsWith("/")) {
+    return pathname.slice(0, -1);
+  }
+  return pathname;
+}
 
-  const allLinks = await links.all();
+async function getAllLinksFromPage(page: Page): Promise<{ path: string; fragment?: string }[]> {
+  const allLinks = await page.locator("a[href]").all();
   const allLinkHrefs = (
     await Promise.all(allLinks.map((link) => link.getAttribute("href")))
-  ).filter((link): link is string => !!link && (link.startsWith("/") || !link.startsWith("http")));
+  ).filter((link): link is string => {
+    if (!link) return false;
+    if (
+      link.startsWith("mailto:") ||
+      link.startsWith("tel:") ||
+      link.startsWith("javascript:") ||
+      link.startsWith("pathname://")
+    ) {
+      return false;
+    }
+    return link.startsWith("/") || !link.startsWith("http");
+  });
 
   const linkData: { path: string; fragment?: string }[] = [];
 
   for (const link of allLinkHrefs) {
-    if (link.startsWith("mailto:") || link.startsWith("tel:")) continue;
-
     const fullUrl = new URL(link, page.url()).href;
     const urlObj = new URL(fullUrl);
+    if (urlObj.origin !== new URL(page.url()).origin) continue;
+
     const fragment = urlObj.hash ? urlObj.hash.slice(1) : undefined;
     const path = urlObj.pathname;
 
@@ -26,16 +42,17 @@ async function getAllLinksFromPage(page: Page): Promise<{ path: string; fragment
 
 async function crawlSite(page: Page) {
   const visited = new Set<string>();
-  const toVisit = new Set<string>(["/"]);
+  const toVisit = new Set<string>(["/", "/en/"]);
   const allInternalLinks = new Map<string, Set<string>>(); // path -> fragments
-  const pageIds = new Map<string, Set<string>>(); // path -> ids
+  const pageIds = new Map<string, Set<string>>(); // normalizedPath -> ids
 
   while (toVisit.size > 0) {
     const path = toVisit.values().next().value as string;
     toVisit.delete(path);
 
-    if (visited.has(path)) continue;
-    visited.add(path);
+    const normalized = normalizePathname(path);
+    if (visited.has(normalized)) continue;
+    visited.add(normalized);
 
     try {
       await page.goto(path, { waitUntil: "domcontentloaded" });
@@ -45,7 +62,7 @@ async function crawlSite(page: Page) {
         .locator("[id]")
         .all()
         .then((elements) => Promise.all(elements.map((el) => el.getAttribute("id"))));
-      pageIds.set(path, new Set(ids.filter((id): id is string => !!id)));
+      pageIds.set(normalized, new Set(ids.filter((id): id is string => !!id)));
 
       const links = await getAllLinksFromPage(page);
 
@@ -58,7 +75,8 @@ async function crawlSite(page: Page) {
         }
 
         // If it's an internal page link, add it to the crawl queue
-        if (!visited.has(linkPath) && !toVisit.has(linkPath)) {
+        const normLink = normalizePathname(linkPath);
+        if (!visited.has(normLink) && !toVisit.has(linkPath)) {
           toVisit.add(linkPath);
         }
       }
@@ -96,12 +114,13 @@ test.describe("No 404s on internal links", () => {
           expect.soft(response.ok(), `${path} returned ${response.status()}`).toBeTruthy();
 
           // Check fragments exist
+          const normalized = normalizePathname(path);
+          const ids = pageIds.get(normalized);
           for (const fragment of fragments) {
-            const ids = pageIds.get(path);
             // Decode URL-encoded fragment to handle non-ASCII characters
             const decodedFragment = decodeURIComponent(fragment);
 
-            if (ids && !ids.has(decodedFragment)) {
+            if (!ids || !ids.has(decodedFragment)) {
               brokenFragments.push(`${path}#${fragment} - element not found`);
               expect.soft(null, `${path}#${fragment} - element not found`).toBeTruthy();
             }

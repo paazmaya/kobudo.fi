@@ -1,15 +1,24 @@
 import React from "react";
 
-interface OptimizedImageProps {
+/**
+ * Props for the OptimizedImage component.
+ */
+export interface OptimizedImageProps {
+  /** Base PNG path under `/img/` (e.g. `/img/hero-dojo-wall.png`). */
   src: string;
+  /** Accessible alternative text for the image. */
   alt: string;
+  /** Intrinsic display width in CSS pixels. */
   width: number;
+  /** Intrinsic display height in CSS pixels. */
   height: number;
+  /** Optional CSS class name applied to the fallback `<img>` element. */
   className?: string;
+  /** Browser loading strategy (`"lazy"` by default, `"eager"` for LCP images). */
   loading?: "eager" | "lazy";
-  // Optional: provide WebP srcset for responsive images
+  /** Optional WebP `srcset` string for responsive density descriptors. */
   srcSetWebP?: string;
-  // Optional: provide PNG srcset for responsive images
+  /** Optional PNG `srcset` string for responsive density descriptors. */
   srcSetPng?: string;
 }
 
@@ -51,25 +60,24 @@ export function OptimizedImage({
 }
 
 /**
- * Helper to generate srcset string for responsive images.
- * Generates 1x, 2x, and optionally 3x density descriptors.
+ * Helper to generate a `srcset` string for responsive images produced by
+ * `scripts/convert-images.mjs`, where `-2x` is the half-size (1x density)
+ * variant and the unsuffixed file is the full-size (2x retina) variant.
+ *
+ * @param basePath - Path to the base `.png` image (e.g. `/img/banner.png`)
+ * @param extension - Target format (`"webp"` or `"png"`)
+ * @returns Formatted `srcset` string with `1x` and `2x` density descriptors
  */
-export function generateSrcSet(
-  basePath: string,
-  width: number,
-  extension: "webp" | "png" = "png",
-): string {
-  // Remove extension and add the requested one
+export function generateSrcSet(basePath: string, extension: "webp" | "png" = "png"): string {
   const base = basePath.replace(/\.png$/, "");
   const ext = extension === "webp" ? ".webp" : ".png";
 
-  // Generate paths for different sizes: original, 2x (½ size), 3x (⅓ size)
-  // For WebP, we assume files are named: filename.webp, filename-2x.webp, etc.
-  const src1x = `${base}${ext}`;
-  const src2x = `${base}-2x${ext}`;
-  const src3x = `${base}-3x${ext}`;
+  // scripts/convert-images.mjs outputs `-2x` at 50% dimensions (1x display density)
+  // and the base filename at full dimensions (2x retina density).
+  const src1x = `${base}-2x${ext}`;
+  const src2x = `${base}${ext}`;
 
-  return `${src1x} 1x, ${src2x} 2x, ${src3x} 3x`;
+  return `${src1x} 1x, ${src2x} 2x`;
 }
 
 /**
@@ -84,12 +92,8 @@ export function OptimizedBanner({
   className = "kb-banner",
   loading = "lazy",
 }: Omit<OptimizedImageProps, "srcSetWebP" | "srcSetPng">): React.ReactElement {
-  // Banner images get 2x density (½ original size) for responsive loading
-  const srcSetWebP = `${src.replace(/\.png$/, ".webp")} 1x, ${src.replace(
-    /\.png$/,
-    "-2x.webp",
-  )} 2x`;
-  const srcSetPng = `${src} 1x, ${src.replace(/\.png$/, "-2x.png")} 2x`;
+  const srcSetWebP = generateSrcSet(src, "webp");
+  const srcSetPng = generateSrcSet(src, "png");
 
   return (
     <OptimizedImage
@@ -146,12 +150,8 @@ export function OptimizedHeroImage({
   height = 448,
   className = "kb-hero__image",
 }: Omit<OptimizedImageProps, "loading" | "srcSetWebP" | "srcSetPng">): React.ReactElement {
-  // Hero images need 2x density for retina displays
-  const srcSetWebP = `${src.replace(/\.png$/, ".webp")} 1x, ${src.replace(
-    /\.png$/,
-    "-2x.webp",
-  )} 2x`;
-  const srcSetPng = `${src} 1x, ${src.replace(/\.png$/, "-2x.png")} 2x`;
+  const srcSetWebP = generateSrcSet(src, "webp");
+  const srcSetPng = generateSrcSet(src, "png");
 
   return (
     <OptimizedImage

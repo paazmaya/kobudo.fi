@@ -58,9 +58,10 @@ const config: Config = {
   // Note: Docusaurus 3.10 encourages strict MDX. MDX v1 compat will be disabled in v4.
   markdown: {},
 
-  // Behavior for broken internal links
+  // Behavior for broken internal links and anchors
   // https://docusaurus.io/docs/api/docusaurus-config#onBrokenLinks
   onBrokenLinks: "throw",
+  onBrokenAnchors: "throw",
 
   // Internationalization configuration
   // https://docusaurus.io/docs/i18n/tutorial#configure-your-site
@@ -88,15 +89,6 @@ const config: Config = {
       attributes: {
         rel: "dns-prefetch",
         href: "https://www.clarity.ms",
-      },
-    },
-    // Preload critical CSS for faster initial render
-    {
-      tagName: "link",
-      attributes: {
-        rel: "preload",
-        href: "/css/custom.css",
-        as: "style",
       },
     },
     // Optimized theme detection to reduce forced reflow

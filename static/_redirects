@@ -2,45 +2,59 @@
 # Redirect mixed language URLs to correct language versions
 # English base with Finnish slug → Finnish correct URL (forced)
 /en/historia/ /historia/ 301!
+/en/historia/kamppailulajit-historiallisessa-kontekstissa /historia/kamppailulajit-historiallisessa-kontekstissa 301!
 /en/historia/kata-siirto /historia/kata-siirto 301!
 /en/historia/ryukyu-kuningaskunta /historia/ryukyu-kuningaskunta 301!
 /en/historia/taira-shinken /historia/taira-shinken 301!
+/en/historia/yabiku-moden /historia/yabiku-moden 301!
 /en/tyylit/ /tyylit/ 301!
 /en/tyylit/matayoshi /tyylit/matayoshi 301!
 /en/tyylit/muut-tyylit /tyylit/muut-tyylit 301!
 /en/tyylit/taira-linja /tyylit/taira-linja 301!
+/en/tyylit/tairan-oppilaat /tyylit/tairan-oppilaat 301!
 /en/tyylit/yamane-ryu /tyylit/yamane-ryu 301!
 /en/aseet/ /aseet/ 301!
 /en/aseet/bo /aseet/bo 301!
-/en/aseet/sai /aseet/sai 301!
-/en/aseet/tonfa /aseet/tonfa 301!
-/en/aseet/nunchaku /aseet/nunchaku 301!
+/en/aseet/eku /aseet/eku 301!
+/en/aseet/huolto /aseet/huolto 301!
 /en/aseet/kama /aseet/kama 301!
+/en/aseet/kuwa /aseet/kuwa 301!
+/en/aseet/nunchaku /aseet/nunchaku 301!
+/en/aseet/nunti /aseet/nunti 301!
+/en/aseet/sai /aseet/sai 301!
+/en/aseet/surujin /aseet/surujin 301!
 /en/aseet/tekko /aseet/tekko 301!
 /en/aseet/tinbe-rochin /aseet/tinbe-rochin 301!
-/en/aseet/surujin /aseet/surujin 301!
+/en/aseet/tonfa /aseet/tonfa 301!
 /en/tutkimus /tutkimus 301!
 /en/tietoja /tietoja 301!
 
 # Finnish base with English slug → English correct URL (forced)
 /history/ /en/history/ 301!
+/history/martial-arts-context /en/history/martial-arts-context 301!
 /history/kata-transmission /en/history/kata-transmission 301!
 /history/ryukyu-kingdom /en/history/ryukyu-kingdom 301!
 /history/taira-shinken /en/history/taira-shinken 301!
+/history/yabiku-moden /en/history/yabiku-moden 301!
 /styles/ /en/styles/ 301!
 /styles/matayoshi /en/styles/matayoshi 301!
 /styles/other-styles /en/styles/other-styles 301!
 /styles/taira-line /en/styles/taira-line 301!
+/styles/taira-students /en/styles/taira-students 301!
 /styles/yamane-ryu /en/styles/yamane-ryu 301!
 /weapons/ /en/weapons/ 301!
 /weapons/bo /en/weapons/bo 301!
-/weapons/sai /en/weapons/sai 301!
-/weapons/tonfa /en/weapons/tonfa 301!
-/weapons/nunchaku /en/weapons/nunchaku 301!
+/weapons/eku /en/weapons/eku 301!
+/weapons/maintenance /en/weapons/maintenance 301!
 /weapons/kama /en/weapons/kama 301!
+/weapons/kuwa /en/weapons/kuwa 301!
+/weapons/nunchaku /en/weapons/nunchaku 301!
+/weapons/nunti /en/weapons/nunti 301!
+/weapons/sai /en/weapons/sai 301!
+/weapons/surujin /en/weapons/surujin 301!
 /weapons/tekko /en/weapons/tekko 301!
 /weapons/tinbe-rochin /en/weapons/tinbe-rochin 301!
-/weapons/surujin /en/weapons/surujin 301!
+/weapons/tonfa /en/weapons/tonfa 301!
 /research /en/research 301!
 /about /en/about 301!
 

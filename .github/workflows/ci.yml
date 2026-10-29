@@ -35,6 +35,9 @@ jobs:
       - name: Run linter
         run: npm run lint -- --deny-warnings
 
+      - name: Run typecheck
+        run: npm run typecheck
+
       - name: Build the site
         run: npm run build
 

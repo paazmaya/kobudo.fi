@@ -5,7 +5,7 @@ import { join, relative } from "node:path";
 import { request } from "playwright";
 
 const ROOT_DIR = process.cwd();
-const MD_EXTENSIONS = new Set([".md"]);
+const MD_EXTENSIONS = new Set([".md", ".mdx"]);
 const SKIP_FILE_PATTERNS = [/^link-check-report/i, /^external-link-report/i];
 const SKIP_DIRS = new Set([
   ".git",
@@ -172,7 +172,7 @@ async function checkUrlStatus(apiContext, url) {
     const response = await apiContext.get(url, {
       failOnStatusCode: false,
       timeout: TIMEOUT_MS,
-      maxRedirects: 0,
+      maxRedirects: 5,
     });
 
     return {
@@ -247,7 +247,7 @@ async function main() {
   console.log(`Checking URLs: ${urls.length}`);
 
   const apiContext = await request.newContext({
-    ignoreHTTPSErrors: true,
+    ignoreHTTPSErrors: false,
     userAgent: "kobudo.fi external-link-checker/1.0",
   });
 

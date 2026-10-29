@@ -66,6 +66,8 @@ const contentPages = [
   { path: "/tyylit/matayoshi", name: "styles-content" },
   { path: "/aseet/bo", name: "weapons-content" },
   { path: "/kata/bo-kata", name: "kata-content" },
+  { path: "/en/history/taira-shinken", name: "en-history-content" },
+  { path: "/en/weapons/maintenance", name: "en-weapons-maintenance" },
 ];
 
 const sectionPages = [
@@ -73,11 +75,15 @@ const sectionPages = [
   { path: "/tyylit/", name: "styles" },
   { path: "/aseet/", name: "weapons" },
   { path: "/kata/", name: "kata" },
+  { path: "/en/history/", name: "en-history" },
+  { path: "/en/weapons/", name: "en-weapons" },
 ];
 
 const standalonePages = [
   { path: "/tutkimus", name: "research" },
   { path: "/tietoja", name: "about" },
+  { path: "/en/research", name: "en-research" },
+  { path: "/en/about", name: "en-about" },
 ];
 
 test.describe("content pages", () => {

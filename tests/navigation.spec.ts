@@ -18,18 +18,18 @@ test.describe("navigation", () => {
     test.use({ viewport: { width: 375, height: 667 } });
 
     test("should render mobile navigation on content page", async ({ page }) => {
-      // Navigate to English locale content page for consistent labels
-      await page.goto("/en/historia/taira-shinken");
+      // Navigate to Finnish locale content page
+      await page.goto("/historia/taira-shinken");
 
       const navButton = page.getByRole("button", { name: "Avaa/sulje navigointipalkki" });
       await navButton.waitFor({ state: "visible" });
       await navButton.click();
 
-      // Wait for the secondary navigation (mobile TOC) to be visible
+      // Wait for the mobile navigation drawer to be visible
       const mobileNav = page.getByRole("navigation", { name: "Päävalikko" });
       await mobileNav.waitFor({ state: "visible" });
 
-      // Take visual snapshot of the secondary nav (collapsed state)
+      // Take visual snapshot of the mobile nav (collapsed state)
       await expect(mobileNav).toHaveScreenshot("visual/mobile-nav.png");
 
       // Verify mobile nav contains expected elements
@@ -39,9 +39,9 @@ test.describe("navigation", () => {
       const langButton = page.getByRole("button", { name: "Laajenna pudotusvalikko" });
       await langButton.click();
 
-      // Expect to see both english and finnish options
-      //const langOptions = page.getByRole("menuitem", { name: /Englanti|Suomi/ });
-      //await expect(langOptions).toHaveCount(2);
+      // Expect to see both English andSuomi options in the mobile menu
+      await expect(mobileNav.getByRole("link", { name: "Suomi" })).toBeVisible();
+      await expect(mobileNav.getByRole("link", { name: "English" })).toBeVisible();
     });
   });
 });

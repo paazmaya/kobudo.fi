@@ -110,7 +110,7 @@ const HOME_COPY: Record<
     jsonLdDescription: "Okinawan Weapon Arts — History, Styles & Kata",
     cards: [
       {
-        title: "Historia",
+        title: "History",
         description:
           "From the Ryukyu Kingdom through the Pechin warrior class to the modern preservation work of Taira Shinken. Trace how these weapon arts survived centuries of political change.",
         href: "/historia/",
@@ -118,7 +118,7 @@ const HOME_COPY: Record<
         imgSrc: "/img/card-ryukyu-map.png",
       },
       {
-        title: "Tyylit ja Koulukunnat",
+        title: "Styles and Schools",
         description:
           "Ryukyu Kobujutsu, Matayoshi Kobudo, Yamane-ryū and others — each lineage carries distinct technical approaches and a unique transmission from named masters.",
         href: "/tyylit/",
@@ -126,7 +126,7 @@ const HOME_COPY: Record<
         imgSrc: "/img/card-lineage-scroll.png",
       },
       {
-        title: "Perinteiset Aseet",
+        title: "Traditional Weapons",
         description:
           "Eight core weapons form the Taira curriculum: Bō, Sai, Tonfa, Nunchaku, Kama, Tekko, Tinbe-Rochin and Surujin. Each has its own history, technique and kata.",
         href: "/aseet/",
@@ -142,7 +142,7 @@ const HOME_COPY: Record<
         imgSrc: "/img/card-kata-scroll.png",
       },
       {
-        title: "Tutkimus",
+        title: "Research",
         description:
           "Core Japanese-language books and reference works for researching Ryukyu weapon arts — from pre-war anthologies to modern encyclopedias of Okinawan karate and kobudo.",
         href: "/tutkimus",
@@ -150,7 +150,7 @@ const HOME_COPY: Record<
         imgSrc: "/img/card-research-books.png",
       },
       {
-        title: "Tietoja",
+        title: "About",
         description:
           "About this site — its purpose, scope and how to contribute corrections or additional sources to this ongoing research project.",
         href: "/tietoja",

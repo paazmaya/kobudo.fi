@@ -14,6 +14,10 @@ function toAbsoluteUrl(siteUrl: string, pathOrUrl: string): string {
   return `${siteUrl.replace(/\/$/, "")}/${pathOrUrl.replace(/^\//, "")}`;
 }
 
+/**
+ * Swizzled DocItem/StructuredData wrapper that augments Docusaurus's default
+ * breadcrumb schema with a Schema.org `Article` JSON-LD block for each doc page.
+ */
 export default function DocItemStructuredData(props: DocItemStructuredDataProps): ReactElement {
   const { siteConfig, i18n } = useDocusaurusContext();
   const { metadata, frontMatter } = useDoc();

@@ -1,10 +1,17 @@
 import React from "react";
 import { OptimizedBanner } from "../components/OptimizedImage";
 
-interface OptimizedBannerProps {
+/**
+ * Props for the OptimizedDocBanner MDX component.
+ */
+export interface OptimizedBannerProps {
+  /** Path to the source `.png` banner image under `/img/`. */
   src: string;
+  /** Accessible description of the banner illustration. */
   alt: string;
+  /** Optional display width in CSS pixels (defaults to 960). */
   width?: number;
+  /** Optional display height in CSS pixels (defaults to 384). */
   height?: number;
 }
 

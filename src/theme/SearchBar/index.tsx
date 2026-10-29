@@ -7,9 +7,14 @@ import ForkedSearchBar from "./ForkedSearchBar";
 import styles from "./styles.module.css";
 
 type Props = {
+  /** Optional callback notified when the search modal opens or closes. */
   handleSearchBarToggle?: (active: boolean) => void;
 };
 
+/**
+ * Swizzled SearchBar component that presents local search inside an accessible
+ * modal dialog (`Ctrl+K` / `Cmd+K`, focus trap, `Escape` to close).
+ */
 export default function SearchBar(props: Props): ReactElement {
   const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
