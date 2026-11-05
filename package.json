@@ -2,6 +2,19 @@
   "name": "kobudo-fi",
   "description": "Research resource for Ryukyu kobudo weapon-based martial arts",
   "version": "0.4.0",
+  "homepage": "https://github.com/paazmaya/kobudo.fi",
+  "bugs": {
+    "url": "https://github.com/paazmaya/kobudo.fi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paazmaya/kobudo.fi.git"
+  },
+  "author": {
+    "name": "Juga Paazmaya",
+    "email": "paazmaya@yahoo.com",
+    "url": "https://paazmaya.fi"
+  },
   "license": "CC-BY-4.0",
   "private": true,
   "scripts": {
