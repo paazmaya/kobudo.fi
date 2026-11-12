@@ -48,21 +48,21 @@ const HOME_COPY: Record<
       {
         title: "Historia",
         description:
-          "Ryukyu-kuningaskunnasta Pechin-sotilasvirkailijaluokkaan ja Taira Shinkenin nykyaikaiseen säilytystyöhön. Näin aseelliset kamppailutaidot säilyivät vuosisatojen poliittisten murrosten läpi.",
+          "Ryukyu-kuningaskunnasta Pechin-sotilasvirkailijaluokkaan ja Taira Shinkenin nykyaikaiseen säilytystyöhön. Tutustu siihen, miten aseelliset kamppailutaidot säilyivät vuosisatojen poliittisten murrosten läpi.",
         href: "/historia/",
         imgAlt: "Kuviteltu kartta Ryukyu-saarista vanhan kalligrafian kanssa",
         imgSrc: "/img/card-ryukyu-map.png",
       },
       {
-        title: "Tyylit ja Koulukunnat",
+        title: "Tyylit ja koulukunnat",
         description:
-          "Ryukyu Kobujutsu, Matayoshi Kobudo, Yamane-ryū ja muut — kukin linja tuo omat tekniikkansa ja nimettyjen mestareiden kautta välittyneen perinteen.",
+          "Ryukyu Kobujutsu, Matayoshi Kobudo, Yamane-ryū ja muut — kullakin linjalla on omat tekniikkansa ja nimettyjen mestareiden kautta välittynyt perinteensä.",
         href: "/tyylit/",
         imgAlt: "Sukupuu okinawalaisten kobudo-tyylien välillä",
         imgSrc: "/img/card-lineage-scroll.png",
       },
       {
-        title: "Perinteiset Aseet",
+        title: "Perinteiset aseet",
         description:
           "Kahdeksan keskeistä asetta Tairan opetusohjelmassa: bō, sai, tonfa, nunchaku, kama, tekko, tinbē-rochin ja surujin. Jokaisella on oma historiansa, tekniikkansa ja katansa.",
         href: "/aseet/",
@@ -72,7 +72,7 @@ const HOME_COPY: Record<
       {
         title: "Kata",
         description:
-          "Miten katanimet ylittävät tyylirajat — sama perhe, kuten Sakugawa no Kon tai Hamahiga no Sai, toistuu Tairalla, Matayoshilla ja karaten aseopetusohjelmissa.",
+          "Miten katanimet ylittävät tyylirajat — sama perhe, kuten Sakugawa no Kon tai Hamahiga no Sai, esiintyy Tairan ja Matayoshin sekä karaten aseopetusohjelmissa.",
         href: "/kata/",
         imgAlt: "Kalligrafinen katanimien merkintä",
         imgSrc: "/img/card-kata-scroll.png",
@@ -80,7 +80,7 @@ const HOME_COPY: Record<
       {
         title: "Tutkimus",
         description:
-          "Keskeiset japaninkieliset teokset ja hakuteokset Ryukyu-aseellisten taiteiden tutkimiseen — esisodan antologioista moderniin okinawalaisen karaten ja kobudon tietosanakirjaan.",
+          "Keskeiset japaninkieliset teokset ja hakuteokset Ryukyu-saarten aseellisten kamppailulajien tutkimiseen — sotaa edeltävistä antologioista nykyajan okinawalaisen karaten ja kobudon tietosanakirjoihin.",
         href: "/tutkimus",
         imgAlt: "Pino japanilaisia kamppailulajien hakuteoksia",
         imgSrc: "/img/card-research-books.png",
@@ -88,7 +88,7 @@ const HOME_COPY: Record<
       {
         title: "Tietoja",
         description:
-          "Tietoja tästä sivustosta — sen tarkoituksesta, laajuudesta ja miten voit osallistua tähän jatkuvaan tutkimushankkeeseen korjauksilla tai lisälähteillä.",
+          "Tietoja tästä sivustosta, sen tarkoituksesta ja laajuudesta sekä siitä, miten voit osallistua jatkuvaan tutkimushankkeeseen korjauksilla tai lisälähteillä.",
         href: "/tietoja",
         imgAlt: "Abstrakti tutkimus- ja dokumentaatiokonsepti",
         imgSrc: "/img/card-about-journal.png",
@@ -96,25 +96,25 @@ const HOME_COPY: Record<
     ],
   },
   en: {
-    heroAlt: "Traditional Okinawan kobudo weapons against a dojo background",
+    heroAlt: "Traditional Okinawan kobudo weapons against a dojo wall",
     heroSubtitle:
       "The weapon arts of the Ryukyu Islands — their history, lineages, tools and kata. A research resource tracing traditions from the Ryukyu Kingdom to the present day.",
     cardsHeading: "Explore the site",
     readMore: "Read more →",
     cardAria: (title) => `Go to ${title} section`,
     layoutDescription:
-      "Okinawan weapon-based martial arts — history, styles and kata. A research resource with verifiable sources.",
-    ogTitle: "Ryukyu Kobudo — Okinawan Weapon Arts",
+      "Ryukyuan weapon-based martial arts — history, styles and kata. A research resource with verifiable sources.",
+    ogTitle: "Ryukyu Kobudo — Ryukyuan Weapon Arts",
     ogDescription:
-      "History, lineages, weapons and kata of the Ryukyu Islands' weapon-based martial arts traditions.",
-    jsonLdDescription: "Okinawan Weapon Arts — History, Styles & Kata",
+      "History, lineages, weapons and kata of the Ryukyu Islands' weapon-based martial arts traditions — a research resource.",
+    jsonLdDescription: "Ryukyuan weapon-based martial arts — history, styles and kata",
     cards: [
       {
         title: "History",
         description:
           "From the Ryukyu Kingdom through the Pechin warrior class to the modern preservation work of Taira Shinken. Trace how these weapon arts survived centuries of political change.",
         href: "/historia/",
-        imgAlt: "Illustrated map of the Ryukyu Islands with old calligraphy",
+        imgAlt: "Imagined map of the Ryukyu Islands with old calligraphy",
         imgSrc: "/img/card-ryukyu-map.png",
       },
       {
@@ -128,7 +128,7 @@ const HOME_COPY: Record<
       {
         title: "Traditional Weapons",
         description:
-          "Eight core weapons form the Taira curriculum: Bō, Sai, Tonfa, Nunchaku, Kama, Tekko, Tinbe-Rochin and Surujin. Each has its own history, technique and kata.",
+          "Eight core weapons form the Taira curriculum: bō, sai, tonfa, nunchaku, kama, tekko, tinbē-rochin and surujin. Each has its own history, technique and kata.",
         href: "/aseet/",
         imgAlt: "Eight traditional Okinawan weapons displayed on a wall",
         imgSrc: "/img/card-weapons-display.png",
@@ -144,7 +144,7 @@ const HOME_COPY: Record<
       {
         title: "Research",
         description:
-          "Core Japanese-language books and reference works for researching Ryukyu weapon arts — from pre-war anthologies to modern encyclopedias of Okinawan karate and kobudo.",
+          "Core Japanese-language books and reference works for researching Ryukyu weapon arts — from pre-war anthologies to modern encyclopaedias of Okinawan karate and kobudo.",
         href: "/tutkimus",
         imgAlt: "Stack of Japanese martial arts reference books",
         imgSrc: "/img/card-research-books.png",

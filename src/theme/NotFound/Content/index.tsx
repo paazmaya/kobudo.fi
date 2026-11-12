@@ -30,7 +30,7 @@ export default function NotFoundContent(): React.ReactElement {
   const homeLinkUrl = isEn ? "/en/" : "/";
   const imgAlt = isEn
     ? "Confused martial artist searching through ancient scrolls in a dimly lit traditional dojo library"
-    : "Hämmentynyt kamppailulajien harjoittaja etsimässä vanhoja kääröjä hämärässä perinteisessä dojo-kirjastossa";
+    : "Hämmentynyt kamppailulajien harjoittaja etsimässä muinaisia kääröjä hämärässä perinteisessä dojo-kirjastossa";
 
   return (
     <main className="kb-not-found">

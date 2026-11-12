@@ -123,6 +123,10 @@
     "message": "Breadcrumbs",
     "description": "The ARIA label for the breadcrumbs"
   },
+  "theme.docs.mobileSubnav.title": {
+    "message": "In this section",
+    "description": "Title for mobile docs sub navigation"
+  },
   "theme.docs.DocCard.categoryDescription.plurals": {
     "message": "1 item|{count} items",
     "description": "The default description for a category card in the generated index about how many items this category includes"

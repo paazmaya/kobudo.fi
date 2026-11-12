@@ -15,6 +15,10 @@
     "message": "vaalea tila",
     "description": "The name for the light color mode"
   },
+  "theme.colorToggle.ariaLabel.mode.system": {
+    "message": "järjestelmän tila",
+    "description": "The name for the system color mode"
+  },
   "theme.docs.sidebar.collapseButtonTitle": {
     "message": "Pienenn\u00e4 sivupalkki",
     "description": "The title attribute for collapse button of doc sidebar"
@@ -135,6 +139,14 @@
     "message": "Etusivu",
     "description": "The ARIA label for the home page in the breadcrumbs"
   },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Murupolku",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.mobileSubnav.title": {
+    "message": "Tässä osiossa",
+    "description": "Title for mobile docs sub navigation"
+  },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
     "message": "Sulje navigointipalkki",
     "description": "The ARIA label for close button of mobile sidebar"
@@ -164,12 +176,24 @@
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Vaihda rivikaarinnan asetus",
+    "message": "Vaihda rivityksen asetusta",
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.common.skipToMainContent": {
     "message": "Siirry p\u00e4\u00e4sis\u00e4lt\u00f6\u00f6n",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "Suora linkki otsikkoon {heading}",
+    "description": "Title for link to heading"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Takaisin sivun alkuun",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "Sivun näyttämisessä tapahtui virhe.",
+    "description": "The title of the fallback page when the page crashed"
   },
   "theme.tags.tagsPageTitle": {
     "message": "Tagit",
@@ -187,10 +211,10 @@
     "message": "Ei hakutuloksia"
   },
   "theme.SearchBar.seeAllOutsideContext": {
-    "message": "N\u00e4yt\u00e4 kaikki tulokset \"{context}\":n ulkopuolelta"
+    "message": "Näytä kaikki rajauksen \"{context}\" ulkopuoliset tulokset"
   },
   "theme.SearchBar.searchInContext": {
-    "message": "N\u00e4yt\u00e4 kaikki tulokset \"{context}\":ssa"
+    "message": "Näytä kaikki rajauksen \"{context}\" tulokset"
   },
   "theme.SearchBar.seeAll": {
     "message": "N\u00e4yt\u00e4 kaikki tulokset"
@@ -223,7 +247,7 @@
     "description": "Title shown in the search modal"
   },
   "theme.SearchBar.modal.hint": {
-    "message": "Esc sulje",
+    "message": "Sulje painamalla Esc",
     "description": "Hint for closing the search modal with Escape key"
   },
   "theme.common.close": {
