@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.4.0] - 2026-11-13
+
+- Broadened the research resource with historical context for Ryukyu and Okinawan martial arts, expanded lineage and kata coverage, additional Matayoshi weapons, and a sourced guide to weapon maintenance
+- Completed the Finnish and English documentation experience, including translated content and interface text, locale-aware routes and anchors, and redirects for changed URLs
+- Reworked the bilingual landing page and navigation; added page-specific social previews, structured metadata, optimized responsive images, and refreshed PWA icons
+- Improved resilience and discoverability with custom 404 and 500 pages, stricter broken-link checks, security and caching headers, and expanded Playwright coverage for navigation, search, localization, and links
+- Updated the site and tooling for Docusaurus 3.10 and v4-compatible behavior, with faster builds, TypeScript fixes, and CI concurrency and documentation-only skips
+- Standardized the content licence on Creative Commons Attribution 4.0 and refreshed project and image-generation documentation
+
 ## [v0.3.0] - 2026-04-01
 
 - Playwright end-to-end testing for search, 404 pages, and internal linking

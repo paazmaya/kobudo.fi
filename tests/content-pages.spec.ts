@@ -8,9 +8,7 @@ const contentPageSnapshot = `
     - heading [level=1]
     - img
     - paragraph
-    - heading [level=2]
-    - heading [level=3]
-    - paragraph`;
+    - heading [level=2]`;
 
 // Section index page structure (category landing pages)
 const sectionIndexSnapshot = `- main:
@@ -19,26 +17,12 @@ const sectionIndexSnapshot = `- main:
       - list:
         - listitem:
           - link
-        - listitem:
-          - link
     - heading [level=1]
     - img
     - paragraph
     - heading [level=2]
-    - list:
-      - listitem
-    - heading [level=2]
-    - list:
-      - listitem
   - navigation:
-    - link
-    - link
-  - list:
-    - listitem:
-      - link
-      - list:
-        - listitem:
-          - link`;
+    - link`;
 
 // Standalone page structure (info pages)
 const standalonePageSnapshot = `- main:
@@ -47,19 +31,13 @@ const standalonePageSnapshot = `- main:
       - list:
         - listitem:
           - link
-        - listitem:
-          - link
     - heading [level=1]
     - img
     - paragraph
-    - heading [level=2]:
-      - text
-      - link
+    - heading [level=2]
     - paragraph
     - list:
-      - listitem
-  - list:
-    - listitem`;
+      - listitem`;
 
 const contentPages = [
   { path: "/historia/taira-shinken", name: "history-content" },

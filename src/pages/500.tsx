@@ -20,9 +20,7 @@ export default function ServerError(): React.ReactElement {
 
   const currentPath = location.pathname;
   const isEn =
-    i18n.currentLocale === "en" ||
-    currentPath.startsWith("/en/") ||
-    currentPath === "/en";
+    i18n.currentLocale === "en" || currentPath.startsWith("/en/") || currentPath === "/en";
 
   // Send info to clarity
   if (typeof window !== "undefined" && window.clarity) {
@@ -59,4 +57,3 @@ export default function ServerError(): React.ReactElement {
     </Layout>
   );
 }
-

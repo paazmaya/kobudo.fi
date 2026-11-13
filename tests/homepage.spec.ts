@@ -16,12 +16,12 @@ const homepageSnapshot = `- main:
   - article:
     - link:
       - img
-      - heading "Tyylit ja Koulukunnat" [level=2]
+      - heading "Tyylit ja koulukunnat" [level=2]
       - paragraph
   - article:
     - link:
       - img
-      - heading "Perinteiset Aseet" [level=2]
+      - heading "Perinteiset aseet" [level=2]
       - paragraph
   - article:
     - link:

@@ -6,11 +6,12 @@ description: "Tietoja tästä sivustosta: sen tarkoitus, laajuus, tekijät ja mi
 social_image: "/img/social/banner-about-desk-1200x630.jpg"
 ---
 
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-
 export const BuildDate = () => {
-  const { siteConfig } = useDocusaurusContext();
-  return siteConfig.customFields.buildDate;
+  return new Date().toLocaleDateString("fi-FI", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
 };
 
 # Tietoja tästä sivustosta

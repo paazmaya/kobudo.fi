@@ -25,4 +25,3 @@ test.describe("500 page", () => {
     await expect(main.getByRole("link", { name: "Homepage" })).toHaveAttribute("href", "/en/");
   });
 });
-
