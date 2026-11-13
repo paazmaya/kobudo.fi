@@ -286,6 +286,7 @@ A wide cartoon illustration of a traditional Ryukyu library filled with shelves,
 
 ## Server Error
 
+**URL:** `/500`  
 **Image:** `banner-500-repair.png`
 
 A wide cartoon illustration of a temporary mishap in a traditional Okinawan dojo. At the centre an experienced Okinawan craftswoman kneels beside a fallen wooden weapons rack, calmly and carefully repairing a broken joint with a wooden mallet and a fresh peg. Her expression is serious and focused; a long bō and paired wooden tonfa lie safely on folded cloth beside her. The worn timber floor holds a small toolbox, wood shavings, spare pegs and a ceramic cup. Behind her, a diverse group of students from Okinawa and nearby islands help restore order: one steadies the rack while another gathers scattered towels. Farther back, a third student reaches for a runaway spool of cord as a curious cat watches it roll past. Coral-stone walls, a crimson plaster doorway, timber beams and warm amber lantern light frame the scene. Clean expressive outlines, richly detailed wood and fabric, saturated crimson, indigo and gold; the careful repair is the dignified central focus, with gentle comedy confined to the background.

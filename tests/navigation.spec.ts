@@ -32,11 +32,17 @@ test.describe("navigation", () => {
       // Take visual snapshot of the mobile nav (collapsed state)
       await expect(mobileNav).toHaveScreenshot("visual/mobile-nav.png");
 
-      // Verify mobile nav contains expected elements
-      await expect(mobileNav.locator("button").first()).toBeVisible();
+      // Verify mobile nav contains Taira as current page
+      const tairaLink = mobileNav.locator("[aria-current='page']");
+      await expect(tairaLink).toBeVisible();
+      await expect(tairaLink).toContainText("Taira Shinken");
+
+      // Because we are at a sub page, the nav is also in sub nav
+      const backButton = page.getByRole("button", { name: /Takaisin päävalikkoon/ });
+      await backButton.click();
 
       // Click to expand the language selector
-      const langButton = page.getByRole("button", { name: "Laajenna pudotusvalikko" });
+      const langButton = page.getByRole("button", { name: "Kielet" });
       await langButton.click();
 
       // Expect to see both English andSuomi options in the mobile menu

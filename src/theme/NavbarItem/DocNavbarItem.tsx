@@ -40,12 +40,8 @@ export default function DocNavbarItem({
 
   const pageActive = activeDoc?.path === doc.path;
 
-  // Path-prefix match: active when the current URL is the doc's own path or
-  // any path nested beneath it.
-  //  /historia/       matches /historia/taira-shinken  ✓
-  //  /tutkimus        matches /tutkimus only            ✓ (won't match /tutkimus-xyz)
-  const basePath = doc.path.endsWith("/") ? doc.path : doc.path + "/";
-  const prefixActive = pathname === doc.path || pathname.startsWith(basePath);
+  // Path exact match
+  const prefixActive = pathname === doc.path;
 
   if (doc.unlisted && !pageActive) {
     return null;

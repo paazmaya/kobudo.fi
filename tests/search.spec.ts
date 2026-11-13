@@ -33,10 +33,14 @@ test.describe("search", () => {
   });
 
   test("should open and close search with keyboard shortcuts", async ({ page }) => {
-    await page.goto("/");
+    await page.goto("/", {waitUntil: "networkidle"});
 
     // Open search using Ctrl+K keyboard shortcut
-    await page.keyboard.press("Control+k");
+    //await page.keyboard.press("ControlOrMeta+k", {delay: 100});
+        
+    await page.keyboard.down("Control")
+    await page.keyboard.press("k")
+    await page.keyboard.up("Control")
 
     // Verify search dialog appears
     const searchDialog = page.getByRole("dialog", { name: "Haku" });
