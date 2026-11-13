@@ -3,10 +3,6 @@
     "message": "Ryukyu Kobudo",
     "description": "The title in the navbar"
   },
-  "logo.alt": {
-    "message": "Ryukyu Kobudo",
-    "description": "The alt text of navbar logo"
-  },
   "item.label.Historia": {
     "message": "History",
     "description": "Navbar item with label Historia"
@@ -30,41 +26,5 @@
   "item.label.Tietoja": {
     "message": "About",
     "description": "Navbar item with label Tietoja"
-  },
-  "item.label.Kaikki aseet": {
-    "message": "All weapons",
-    "description": "Navbar item with label Kaikki aseet"
-  },
-  "item.label.Bō (棒)": {
-    "message": "Bō (棒)",
-    "description": "Navbar item with label Bō (棒)"
-  },
-  "item.label.Sai": {
-    "message": "Sai",
-    "description": "Navbar item with label Sai"
-  },
-  "item.label.Tonfa": {
-    "message": "Tonfa",
-    "description": "Navbar item with label Tonfa"
-  },
-  "item.label.Nunchaku": {
-    "message": "Nunchaku",
-    "description": "Navbar item with label Nunchaku"
-  },
-  "item.label.Kama (鎌)": {
-    "message": "Kama (鎌)",
-    "description": "Navbar item with label Kama (鎌)"
-  },
-  "item.label.Tekko": {
-    "message": "Tekko",
-    "description": "Navbar item with label Tekko"
-  },
-  "item.label.Tinbē-Rochin": {
-    "message": "Tinbē-Rochin",
-    "description": "Navbar item with label Tinbē-Rochin"
-  },
-  "item.label.Surujin": {
-    "message": "Surujin",
-    "description": "Navbar item with label Surujin"
   }
 }

@@ -1,6 +1,6 @@
 {
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "\u2190 Takaisin p\u00e4\u00e4valikkoon",
+    "message": "← Takaisin päävalikkoon",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.colorToggle.ariaLabel": {
@@ -20,11 +20,11 @@
     "description": "The name for the system color mode"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Pienenn\u00e4 sivupalkki",
+    "message": "Pienennä sivupalkki",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Pienenn\u00e4 sivupalkki",
+    "message": "Pienennä sivupalkki",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
@@ -42,18 +42,6 @@
   "theme.docs.paginator.next": {
     "message": "Seuraava sivu",
     "description": "The label used to navigate to the next doc"
-  },
-  "theme.notFound.title": {
-    "message": "Sivua ei l\u00f6ydy",
-    "description": "The title of the 404 page"
-  },
-  "theme.notFound.p1": {
-    "message": "Etsim\u00e4\u00e4si sivua ei l\u00f6ydy.",
-    "description": "The first paragraph of the 404 page"
-  },
-  "theme.notFound.p2": {
-    "message": "Ota yhteytt\u00e4 sivun omistajaan, joka linkitti sinut t\u00e4h\u00e4n osoitteeseen.",
-    "description": "The second paragraph of the 404 page"
   },
   "theme.admonition.note": {
     "message": "Huomio",
@@ -88,15 +76,15 @@
     "description": "The ARIA label to expand the sidebar category"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Pienenn\u00e4 sivupalkin kategoria '{label}'",
+    "message": "Pienennä sivupalkin kategoria '{label}'",
     "description": "The ARIA label to collapse the sidebar category"
   },
   "theme.IconExternalLink.ariaLabel": {
-    "message": "(avautuu uudessa v\u00e4lilehdess\u00e4)",
+    "message": "(avautuu uudessa välilehdessä)",
     "description": "The ARIA label for the external link icon"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "P\u00e4\u00e4valikko",
+    "message": "Päävalikko",
     "description": "The ARIA label for the main navigation"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
@@ -112,23 +100,23 @@
     "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Pienenn\u00e4 pudotusvalikko",
+    "message": "Pienennä pudotusvalikko",
     "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
   },
   "theme.NotFound.title": {
-    "message": "Sivua ei l\u00f6ydy",
+    "message": "Sivua ei löydy",
     "description": "The title of the 404 page"
   },
   "theme.NotFound.p1": {
-    "message": "Etsim\u00e4\u00e4si sivua ei l\u00f6ydy.",
+    "message": "Etsimääsi sivua ei löydy.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Ota yhteytt\u00e4 sivun omistajaan, joka linkitti sinut t\u00e4h\u00e4n osoitteeseen.",
+    "message": "Ota yhteyttä sivun omistajaan, joka linkitti sinut tähän osoitteeseen.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "T\u00e4ll\u00e4 sivulla",
+    "message": "Tällä sivulla",
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.TOCCollapsible.navAriaLabel": {
@@ -172,7 +160,7 @@
     "description": "The copied button label on code blocks"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Kopioi koodi leikep\u00f6yd\u00e4lle",
+    "message": "Kopioi koodi leikepöydälle",
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.wordWrapToggle": {
@@ -180,7 +168,7 @@
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.common.skipToMainContent": {
-    "message": "Siirry p\u00e4\u00e4sis\u00e4lt\u00f6\u00f6n",
+    "message": "Siirry pääsisältöön",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.common.headingLinkTitle": {
@@ -217,7 +205,7 @@
     "message": "Näytä kaikki rajauksen \"{context}\" tulokset"
   },
   "theme.SearchBar.seeAll": {
-    "message": "N\u00e4yt\u00e4 kaikki tulokset"
+    "message": "Näytä kaikki tulokset"
   },
   "theme.SearchPage.existingResultsTitle": {
     "message": "Hakutulokset haulle \"{query}\"",
@@ -231,8 +219,8 @@
     "message": "Kaikkialta"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "1 dokumentti l\u00f6ydetty|{count} dokumenttia l\u00f6ydetty",
-    "description": "Pluralized label for \"{count} documents found\"."
+    "message": "1 dokumentti löydetty|{count} dokumenttia löydetty",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.SearchPage.noResultsText": {
     "message": "Ei hakutuloksia",
@@ -255,7 +243,7 @@
     "description": "Accessible label for close buttons"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Yrit\u00e4 uudelleen",
+    "message": "Yritä uudelleen",
     "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
   "theme.contentVisibility.unlistedBanner.title": {
@@ -263,7 +251,7 @@
     "description": "The unlisted content banner title"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "T\u00e4m\u00e4 sivu on listaamaton. Hakukoneet eiv\u00e4t indeksoi sit\u00e4.",
+    "message": "Tämä sivu on listaamaton. Hakukoneet eivät indeksoi sitä.",
     "description": "The unlisted content banner message"
   },
   "theme.contentVisibility.draftBanner.title": {
@@ -271,7 +259,130 @@
     "description": "The draft content banner title"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "T\u00e4m\u00e4 sivu on luonnos. Se n\u00e4kyy vain kehitysymp\u00e4rist\u00f6ss\u00e4.",
+    "message": "Tämä sivu on luonnos. Se näkyy vain kehitysympäristössä.",
     "description": "The draft content banner message"
+  },
+  "theme.blog.archive.title": {
+    "message": "Archive",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Archive",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Blog list page navigation",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Newer entries",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Older entries",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Blog post page navigation",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Newer post",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Older post",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "View all tags",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "One doc tagged|{count} docs tagged",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} with \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Version: {versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "latest version",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "Edit this page",
+    "description": "The link label to edit the current page"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " on {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " by {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Last updated{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Blog recent posts navigation",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Read more",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "Read more about {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "One min read|{readingTime} min read",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.post.plurals": {
+    "message": "One post|{count} posts",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} tagged with \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.blog.author.pageTitle": {
+    "message": "{authorName} - {nPosts}",
+    "description": "The title of the page for a blog author"
+  },
+  "theme.blog.authorsList.pageTitle": {
+    "message": "Authors",
+    "description": "The title of the authors page"
+  },
+  "theme.blog.authorsList.viewAll": {
+    "message": "View all authors",
+    "description": "The label of the link targeting the blog authors page"
+  },
+  "theme.blog.author.noPosts": {
+    "message": "This author has not written any posts yet.",
+    "description": "The text for authors with 0 blog post"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "1 item|{count} items",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
   }
 }

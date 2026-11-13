@@ -3,20 +3,20 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.docsSidebar.category.History": {
-    "message": "Historia",
-    "description": "The label for category 'History' in sidebar 'docsSidebar'"
-  },
-  "sidebar.docsSidebar.category.Styles & Lineages": {
-    "message": "Tyylit & sukulinjat",
-    "description": "The label for category 'Styles & Lineages' in sidebar 'docsSidebar'"
-  },
-  "sidebar.docsSidebar.category.Traditional Weapons": {
-    "message": "Perinteiset aseet",
-    "description": "The label for category 'Traditional Weapons' in sidebar 'docsSidebar'"
-  },
   "sidebar.docsSidebar.category.Kata": {
     "message": "Kata",
     "description": "The label for category 'Kata' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Historia": {
+    "message": "Historia",
+    "description": "The label for category 'Historia' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Tyylit ja Koulukunnat": {
+    "message": "Tyylit ja Koulukunnat",
+    "description": "The label for category 'Tyylit ja Koulukunnat' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Perinteiset Aseet": {
+    "message": "Perinteiset Aseet",
+    "description": "The label for category 'Perinteiset Aseet' in sidebar 'docsSidebar'"
   }
 }

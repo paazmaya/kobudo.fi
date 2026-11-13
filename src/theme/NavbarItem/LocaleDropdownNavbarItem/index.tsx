@@ -5,6 +5,7 @@ import { translate } from "@docusaurus/Translate";
 import { mergeSearchStrings, useHistorySelector } from "@docusaurus/theme-common";
 import DropdownNavbarItem from "@theme/NavbarItem/DropdownNavbarItem";
 import IconLanguage from "@theme/Icon/Language";
+import type { LinkLikeNavbarItemProps } from "@theme/NavbarItem";
 import styles from "./styles.module.css";
 import { FI_TO_EN, EN_TO_FI } from "../../../utils/localePaths";
 
@@ -84,8 +85,8 @@ function useLocaleDropdownUtils() {
 
 type Props = {
   mobile?: boolean;
-  dropdownItemsBefore?: unknown[];
-  dropdownItemsAfter?: unknown[];
+  dropdownItemsBefore?: readonly LinkLikeNavbarItemProps[];
+  dropdownItemsAfter?: readonly LinkLikeNavbarItemProps[];
   queryString?: string;
   [key: string]: unknown;
 };
@@ -102,7 +103,7 @@ export default function LocaleDropdownNavbarItem({
     i18n: { currentLocale, locales },
   } = useDocusaurusContext();
 
-  const localeItems = locales.map((locale) => ({
+  const localeItems = locales.map((locale): LinkLikeNavbarItemProps => ({
     label: utils.getLabel(locale),
     lang: utils.getLang(locale),
     to: utils.getURL(locale, { queryString }),

@@ -39,18 +39,6 @@
     "message": "Next",
     "description": "The label used to navigate to the next doc"
   },
-  "theme.notFound.title": {
-    "message": "Page Not Found",
-    "description": "The title of the 404 page"
-  },
-  "theme.notFound.p1": {
-    "message": "We could not find what you were looking for.",
-    "description": "The first paragraph of the 404 page"
-  },
-  "theme.notFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
-    "description": "The second paragraph of the 404 page"
-  },
   "theme.admonition.note": {
     "message": "Note",
     "description": "The default label used for the Note admonition (:::note)"
